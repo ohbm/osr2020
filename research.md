@@ -12,11 +12,45 @@ My scientific interest stretches beyond these topics and somewhat more broadly i
 
 Whenever possible, I try to embed the concepts of collaboration, team science, community-centered project work, and openness into my work. 
 
-I have generated some scientific output related to my research interests. Below, I'll try to list most of the relevant ones with links for you to access related content. These outputs often relate to specific [projects](projects.md) or [software](software.md) tools, for which Ì provide more information on the respective site pages.  
+I have generated, and have collaborated on, some scientific output related to my research interests. Below, I'll try to list most of the relevant ones with links for you to access related content. These outputs often relate to specific [projects](projects.md) or [software](software.md) tools, for which I provide more information on the respective site pages.  
 
 ## Articles
 
+Tomas Ros, Stefanie Enriquez-Geppert, Vadim Zotev, Kymberly Young, Guilherme Wood, Susan Whitfield-Gabrieli, Patrik Vuilleumier,Feng Wan, François Vialatte,  Dimitri Van De Ville, Doron Todder, Tanju Surmeli, James Sulzer, Ute Strehl, Barry Sterman, Naomi Steiner, Bettina Sorger, Surjo Soekadar,  Ranganatha  Sitaram,  Leslie  Sherlin,  Michael  Schönenberg,  Frank  Scharnowski,  Manuel Schabus,  Katya  Rubia,  Agostinho  Rosa,  Miriam  Reiners,  Jaime  Pineda,  Christian  Paret,  Alexei Ossadtchi,Andrew Nicholson, Wenya Nan, Javier Minguez, Jean-Arthur Micoulaud-Franchi, David M. A. Mehler, Michael Lührs, Joel Lubar, Fabien Lotte, David E. J. Linden, Jarrod Lewis-Peacock, Mikhail  Lebedev,  Ruth  Lanius,  Andrea  Kübler,Cornelia  Kranczioch,  Yury  Koush,  Lilian  Konicar, Simon H. Kohl, Silivia E. Kober, Manousos Klados, Camille Jeunet, Tieme Janssen, Rene J. Huster, Kerstin  Hoedlmoser,  Laurence  Hirshberg,  Stephan  Heunis,  Talma  Hendler,  Michelle  Hampson, Adrian  Guggisberg,  John  Gruzelier,Rainer  Göbel,  Nicolas  Gninenko,  Alireza  Gharabaghi,  Paul Frewen, Thomas Fovet, Thalia Fernandez, Carlos Escolano, Ann-Christine Ehlis, Renate Drechsler, R Christopher deCharms, Stefan Debener, Dirk De Ridder, Eddy Davelaar, Marco Congedo, Marc Cavazza, Rien M. H. M. Breteler, Daniel Brandeis, Jerzy Bodurka, Niels Birbaumer, Olga Bazanova, Robert Bauer, Beatrix Barth, Panagiotis Bamidis, Tibor Auer, Martijn Arns, Robert T. Thibault. 2019. *Consensus on the reporting and experimental design of clinical and cognitive-behavioural neurofeedback studies (CRED-nf checklist).* PsyArXiv Preprints.
+**Links:** [<img src="https://img.shields.io/badge/-Preprint-blue" height="18px">](https://doi.org/10.31234/osf.io/nyx84)
+
+
+Botvinik-Nezer, R., Holzmeister, F., Camerer, C.F., Dreber, A., Huber, J., Johannesson, M., Kirchler, M., Iwanir, R., Mumford, J.A., Adcock, A., Avesani, P., Baczkowski, B., Bajracharya, A., Bakst, L., Ball, S., Barilari, M., Bault, N., Beaton, D., Beitner, J., Benoit, R., Berkers, R., Bhanji, J., Biswal, B., Bobadilla-Suarez, S., Bortolini, T., Bottenhorn, K., Bowring, A., Braem, S., Brooks, H., Brudner, E., Calderon, C., Camilleri, J., Castrellon, J., Cecchetti, L., Cieslik, E., Cole, Z., Collignon, O., Cox, R., Cunningham, W., Czoschke, S., Dadi, K., Davis, C., Luca, A.D., Delgado, M., Demetriou, L., Dennison, J., Di, X., Dickie, E., Dobryakova, E., Donnat, C., Dukart, J., Duncan, N.W., Durnez, J., Eed, A., Eickhoff, S., Erhart, A., Fontanesi, L., Fricke, G.M., Galvan, A., Gau, R., Genon, S., Glatard, T., Glerean, E., Goeman, J., Golowin, S., González-García, C., Gorgolewski, K., Grady, C., Green, M., Moreira, J.G., Guest, O., Hakimi, S., Hamilton, J.P., Hancock, R., Handjaras, G., Harry, B., Hawco, C., Herholz, P., Herman, G., Heunis, S., Hoffstaedter, F., Hogeveen, J., Holmes, S., Hu, C.-P., Huettel, S., Hughes, M., Iacovella, V., Iordan, A., Isager, P., Isik, A.I., Jahn, A., Johnson, M., Johnstone, T., Joseph, M., Juliano, A., Kable, J., Kassinopoulos, M., Koba, C., Kong, X.-Z., Koscik, T., Kucukboyaci, N.E., Kuhl, B., Kupek, S., Laird, A., Lamm, C., Langner, R., Lauharatanahirun, N., Lee, H., Lee, S., Leemans, A., Leo, A., Lesage, E., Li, F., Li, M., Lim, P.C., Lintz, E., Liphardt, S., Vermeer, A.L., Love, B., Mack, M., Malpica, N., Marins, T., Maumet, C., McDonald, K., McGuire, J., Melero, H., Leal, A.M., Meyer, B., Meyer, K., Mihai, P., Mitsis, G., Moll, J., Nielson, D., Nilsonne, G., Notter, M., Olivetti, E., Onicas, A., Papale, P., Patil, K., Peelle, J.E., Pérez, A., Pischedda, D., Poline, J.-B., Prystauka, Y., Ray, S., Reuter-Lorenz, P., Reynolds, R., Ricciardi, E., Rieck, J., Rodriguez-Thompson, A., Romyn, A., Salo, T., Samanez-Larkin, G., Sanz-Morales, E., Schlichting, M., Schultz, D., Shen, Q., Sheridan, M., Shiguang, F., Silvers, J., Skagerlund, K., Smith, A., Smith, D., Sokol-Hessner, P., Steinkamp, S., Tashjian, S., Thirion, B., Thorp, J., Tinghög, G., Tisdall, L., Tompson, S., Toro-Serey, C., Torre, J., Tozzi, L., Truong, V., Turella, L., Veer, A.E. van’t, Verguts, T., Vettel, J., Vijayarajah, S., Vo, K., Wall, M., Weeda, W.D., Weis, S., White, D., Wisniewski, D., Xifra-Porxas, A., Yearling, E., Yoon, S., Yuan, R., Yuen, K., Zhang, L., Zhang, X., Zosky, J., Nichols, T.E., Poldrack, R.A., Schonberg, T., 2019. *Variability in the analysis of a single neuroimaging dataset by many teams.* bioRxiv 843193.
+**Links:** [<img src="https://img.shields.io/badge/-Preprint-blue" height="18px">](https://doi.org/10.1101/843193)
+
+
+Heunis, S., Lamerichs, R., Zinger, S., Aldenkamp, B., Breeuwer, M., 2018. *Quality and denoising in real-time fMRI neurofeedback: a methods review.* Open Science Framework.
+**Links:** [<img src="https://img.shields.io/badge/-Preprint-blue" height="18px">](https://doi.org/10.1016/j.pscychresns.2018.09.008)
+[<img src="https://img.shields.io/badge/-Code-yellow" height="18px" >](https://github.com/jsheunis/quality-and-denoising-in-rtfmri-nf)
+
+
+Heunis, S., Besseling, R., Lamerichs, R., de Louw, A., Breeuwer, M., Aldenkamp, B., Bergmans, J., 2018. *Neu3CA-RT: A framework for real-time fMRI analysis.* Psychiatry Research: Neuroimaging 282, 90–102.
+**Links:** [<img src="https://img.shields.io/badge/-Article-red" height="18px">](https://doi.org/10.1016/j.pscychresns.2018.09.008)
+[<img src="https://img.shields.io/badge/-Code-yellow" height="18px" >](https://github.com/jsheunis/Neu3CA-RT)
+
+
+Besseling, R., Lamerichs, R., Michels, B., Heunis, S., de Louw, A., Tijhuis, A., Bergmans, J., Aldenkamp, B., 2018. *Functional network abnormalities consistent with behavioral profile in Autism Spectrum Disorder.* Psychiatry Research: Neuroimaging 275, 43–48. 
+**Links:** **Links:** [<img src="https://img.shields.io/badge/-Article-red" height="18px">](https://doi.org/10.1016/j.pscychresns.2018.02.006)
+
+
 ## Conference Posters
+
+Heunis, S., Hellrung, L., Meer, V.D., Bergert, S., Sladky, R., Pamplona, G.S.P., Scharnowski, F., Koush, Y., Mehler, D., Falcon, C., Gispert, J.D., Molinuevo, J.L., Skouras, S., 2019. *rtQC: an open-source toolbox for real-time fMRI quality control.*  Poster and software demonstration at the 2019 annual meeting of the Organization of Human Brain Mapping. Rome, Italy.
+**Links:** [<img src="https://img.shields.io/badge/-Poster-orange" height="18px">](https://doi.org/10.5281/zenodo.3239084)
+[<img src="https://img.shields.io/badge/-Code-yellow" height="18px" >](https://github.com/rtQC-group/rtQC)
+
+
+Heunis, J.S., Lamerichs, R., Song, G., Zinger, S., Aldenkamp, B., 2019. *Improving BOLD sensitivity with real-time multi-echo echo-planar imaging - Towards a cleaner neurofeedback signal.* Poster at the 1th annual meeting of the  Benelux Chapter of the International Society for Magnetic Resonance in Medicine. Leiden, The Netherlands.
+**Links:** [<img src="https://img.shields.io/badge/-Poster-orange" height="18px">](https://doi.org/10.5281/zenodo.2553256)
+[<img src="https://img.shields.io/badge/-Code-yellow" height="18px" >](https://github.com/jsheunis/rtme-fMRI-ISMRMb-2019)
+
+Heunis, J.S., Besseling, R., Lamerichs, R., De Louw, A., Aldenkamp, B., Bergmans, J., 2018. *Dynamic T2star and S0 mapping towards real-time multi-echo fMRI denoising.* Poster at the 10th annual meeting of the Benelux Chapter of the International Society for Magnetic Resonance in Medicine. Antwerpen, Belgium.
+
 
 ## Talks / Lectures
 
