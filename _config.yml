@@ -20,11 +20,11 @@ description: Stephan Heunis
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  Research: "research"
   Projects: "projects"
   Software: "software"
-  Research: "research"
   CV: "cv"
+  About Me: "aboutme"
 
 
 # Image to show in the navigation bar - image must be a square (width = height)
