@@ -1,10 +1,60 @@
 ---
 layout: page
-title: My website
-subtitle: This is where I will tell my friends way too much about me
+title: Stephan Heunis
+subtitle: Brains, software, data, methods, scientific practice
 use-site-title: true
 ---
 
+<!-- <nodes.js embedding> -->
+<!--<script type="text/javascript" src="js/nodes.js"></script>-->
+<!--<script type="text/javascript">-->
+<!--    var nodesjs = new NodesJs({-->
+<!--        id: 'nodes',-->
+<!--        width: window.innerWidth,-->
+<!--        height: window.innerHeight,-->
+<!--        particleSize: 2,-->
+<!--        lineSize: 1,-->
+<!--        particleColor: [255, 255, 255, 0.3],-->
+<!--        lineColor: [255, 255, 255],-->
+<!--        backgroundFrom: [10, 25, 100],-->
+<!--        backgroundTo: [25, 50, 150],-->
+<!--        backgroundDuration: 4000,-->
+<!--        nobg: false,-->
+<!--        number: window.hasOwnProperty('orientation') ? 30: 100,-->
+<!--        speed: 20,-->
+<!--        pointerCircleRadius: 150-->
+<!--    });-->
+<!--</script>-->
+<!--<canvas id="nodes"></canvas>-->
+<!-- </nodes.js embedding> -->
+
+<!-- Typed.js -->
+<script src="/js/jquery-1.11.2.min.js"></script> <!-- Typed.js uses old jquery ver -->
+<script src="/js/typed.js" type="text/javascript"></script>
+<script>
+  $(function(){
+    $(".typed").typed({
+      strings: ["Brains.","Functional MRI.","Code.","Data.","Transparency in science.","Phd life.","Python."],
+      typeSpeed: 100,
+      loop: true,
+      backDelay: 1000
+    });
+  });
+</script>
+
+<div class="mobile-js-hide">
+  <div class="row">
+    <div class="col-sm-12">
+      <div class="text-center">
+          <h1>I write about <span class="typed" style="color:#890000"; ></span></h1>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<!-- Original content -->
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
