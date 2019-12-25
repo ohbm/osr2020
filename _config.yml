@@ -4,7 +4,7 @@
 title: fMRwhy
 
 # Short description of your site
-description: Information about my research, software, brains and other interests
+description: Stephan Heunis
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -23,6 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Projects: "projects"
   Software: "software"
+  Research: "research"
   CV: "cv"
 
 
