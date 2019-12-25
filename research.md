@@ -25,7 +25,7 @@ Botvinik-Nezer, R., Holzmeister, F., Camerer, C.F., Dreber, A., Huber, J., Johan
 
 
 Heunis, S., Lamerichs, R., Zinger, S., Aldenkamp, B., Breeuwer, M., 2018. *Quality and denoising in real-time fMRI neurofeedback: a methods review.* Open Science Framework.
-**Links:** [<img src="https://img.shields.io/badge/-Preprint-blue" height="18px">](https://doi.org/10.1016/j.pscychresns.2018.09.008)
+**Links:** [<img src="https://img.shields.io/badge/-Preprint-blue" height="18px">](https://doi.org/10.31219/osf.io/xubhq)
 [<img src="https://img.shields.io/badge/-Code-yellow" height="18px" >](https://github.com/jsheunis/quality-and-denoising-in-rtfmri-nf)
 [<img src="https://img.shields.io/badge/-Twitter%20thread-00acee" height="18px" >](https://twitter.com/fmrwhy/status/1121074132681142272?s=20)
 
