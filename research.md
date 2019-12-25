@@ -27,6 +27,7 @@ Botvinik-Nezer, R., Holzmeister, F., Camerer, C.F., Dreber, A., Huber, J., Johan
 Heunis, S., Lamerichs, R., Zinger, S., Aldenkamp, B., Breeuwer, M., 2018. *Quality and denoising in real-time fMRI neurofeedback: a methods review.* Open Science Framework.
 **Links:** [<img src="https://img.shields.io/badge/-Preprint-blue" height="18px">](https://doi.org/10.1016/j.pscychresns.2018.09.008)
 [<img src="https://img.shields.io/badge/-Code-yellow" height="18px" >](https://github.com/jsheunis/quality-and-denoising-in-rtfmri-nf)
+[<img src="https://img.shields.io/badge/-Twitter%20thread-00acee" height="18px" >](https://twitter.com/fmrwhy/status/1121074132681142272?s=20)
 
 
 Heunis, S., Besseling, R., Lamerichs, R., de Louw, A., Breeuwer, M., Aldenkamp, B., Bergmans, J., 2018. *Neu3CA-RT: A framework for real-time fMRI analysis.* Psychiatry Research: Neuroimaging 282, 90–102.
@@ -35,7 +36,7 @@ Heunis, S., Besseling, R., Lamerichs, R., de Louw, A., Breeuwer, M., Aldenkamp, 
 
 
 Besseling, R., Lamerichs, R., Michels, B., Heunis, S., de Louw, A., Tijhuis, A., Bergmans, J., Aldenkamp, B., 2018. *Functional network abnormalities consistent with behavioral profile in Autism Spectrum Disorder.* Psychiatry Research: Neuroimaging 275, 43–48. 
-**Links:** **Links:** [<img src="https://img.shields.io/badge/-Article-red" height="18px">](https://doi.org/10.1016/j.pscychresns.2018.02.006)
+**Links:** [<img src="https://img.shields.io/badge/-Article-red" height="18px">](https://doi.org/10.1016/j.pscychresns.2018.02.006)
 
 
 ## Conference Posters
@@ -56,6 +57,7 @@ Heunis, J.S., Besseling, R., Lamerichs, R., De Louw, A., Aldenkamp, B., Bergmans
 
 Heunis, J.S. 2019. *Real-time (fMRI) quality control.* Invited lecture at the 2019 international real-time functional imaging and neurofeedback conference: [rtFIN2019](https://www.rtfin2019.org/107020). Aachen, Germany.
 **Links:** [<img src="https://img.shields.io/badge/-Slides-brightgreen" height="18px" >](https://docs.google.com/presentation/d/1Vy8JhpivHKf9vzc5j_aW1sqCo5MH5ya6eEwuLX2Qg-4/edit#slide=id.g6bf6431053_0_10)
+[<img src="https://img.shields.io/badge/-Twitter%20thread-00acee" height="18px" >](https://twitter.com/fmrwhy/status/1204002413587390470?s=20)
 
 
 Heunis, J.S. 2019. *Building Open Science Communities.* Invited talk at the 2019 Eurotech Summer School: [Open Science in Practice](http://osip2019.epfl.ch/). EPFL, Lausanne, Switzerland.
@@ -87,3 +89,5 @@ Heunis, J.S., Besseling, R., Lamerichs, R., De Louw, A., Aldenkamp, B., Bergmans
 [<img src="https://img.shields.io/badge/-Video-blueviolet" height="18px" >]()
 [<img src="https://img.shields.io/badge/-PDF-grey" height="18px" >]()
 [<img src="https://img.shields.io/badge/-Code-yellow" height="18px" >]()
+[<img src="https://img.shields.io/badge/-Twitter%20thread-00acee" height="18px" >]()
+
