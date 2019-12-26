@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-My current Phd research focuses on two loosely defined topics within the broad field of functional magnetic resonance imaging (fMRI) analysis:
+My current Phd research focuses on two topics within the broad field of functional magnetic resonance imaging (fMRI) analysis:
 
 1. Developing new signal processing methods the improve the quality of real-time functional MRI signals, for use in clinical applications like neurofeedback
 2. Developing software tools and processes that assist fMRI researchers in implementing best practices for data quality control and methods reporting
@@ -12,7 +12,19 @@ My scientific interest stretches beyond these topics and somewhat more broadly i
 
 Whenever possible, I try to embed the concepts of collaboration, team science, community-centered project work, and openness into my work. 
 
-I have generated, and have collaborated on, some scientific output related to my research interests. Below, I'll try to list most of the relevant ones with links for you to access related content. These outputs often relate to specific [projects](projects.md) or [software](software.md) tools, for which I provide more information on the respective site pages.  
+I have collaborated on and generated some scientific output related to my research interests. Below, I'll try to list most of the currently relevant ones with links to related content. These outputs often relate to specific [projects](projects.md) or [software](software.md) tools, for which I provide more information on the respective site pages.  
+
+##### Link types
+
+[<img src="https://img.shields.io/badge/-Article-red" height="18px" >]()
+[<img src="https://img.shields.io/badge/-Preprint-blue" height="18px">]()
+[<img src="https://img.shields.io/badge/-Slides-brightgreen" height="18px">]()
+[<img src="https://img.shields.io/badge/-Poster-orange" height="18px">]()
+[<img src="https://img.shields.io/badge/-Video-blueviolet" height="18px" >]()
+[<img src="https://img.shields.io/badge/-PDF-grey" height="18px" >]()
+[<img src="https://img.shields.io/badge/-Code-yellow" height="18px" >]()
+[<img src="https://img.shields.io/badge/-Twitter%20thread-00acee" height="18px" >]()
+
 
 ## Articles
 
@@ -90,13 +102,3 @@ Heunis, J.S. 2018. *Real-time fMRI neurofeedback - from technology to applicatio
 **Links:** [<img src="https://img.shields.io/badge/-Slides-brightgreen" height="18px">](https://osf.io/rn43c/)
 
 Heunis, J.S., Besseling, R., Lamerichs, R., De Louw, A., Aldenkamp, B., Bergmans, J., 2018. *Dynamic T2star and S0 mapping towards real-time multi-echo fMRI denoising.* Oral presentation at the 10th annual meeting of the [Benelux Chapter of the International Society for Magnetic Resonance in Medicine](https://www.ismrm-benelux.org/). Antwerpen, Belgium.
-
-
-[<img src="https://img.shields.io/badge/-Article-red" height="18px" >]()
-[<img src="https://img.shields.io/badge/-Preprint-blue" height="18px">]()
-[<img src="https://img.shields.io/badge/-Slides-brightgreen" height="18px">]()
-[<img src="https://img.shields.io/badge/-Poster-orange" height="18px">]()
-[<img src="https://img.shields.io/badge/-Video-blueviolet" height="18px" >]()
-[<img src="https://img.shields.io/badge/-PDF-grey" height="18px" >]()
-[<img src="https://img.shields.io/badge/-Code-yellow" height="18px" >]()
-[<img src="https://img.shields.io/badge/-Twitter%20thread-00acee" height="18px" >]()
