@@ -91,3 +91,19 @@ Heunis, J.S., Besseling, R., Lamerichs, R., De Louw, A., Aldenkamp, B., Bergmans
 [<img src="https://img.shields.io/badge/-Code-yellow" height="18px" >]()
 [<img src="https://img.shields.io/badge/-Twitter%20thread-00acee" height="18px" >]()
 
+
+
+
+# A collapsible section with markdown
+
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+
+
