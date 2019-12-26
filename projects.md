@@ -5,7 +5,7 @@ project-list:
   - name: rtQC
     desc: Real-time fMRI quality control
     github: https://github.com/rtQC-group/rtQC
-    url: #rtqc
+    url: https://jsheunis.github.io/projects/#rtqc
     img: /img/rtqc.png
   - name: rtqc2
     desc: Real-time fMRI quality control
