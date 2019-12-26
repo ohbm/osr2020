@@ -27,14 +27,14 @@ project-list:
 
 {% include list-circles.html items=page.project-list %}
 
-<a id='rtqc'></a>
+<div id='rtqc'></div>
 ## rtQC: Real-time Quality Control
 <br><br><br>
-<a id='rtqc2'></a>
+<div id='rtqc2'></div>
 ## rtQC: Real-time Quality Control
 <br><br><br>
-<a id='rtqc3'></a>
+<div id='rtqc3'></div>
 ## rtQC: Real-time Quality Control
 <br><br><br>
-<a id='rtqc4'></a>
+<div id='rtqc4'></div>
 ## rtQC: Real-time Quality Control 
