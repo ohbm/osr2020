@@ -2,14 +2,10 @@
 layout: page
 title: Projects
 project-list:
-  - name: rtQC
-    desc: Real-time fMRI quality control tools and processes
-    url: https://jsheunis.github.io/projects/#rtqc
+  - name: rtfMRI
+    desc: Real-time fMRI analysis, quality control and visualisation
+    url: https://jsheunis.github.io/projects/#rtfmri
     img: /img/rtqc.png
-  - name: rtME
-    desc: Methods and software tools for real-time multi-echo fMRI analysis
-    url: https://jsheunis.github.io/projects/#rtme
-    img: /img/rtme.png
   - name: OpenMR Benelux
     desc: Open science and community building in MRI research
     url: https://jsheunis.github.io/projects/#openmrb
@@ -25,14 +21,9 @@ I currently work on multiple projects, some directly related to my Phd, others m
 
 {% include list-circles.html items=page.project-list %}
 
-<div id='rtqc'></div>
+<div id='rtfmri'></div>
 <br>
-## Real-time fMRI quality control
-
-<br><br>
-<div id='rtme'></div>
-<br>
-## Real-time multi-echo fMRI analysis
+## Real-time fMRI analysis, quality control and visualisation
 
 <br><br>
 <div id='openmrb'></div>
