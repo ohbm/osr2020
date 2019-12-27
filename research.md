@@ -3,6 +3,12 @@ layout: page
 title: Research
 ---
 
+<div align="center">
+<a href="https://osf.io/mj3yt/" target="_blank"><img src="/img/osf.png" alt="OSF" height="30"></a> &nbsp;&nbsp;<a href="http://orcid.org/0000-0003-3503-9872" target="_blank"><img src="/img/orcid.png" alt="ORCID" height="30"></a> &nbsp;&nbsp; <a href="https://scholar.google.com/citations?user=4smzqdQAAAAJ&hl=en" target="_blank"><img src="/img/gscholar.jpg" alt="Google Scholar" height="30"></a>
+</div>
+
+---
+
 My current Phd research focuses on two topics within the broad field of functional magnetic resonance imaging (fMRI) analysis:
 
 1. Developing new signal processing methods the improve the quality of real-time functional MRI signals, for use in clinical applications like neurofeedback

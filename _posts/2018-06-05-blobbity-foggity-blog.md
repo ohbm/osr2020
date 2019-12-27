@@ -1,4 +1,10 @@
-# Blobbity foggity blog
+---
+layout: post
+title: Blobbity Foggity Blog
+tags: [open science, first blog]
+comments: true
+---
+
 
 *Update 2019-12-27: Reading this again after over a year, I realise that I would now state many of these things very differently, with more nuance and less... well, naivety. I'm hoping this is a sign of progress.*
 
