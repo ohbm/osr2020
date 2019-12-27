@@ -11,7 +11,7 @@ I am a South African in The Netherlands. I have a partner and two kids who are o
 I worked two industry jobs for about 4 years after completing an M.Sc. in Mechatronic Engineering. Then I started my current job. 
 
 #### Open sciency stuff
-I have found that programming, creating useful software tools, creating educational content, and writing and speaking with others about all of this are activities that temporarily make me forget about the futility of existence. So I'm trying to do more of that. I especially like doing that in the broad context of transparency and reproducibility in science.
+I have found that programming, creating useful software tools, creating educational content, and writing and speaking with others about all of this are activities that help me forget about the futility of existence. So I'm trying to do more of that. I especially like doing that in the broad context of transparency and reproducibility in science.
 
 I am involved in several "open science" themed initiatives, which means I like spending time on improving transparency and reproducibility in science and research. Initiatives include: [OpenMR Benelux](https://openmrbenelux.github.io/), [OHBM Open Science SIG](https://ossig.netlify.com/), [Open Science Community Eindhoven](https://osceindhoven.github.io/). 
 
