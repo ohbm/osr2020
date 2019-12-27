@@ -5,6 +5,7 @@ title: CV
 
 - [Skill summary](#summary)
 - [Full CV](#cv)
+
 ---
 
 <div id='summary'></div>

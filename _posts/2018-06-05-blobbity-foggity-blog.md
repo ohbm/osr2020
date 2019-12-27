@@ -3,6 +3,9 @@ layout: post
 title: Blobbity Foggity Blog
 tags: [open science, first blog]
 comments: true
+social-links: true
+image: "../blog/assets/usebrainsstudybrains.jpg"
+show-avatar: true
 ---
 
 

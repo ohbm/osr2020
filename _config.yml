@@ -24,6 +24,8 @@ navbar-links:
   Projects: "projects"
   Software: "software"
   Blog: "blog"
+    - Posts: "blog"
+    - Tags: "tags"
   CV: "cv"
   About: "aboutme"
 
