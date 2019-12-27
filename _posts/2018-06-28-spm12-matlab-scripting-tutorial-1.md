@@ -5,15 +5,14 @@ subtitle: Introduction to Matlab and SPM12
 tags: [Matlab, SPM12, scripting, tutorial]
 comments: true
 social-links: true
-image: "../blog/assets/post1_avatar.jpg"
+image: "../blog/assets/post1_avatar.png"
 show-avatar: true
 ---
 
-Post 1 – Introduction to Matlab and SPM12
-Post 1: Intro to Matlab and SPM scripting
-Post 2: Basic Matlab and SPM12 commands
-Post 3: An fMRI analysis pipeline
-Post 4: Further resources
+- [Post 1: Intro to Matlab and SPM scripting]()
+- [Post 2: Basic Matlab and SPM12 commands]()
+- [Post 3: An fMRI analysis pipeline]()
+- [Post 4: Further resources]()
 
 ---
 
