@@ -3,11 +3,37 @@ layout: page
 title: About me
 ---
 
-I'm Stephan, an engineer, aspiring software developer, and interested in understanding the human brain slightly more than we currently do. I am a South African in The Netherlands. I have a partner and two kids who are objectively the best three persons in the world (no bias here).  
+###### Me
+I'm Stephan, an engineer, aspiring software developer, and interested in understanding the human brain slightly more than we currently do, and doing good work along the way. I work as a Phd candidate in the Electrical Engineering department of the Eindhoven University of Technology. My main research focus is to develop new signal processing methods, software tools and processes to improve the quality of real-time functional magnetic resonance imaging for clinical use.   
 
-I worked two industry jobs for about 4 years after completing an M.Sc. in Mechatronic Engineering. After that I started my current job as a Phd candidate in the Electrical Engineering department of the Eindhoven University of Technology. My main research focus is to develop new signal processing methods, software tools and processes to improve the quality of real-time functional magnetic resonance imaging.
+###### Background
 
-I have found that coding, creating useful software tools, creating educational content, and writing and speaking with others about all of this are activities that temporarily make me forget about the futility of it all. So I'm trying to do more of that. I especially like doing that in the broad context of transparency and reproducibility in science.
+I am a South African in The Netherlands. I have a partner and two kids who are objectively the best three persons in the world (no bias here). 
+I worked two industry jobs for about 4 years after completing an M.Sc. in Mechatronic Engineering. Then I started my current job. 
+
+###### Open sciency stuff
+I have found that programming, creating useful software tools, creating educational content, and writing and speaking with others about all of this are activities that temporarily make me forget about the futility of existence. So I'm trying to do more of that. I especially like doing that in the broad context of transparency and reproducibility in science.
+
+I am involved in several "open science" themed initiatives, including OpenMR Benelux.
+
+###### Likes/dislikes
+
+I like:
+- Learning and reading
+- Creating things (with code, with my hands, with words)
+- Motivating people to organise around meaningful activities
+- Underdogs
+- Snowboarding
+
+I dislike:
+- Hierarchies
+- Prestige
+- Exclusivity
+- Being told what to do
+
+
+
+ 
 
   
 
