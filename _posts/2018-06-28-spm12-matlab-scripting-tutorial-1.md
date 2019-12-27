@@ -60,9 +60,8 @@ By selecting a processing step (e.g. Realign – Estimate and Reslice), the GUI 
 The GUI is the easiest, but it also hides the steps involved in the pipeline being executed. E.g “SPM Realign: Estimate and reslice” is easy enough to run with the GUI, you just need to enter some details and click some buttons. But what the GUI doesn’t tell you is this might trigger the batch process to call several SPM functions within a pre-specified configuration. However, this is the safest option because you just trust that the SPM developers knew what they were doing, meaning that you don’t have to interfere with the process.
 
 #### 2. Calling the function via Matlab command window:
-The SPM12 folder contains all functions used by the toolbox. Some are pre-compiled, but most of them allow you to dig into the code to see how to use it or adapt it. A simple way to figure out function usage is to look at the help documentation specific to the function, for example typing the following in the Matlab command window gives you more information on spm_realign`:
+The SPM12 folder contains all functions used by the toolbox. Some are pre-compiled, but most of them allow you to dig into the code to see how to use it or adapt it. A simple way to figure out function usage is to look at the help documentation specific to the function, for example typing the following in the Matlab command window gives you more information on `spm_realign`:
 
-1
 ```matlab
 help spm_realign
 ```

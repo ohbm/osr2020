@@ -37,8 +37,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-06-28-spm12-matlab-scripting-tutorial-1.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-165">
-                <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+              <first_editor relative-caret-position="371">
+                <caret line="66" column="3" lean-forward="true" selection-start-line="66" selection-start-column="3" selection-end-line="66" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -254,12 +254,12 @@
       <option name="presentableId" value="Default" />
       <updated>1577198262384</updated>
       <workItem from="1577198267088" duration="9626000" />
-      <workItem from="1577308291490" duration="28142000" />
+      <workItem from="1577308291490" duration="28308000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37768000" />
+    <option name="totallyTimeSpent" value="37934000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="719" extended-state="0" />
@@ -445,8 +445,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-06-28-spm12-matlab-scripting-tutorial-1.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-165">
-            <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+          <first_editor relative-caret-position="371">
+            <caret line="66" column="3" lean-forward="true" selection-start-line="66" selection-start-column="3" selection-end-line="66" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
