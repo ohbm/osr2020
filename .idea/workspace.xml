@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aeba164d-8aac-44d2-b41f-8013dbb8fca6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutme.md" beforeDir="false" afterPath="$PROJECT_DIR$/aboutme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cv.md" beforeDir="false" afterPath="$PROJECT_DIR$/cv.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/research.md" beforeDir="false" afterPath="$PROJECT_DIR$/research.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/software.md" beforeDir="false" afterPath="$PROJECT_DIR$/software.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="126" lean-forward="true" selection-start-line="126" selection-end-line="126" />
+            <state relative-caret-position="1949">
+              <caret line="145" lean-forward="true" selection-start-line="145" selection-end-line="145" />
             </state>
           </provider>
         </entry>
@@ -31,12 +33,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/aboutme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="540">
-                <caret line="36" column="60" lean-forward="true" selection-start-line="36" selection-start-column="60" selection-end-line="36" selection-end-column="60" />
+              <first_editor relative-caret-position="172">
+                <caret line="29" column="7" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
               </first_editor>
               <second_editor />
             </state>
@@ -56,8 +58,8 @@
         <entry file="file://$PROJECT_DIR$/research.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="255">
-                <caret line="17" selection-start-line="17" selection-end-line="18" selection-end-column="4" />
+              <first_editor relative-caret-position="82">
+                <caret line="90" selection-start-line="90" selection-end-line="90" />
               </first_editor>
               <second_editor />
             </state>
@@ -89,8 +91,8 @@
         <entry file="file://$PROJECT_DIR$/projects.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="465">
-                <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+              <first_editor relative-caret-position="510">
+                <caret line="34" column="4" lean-forward="true" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
               </first_editor>
               <second_editor />
             </state>
@@ -102,7 +104,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="225">
-                <caret line="15" selection-start-line="15" selection-end-line="16" selection-end-column="4" />
+                <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
               </first_editor>
               <second_editor />
             </state>
@@ -113,8 +115,8 @@
         <entry file="file://$PROJECT_DIR$/cv.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="540">
-                <caret line="36" selection-start-line="36" selection-end-line="36" />
+              <first_editor relative-caret-position="480">
+                <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
               </first_editor>
               <second_editor />
             </state>
@@ -154,13 +156,13 @@
         <option value="$PROJECT_DIR$/_includes/list-circles.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/projects.md" />
-        <option value="$PROJECT_DIR$/software.md" />
         <option value="$PROJECT_DIR$/blog/index.html" />
-        <option value="$PROJECT_DIR$/research.md" />
         <option value="$PROJECT_DIR$/_posts/2018-06-05-blobbity-foggity-blog.md" />
-        <option value="$PROJECT_DIR$/aboutme.md" />
-        <option value="$PROJECT_DIR$/cv.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/cv.md" />
+        <option value="$PROJECT_DIR$/software.md" />
+        <option value="$PROJECT_DIR$/research.md" />
+        <option value="$PROJECT_DIR$/aboutme.md" />
       </list>
     </option>
   </component>
@@ -249,12 +251,12 @@
       <option name="presentableId" value="Default" />
       <updated>1577198262384</updated>
       <workItem from="1577198267088" duration="9626000" />
-      <workItem from="1577308291490" duration="26475000" />
+      <workItem from="1577308291490" duration="26578000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36101000" />
+    <option name="totallyTimeSpent" value="36204000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="719" extended-state="0" />
@@ -356,30 +358,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aboutme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="540">
-            <caret line="36" column="60" lean-forward="true" selection-start-line="36" selection-start-column="60" selection-end-line="36" selection-end-column="60" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-944">
-          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        <state relative-caret-position="1949">
+          <caret line="145" lean-forward="true" selection-start-line="145" selection-end-line="145" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/research.md">
+    <entry file="file://$PROJECT_DIR$/cv.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="255">
-            <caret line="17" selection-start-line="17" selection-end-line="18" selection-end-column="4" />
+          <first_editor relative-caret-position="480">
+            <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/software.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="225">
+            <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="510">
+            <caret line="34" column="4" lean-forward="true" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="44" lean-forward="true" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
         </state>
       </provider>
     </entry>
@@ -393,47 +412,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+    <entry file="file://$PROJECT_DIR$/research.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="82">
+            <caret line="90" selection-start-line="90" selection-end-line="90" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="44" lean-forward="true" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+        <state relative-caret-position="-944">
+          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projects.md">
+    <entry file="file://$PROJECT_DIR$/aboutme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="465">
-            <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <first_editor relative-caret-position="172">
+            <caret line="29" column="7" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/software.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="225">
-            <caret line="15" selection-start-line="15" selection-end-line="16" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cv.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="540">
-            <caret line="36" selection-start-line="36" selection-end-line="36" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="126" lean-forward="true" selection-start-line="126" selection-end-line="126" />
         </state>
       </provider>
     </entry>

@@ -14,6 +14,5 @@ Click on an icon below to find out more.
 {% include list-circles.html items=page.software-list %}
 
 <div id='rtqc'></div>
-<br>
 ## Real-time (fMRI) quality control
 

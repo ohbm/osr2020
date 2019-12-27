@@ -9,7 +9,6 @@ title: CV
 ---
 
 <div id='summary'></div>
-<br>
 ### Skill summary
 
 Things I'm good at:
@@ -32,8 +31,6 @@ Things I can find my way with:
 - JavaScript
 
 <div id='cv'></div>
-<br>
-
 ### Full CV
 
 <object data="https://jsheunis.github.io/downloads/cv_jsheunis_2019.pdf" type="application/pdf" height="700px" width="750px" align="middle">
