@@ -23,7 +23,7 @@ navbar-links:
   Research: "research"
   Projects: "projects"
   Software: "software"
-  Blog: "blog"
+  Blog:
     - Posts: "blog"
     - Tags: "tags"
   CV: "cv"
