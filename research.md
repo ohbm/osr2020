@@ -9,6 +9,14 @@ title: Research
 
 ---
 
+- [Overview](#overview)
+- [Articles](#articles)
+- [Conference posters](#posters)
+- [Talks / Lectures](#talks)
+
+---
+<div id='overview'></div>
+<br>
 My current Phd research focuses on two topics within the broad field of functional magnetic resonance imaging (fMRI) analysis:
 
 1. Developing new signal processing methods the improve the quality of real-time functional MRI signals, for use in clinical applications like neurofeedback
@@ -31,7 +39,8 @@ I have collaborated on and generated some scientific output related to my resear
 [<img src="https://img.shields.io/badge/-Code-yellow" height="18px" >]()
 [<img src="https://img.shields.io/badge/-Twitter%20thread-00acee" height="18px" >]()
 
-
+<div id='articles'></div>
+<br>
 ## Articles
 
 
@@ -66,7 +75,8 @@ Heunis, S., Besseling, R., Lamerichs, R., de Louw, A., Breeuwer, M., Aldenkamp, 
 Besseling, R., Lamerichs, R., Michels, B., Heunis, S., de Louw, A., Tijhuis, A., Bergmans, J., Aldenkamp, B., 2018. *Functional network abnormalities consistent with behavioral profile in Autism Spectrum Disorder.* Psychiatry Research: Neuroimaging 275, 43–48. 
 **Links:** [<img src="https://img.shields.io/badge/-Article-red" height="18px">](https://doi.org/10.1016/j.pscychresns.2018.02.006)
 
-
+<div id='posters'></div>
+<br>
 ## Conference Posters
 
 Heunis, S., Hellrung, L., Meer, V.D., Bergert, S., Sladky, R., Pamplona, G.S.P., Scharnowski, F., Koush, Y., Mehler, D., Falcon, C., Gispert, J.D., Molinuevo, J.L., Skouras, S., 2019. *rtQC: an open-source toolbox for real-time fMRI quality control.*  Poster and software demonstration at the 2019 annual meeting of the Organization of Human Brain Mapping. Rome, Italy.
@@ -80,7 +90,8 @@ Heunis, J.S., Lamerichs, R., Song, G., Zinger, S., Aldenkamp, B., 2019. *Improvi
 
 Heunis, J.S., Besseling, R., Lamerichs, R., De Louw, A., Aldenkamp, B., Bergmans, J., 2018. *Dynamic T2star and S0 mapping towards real-time multi-echo fMRI denoising.* Poster at the 10th annual meeting of the Benelux Chapter of the International Society for Magnetic Resonance in Medicine. Antwerpen, Belgium.
 
-
+<div id='talks'></div>
+<br>
 ## Talks / Lectures
 
 Heunis, J.S. 2019. *Real-time (fMRI) quality control.* Invited lecture at the 2019 international real-time functional imaging and neurofeedback conference: [rtFIN2019](https://www.rtfin2019.org/107020). Aachen, Germany.

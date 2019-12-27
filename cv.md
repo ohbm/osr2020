@@ -3,6 +3,12 @@ layout: page
 title: CV
 ---
 
+- [Skill summary](#summary)
+- [Full CV](#cv)
+---
+
+<div id='summary'></div>
+<br>
 ### Skill summary
 
 Things I'm good at:
@@ -11,18 +17,21 @@ Things I'm good at:
 - Real-time fMRI analysis methods
 - fMRI data quality control
 - Intricacies of neuroimage data sharing under GDPR
-- Sofftware tools for sharing data and code
-- Github and git
+- Software tools for sharing data and code
 
 Things I'm getting better at:
 - Python programming
 - Jupyter notebooks/lab, Binder
 - Scientific data visualisation
+- Github and git
 
 Things I can find my way with:
-- CSS, HTML
+- HTML
+- CSS
+- JavaScript
 
-
+<div id='cv'></div>
+<br>
 #### Full CV
 
 <object data="https://jsheunis.github.io/downloads/cv_jsheunis_2019.pdf" type="application/pdf" height="700px" width="750px" align="middle">
