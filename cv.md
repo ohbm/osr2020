@@ -33,7 +33,8 @@ Things I can find my way with:
 
 <div id='cv'></div>
 <br>
-#### Full CV
+
+### Full CV
 
 <object data="https://jsheunis.github.io/downloads/cv_jsheunis_2019.pdf" type="application/pdf" height="700px" width="750px" align="middle">
     <embed src="https://jsheunis.github.io/downloads/cv_jsheunis_2019.pdf">
