@@ -4,7 +4,7 @@ title: Blobbity Foggity Blog
 tags: [open science, first blog]
 comments: true
 social-links: true
-image: "../blog/assets/usebrainsstudybrains.jpg"
+image: "../blog/assets/blobbenator_avatar.jpg"
 show-avatar: true
 ---
 
