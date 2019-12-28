@@ -40,7 +40,8 @@ This displays the 3D anatomical image in the “SPM Orthviews” window, which a
 
 *Some notes: SPM works with plain uncompressed `.nii images`, not with compressed `.nii.gz` ones, so its good to unzip/-tar it beforehand (manually or with a script); also SPM works with 3D images, and refers to images in a time series by their order number. For example a 4D functional series `fMRI.nii` with 3 volumes would be accessed by SPM as `fMRI.nii,1`, `fMRI.nii,2` and `fMRI.nii,3`.*
 
-![orthviews](../blog/assets/orthviews.png =200)
+![orthviews](../blog/assets/orthviews.png)
+<img src="../blog/assets/orthviews.png" alt="orthviews" height="250">
 
 #### 2. Import the NIfTI image into an SPM structure
 
