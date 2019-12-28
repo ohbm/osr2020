@@ -74,7 +74,6 @@ Besseling, R., Lamerichs, R., Michels, B., Heunis, S., de Louw, A., Tijhuis, A.,
 **Links:** [<img src="https://img.shields.io/badge/-Article-red" height="18px">](https://doi.org/10.1016/j.pscychresns.2018.02.006)
 
 <div id='posters'></div>
-<br>
 ## Conference Posters
 
 Heunis, S., Hellrung, L., Meer, V.D., Bergert, S., Sladky, R., Pamplona, G.S.P., Scharnowski, F., Koush, Y., Mehler, D., Falcon, C., Gispert, J.D., Molinuevo, J.L., Skouras, S., 2019. *rtQC: an open-source toolbox for real-time fMRI quality control.*  Poster and software demonstration at the 2019 annual meeting of the Organization of Human Brain Mapping. Rome, Italy.

@@ -30,6 +30,8 @@ Things I can find my way with:
 - CSS
 - JavaScript
 
+---
+
 <div id='cv'></div>
 ### Full CV
 
