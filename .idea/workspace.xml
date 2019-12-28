@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aeba164d-8aac-44d2-b41f-8013dbb8fca6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-06-05-blobbity-foggity-blog.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-06-05-blobbity-foggity-blog.md" afterDir="false" />
-    </list>
+    <list default="true" id="aeba164d-8aac-44d2-b41f-8013dbb8fca6" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +13,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2175">
-              <caret line="145" selection-start-line="145" selection-end-line="145" />
+            <state relative-caret-position="184">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -34,12 +31,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2018-06-05-blobbity-foggity-blog.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="832">
-                <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+                <caret line="61" selection-start-line="61" selection-end-line="61" />
               </first_editor>
               <second_editor />
             </state>
@@ -50,8 +47,20 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-06-28-spm12-matlab-scripting-tutorial-2.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-252">
+              <first_editor relative-caret-position="-803">
                 <caret line="42" selection-start-line="42" selection-end-line="42" selection-end-column="107" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-06-28-spm12-matlab-scripting-tutorial-3.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="352">
+                <caret line="168" column="100" selection-start-line="168" selection-start-column="100" selection-end-line="168" selection-end-column="100" />
               </first_editor>
               <second_editor />
             </state>
@@ -135,6 +144,8 @@
       <find>cham</find>
       <find>spm_</find>
       <find>img</find>
+      <find>url</find>
+      <find>base</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -157,6 +168,7 @@
         <option value="$PROJECT_DIR$/research.md" />
         <option value="$PROJECT_DIR$/_posts/2018-06-28-spm12-matlab-scripting-tutorial-2.md" />
         <option value="$PROJECT_DIR$/_posts/2018-06-05-blobbity-foggity-blog.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-06-28-spm12-matlab-scripting-tutorial-3.md" />
       </list>
     </option>
   </component>
@@ -247,12 +259,12 @@
       <updated>1577198262384</updated>
       <workItem from="1577198267088" duration="9626000" />
       <workItem from="1577308291490" duration="32737000" />
-      <workItem from="1577569454457" duration="100000" />
+      <workItem from="1577569454457" duration="1778000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42463000" />
+    <option name="totallyTimeSpent" value="44141000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="719" extended-state="0" />
@@ -374,13 +386,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2175">
-          <caret line="145" selection-start-line="145" selection-end-line="145" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/aboutme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -435,21 +440,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-06-05-blobbity-foggity-blog.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="832">
+            <caret line="61" selection-start-line="61" selection-end-line="61" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-06-28-spm12-matlab-scripting-tutorial-2.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-252">
+          <first_editor relative-caret-position="-803">
             <caret line="42" selection-start-line="42" selection-end-line="42" selection-end-column="107" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-06-05-blobbity-foggity-blog.md">
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-06-28-spm12-matlab-scripting-tutorial-3.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="832">
-            <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+          <first_editor relative-caret-position="352">
+            <caret line="168" column="100" selection-start-line="168" selection-start-column="100" selection-end-line="168" selection-end-column="100" />
           </first_editor>
           <second_editor />
         </state>
