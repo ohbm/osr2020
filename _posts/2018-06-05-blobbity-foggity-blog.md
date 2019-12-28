@@ -31,8 +31,7 @@ Because of these issues, some scientists have posited that [most published resea
 
 Thinking about fMRI-based neuroscience within this weird world, and acknowledging that work in our field is prone to the same issues, I’ve come to view the shady parts of fMRI research as the following:
 
-<p style="text-align: center"><b>The Blob-Machine, or Blobbenator, or Blob-O-Matic (I can go on…)***</p>
-
+<p style="text-align: center"><b><i>The Blob-Machine, or Blobbenator, or Blob-O-Matic (I can go on…)</i></b></p>
 
 <div style="text-align: center"><img src="../blog/assets/blobbenator_1-876x1024.jpg" alt="blobbenator" height="600"></div>
 
@@ -49,7 +48,7 @@ Essentially, this is how it works:
 
 Now, (A) I’m not saying this type of practice is overly pervasive in fMRI research (it could very well not be the case), (B) I’m not saying that the Blob-O-Matic is the only way to analyse neuroimaging data (just have a look at functional connectivity, brain dynamics, and multivariate pattern analysis to name a few other ways, although these are also subject to loads of problems), and I’m not saying that statistically significant blobs are all horseradish (just ask the visual cortex or Broca’s area). What I am saying, though, is that fMRI research can be very confusing and can make your brain feel all foggy, especially if studies report interesting new findings that you tend to believe on first pass (scientists can’t all be shady, right?), while you are simultaneously aware of the possible biases that might be involved in generating these findings. This realisation has led to my (sometimes perpetual) experience of the foggy blob feeling.
 
-***The foggy blob feeling (right). The guy on the left used the Blobbenator.***
+<p style="text-align: center"><b><i>The foggy blob feeling (right). The guy on the left used the Blobbenator.</i></b></p>
 
 <div style="text-align: center"><img src="../blog/assets/foggyblob_1-1024x575.jpg" alt="foggy" height="400"></div>
 
