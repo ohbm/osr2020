@@ -15,7 +15,7 @@ show-avatar: true
 
 Firstly, have you ever regarded the following?
 
-![brains_study_brains](../blog/assets/usebrainsstudybrains.jpg)
+<div style="text-align: center"><img src="../blog/assets/usebrainsstudybrains.jpg" alt="brains_study_brains" ></div>
 
 It’s truly worrisome, sometimes.
 
@@ -31,9 +31,10 @@ Because of these issues, some scientists have posited that [most published resea
 
 Thinking about fMRI-based neuroscience within this weird world, and acknowledging that work in our field is prone to the same issues, I’ve come to view the shady parts of fMRI research as the following:
 
-***The Blob-Machine, or Blobbenator, or Blob-O-Matic (I can go on…)***
+<p style="text-align: center"><b>The Blob-Machine, or Blobbenator, or Blob-O-Matic (I can go on…)***</p>
 
-![blobbenator](../blog/assets/blobbenator_1-876x1024.jpg)
+
+<div style="text-align: center"><img src="../blog/assets/blobbenator_1-876x1024.jpg" alt="blobbenator" height="600"></div>
 
 Essentially, this is how it works:
 
@@ -50,13 +51,13 @@ Now, (A) I’m not saying this type of practice is overly pervasive in fMRI rese
 
 ***The foggy blob feeling (right). The guy on the left used the Blobbenator.***
 
-![pvalues](../blog/assets/foggyblob_1-1024x575.jpg)
+<div style="text-align: center"><img src="../blog/assets/foggyblob_1-1024x575.jpg" alt="foggy" height="400"></div>
 
 There’s a silver lining, though, and that is (awkward nerdy drumroll) open science. During the past year I’ve learnt so many great and practical things about preprints, registered reports, statistics, study design and the brain itself – not through a structured Phd program, not from experts that I deal with on a regular basis, not from my institution, but from great researchers doing the open science thing. Blogs, online educational videos, podcasts, github, websites – these are great resources once you’ve found the right ones for your field of interest. Off the bat (and biased by my interests/research), I can recommend the blogs of [Chris Chambers](http://neurochambers.blogspot.com/) (general open science, registered reports, neuroscience), [Neuroskeptic](https://twitter.com/Neuro_Skeptic) (good dose of general skepticism in neuroscience), [Daniël Lakens](http://daniellakens.blogspot.com/) (statistics and the dangers of applying it willy-nilly, registered reports, preprints) and [practiCal fMRI](https://practicalfmri.blogspot.com/) (the bolts and nuts of fMRI acquisition, noise and quality), and the [Everything Hertz](https://everythinghertz.com/) podcast of James Heathers and Dan Quintana (general life and struggles of early career researchers, general open science discussions). Reading and listening to their work and following all of these people on Twitter has changed the way I approach my research. (P.S. there are many more people worth following and at some point I’ll add a list to my resources page)
 
 So I’ve decided that, in order to get away from the Blobbenator mentality and from the accompanying foggy blob feeling, (and maybe partly because I’m a millennial who will spontaneously combust into flames of my own privilege if I don’t have any meaning in life) I will start blogging about my research. Here’s my first draft [2]:
 
-![lorumipsum](../blog/assets/penandpaper1-1024x752.jpg)
+<div style="text-align: center"><img src="../blog/assets/penandpaper1-1024x752.jpg" alt="penandpaper" height="500"></div>
 
 Until next time!
 
