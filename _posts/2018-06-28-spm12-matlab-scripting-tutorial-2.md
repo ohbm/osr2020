@@ -40,8 +40,7 @@ This displays the 3D anatomical image in the “SPM Orthviews” window, which a
 
 *Some notes: SPM works with plain uncompressed `.nii images`, not with compressed `.nii.gz` ones, so its good to unzip/-tar it beforehand (manually or with a script); also SPM works with 3D images, and refers to images in a time series by their order number. For example a 4D functional series `fMRI.nii` with 3 volumes would be accessed by SPM as `fMRI.nii,1`, `fMRI.nii,2` and `fMRI.nii,3`.*
 
-![orthviews](../blog/assets/orthviews.png)
-<img src="../blog/assets/orthviews.png" alt="orthviews" height="250">
+<img src="../blog/assets/orthviews.png" alt="orthviews" height="500" align="center">
 
 #### 2. Import the NIfTI image into an SPM structure
 
@@ -81,11 +80,10 @@ figure; imagesc(squeeze(func_4Dimg(:,round(Nj/2),:,1))); colormap gray; colorbar
 figure; imagesc(squeeze(func_4Dimg(:,:,round(Nk/2),1))); colormap gray; colorbar;
 ```
 
-![slicedim1](../blog/assets/slicedim1.jpg)
 
-![slicedim2](../blog/assets/slicedim2.jpg)
-
-![slicedim3](../blog/assets/slicedim3.jpg)
+<img src="../blog/assets/slicedim1.jpg" alt="slicedim1" height="400" align="center">
+<img src="../blog/assets/slicedim2.jpg" alt="slicedim2" height="400" align="center">
+<img src="../blog/assets/slicedim3.jpg" alt="slicedim3" height="400" align="center">
 
 As you can see I did not put a lot of effort into scaling the figures to make them seem more like the natural shape of a brain.
 
@@ -108,7 +106,7 @@ tSNR_3Dimg = reshape(tSNR_2Dimg, Ni, Nj, Nk);
 figure; imagesc(squeeze(tSNR_3Dimg(:,:,round(Nk/2)))); colormap hot; colorbar;
 ```
 
-![tsnr](../blog/assets/tsnr.jpg)
+<img src="../blog/assets/tsnr.jpg" alt="tsnr" height="400" align="center">
 
 Here, I calculated the time series mean and standard deviation per voxel and then divided the former by the latter. This yielded a simple version of the temporal singal-to-noise ratio, a measure often used to asses data quality in fMRI.
 
