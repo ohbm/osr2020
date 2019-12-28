@@ -49,8 +49,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-06-28-spm12-matlab-scripting-tutorial-2.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="291">
-                <caret line="108" column="74" selection-start-line="108" selection-start-column="74" selection-end-line="108" selection-end-column="74" />
+              <first_editor relative-caret-position="161">
+                <caret line="42" column="100" selection-start-line="42" selection-start-column="100" selection-end-line="42" selection-end-column="100" />
               </first_editor>
               <second_editor />
             </state>
@@ -133,6 +133,7 @@
       <find>here it</find>
       <find>cham</find>
       <find>spm_</find>
+      <find>img</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -244,12 +245,12 @@
       <option name="presentableId" value="Default" />
       <updated>1577198262384</updated>
       <workItem from="1577198267088" duration="9626000" />
-      <workItem from="1577308291490" duration="31152000" />
+      <workItem from="1577308291490" duration="31647000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40778000" />
+    <option name="totallyTimeSpent" value="41273000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="719" extended-state="0" />
@@ -341,9 +342,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../PYTHON/8dc00-mia-private/notebooks/registration_exercise_1.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -375,13 +373,6 @@
             <caret line="18" column="55" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-944">
-          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -442,11 +433,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../../PYTHON/8dc00-mia-private/notebooks/registration_exercise_1.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-944">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-06-28-spm12-matlab-scripting-tutorial-2.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="291">
-            <caret line="108" column="74" selection-start-line="108" selection-start-column="74" selection-end-line="108" selection-end-column="74" />
+          <first_editor relative-caret-position="161">
+            <caret line="42" column="100" selection-start-line="42" selection-start-column="100" selection-end-line="42" selection-end-column="100" />
           </first_editor>
           <second_editor />
         </state>
