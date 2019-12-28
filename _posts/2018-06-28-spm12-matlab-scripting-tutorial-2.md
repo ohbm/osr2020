@@ -23,7 +23,7 @@ To be able to follow this post you will have to:
 - Run a recent version of Matlab
 - Install [SPM12](https://www.fil.ion.ucl.ac.uk/spm/software/download/) and add it to your path
 - Download the [dataset](https://openneuro.org/datasets/ds000157/versions/00001) (we’re only going to use `sub-01`)
-- Create a folder somewhere accessible and copy the sub-01 folder and its contents to this new folder
+- Create a folder somewhere accessible and copy the `sub-01` folder and its contents to this new folder
 
 ### Basic commands
 

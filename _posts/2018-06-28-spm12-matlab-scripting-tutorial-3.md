@@ -23,7 +23,7 @@ To be able to follow this post you will have to:
 - Run a recent version of Matlab
 - Install [SPM12](https://www.fil.ion.ucl.ac.uk/spm/software/download/) and add it to your path
 - Download the [dataset](https://openneuro.org/datasets/ds000157/versions/00001) (we’re only going to use `sub-01`)
-- Create a folder somewhere accessible and copy the sub-01 folder and its contents to this new folder
+- Create a folder somewhere accessible and copy the `sub-01` folder and its contents to this new folder
 
 ## Data and experimental design
 
@@ -38,17 +38,17 @@ All necessary code is available on Github in my [matlab-spm-scripts-jsh](https:/
 Essentially we want to point the code to the correct images and add some details describing the task (for statistical analysis), and let the code do the rest. I created a main script [`spm_batchScriptingExample_jsh`](https://github.com/jsheunis/matlab-spm-scripts-jsh/blob/master/spm_batchScriptingExample_jsh.m) that serves as this pipeline, calling all the necessary steps sequentially. These steps include:
 
 1. Initializing the data (e.g. pointing the script to the correct fMRI timeseries data, etc)
-2. Preprocessing the data by calling [spm_standardPreproc_jsh](https://github.com/jsheunis/matlab-spm-scripts-jsh/blob/master/spm_standardPreproc_jsh.m). This function includes steps for:
+2. Preprocessing the data by calling [`spm_standardPreproc_jsh`](https://github.com/jsheunis/matlab-spm-scripts-jsh/blob/master/spm_standardPreproc_jsh.m). This function includes steps for:
    - Realigning all functional image volumes to the first functional image volume in the timeseries.
    - Coregistering the anatomical image to the first functional image volume in the timeseries.
    - Segmenting the coregistered anatomical image into tissue types (grey matter, white matter, cerebrospinal fluid).
    - Reslicing the coregistered anatomical image and all segmented tissue type images to the same resolution as the first functional image volume in the timeseries.
    - Smoothing the realigned functional timeseries data with a specified Gaussian kernel size.
    - Returning all results to a preproc_data structure.
-3. Creating the first level statistical design to analyse the preprocessed data. This is done with [spm_specify1stlevel_jsh](https://github.com/jsheunis/matlab-spm-scripts-jsh/blob/master/spm_specify1stlevel_jsh.m).
-4. Estimating the model fit, i.e. running the general linear model with the specified design. This is done with [spm_estimateModel_jsh](https://github.com/jsheunis/matlab-spm-scripts-jsh/blob/master/spm_estimateModel_jsh.m).
-5. Creating the task contrast used as input for the statistical testing. This is done with [spm_setupTaskContrast_jsh](https://github.com/jsheunis/matlab-spm-scripts-jsh/blob/master/spm_setupTaskContrast_jsh.m).
-6. Running and displaying the results, which applies statistical tests and some correction factors to generate a 3D map of thresholded t-values (resulting from t-tests), which indicate voxels that are likely to be involved in the task. This is done with [spm_runResults_jsh](https://github.com/jsheunis/matlab-spm-scripts-jsh/blob/master/spm_runResults_jsh.m).
+3. Creating the first level statistical design to analyse the preprocessed data. This is done with [`spm_specify1stlevel_jsh`](https://github.com/jsheunis/matlab-spm-scripts-jsh/blob/master/spm_specify1stlevel_jsh.m).
+4. Estimating the model fit, i.e. running the general linear model with the specified design. This is done with [`spm_estimateModel_jsh`](https://github.com/jsheunis/matlab-spm-scripts-jsh/blob/master/spm_estimateModel_jsh.m).
+5. Creating the task contrast used as input for the statistical testing. This is done with [`spm_setupTaskContrast_jsh`](https://github.com/jsheunis/matlab-spm-scripts-jsh/blob/master/spm_setupTaskContrast_jsh.m).
+6. Running and displaying the results, which applies statistical tests and some correction factors to generate a 3D map of thresholded t-values (resulting from t-tests), which indicate voxels that are likely to be involved in the task. This is done with [`spm_runResults_jsh`](https://github.com/jsheunis/matlab-spm-scripts-jsh/blob/master/spm_runResults_jsh.m).
 
 With the necessary adjustments to variables in the initialization step (adding the locations to the SPM12 and data directories) and with the functional and anatomical images extracted/unzipped, you should be able to run the whole script without any further input. However, I separated the different steps of the main script with code blocks (using the double percentage signals in Matlab) which allows you to run the code blocks in isolation as well (on a Mac you can do this by clicking on any line in the code block you want to run and hitting CMD+ENTER).
 
@@ -56,7 +56,7 @@ Below, I will discuss some of the processing steps in more detail.
 
 ### 1. Preprocessing
 
-This step first checks if the data have been preprocessed already by looking for a realigned grey matter image file with a specific name. If already preprocessed, it accesses and names the required variables; if not, it calls the [spm_standardPreproc_jsh](https://github.com/jsheunis/matlab-spm-scripts-jsh/blob/master/spm_standardPreproc_jsh.m) function. This function has several steps as listed above. I will describe the process for one step, realignment, as the same principles apply for the other steps. As I mentioned in the first post of this series, the matlabbatch structure pertaining to the particular processing step is at the center of our approach here. This is how we do Matlab and SPM12 batch scripting:
+This step first checks if the data have been preprocessed already by looking for a realigned grey matter image file with a specific name. If already preprocessed, it accesses and names the required variables; if not, it calls the [`spm_standardPreproc_jsh`](https://github.com/jsheunis/matlab-spm-scripts-jsh/blob/master/spm_standardPreproc_jsh.m) function. This function has several steps as listed above. I will describe the process for one step, realignment, as the same principles apply for the other steps. As I mentioned in the first post of this series, the matlabbatch structure pertaining to the particular processing step is at the center of our approach here. This is how we do Matlab and SPM12 batch scripting:
 
 ```matlab
 realign_estimate_reslice = struct;
@@ -106,7 +106,7 @@ This yields:
 
 ### 2. Create GLM design matrix
 
-Next we setup the design matrix, typically done with the SPM12 GUI as  the “Specify 1st-level” step. We do this by specifying a few important parameters and passing these to a function [spm_specify1stlevel_jsh](https://github.com/jsheunis/matlab-spm-scripts-jsh/blob/master/spm_specify1stlevel_jsh.m), which creates and runs the appropriate batch job.
+Next we setup the design matrix, typically done with the SPM12 GUI as  the “Specify 1st-level” step. We do this by specifying a few important parameters and passing these to a function [`spm_specify1stlevel_jsh`](https://github.com/jsheunis/matlab-spm-scripts-jsh/blob/master/spm_specify1stlevel_jsh.m), which creates and runs the appropriate batch job.
 
 ```matlab
 sess_params = struct;
@@ -130,7 +130,7 @@ We then run the batch job, which creates the important `SPM.mat` structure conta
 
 ### 3. Model estimation, contrasts and statistical results
 
-The final steps are when we actually run the statistical tests to determine which voxels are likely involved in our task. This includes model estimation, setting up a t-contrast and running the results (i.e. [spm_estimateModel_jsh](https://github.com/jsheunis/matlab-spm-scripts-jsh/blob/master/spm_estimateModel_jsh.m), [spm_setupTaskContrast_jsh](https://github.com/jsheunis/matlab-spm-scripts-jsh/blob/master/spm_setupTaskContrast_jsh.m) and [spm_runResults_jsh](https://github.com/jsheunis/matlab-spm-scripts-jsh/blob/master/spm_runResults_jsh.m), each of which takes a set of parameters, sets up the appropriate batch stucture and runs the batch job). I’m glossing over some very important information regarding statistics and correction factors here, because I am only interested in showing you how one can implement batch scripting to achieve an automated task-fMRI analysis pipeline. If you are unfamiliar with these steps, I would suggest doing some reading or online courses to cover the basics of statistics for fMRI analysis.
+The final steps are when we actually run the statistical tests to determine which voxels are likely involved in our task. This includes model estimation, setting up a t-contrast and running the results (i.e. [`spm_estimateModel_jsh`](https://github.com/jsheunis/matlab-spm-scripts-jsh/blob/master/spm_estimateModel_jsh.m), [`spm_setupTaskContrast_jsh`](https://github.com/jsheunis/matlab-spm-scripts-jsh/blob/master/spm_setupTaskContrast_jsh.m) and [`spm_runResults_jsh`](https://github.com/jsheunis/matlab-spm-scripts-jsh/blob/master/spm_runResults_jsh.m), each of which takes a set of parameters, sets up the appropriate batch stucture and runs the batch job). I’m glossing over some very important information regarding statistics and correction factors here, because I am only interested in showing you how one can implement batch scripting to achieve an automated task-fMRI analysis pipeline. If you are unfamiliar with these steps, I would suggest doing some reading or online courses to cover the basics of statistics for fMRI analysis.
 
 ```matlab
 %% ESTIMATE MODEL
@@ -163,9 +163,9 @@ The right-hand-side window shows clusters of significantly activated voxels (rel
 This is not really problematic, however, because we can still see the activation clusters overlaid on the anatomical image of the subject (which was previously coregistered to the funtional space). This is done by selecting “Sections” from the “Display” section dropdown on the left-hand-side window, as follows:
 
 <div style="text-align: center"><img src="../blog/assets/results-select-sections.png" alt="results-select-sections" height="500"></div>
-
+<br>
 <div style="text-align: center"><img src="../blog/assets/results-select-anat.png" alt="results-select-anat" height="500"></div>
-
+<br>
 <div style="text-align: center"><img src="../blog/assets/results-sections.png" alt="results-sections" height="500"></div>
 
 
