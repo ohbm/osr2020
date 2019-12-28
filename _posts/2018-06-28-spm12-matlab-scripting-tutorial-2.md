@@ -83,9 +83,9 @@ figure; imagesc(squeeze(func_4Dimg(:,:,round(Nk/2),1))); colormap gray; colorbar
 ```
 
 
-<img src="../blog/assets/slicedim1.jpg" alt="slicedim1" height="400" align="center">
-<img src="../blog/assets/slicedim2.jpg" alt="slicedim2" height="400" align="center">
-<img src="../blog/assets/slicedim3.jpg" alt="slicedim3" height="400" align="center">
+<div style="text-align: center"><img src="../blog/assets/slicedim1.jpg" alt="slicedim1" height="300" ></div>
+<div style="text-align: center"><img src="../blog/assets/slicedim2.jpg" alt="slicedim2" height="300" ></div>
+<div style="text-align: center"><img src="../blog/assets/slicedim3.jpg" alt="slicedim3" height="300" ></div>
 
 As you can see I did not put a lot of effort into scaling the figures to make them seem more like the natural shape of a brain.
 
@@ -108,7 +108,7 @@ tSNR_3Dimg = reshape(tSNR_2Dimg, Ni, Nj, Nk);
 figure; imagesc(squeeze(tSNR_3Dimg(:,:,round(Nk/2)))); colormap hot; colorbar;
 ```
 
-<img src="../blog/assets/tsnr.jpg" alt="tsnr" height="400" align="center">
+<div style="text-align: center"><img src="../blog/assets/tsnr.jpg" alt="tsnr" height="300" ></div>
 
 Here, I calculated the time series mean and standard deviation per voxel and then divided the former by the latter. This yielded a simple version of the temporal singal-to-noise ratio, a measure often used to asses data quality in fMRI.
 
