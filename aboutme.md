@@ -12,7 +12,6 @@ title: About me
 <div id='about'></div>
 I'm Stephan, an engineer, aspiring software developer, interested in understanding the human brain slightly more than we currently do, and doing meaningful work along the way. I work as a Phd candidate in the Electrical Engineering department of the Eindhoven University of Technology. My main research focus is to develop new signal processing methods, software tools and processes to improve the quality of real-time functional magnetic resonance imaging for clinical use.   
 
-<iframe src="https://elc.github.io/blog/iframes/ode-python/foxes-rabbits-iframe.html"></iframe>
 
 
 <div id='background'></div>
