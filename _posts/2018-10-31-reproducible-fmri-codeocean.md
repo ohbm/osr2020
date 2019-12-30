@@ -57,16 +57,17 @@ This code is a shell script that downloads to the SPM12 toolbox and installs it 
 ```bash
 #!/bin/bash
 set -ex
-buildDeps=&amp;quot;make build-essential&amp;quot;;
-apt-get update -qq &amp;amp;&amp;amp; apt-get install -y $buildDeps curl -LO http://www.fil.ion.ucl.ac.uk/spm/download/restricted/eldorado/spm12.zip
-unzip spm12.zip &amp;amp;&amp;amp; rm *.zip 
-matlab -nodisplay -nosplash -nosoftwareopengl -r &amp;quot;addpath(genpath('/spm12')); savepath&amp;quot;
+buildDeps="make build-essential"
+apt-get update -qq && apt-get install -y $buildDeps
+curl -LO http://www.fil.ion.ucl.ac.uk/spm/download/restricted/eldorado/spm12.zip
+unzip spm12.zip && rm *.zip
+matlab -nodisplay -nosplash -nosoftwareopengl -r "addpath(genpath('/spm12')); savepath"
 cd spm12/src
-make distclean 
-make &amp;amp;&amp;amp; make install
-make external-distclean 
-make external &amp;amp;&amp;amp; make external-install
-apt-get purge -y --autoremove $buildDeps &amp;amp;&amp;amp; rm -rf /var/lib/apt/lists/*
+make distclean
+make && make install
+make external-distclean
+make external && make external-install
+apt-get purge -y --autoremove $buildDeps && rm -rf /var/lib/apt/lists/*
 ```
 
 ### Step 3 – Import code from Github

@@ -1,15 +1,14 @@
 ---
 layout: post
-title: SPM12/Matlab scripting tutorial - Post 3
-subtitle: An fMRI analysis pipeline
-tags: [Code Ocean, reproducible code, cloud computing, fMRI]
+title: OpenMR Benelux 2019 – an overview
+tags: [OpenMR Benelux, reproducibility, inclusivity, event, MRI]
 comments: true
 social-links: true
 image: "../blog/assets/openmrb.png"
 show-avatar: true
 ---
 
-<div style="text-align: center"><img src="../blog/assets/openmr-benelux.png" alt="openmrb" height="500" ></div>
+<div style="text-align: center"><img src="../blog/assets/openmr-benelux.jpg" alt="openmrb" height="500" ></div>
 
 Last month, on 16 January 2019, we hosted the first [OpenMR Benelux](https://openmrbenelux.github.io/) event in Leiden (The Netherlands): an open science themed pre-event to the annual meeting of the [Benelux Chapter of the International Society for Magnetic Resonance in Medicine](https://www.ismrm-benelux.org/) (ISMRM).
 In short, the event’s goal was to introduce the ~50 attendees (from students, researchers and professors to industry professionals) to each other, and to open science practices in the field of magnetic resonance imaging (MRI).
@@ -42,19 +41,19 @@ All details about speakers, abstracts and talk content can be found on our [even
 
 The discussion flowed comfortably and informally. There was no lack of engaging questions and throughout the day several recurring themes highlighted the uncertainty and difficulty experienced in the current scientific landscape when it comes to adopting new practices and executing transparent and reliable research. These included (presented here in the form of open questions):
 
-1. Why is the adoption of open science practices such a burden?
+1. **Why is the adoption of open science practices such a burden?**
    - Why is not incentivised more? Should it be?
    - Why aren’t student programs incorporating these into their curricula? Should this be the case?
    - Where can I find out more about open science practices in MRI, particularly standards, tools, implementations, software, designs, etc?
-2. Who is responsible for open science?
+2. **Who is responsible for open science?**
    - Should it come from grass-roots scientific communities or from funding agencies? Or should it be a mixture of both and other stakeholders?
    - Should there be standards committees that ensure adherence to open science practices?
    - What roles do/should universities play in this landscape?
-3. Open science and commercialisation – are they necessarily in conflict?
+3. **Open science and commercialisation – are they necessarily in conflict?**
    - When it comes to raw MRI data and pulse sequences, is it feasible to expect these to be shared openly? How do vendors differ in allowing/preventing this?
    - Is it reasonable to expect commercial companies and universities to operate under the same principles for open science?
    - In projects where companies and university teams collaborate, what allowance is being made for open science practices in legal, financial or IP agreements?
-4. GDPR and personal data – when can or can’t one share research data?
+4. **GDPR and personal data – when can or can’t one share research data?**
    - When are data considered to be personal?
    - When are data fully anonymised?
    - How should informed consent be approached when aiming to share data?
