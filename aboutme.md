@@ -3,16 +3,22 @@ layout: page
 title: About me
 ---
 
+<div align="center">
+<a href="https://twitter.com/fmrwhy" target="_blank"><img src="/img/twitter_logo.png" alt="twitter" height="30"></a> &nbsp;&nbsp;<a href="https://research.tue.nl/en/persons/js-stephan-heunis" target="_blank"><img src="/img/tue_logo.png" alt="tue" height="30">
+</div>
+
+---
+
 - [About](#about)
 - [Background](#background)
 - [Open sciency stuff](#open)
 - [Likes / dislikes](#likes)
 
 ---
+
+
 <div id='about'></div>
-I'm Stephan, an engineer, aspiring software developer, interested in understanding the human brain slightly more than we currently do, and doing meaningful work along the way. I work as a Phd candidate in the Electrical Engineering department of the Eindhoven University of Technology. My main research focus is to develop new signal processing methods, software tools and processes to improve the quality of real-time functional magnetic resonance imaging for clinical use.   
-
-
+I'm Stephan, an engineer, aspiring software developer, interested in understanding the human brain slightly more than we currently do, and in doing meaningful work along the way. I work as a Phd candidate in the Electrical Engineering department of the Eindhoven University of Technology. My main research focus is to develop new signal processing methods, software tools and processes to improve the quality of real-time functional magnetic resonance imaging for clinical use.
 
 <div id='background'></div>
 #### Background
