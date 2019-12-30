@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aeba164d-8aac-44d2-b41f-8013dbb8fca6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2018-10-31-reproducible-fmri-codeocean.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-10-31-reproducible-fmri-codeocean.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2019-02-20-openmr-benelux-2019-an-overview.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-02-20-openmr-benelux-2019-an-overview.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,12 +42,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2019-02-20-openmr-benelux-2019-an-overview.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="825">
-                <caret line="55" column="74" selection-start-line="55" selection-start-column="74" selection-end-line="55" selection-end-column="74" />
+              <first_editor relative-caret-position="150">
+                <caret line="10" column="91" selection-start-line="10" selection-start-column="91" selection-end-line="10" selection-end-column="91" />
               </first_editor>
               <second_editor />
             </state>
@@ -67,12 +66,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2018-06-28-spm12-matlab-scripting-tutorial-4.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="120">
-                <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+              <first_editor relative-caret-position="315">
+                <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="22" />
               </first_editor>
               <second_editor />
             </state>
@@ -155,8 +154,8 @@
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.html" />
         <option value="$PROJECT_DIR$/_posts/2018-06-28-spm12-matlab-scripting-tutorial-4.md" />
         <option value="$PROJECT_DIR$/_posts/2018-07-20-the-plot-spm.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-02-20-openmr-benelux-2019-an-overview.md" />
         <option value="$PROJECT_DIR$/_posts/2018-10-31-reproducible-fmri-codeocean.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-02-20-openmr-benelux-2019-an-overview.md" />
       </list>
     </option>
   </component>
@@ -233,12 +232,12 @@
       <updated>1577198262384</updated>
       <workItem from="1577198267088" duration="9626000" />
       <workItem from="1577308291490" duration="32737000" />
-      <workItem from="1577569454457" duration="7711000" />
+      <workItem from="1577569454457" duration="7818000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50074000" />
+    <option name="totallyTimeSpent" value="50181000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="719" extended-state="0" />
@@ -608,11 +607,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-02-20-openmr-benelux-2019-an-overview.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-06-28-spm12-matlab-scripting-tutorial-4.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="825">
-            <caret line="55" column="74" selection-start-line="55" selection-start-column="74" selection-end-line="55" selection-end-column="74" />
+          <first_editor relative-caret-position="315">
+            <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="22" />
           </first_editor>
           <second_editor />
         </state>
@@ -628,11 +627,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-06-28-spm12-matlab-scripting-tutorial-4.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-02-20-openmr-benelux-2019-an-overview.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="91" selection-start-line="10" selection-start-column="91" selection-end-line="10" selection-end-column="91" />
           </first_editor>
           <second_editor />
         </state>

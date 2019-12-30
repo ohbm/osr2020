@@ -8,7 +8,7 @@ image: "../blog/assets/openmrb.png"
 show-avatar: true
 ---
 
-<div style="text-align: center"><img src="../blog/assets/openmr-benelux.jpg" alt="openmrb" height="500" ></div>
+<div style="text-align: center"><img src="../blog/assets/openmr-benelux.jpg" alt="openmrb" ></div>
 
 Last month, on 16 January 2019, we hosted the first [OpenMR Benelux](https://openmrbenelux.github.io/) event in Leiden (The Netherlands): an open science themed pre-event to the annual meeting of the [Benelux Chapter of the International Society for Magnetic Resonance in Medicine](https://www.ismrm-benelux.org/) (ISMRM).
 In short, the event’s goal was to introduce the ~50 attendees (from students, researchers and professors to industry professionals) to each other, and to open science practices in the field of magnetic resonance imaging (MRI).
