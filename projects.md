@@ -35,7 +35,7 @@ Our goal is to investigate the use of real-time fMRI neurofeedback in clinical a
 
 ### Focus
 In preparation for such a clinical trial, however, we have first to ensure the quality of the BOLD signal.
-The BOLD signal contains a lot of noise and can be influenced by a number of sources, including participant movement, participant physiology (breathing and heart rate) and scanner artefacts.   
+The BOLD signal contains a lot of noise and can be influenced by a number of sources, including participant movement, participant physiology (breathing and heart rate) and scanner artefacts.
 It is important that a robust signal processing pipeline is used to remove such noise sources in real-time when possible.
 It is also important to visualise and check the quality of the acquired data, both in real-time and after the scanning session.
 The focus of this project, and that of my PhD, is to develop new and updated acquisition, processing and quality checking tools to help us improve the quality of the BOLD signal for real-time use.
@@ -56,7 +56,7 @@ Can we collate all of this into a set of best practices? And can we build softwa
 Within the fMRI neurofeedback community we are collaborating on such a Matlab-based software tool: rtQC.
 The toolbox currently needs beta-testers, so please reach out if you are interested.
 
-Find out more about rtQC on this [poster](https://doi.org/10.5281/zenodo.3239084), and check out the code [here]((https://github.com/rtQC-group/rtQC).
+Find out more about rtQC on this [poster](https://doi.org/10.5281/zenodo.3239084), and check out the code [here](https://github.com/rtQC-group/rtQC).
 
 ***Real-time multi-echo fMRI***
 
