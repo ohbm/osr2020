@@ -34,7 +34,7 @@ Neurofeedback entails showing the person inside the scanner a visual representat
 Our goal is to investigate the use of real-time fMRI neurofeedback in clinical applications. 
 
 ### Focus
-In preparation for such a clinical trial, however, we have first to ensure the quality of the BOLD signal.
+In preparation for such a clinical trial, however, we first have to ensure the quality of the BOLD signal.
 The BOLD signal contains a lot of noise and can be influenced by a number of sources, including participant movement, participant physiology (breathing and heart rate) and scanner artefacts.
 It is important that a robust signal processing pipeline is used to remove such noise sources in real-time when possible.
 It is also important to visualise and check the quality of the acquired data, both in real-time and after the scanning session.

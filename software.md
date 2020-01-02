@@ -4,15 +4,12 @@ title: Software
 software-list:
   - name: rtQC
     desc: Real-time (fMRI) quality control
-    url: https://jsheunis.github.io/software/#rtqc
+    url: https://github.com/rtQC-group/rtQC
     img: /img/rtqc.png
 ---
 
-Click on an icon below to find out more.
+<p style="text-align: center">Click on an icon below to link to the code base</p>
 
 
 {% include list-circles.html items=page.software-list %}
-
-<div id='rtqc'></div>
-## Real-time (fMRI) quality control
 
