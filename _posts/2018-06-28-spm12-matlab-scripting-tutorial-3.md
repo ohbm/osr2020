@@ -9,10 +9,10 @@ image: "../blog/assets/post3_avatar.png"
 show-avatar: true
 ---
 
-- [Post 1: Intro to Matlab and SPM scripting]()
-- [Post 2: Basic Matlab and SPM12 commands]()
-- [Post 3: An fMRI analysis pipeline]()
-- [Post 4: Further resources]()
+- [Post 1: Intro to Matlab and SPM scripting](https://jsheunis.github.io/2018-06-28-spm12-matlab-scripting-tutorial-1/)
+- [Post 2: Basic Matlab and SPM12 commands](https://jsheunis.github.io/2018-06-28-spm12-matlab-scripting-tutorial-2/)
+- [Post 3: An fMRI analysis pipeline](https://jsheunis.github.io/2018-06-28-spm12-matlab-scripting-tutorial-3/)
+- [Post 4: Further resources](https://jsheunis.github.io/2018-06-28-spm12-matlab-scripting-tutorial-4/)
 
 ---
 
