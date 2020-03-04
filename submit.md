@@ -8,8 +8,7 @@ software-list:
     img: /img/rtqc.png
 ---
 
-<p style="text-align: center">Click on an icon below to link to the code base</p>
 
 
-{% include list-circles.html items=page.software-list %}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf794MRLZf3KrgCNSVTaGPhtK7JHIfSHBpXUUYGZ9n3ZcYpHg/viewform?embedded=true" width="640" height="720" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
