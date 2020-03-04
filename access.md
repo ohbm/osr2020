@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Access
 project-list:
   - name: rtfMRI
     desc: Real-time fMRI analysis, quality control and visualisation

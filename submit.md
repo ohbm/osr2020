@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Software
+title: Submit
 software-list:
   - name: rtQC
     desc: Real-time (fMRI) quality control
