@@ -25,7 +25,7 @@ My scientific interest stretches beyond these topics and somewhat more broadly i
 
 Whenever possible, I try to embed the concepts of collaboration, team science, community-centered project work, and openness into my work. 
 
-I have collaborated on and generated some scientific output related to my research interests. Below, I'll try to list most of the currently relevant ones with links to related content. These outputs often relate to specific [projects](projects.md) or [software](software.md) tools, for which I provide more information on the respective site pages.  
+I have collaborated on and generated some scientific output related to my research interests. Below, I'll try to list most of the currently relevant ones with links to related content. These outputs often relate to specific [projects](access.md) or [software](submit.md) tools, for which I provide more information on the respective site pages.  
 
 ##### Link types
 
