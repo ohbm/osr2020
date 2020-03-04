@@ -40,7 +40,7 @@ avatar: "/img/logo_jsheunis_3.jpeg"
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#3A9CAC"
-navbar-text-col: "#E14843"
+navbar-text-col: "#7A1C23"
 navbar-children-col: "#F5F5F5"
 page-col: "#C2CBBF"
 link-col: "#E14843"
