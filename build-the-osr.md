@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Build Your OSR
+title: build
 ---
 
 # Build Your OSR
