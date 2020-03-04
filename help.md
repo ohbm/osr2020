@@ -3,7 +3,7 @@ layout: page
 title: Help
 ---
 
-<div align="center">
+<div align="cen ter">
 <a href="https://twitter.com/fmrwhy" target="_blank"><img src="/img/twitter_logo.png" alt="twitter" height="30"></a> &nbsp;&nbsp;<a href="https://research.tue.nl/en/persons/js-stephan-heunis" target="_blank"><img src="/img/TUe_logo.png" alt="tue" height="30"></a>
 </div>
 
