@@ -8,11 +8,9 @@ software-list:
     img: /img/rtqc.png
 ---
 
+# Please complete the form below
 
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf794MRLZf3KrgCNSVTaGPhtK7JHIfSHBpXUUYGZ9n3ZcYpHg/viewform?embedded=true" width="640" height="720" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
-<iframe id="tripetto" style="width: 400px; height: 600px; border: 0;"></iframe>
+<iframe id="tripetto" width="720" height="720" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <script>
 var tripettoElement = document.getElementById("tripetto");
 var tripettoDoc = tripettoElement.contentWindow || tripettoElement.contentDocument.document || tripettoElement.contentDocument;
