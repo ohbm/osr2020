@@ -20,7 +20,7 @@ description: Open Science Room 2020
 
 # List of links in the navigation bar
 navbar-links:
-  Build: "build"
+  build: "build"
   Schedule: "schedule"
   Submit: "submit"
   Help: "help"
