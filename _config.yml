@@ -18,7 +18,7 @@ description: Open Science Room 2020
 
 # --- Navigation bar options --- #
 
-# List of links in the navigation bar
+# List of links in the navigation bar. Strings should match .md filenames
 navbar-links:
   build: "build"
   Schedule: "schedule"
@@ -42,12 +42,12 @@ avatar: "/img/logo_jsheunis_3.jpeg"
 navbar-col: "#3A9CAC"
 navbar-text-col: "#7A1C23"
 navbar-children-col: "#F5F5F5"
-page-col: "#C2CBBF"
+page-col: "#FAE0C9"
 link-col: "#E14843"
 hover-col: "#93B6BD"
 footer-col: "#084C61"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+footer-text-col: "#C4CBC0"
+footer-link-col: "#569AAA"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
