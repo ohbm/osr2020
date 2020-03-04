@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aeba164d-8aac-44d2-b41f-8013dbb8fca6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-06-05-blobbity-foggity-blog.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-06-28-spm12-matlab-scripting-tutorial-1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-06-28-spm12-matlab-scripting-tutorial-2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-06-28-spm12-matlab-scripting-tutorial-3.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-06-28-spm12-matlab-scripting-tutorial-4.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-07-20-the-plot-spm.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-10-31-reproducible-fmri-codeocean.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-02-20-openmr-benelux-2019-an-overview.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects.md" beforeDir="false" afterPath="$PROJECT_DIR$/access.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/research.md" beforeDir="false" afterPath="$PROJECT_DIR$/schedule.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/software.md" beforeDir="false" afterPath="$PROJECT_DIR$/submit.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutme.md" beforeDir="false" afterPath="$PROJECT_DIR$/help.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cv.md" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,20 +14,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="30" column="29" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="29" />
+            <state relative-caret-position="374">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="490">
-              <caret line="54" column="6" selection-start-line="54" selection-start-column="6" selection-end-line="54" selection-end-column="6" />
+            <state relative-caret-position="120">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -126,6 +115,11 @@
               <item name="osr2020" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="osr2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="osr2020" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -176,12 +170,12 @@
       <workItem from="1577569454457" duration="21842000" />
       <workItem from="1578392890621" duration="2203000" />
       <workItem from="1580976767029" duration="151000" />
-      <workItem from="1583325820228" duration="1227000" />
+      <workItem from="1583325820228" duration="1442000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67786000" />
+    <option name="totallyTimeSpent" value="68001000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="719" extended-state="0" />
@@ -520,7 +514,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aboutme.md">
+    <entry file="file://$PROJECT_DIR$/help.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="90">
@@ -570,17 +564,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="30" column="29" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="29" />
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="54" column="6" selection-start-line="54" selection-start-column="6" selection-end-line="54" selection-end-column="6" />
+        <state relative-caret-position="374">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
     </entry>
