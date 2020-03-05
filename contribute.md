@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Build Your OSR
+title: Contribute
 ---
 
 The OSR is built by the community for the community. The OS-SIG have been working in the background to make this the biggest and best OSR yet, and we would love for you to contribute to the success of this community event as much or as little as you would like!

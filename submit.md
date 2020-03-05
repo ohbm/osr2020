@@ -1,18 +1,13 @@
 ---
 layout: page
 title: Submit
-software-list:
-  - name: rtQC
-    desc: Real-time (fMRI) quality control
-    url: https://github.com/rtQC-group/rtQC
-    img: /img/rtqc.png
 ---
 
+<div align="center">
+<h1>Please complete the form below</h1>
+</div>
 
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf794MRLZf3KrgCNSVTaGPhtK7JHIfSHBpXUUYGZ9n3ZcYpHg/viewform?embedded=true" width="640" height="720" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
-<iframe id="tripetto" style="width: 400px; height: 600px; border: 0;"></iframe>
+<iframe id="tripetto" width="720" height="720" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <script>
 var tripettoElement = document.getElementById("tripetto");
 var tripettoDoc = tripettoElement.contentWindow || tripettoElement.contentDocument.document || tripettoElement.contentDocument;

@@ -20,16 +20,15 @@ description: Open Science Room 2020
 
 # List of links in the navigation bar. Strings should match .md filenames
 navbar-links:
-  build: "build"
   Schedule: "schedule"
   Submit: "submit"
-  Help: "help"
-  Accessibility: "access"
+  Contribute: "contribute"
+  Accessibility: "accessibility"
 
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/logo_jsheunis_3.jpeg"
+avatar: "/img/osr_logo.jpeg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -72,10 +71,10 @@ social-network-links:
 
 #  facebook: deanattali
   github: ohbm
-  twitter: fmrwhy
+  twitter: ohbm
 #  reddit: yourname
 #  linkedin: stephan-heunis-4b558154
-  email: ""
+  email: "jsheunis@gmail.com"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
