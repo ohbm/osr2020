@@ -7,7 +7,18 @@ title: Submit
 <h1>Please complete the form below</h1>
 </div>
 
-<iframe id="tripetto" style="width:600px; height:800px; frameborder:0; marginheight:0; marginwidth:0; align:center;"></iframe>
+<div style="--aspect-ratio: 16/9;">
+  <iframe
+    id="tripetto"
+    width="1600"
+    height="900"
+    frameborder="0"
+    marginheight="0"
+    marginwidth="0"
+  >
+  </iframe>
+</div>
+
 <script>
 var tripettoElement = document.getElementById("tripetto");
 var tripettoDoc = tripettoElement.contentWindow || tripettoElement.contentDocument.document || tripettoElement.contentDocument;
