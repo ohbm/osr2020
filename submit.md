@@ -7,7 +7,7 @@ title: Submit
 <h1>Please complete the form below</h1>
 </div>
 
-<div style="--aspect-ratio: 16/9;">
+<div style="--aspect-ratio: 9/16;">
   <iframe
     id="tripetto"
     width="720"
