@@ -10,8 +10,8 @@ title: Submit
 <div style="--aspect-ratio: 16/9;">
   <iframe
     id="tripetto"
-    width="1600"
-    height="900"
+    width="720"
+    height="405"
     frameborder="0"
     marginheight="0"
     marginwidth="0"
