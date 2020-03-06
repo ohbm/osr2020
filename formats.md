@@ -7,6 +7,8 @@ We invite you to present you work in the OSR in one of the following formats. Th
 
 In all formats we would like to take this opportunity to intentionally diversify the range of speakers we hear from, and where possible platform voices which are traditionally under-represented in our field.
 
+<img src="./img/undraw_team_collaboration_8eoc.svg" width="50%" height="50%">
+
 ## Keynote
 
 Keynote talks will be 30 minutes long, with 15 minutes for questions. These talks should showcase the best of our discipline with a clear message and call to action for our community.

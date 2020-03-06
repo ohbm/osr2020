@@ -7,6 +7,8 @@ The OSR is built by the community for the community. The OS-SIG have been workin
 
 You are very welcome to join us at any point in the conference. But if you would like to be a little more hands on, you're very welcome to help build the OSR you would like to see! This is an excellent opportunity to experience working as an integral part of a conference organising team, and an excellent opportunity to shape the conference experience of those around you.
 
+<img src="./img/undraw_building_blocks_n0nc.svg" width="50%" height="50%">
+
 You don't need to have specific experience in open science, or even brain imaging! All we ask is that you are interested in providing a kind, welcoming, inclusive and inspiring experience for your colleagues, and you're able to join the OSR organising committee in fortnightly online meetings.
 
 We love to have support from people onsite at the meeting itself (a great way to make friends if you're already coming to Montreal!), but there is also work to be done before the meeting which doesn't require travel.

@@ -5,6 +5,8 @@ title: Themes for the OSR 2020
 
 The OSR has always been a place to learn and share experiences. This year we would like to structure these experiences around some areas which are undergoing rapid change in our discipline, while reflecting on where we have come from and what we may be heading towards!
 
+<img src="./img/undraw_data_xmfy.svg" width="50%" height="50%">
+
 ## Theme 1: Open Workflows
 
 A "workflow" is a sequence of operations. In our increasingly complex open research environment, we aim describe our workflow from data collection to figure generation as accurately as possible, to ensure maximum reproducibility by ourselves and our colleagues. We have also developed reproducible workflows for dealing with essential adjunct research activities, such as communication within and outside of our research groups and scheduling research participants. Recent advances such as containerisation have reduced barriers to the sharing of workflows between individual users, but the use of such tools is by no means universal.
