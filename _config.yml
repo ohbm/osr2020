@@ -253,6 +253,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
+permalinks: pretty
 
 paginate_path: "/blog/page:num/"
 # Beautiful Jekyll / Dean Attali
