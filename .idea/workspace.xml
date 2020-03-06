@@ -25,8 +25,8 @@
         <entry file="file://$PROJECT_DIR$/submit.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="210">
-                <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+              <first_editor relative-caret-position="240">
+                <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
               </first_editor>
               <second_editor />
             </state>
@@ -191,12 +191,12 @@
       <workItem from="1580976767029" duration="151000" />
       <workItem from="1583325820228" duration="4939000" />
       <workItem from="1583399167682" duration="1547000" />
-      <workItem from="1583413033963" duration="3633000" />
+      <workItem from="1583413033963" duration="3778000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76678000" />
+    <option name="totallyTimeSpent" value="76823000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="719" extended-state="0" />
@@ -541,8 +541,8 @@
     <entry file="file://$PROJECT_DIR$/submit.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="210">
-            <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <first_editor relative-caret-position="240">
+            <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
           </first_editor>
           <second_editor />
         </state>
