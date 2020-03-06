@@ -20,6 +20,8 @@ description: Open Science Room 2020
 
 # List of links in the navigation bar. Strings should match .md filenames
 navbar-links:
+  Themes: "themes"
+  Formats: "formats"
   Schedule: "schedule"
   Submit: "submit"
   Contribute: "contribute"
