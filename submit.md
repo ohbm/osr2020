@@ -3,8 +3,15 @@ layout: page
 title: Submit
 ---
 
-<div align="center">
-<h1>Please complete the form below</h1>
+<div align="left">
+<h1>Present in the OSR</h1>
+<p>
+
+We are holding an open call for talks in the OSR. Talks will be arranged into three themes, but there will also be space to present on any topic you feel is appropriate to share with our community.
+
+[Themes]() and presentation [formats]() are described on the linked pages. Once you know where your presentation will be best positioned, please use the for below to submit your presentation proposal.</p>
+
+<p>All submitted proposals will automatically populate an issue in our <a href="https://github.com/ohbm/osr2020">GitHub repository</a>. You will be asked to provide your GitHub username so you can be linked to the issue, and you will receive an email with the direct link to your issue. The community is then invited to openly review and comment on proposals, and we will use this feedback to inform our decisions in selecting presentations should we reach capacity. If you do not have a GitHub username, we invite you to follow the instructions available <a href="https://github.com/">here</a> to create your free account.</p>
 </div>
 
 <div style="--aspect-ratio: 3/4;">
