@@ -8,7 +8,9 @@ title: Accessibility
 
 *Research is only reproducible if it is available to and accessible by all.*
 
-We are taking a number of steps in the OSR to increase representation of marginalised folks and improve the experience of individuals with specific access needs. Everyone is invited to join us in the OSR, and we would like everyone to feel able to contribute.
+We are taking a number of steps in the OSR to increase representation of marginalised folks and improve the experience of individuals with specific access needs.
+
+*Everyone is invited to join us in the OSR, and we would like everyone to feel able to contribute.*
 
 ## Live broadcast
 
