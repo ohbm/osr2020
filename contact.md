@@ -7,13 +7,10 @@ title: Contact
 
 We invite you to contact us using any of the methods below.
 
-<ul class="fa-ul">
-  <li><span class="fa-li"><i class="fas fa-twitter></i></span><a href="https://twitter.com/OhbmOpen">@OhbmOpen</a></li>
-  <li><span class="fa-li"><i class="fas fa-github"></i></span><a href="https://github.com/ohbm/osr2020">@ohbm</a></li>
-  <li><span class="fa-li"><i class="fas fa-envelope"></i></span>ohbm.osr@gmail.com</li>
-  <li><span class="fa-li"><i <img src="../img/icon_mm.png" /> </i></span><a href="https://mattermost.brainhack.org/brainhack/channels/hbm-open-science-room">hbm-open-science-room</a></li>
-</ul>
-
+<a href="https://twitter.com/OhbmOpen">@OhbmOpen</a>
+<a href="https://github.com/ohbm/osr2020">@ohbm</a></li>
+ohbm.osr@gmail.com
+<a href="https://mattermost.brainhack.org/brainhack/channels/hbm-open-science-room">hbm-open-science-room</a>
 
 <img align="left" src="../img/icon-email.png" alt="email" width="10%"> ohbm.osr@gmail.com
 
