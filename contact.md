@@ -15,7 +15,7 @@ We invite you to contact us using any of the methods below.
 </ul>
 
 
-Email: ohbm.osr@gmail.com
+<img align="left" src="../img/icon-email.png" alt="email" width="10%"> ohbm.osr@gmail.com
 
 Twitter: [@OhbmOpen](https://twitter.com/OhbmOpen) and #OHBM2020 #OSR
 
