@@ -3,9 +3,9 @@ layout: page
 title: Themes for the OSR 2020
 ---
 
-The OSR has always been a place to learn and share experiences. This year we would like to structure these experiences around some areas which are undergoing rapid change in our discipline, while reflecting on where we have come from and what we may be heading towards!
+The OSR has always been a place to learn and share experiences. This year we would like to focus these experiences into themes which are undergoing rapid change in our discipline. We'd also like to reflect where we have come from and what we may be heading towards!
 
-<img src="./img/undraw_data_xmfy.png" "300"/>
+<img src="./img/undraw_data_xmfy.png" height="300"/>
 
 ## Theme 1: Open Workflows
 
