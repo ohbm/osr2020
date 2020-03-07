@@ -9,7 +9,7 @@ The Open Science Room (OSR) is a conference within a conference, at the Organisa
 ### Who can present in the OSR?
 Anyone can present in the OSR! We invite presentations linked to our [themes](themes.md) and in the specified [formats](formats.md), but we also have room for unconferece-style "emergent" sessions where you can discuss anything you would like! We would like to especially platform the work of Early Career Researchers (ECR), and provide the lighting talk format for you to give voice to posters which have been accepted in the main meeting.
 
-**The call for presentations will open on March 10th and close on April 10th. Emergent sessions may be added after that time. Please submit your proposal for a presentation via the [submit](submit.md) page.**
+**The call for presentations will open on March 16th and close on April 10th. Emergent sessions may be added after that time. Please submit your proposal for a presentation via the [submit](submit.md) page.**
 
 
 ### Who can visit the OSR?

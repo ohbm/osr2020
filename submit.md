@@ -8,7 +8,7 @@ title: Submit
 
 We are holding an open call for presentations in the OSR. </p>
 
-<p><b><i>The call will open on March 10th and close on April 10th (the submission form will remain open as long as it is April 10th somewhere in the world!)</i></b></p>
+<p><b><i>The call will open on March 16th and close on April 10th (the submission form will remain open as long as it is April 10th somewhere in the world!)</i></b></p>
 
 <p><a href="https://ohbm.github.io/osr2020/themes/">Themes</a> and presentation <a href="https://ohbm.github.io/osr2020/formats/">formats</a> are described on the linked pages. Once you know where your presentation will be best positioned, please use the form below to submit your presentation proposal.</p>
 
