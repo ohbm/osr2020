@@ -6,11 +6,11 @@ title: Submit
 <div align="left">
 <p>
 
-We are holding an open call for presentations in the OSR. ***The call will open on March 10th and close on April 10th (the submission form will remain open as long as it is April 10th somewhere in the world!)***
+We are holding an open call for presentations in the OSR. <b><i>The call will open on March 10th and close on April 10th (the submission form will remain open as long as it is April 10th somewhere in the world!)</i></b></p>
 
-[Themes](themes.md) and presentation [formats](formats.md) are described on the linked pages. Once you know where your presentation will be best positioned, please use the form below to submit your presentation proposal.</p>
+<p><a href="https://ohbm.github.io/osr2020/themes/">Themes</a> and presentation <a href="https://ohbm.github.io/osr2020/formats/">formats</a> are described on the linked pages. Once you know where your presentation will be best positioned, please use the form below to submit your presentation proposal.</p>
 
-<p><b>All submitted proposals will automatically populate an issue in our publicly available <a href="https://github.com/ohbm/osr2020">GitHub repository</a>. The community is then invited to openly review and comment on proposals, and we will use this feedback to inform our decisions in selecting presentations. Please see our [FAQ](faq.md) page for more details about how we will select material for presentation.</b>
+<p><b>All submitted proposals will automatically populate an issue in our publicly available <a href="https://github.com/ohbm/osr2020">GitHub repository</a>. The community is then invited to openly review and comment on proposals, and we will use this feedback to inform our decisions in selecting presentations. Please see our <a href="https://ohbm.github.io/osr2020/faq/">FAQ</a> page for more details about how we will select material for presentation.</b>
 
 During the submission process you will be asked to provide your GitHub username so you can be linked to the issue. You will receive an email confirmation when your submission has been received, and this will link to you issue on our repository. Please feel free to promote your own issue and ask the community for feedback!
 
