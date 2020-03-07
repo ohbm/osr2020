@@ -8,8 +8,8 @@ The OSR has always been a place to learn and share experiences. This year we wou
 <img src="/img/undraw_data_xmfy.png" height="300" />
 
 If you would like to present in the OSR, we invite you to:
-1. Consider how your work falls into one of these themes.
-2. Next please consider what [format](formats.md) you would like to present in (including the "emergent" format which can fall outside of these theme)
+1. Consider how your work falls into one of the below themes.
+2. Consider what [format](formats.md) you would like to present in (including the "emergent" format for work which falls outside of the proposed themes)
 3. [Submit](submit.md) and application to present!
 
 ## Theme 1: Open Workflows

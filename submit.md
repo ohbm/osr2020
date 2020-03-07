@@ -4,14 +4,17 @@ title: Submit
 ---
 
 <div align="left">
-<h1>Present in the OSR</h1>
 <p>
 
-We are holding an open call for talks in the OSR. Talks will be arranged into three themes, but there will also be space to present on any topic you feel is appropriate to share with our community.
+We are holding an open call for presentations in the OSR. ***The call will open on March 10th and close on April 10th (the submission form will remain open as long as it is April 10th somewhere in the world!)***
 
-[Themes]() and presentation [formats]() are described on the linked pages. Once you know where your presentation will be best positioned, please use the for below to submit your presentation proposal.</p>
+[Themes](themes.md) and presentation [formats](formats.md) are described on the linked pages. Once you know where your presentation will be best positioned, please use the form below to submit your presentation proposal.</p>
 
-<p>All submitted proposals will automatically populate an issue in our <a href="https://github.com/ohbm/osr2020">GitHub repository</a>. You will be asked to provide your GitHub username so you can be linked to the issue, and you will receive an email with the direct link to your issue. The community is then invited to openly review and comment on proposals, and we will use this feedback to inform our decisions in selecting presentations should we reach capacity. If you do not have a GitHub username, we invite you to follow the instructions available <a href="https://github.com/">here</a> to create your free account.</p>
+<p><b>All submitted proposals will automatically populate an issue in our publicly available <a href="https://github.com/ohbm/osr2020">GitHub repository</a>. The community is then invited to openly review and comment on proposals, and we will use this feedback to inform our decisions in selecting presentations.</b>
+
+During the submission process you will be asked to provide your GitHub username so you can be linked to the issue. You will receive an email confirmation when your submission has been received, and this will link to you issue on our repository. Please feel free to promote your own issue and ask the community for feedback!
+
+<b>If you do not have a GitHub username, we invite you to follow the instructions available <a href="https://github.com/">here</a> to create your free account before begining the submission process.</b></p>
 </div>
 
 <div style="--aspect-ratio: 3/4;">

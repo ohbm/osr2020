@@ -23,5 +23,9 @@ Short answer - No! This year we will be live streaming OSR content onto the [OS-
 We intend to finalise our main content by April 15th so it can be included in the main conference program. We will let you know by this date if you have been accepted to present in one of the scheduled OSR session. You can also request to present an "emergent" session up to and during the meeting itself, if space allows.
 
 
+## Who will decide if my presentation proposal is accepted in the OSR?
+All submitted proposals will automatically populate an issue in our <a href="https://github.com/ohbm/osr2020">GitHub repository</a>. The community is then invited to openly review and comment on proposals, and we will use this feedback to inform our decisions in selecting presentations should we reach capacity. The final decisions on content will be determined through a combination of relatedness to our themes, community interest, and diversity of representation. We will also prioritise accepted poster presentations for lightening talks. Final decisions will be overseen by the <a href="https://ossig.netlify.com/">elected OS-SIG officials</a>.
+
+
 ## What if my presentation clashes with my talk/poster in the main meeting?!
 We are in communication with the main conference Program Committee and will do our best to avoid clashes for particular speakers. Please let us know at the earliest opportunity if you will be unable to present in your allocated slot, and we will do our best to move things around to accomodate you.
