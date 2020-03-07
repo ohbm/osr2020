@@ -33,7 +33,7 @@ list-style-image:url('../img/icon-mattermost-small.png');
   <li>Coffee</li>
   <li>Tea</li>
   <li>Coca Cola</li>
-  <li>Acid</li>
+  <li>Cake</li>
 </ul>
 
 </body>
