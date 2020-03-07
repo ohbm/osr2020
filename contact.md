@@ -14,16 +14,16 @@ We invite you to contact us using any of the methods below.
 <head>
 <style>
 ul li:first-child{
-list-style-image:url('../img/icon-email.png');
+list-style-image:url('../img/icon-email-small.png');
 }
 ul li:first-child + li{
-list-style-image:url('../img/icon-twitter.png');
+list-style-image:url('../img/icon-twitter-small.png');
 }
 ul li:first-child + li + li{
-list-style-image:url('../img/icon-github.png');
+list-style-image:url('../img/icon-github-small.png');
 }
 ul li:first-child + li + li + li{
-list-style-image:url('../img/icon-mattermost.png');
+list-style-image:url('../img/icon-mattermost-small.png');
 }
 </style>
 </head>
