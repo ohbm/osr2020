@@ -14,9 +14,9 @@ We are holding an open call for presentations in the OSR. </p>
 
 <h2>Open review</h2>
 
-<p><b>All submitted proposals will automatically populate an issue in our publicly available <a href="https://github.com/ohbm/osr2020">GitHub repository</a>. By using submitting your proposal you are agreeing that the information supplied will be made public available for the purposes for open review. Fields which will not be made public will be indicated on the form.</b></p>
+<p><b>All submitted proposals will automatically populate an issue in our publicly available <a href="https://github.com/ohbm/osr2020">GitHub repository</a>. By using the form below to submit your proposal you are providing your consent for the information supplied to be made public available for the purposes for open review. Fields which will not be made public will be indicated on the form.</b></p>
 
-<p>Please <b>DO NOT</b> use the submit form if there is any reason you why your proposal should not be made available for open review. In these instances, please <a href="https://ohbm.github.io/osr2020/contact/">contact us</a> suppling the theme (if relevant) format and a short description of your presentation. Please comment that you do not wish for your proposal to be made public. You do not need to disclose a reason for this.</p>
+<p>Please <b>DO NOT</b> use the submit form if there is any reason you why your proposal should not be made available for open review. In these instances, please <a href="https://ohbm.github.io/osr2020/contact/">contact us</a> suppling the theme (if relevant), format and a short description of your presentation. Please comment that you do not wish for your proposal to be made public. You do not need to disclose a reason for this.</p>
 
 <h2>Community feedback</h2>
 
@@ -29,6 +29,8 @@ We are holding an open call for presentations in the OSR. </p>
 <h2>Live streaming and recording of presentations</h2>
 
 <p>In line with our requirements for <a href="https://ohbm.github.io/osr2020/accessibility/">accessibility</a>, we will be live streaming and recording all non-emergent presentations in the OSR. If your presentation is accepted, we will ask you to sign a release form licensing the broadcast and recording. If you do not wish your talk to be made publicly available, please select the "emergent" format.</p>
+
+<h2>Submit your proposal</h2>
 
 </div>
 
