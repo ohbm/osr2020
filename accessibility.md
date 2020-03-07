@@ -4,9 +4,11 @@ title: Accessibility
 
 ---
 
-<img align="left" src="../img/undraw_enter_uhqk.png" alt="future" width="50%">
+<img align="left" src="../img/undraw_enter_uhqk.png" alt="future" width="40%">
 
-Research is only reproducible if it is available to and accessible by all. We are taking a number of steps in the OSR to increase representation of marginalised folks and improve the experience of individuals with specific access needs. Everyone is invited to join us in the OSR, and we would like everyone to feel able to contribute.
+*Research is only reproducible if it is available to and accessible by all.*
+
+We are taking a number of steps in the OSR to increase representation of marginalised folks and improve the experience of individuals with specific access needs. Everyone is invited to join us in the OSR, and we would like everyone to feel able to contribute.
 
 ## Live broadcast
 
