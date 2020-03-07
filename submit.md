@@ -24,7 +24,12 @@ We are holding an open call for presentations in the OSR. </p>
 
 <p>During the submission process you will be asked to provide your GitHub username so you can be linked to the issue. You will receive an email confirmation when your submission has been received, and this will link to you issue on our repository. Please feel free to promote your issue/proposal via any means you wish and ask the community for feedback!</p>
 
-<p><b>If you do not have a GitHub username, we invite you to follow the instructions available <a href="https://github.com/">here</a> to create your free account before begining the submission process.</b></p>
+<p><b>If you do not have a GitHub username, we invite you to follow the instructions available <a href="https://github.com/">here</a> to create your free account before beginning the submission process.</b></p>
+
+<h2>Live streaming and recording of presentations<h2>
+
+<p>In line with our requirements for <a href="https://ohbm.github.io/osr2020/accessibility/">accessibility</a>, we will be live streaming and recording all non-emergent presentations in the OSR. If your presentation is accepted, we will ask you to sign a release form licensing the broadcast and recording. If you do not wish your talk to be made publicly available, please select the "emergent" format.</p>
+
 </div>
 
 <div style="--aspect-ratio: 3/4;">
