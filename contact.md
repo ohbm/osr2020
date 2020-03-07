@@ -5,10 +5,10 @@ title: Contact
 
 We invite you to contact us using any of the methods below.
 
-&nbsp;&nbsp;&nbsp;<img align="left" src="../img/icon-email.png" alt="email" width="4%">&nbsp; Email: <ohbm.osr@gmail.com>  
-&nbsp;&nbsp;&nbsp;<img align="left" src="../img/icon-twitter.png" alt="twitter" width="4%">&nbsp; Twitter: <a href="https://twitter.com/OhbmOpen">@OhbmOpen</a> #OHBM2020 #OSR  
-&nbsp;&nbsp;&nbsp;<img align="left" src="../img/icon-github.png" alt="github" width="4%">&nbsp; GitHub: <a href="https://github.com/ohbm/osr2020">@ohbm</a>  
-&nbsp;&nbsp;&nbsp;<img align="left" src="../img/icon-mattermost.png" alt="mattermost" width="4%">  &nbsp; Mattermost: <a href="https://mattermost.brainhack.org/brainhack/channels/hbm-open-science-room">hbm-open-science-room</a>
+&nbsp;&nbsp;&nbsp;<img align="left" src="../img/icon-email.png" alt="email" width="3.5%">&nbsp; Email: <ohbm.osr@gmail.com>  
+&nbsp;&nbsp;&nbsp;<img align="left" src="../img/icon-twitter.png" alt="twitter" width="3.5%">&nbsp; Twitter: <a href="https://twitter.com/OhbmOpen">@OhbmOpen</a> #OHBM2020 #OSR  
+&nbsp;&nbsp;&nbsp;<img align="left" src="../img/icon-github.png" alt="github" width="3.5%">&nbsp; GitHub: <a href="https://github.com/ohbm/osr2020">@ohbm</a>  
+&nbsp;&nbsp;&nbsp;<img align="left" src="../img/icon-mattermost.png" alt="mattermost" width="3.5%">  &nbsp; Mattermost: <a href="https://mattermost.brainhack.org/brainhack/channels/hbm-open-science-room">hbm-open-science-room</a>
 
 <html>
 <head>
