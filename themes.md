@@ -12,7 +12,7 @@ If you would like to present in the OSR, we invite you to:
 
 ## Theme 1: Open Workflows
 
-<img align="right" src="../img/undraw_data_xmfy.png" alt="workflow" width="35%">
+<img align="right" src="../img/undraw_data_xmfy.png" alt="workflow" width="40%">
 
 A "workflow" is a sequence of operations. Following good open research practices, we aim describe our workflow from data collection to figure generation as accurately as possible, to ensure maximum reproducibility by ourselves and our colleagues. We have also developed reproducible workflows for dealing with essential adjunct research activities, such as communication within and outside of our research groups and scheduling research participants. Recent advances such as containerisation have reduced barriers to sharing workflows between individual users, but the use of such tools is by no means universal.
 
@@ -20,12 +20,14 @@ Talks in this session will showcase how we ensure individual aspects of our rese
 
 ## Theme 2: Open Data 2.0
 
+<img align="right" src="../img/undraw_code_typing_7jnv.png" alt="future" width="40%">
+
 Borrowing from the language of web, "Open Data 2.0" represents a transition from a static open data dump (what might be classed as Open Data 1.0) to the developments of social tools which facilitate collaboration. Are we ready for Open Data 2.0? How are different models of collaboration serving our community, to expedite high quality and justice oriented research? Perhaps we should be looking further into the future to Open Data 3.0, where high quality meta-data will enable machine readable semantic understanding of data sources?
 
 Talks in these sessions will showcase advances in the field of open data, collaboration and data curation. We would like to celebrate what you have achieved and be inspired to bring new models to our own research practices.  
 
 ## Theme 3: The Past, Present and Future of Open Neuroimaging
 
-<img align="right" src="../img/undraw_maker_launch_crhe.png" alt="future" width="35%">
+<img align="right" src="../img/undraw_maker_launch_crhe.png" alt="future" width="40%">
 
 How has openness in neuroimaging evolved over time? What have we learnt from the past, and how are current activities shaping the future of our discipline? In this session we invite you to share a retrospective of your own journey, recognising that your own past might hold lessons for your colleagues future. We also look forward where you think we are headed, what you would like to work towards and what we should be mindful of along the way.
