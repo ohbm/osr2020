@@ -24,8 +24,8 @@ navbar-links:
   Formats: "formats"
   Submit: "submit"
   Contribute: "contribute"
-  Contact: "contact"
   Accessibility: "accessibility"
+  Contact: "contact"
   FAQ: "faq"
 
 
@@ -73,16 +73,16 @@ social-network-links:
 #  rss: true
 
 #  facebook: deanattali
-  github: ohbm
-  twitter: ohbm
+  github: @ohbm
+  twitter: @OhbmOpen
 #  reddit: yourname
 #  linkedin: stephan-heunis-4b558154
-  email: "jsheunis@gmail.com"
+  email: "ohbb.osr@gmail.com"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
-#  youtube: user/deanat78
+  youtube: user/OHBM OpenScienceSIG
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78

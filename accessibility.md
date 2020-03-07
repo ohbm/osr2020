@@ -4,7 +4,7 @@ title: Accessibility
 
 ---
 
-<img align="left" src="../img/undraw_enter_uhqk.png" alt="future" width="40%">
+<img align="right" src="../img/undraw_enter_uhqk.png" alt="future" width="40%">
 
 *Research is only reproducible if it is available to and accessible by all.*
 
