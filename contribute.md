@@ -9,12 +9,6 @@ You are very welcome to join us at any point in the conference. But if you would
 
 <img src="../img/undraw_building_blocks_n0nc.png" height="300" />
 
-<div style="text-align: center"><img src="../blog/assets/codeoceansmall.jpg" alt="codeocean" height="300" ></div>
-
-
-
-
-
 You don't need to have specific experience in open science, or even brain imaging! All we ask is that you are interested in providing a kind, welcoming, inclusive and inspiring experience for your colleagues, and you're able to join the OSR organising committee in fortnightly online meetings.
 
 We love to have support from people onsite at the meeting itself (a great way to make friends if you're already coming to Montreal!), but there is also work to be done before the meeting which doesn't require travel.
