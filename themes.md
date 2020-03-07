@@ -12,7 +12,7 @@ If you would like to present in the OSR, we invite you to:
 
 ## Theme 1: Open Workflows
 
-<img align="right" src="../img/undraw_data_xmfy.png" alt="workflow" width="25%">
+<img align="right" src="../img/undraw_data_xmfy.png" alt="workflow" width="35%">
 
 A "workflow" is a sequence of operations. Following good open research practices, we aim describe our workflow from data collection to figure generation as accurately as possible, to ensure maximum reproducibility by ourselves and our colleagues. We have also developed reproducible workflows for dealing with essential adjunct research activities, such as communication within and outside of our research groups and scheduling research participants. Recent advances such as containerisation have reduced barriers to sharing workflows between individual users, but the use of such tools is by no means universal.
 
@@ -26,6 +26,6 @@ Talks in these sessions will showcase advances in the field of open data, collab
 
 ## Theme 3: The Past, Present and Future of Open Neuroimaging
 
-<img align="right" src="../img/undraw_maker_launch_crhe.png" alt="future" width="25%">
+<img align="right" src="../img/undraw_maker_launch_crhe.png" alt="future" width="35%">
 
 How has openness in neuroimaging evolved over time? What have we learnt from the past, and how are current activities shaping the future of our discipline? In this session we invite you to share a retrospective of your own journey, recognising that your own past might hold lessons for your colleagues future. We also look forward where you think we are headed, what you would like to work towards and what we should be mindful of along the way.
