@@ -12,7 +12,13 @@ We are holding an open call for presentations in the OSR. </p>
 
 <p><a href="https://ohbm.github.io/osr2020/themes/">Themes</a> and presentation <a href="https://ohbm.github.io/osr2020/formats/">formats</a> are described on the linked pages. Once you know where your presentation will be best positioned, please use the form below to submit your presentation proposal.</p>
 
-<p><b>All submitted proposals will automatically populate an issue in our publicly available <a href="https://github.com/ohbm/osr2020">GitHub repository</a>. By using submitting your proposal you are agreeing that the information supplied will be made public available for the purposes for open review. Fields which will not be made public will be indicated on the form.</b> Please DO NOT use the submit form if there is any reason you why your proposal should not be made available for open review. In these instances, please <a href="https://ohbm.github.io/osr2020/contact/">contact us</a> suppling the theme (if relevant) format and a short description of your presentation. Please comment that you do not wish for your proposal to be made public. You do not need to disclose a reason for this.</p>
+<h2>Open review</h2>
+
+<p><b>All submitted proposals will automatically populate an issue in our publicly available <a href="https://github.com/ohbm/osr2020">GitHub repository</a>. By using submitting your proposal you are agreeing that the information supplied will be made public available for the purposes for open review. Fields which will not be made public will be indicated on the form.</b></p>
+
+<p>Please <b>DO NOT</b> use the submit form if there is any reason you why your proposal should not be made available for open review. In these instances, please <a href="https://ohbm.github.io/osr2020/contact/">contact us</a> suppling the theme (if relevant) format and a short description of your presentation. Please comment that you do not wish for your proposal to be made public. You do not need to disclose a reason for this.</p>
+
+<h2>Community feedback</h2>
 
 <p>The community is invited to openly review and comment on proposals. We will use this feedback to inform our decisions in selecting presentations, along with other criteria described on our <a href="https://ohbm.github.io/osr2020/faq/">FAQ</a> page. You are encouraged to submit your proposal as early as possible to allow time for community feedback.</p>
 
