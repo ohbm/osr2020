@@ -3,15 +3,11 @@ layout: page
 title: Contribute
 ---
 
-The OSR is built by the community for the community. The OS-SIG have been working in the background to make this the biggest and best OSR yet, and we would love for you to contribute to the success of this community event!
+The OSR is built by the community for the community. The OS-SIG have been working hard to make this the biggest and best OSR yet, and we would love for you to contribute to the success of this event by helping us to build it! This is an excellent opportunity to work as an integral part of a conference organising team, build relationships with key members of the open neuroimaging community before and during the meeting, and shape the conference experience of those around you!
 
-You are very welcome to join us at any point in the conference. But if you would like to be a little more hands on, you're very welcome to help build the OSR you would like to see! This is an excellent opportunity to experience working as an integral part of a conference organising team, and an excellent opportunity to shape the conference experience of those around you.
+You don't need to have specific experience in open science or even brain imaging to join us! All we ask is that you are interested in providing a professional, welcoming, inclusive and inspiring OSR experience for your colleagues. We will also ask you to join us in regular on-line meetings, to support your progress with any activity you have chosen to undertake.
 
-You don't need to have specific experience in open science, or even brain imaging! All we ask is that you are interested in providing a kind, welcoming, inclusive and inspiring experience for your colleagues, and you're able to join the OSR organising committee in fortnightly online meetings.
-
-We love to have support from people onsite at the meeting itself (a great way to make friends if you're already coming to Montreal!), but there is also work to be done before the meeting which doesn't require travel.
-
-Below is a general description of the types of work we'd love for the community to engage with us on. If you'd like to share your skills in building these activities, or like to be involved in any other way, please fill in the form below to get in touch. We're very happy to have a chat about what we'll be working on before you commit to anything, so please don't be shy!
+Below is a general description of the types of work we'd love for the community to get involved with. If you'd like to share your skills in these or any other areas, please fill in the [form](#volunteer-to-build) below to get in touch. We will email you back as soon as we can to arrange a chat, and you are under no obligation to agree to any work at this stage!
 
 ## OSR Hosts
 
@@ -30,3 +26,7 @@ For the first time in OHBM and OSR history, we will be broadcasting all the sche
 <img align="right" src="../img/undraw_logo_design_bjnx.svg" alt="branding" width="40%">
 
 We love a bit of merch. Branding and merchandise will create an identity for the OSR, and subsequently project an identity for our community. We are proud of the work we do, and we want to create devices which can unite us while bringing others in. This includes onsite signage, badges, t-shirts for our volunteers (if you'd like them!) and holding screens for the live broadcast and between talks. We're also not too precious about our colour schemes and current logo, so if you think that could be improved, you're welcome to have a play!
+
+## Volunteer to build!
+
+<form goes here>
