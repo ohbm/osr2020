@@ -27,6 +27,6 @@ For the first time in OHBM and OSR history, we will be broadcasting all the sche
 
 We love a bit of merch. Branding and merchandise will create an identity for the OSR, and subsequently project an identity for our community. We are proud of the work we do, and we want to create devices which can unite us while bringing others in. This includes onsite signage, badges, t-shirts for our volunteers (if you'd like them!) and holding screens for the live broadcast and between talks. We're also not too precious about our colour schemes and current logo, so if you think that could be improved, you're welcome to have a play!
 
-## Volunteer to build!
+# Volunteer to build!
 
-<form goes here>
+&lt;Form goes here&gt;
