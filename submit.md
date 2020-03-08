@@ -28,7 +28,7 @@ We are holding an open call for presentations in the OSR. </p>
 
 <h2>Live streaming and recording of presentations</h2>
 
-<p>In line with our requirements for <a href="https://ohbm.github.io/osr2020/accessibility/">accessibility</a>, we will be live streaming and recording all non-emergent presentations in the OSR. If your presentation is accepted, we will ask you to sign a release form licensing the broadcast and recording. If you do not wish your talk to be made publicly available, please select the "emergent" format.</p>
+<p>In line with our requirements for <a href="https://ohbm.github.io/osr2020/access/">accessibility</a>, we will be live streaming and recording all non-emergent presentations in the OSR. If your presentation is accepted, we will ask you to sign a release form licensing the broadcast and recording. If you do not wish your talk to be made publicly available, please select the "emergent" format.</p>
 
 <h2>Submit your proposal</h2>
 
