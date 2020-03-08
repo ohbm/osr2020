@@ -24,7 +24,7 @@ We intend to finalise our main content by April 15th so it can be included in th
 
 
 ### Who will decide if my presentation proposal is accepted in the OSR?
-All submitted proposals will automatically populate an issue in our <a href="https://github.com/ohbm/osr2020">GitHub repository</a>. The community is then invited to openly review and comment on proposals, and we will use this feedback to inform our decisions in selecting presentations should we reach capacity. The final decisions on content will be determined through a combination of relatedness to our themes, community interest, and diversity of representation. We will also prioritise accepted poster presentations for lightening talks. Final decisions will be overseen by the <a href="https://ossig.netlify.com/">elected OS-SIG officials</a>.
+All submitted proposals will automatically populate an issue in our <a href="https://github.com/ohbm/osr2020">GitHub repository</a>. The community is then invited to openly review and comment on proposals, and we will use this feedback to inform our decisions in selecting presentations should we reach capacity. The final decisions on content will be determined through a combination of relatedness to our themes, community interest, and diversity of representation. We will also prioritise accepted poster presentations for lightning talks. Final decisions will be overseen by the <a href="https://ossig.netlify.com/">elected OS-SIG officials</a>.
 
 
 ### What if my presentation clashes with my talk/poster in the main meeting?!
