@@ -4,7 +4,7 @@ title: FAQ
 ---
 
 ### What is the OSR?
-The Open Science Room (OSR) is a conference within a conference, at the <a href="https://www.humanbrainmapping.org/">Organisation for Human Brain Mapping</a> annual meeting in <a href="https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageID=3958&activateFull=true" >Montreal June 26th - 30th.</a>. As with the rest of the meeting we are here to discuss advances in neuroimaging, but we also have a specific interest in open research practices.
+The Open Science Room (OSR) is a conference within a conference, at the <a href="https://www.humanbrainmapping.org/">Organisation for Human Brain Mapping</a> annual meeting in <a href="https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageID=3958&activateFull=true" >Montreal June 26th - 30th</a>. As with the rest of the meeting we are here to discuss advances in neuroimaging, but we also have a specific interest in open research practices.
 
 ### Who can present in the OSR?
 Anyone can present in the OSR! We invite presentations linked to our [themes](themes.md) and in the specified [formats](formats.md), but we also have room for unconferece style "emergent" sessions where you can discuss anything you would like! We would like to especially platform the work of Early Career Researchers (ECR), and provide the lightning talk format for you to give voice to posters which have been accepted in the main meeting.
@@ -18,13 +18,13 @@ Anyone can visit the OSR! Our content is scheduled to avoid clashes with keynote
 ### Do I have to attend the conference to participate in OSR?
 Short answer - No! This year we will be live streaming OSR content onto the [OS-SIG YouTube channel](https://www.youtube.com/channel/UChvSitFvqGDeA1y7MJs4CGQ), where you will be able to ask questions and interact with our speakers. We are also aware that travel restrictions or environmental choices may limit who can attend the meeting in person, so we invite submissions for remote presentation in these circumstances. Further detail on this is available on our [accessibility](access.md) page, and will be released in due course.
 
-*If your proposal is accepted for an in-person presentation in the OSR, you will need to be <a href="https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3969">registered</a> for the main conference which hosts us. We are unfortunately unable to provide honoraria or financial assistance to presenters in the OSR for travel or conference registration.*
+*If your proposal is accepted for an in-person presentation in the OSR, you will need to be <a href="https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3969">registered</a> for the main conference which hosts us. We are unfortunately unable to provide honoraria or financial assistance to presenters in the OSR.*
 
 
 ### When will I know if I have been accepted to present in the OSR?
 We intend to finalise our main content by April 15th so it can be included in the main conference program. We will let you know by this date if you have been accepted to present in one of the scheduled OSR session. You can also request to present an "emergent" session up to and during the meeting itself, if space allows.
 
-*Please note the conference <a href="https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3969"> reduced early bird resignation rate </a> is available until April 1st. If your ability to attend the conference will be influenced by being accepted for a talk in the OSR and registering at the early bird rate, please submit your presentation proposal by March 30th and separately [contact us](contact.md) (including a link to your proposal issue on our GitHub repository) to discuss if we can accommodate an earlier decision.*
+*Please note the conference <a href="https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3969"> reduced early bird resignation rate </a> is available until April 1st. If your ability to attend the conference will be influenced by being accepted for a talk in the OSR and registering at the early bird rate, please submit your presentation proposal by March 30th and separately [contact us](contact.md) (including a link to your proposal issue on our GitHub repository) to discuss whether we can accommodate an earlier decision.*
 
 
 ### Who will decide if my presentation proposal is accepted in the OSR?
