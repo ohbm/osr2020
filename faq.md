@@ -16,7 +16,7 @@ Anyone can present in the OSR! We invite presentations linked to our [themes](th
 Anyone can visit the OSR! Our content is scheduled to avoid clashes with keynotes, award presentations and community discussions in the main meeting, so we hope many of you will make the choice to visit us among the parallel sessions! We have also intentionally minimised our scheduling during the poster sessions, so our ECR community do not have to choose between presenting their posters or presenting in the OSR!
 
 ### Do I have to attend the conference to participate in OSR?
-Short answer - No! This year we will be live streaming OSR content onto the [OS-SIG YouTube channel](https://www.youtube.com/channel/UChvSitFvqGDeA1y7MJs4CGQ), where you will be able to ask questions and interact with our speakers. We are also aware that travel restrictions or environmental choices may limit who can attend the meeting in person, so we invite submissions for remote presentation in these circumstances. Further detail on this is available on our [accessibility](accessibility.md) page, and will be released in due course.
+Short answer - No! This year we will be live streaming OSR content onto the [OS-SIG YouTube channel](https://www.youtube.com/channel/UChvSitFvqGDeA1y7MJs4CGQ), where you will be able to ask questions and interact with our speakers. We are also aware that travel restrictions or environmental choices may limit who can attend the meeting in person, so we invite submissions for remote presentation in these circumstances. Further detail on this is available on our [accessibility](access.md) page, and will be released in due course.
 
 
 ### When will I know if I have been accepted to present in the OSR?
