@@ -9,7 +9,7 @@ In all formats we would like to take this opportunity to intentionally diversify
 
 ## Keynote <img style="float: left;" src="../img/nounproj-key.png" alt="keynote" width="12.5%" hspace="20">
 
-<img align="right" src="../img/nounproj-key.png" alt="keynote" width="12.5%" hspace="20">
+<!-- <img align="right" src="../img/nounproj-key.png" alt="keynote" width="12.5%" hspace="20"> -->
 
 Keynote talks will be 30 minutes long, with 15 minutes for questions. These talks should showcase the best of our discipline with a clear message and call to action for our community.
 
