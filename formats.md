@@ -7,7 +7,7 @@ We invite you to present your work in the OSR in one of the following formats. [
 
 In all formats we would like to take this opportunity to intentionally diversify the range of speakers we hear from, and where possible platform voices which are traditionally under-represented in our field.
 
-## Keynote
+## Keynote <img style="float: left;" src="../img/nounproj-key.png" alt="keynote" width="12.5%" hspace="20">
 
 <img align="right" src="../img/nounproj-key.png" alt="keynote" width="12.5%" hspace="20">
 
