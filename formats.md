@@ -39,5 +39,5 @@ You may use these sessions to invite contributions to your collaborative project
 ---
 
 <div align="left"><body><p><small>
-Images created by Adrien Coquet, andriwidodo, priyanka and Pham Thi Dieu Linh from <a href="https://thenounproject.com/">Noun Project</a>
+Icons created by Adrien Coquet, andriwidodo, priyanka and Pham Thi Dieu Linh from <a href="https://thenounproject.com/">Noun Project</a>
 </small></p></body></div>
