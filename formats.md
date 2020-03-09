@@ -26,7 +26,7 @@ Lightning talks will be 5 minutes long with 2 minutes for questions. In these se
 
 Software demo sessions are 7 minutes with 2 minutes for questions. These are a chance to showcase the latest developments in open source software, whether you have written the code yourself or would just like to champion the tool!
 
-## Emergent <img align="left" src="../img/nounproj-emergent.png" alt="emergent" width="7%" hspace="20">
+## Emergent <img align="left" src="../img/nounproj-emergent.png" alt="emergent" width="7%" hspace="15">
 
 <!-- <img align="right" src="../img/nounproj-emergent.png" alt="emergent" width="15%" hspace="20"> -->
 
