@@ -13,7 +13,7 @@ Below is a general description of the types of work we'd love for the community 
 
 <img align="right" src="../img/undraw_Hello_qnas.svg" alt="host" width="30%">
 
-OSR Hosts will be onsite to welcome speakers and guests in the OSR. We would also love you to be involved in designing our opening and closing events, overseeing the physical use of the multipurpose OSR space, chair sessions, and ensure that we are reaching our goals for accessibility. The [OS-SIG and OSR Co Chairs](https://ossig.netlify.com/) will help build and support your efforts all the way.
+OSR Hosts will be onsite to welcome speakers and guests in the OSR. We would also love you to be involved in designing our opening and closing events, overseeing the physical use of the multipurpose OSR space, chair sessions, and ensure that we are reaching our goals for accessibility. The [OS-SIG and OSR Co-Chairs](https://ossig.netlify.com/) will help build and support your efforts all the way.
 
 ## Onsite and Online Tech Support
 

@@ -3,7 +3,7 @@ layout: page
 title: Presentation formats
 ---
 
-We invite you to present your work in the OSR in one of the following formats. [Theme](theme.md) specific talks will be presented in "[keynote](#keynote)", "[lightning](#lightning)" or "[demo](#demo)" formats. Spontaneous or non-themed sessions are bookable in advance or during the meeting in an "[emergent](#emergent)" format.
+We invite you to present your work in the OSR in one of the following formats. [Theme](themes.md) specific talks will be presented in "keynote", "lightning" or "demo" formats. Spontaneous or non-themed sessions are bookable in advance or during the meeting in an "emergent" format.
 
 In all formats we would like to take this opportunity to intentionally diversify the range of speakers we hear from, and where possible platform voices which are traditionally under-represented in our field.
 
