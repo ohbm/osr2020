@@ -26,11 +26,13 @@ We understand that travelling to Montreal is not an option for many, and others 
 
 We understand that the conference environment can be difficult to navigate for individuals with specific sensory needs.
 
-For individuals requiring hearing or language support, all auditory content (both speakers and questions) will be amplified with microphones. We are also working towards providing live captions for scheduled presentations.
+For individuals requiring hearing or language support, all auditory content (both speakers and questions) will be amplified with microphones.
+We are also working towards providing live captions for scheduled talks.
 
 For individuals with visual impediments, we will provide presenters with suggestions for minimum font sizes and dyslexia friendly colours.
 
-For individuals who would benefit from the use of quiet space, we are hoping to designate part of the OSR for quiet working or relaxation. We are working with the central OHBM team to make this a feature of the annual meeting going forwards.
+For individuals who would benefit from the use of quiet space, we are hoping to designate part of the OSR for quiet working or relaxation.
+We are working with the central OHBM team to make this a feature of the annual meeting going forwards.
 
 ## Have we missed anything?
 
