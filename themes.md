@@ -8,13 +8,13 @@ The OSR has always been a place to learn and share experiences. This year we wou
 If you would like to present in the OSR, we invite you to:
 1. Consider how your work falls into one of the below themes.
 2. Consider what [format](formats.md) you would like to present in (including the "emergent" format for work which falls outside of the proposed themes)
-3. [Submit](submit.md) and application to present!
+3. [Submit](submit.md) an application to present!
 
 ## Theme 1: Open Workflows
 
 <img align="right" src="../img/undraw_data_xmfy.png" alt="workflow" width="40%">
 
-A "workflow" is a sequence of operations. Following good open research practices, we aim describe our workflow from data collection to figure generation as accurately as possible, to ensure maximum reproducibility by ourselves and our colleagues. We have also developed reproducible workflows for dealing with essential adjunct research activities, such as communication within and outside of our research groups and scheduling research participants. Recent advances such as containerisation have reduced barriers to sharing workflows between individual users, but the use of such tools is by no means universal.
+A "workflow" is a sequence of operations. Following good open research practices, we aim to describe our workflow from data collection to figure generation as accurately as possible, to ensure maximum reproducibility by ourselves and our colleagues. We have also developed reproducible workflows for dealing with essential adjunct research activities, such as communication within and outside of our research groups and scheduling research participants. Recent advances such as containerisation have reduced barriers to sharing workflows between individual users, but the use of such tools is by no means universal.
 
 Talks in this session will showcase how we ensure individual aspects of our research workflows are transferable, reproducible and connected. We are also pleased to hear about open source office, lab or life hacks we couldn't do without!
 

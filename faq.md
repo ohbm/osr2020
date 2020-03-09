@@ -7,7 +7,7 @@ title: FAQ
 The Open Science Room (OSR) is a conference within a conference, at the Organisation for Human Brain Mapping annual meeting in Montreal, June 26th - 30th. As with the rest of the meeting we are here to discuss advances in neuroimaging, but we also have a specific interest in open research practices.
 
 ### Who can present in the OSR?
-Anyone can present in the OSR! We invite presentations linked to our [themes](themes.md) and in the specified [formats](formats.md), but we also have room for unconferece-style "emergent" sessions where you can discuss anything you would like! We would like to especially platform the work of Early Career Researchers (ECR), and provide the lighting talk format for you to give voice to posters which have been accepted in the main meeting.
+Anyone can present in the OSR! We invite presentations linked to our [themes](themes.md) and in the specified [formats](formats.md), but we also have room for unconferece style "emergent" sessions where you can discuss anything you would like! We would like to especially platform the work of Early Career Researchers (ECR), and provide the lightning talk format for you to give voice to posters which have been accepted in the main meeting.
 
 **The call for presentations will open on March 16th and close on April 10th. Emergent sessions may be added after that time. Please submit your proposal for a presentation via the [submit](submit.md) page.**
 

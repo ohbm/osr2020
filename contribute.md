@@ -19,7 +19,7 @@ OSR Hosts will be onsite to welcome speakers and guests in the OSR. We would als
 
 <img align="right" src="../img/undraw_programmer_imem.svg" alt="tech" width="40%">
 
-For the first time in OHBM and OSR history, we will be broadcasting all the scheduled OSR material live via the [OS-SIG YouTube channel](https://www.youtube.com/channel/UChvSitFvqGDeA1y7MJs4CGQ) to anyone who would like to tune in! We have been greatly supported by OHBM and the conference venue in arranging the live broadcast, but there a number of additional technical challenges we will encounter onsite as a result. We are also hoping to introduce live captioning of presentations for improved accessibility, and a number of physical and computational systems for impact monitoring. If you like fiddling with a bit of tech (hardware and software!) we'd love for you to join us in helping to deliver the professional and accessibly OSR experience our community deserves.
+For the first time in OHBM and OSR history, we will be broadcasting all the scheduled OSR material live via the [OS-SIG YouTube channel](https://www.youtube.com/channel/UChvSitFvqGDeA1y7MJs4CGQ) to anyone who would like to tune in! We have been greatly supported by OHBM and the conference venue in arranging the live broadcast, but there are a number of additional technical challenges we will encounter onsite as a result. We are also hoping to introduce live captioning of presentations for improved accessibility, and a number of physical and computational systems for impact monitoring. If you like fiddling with a bit of tech (hardware and software!) we'd love for you to join us in helping to deliver the professional and accessibly OSR experience our community deserves.
 
 ## Branding and Merchandise
 

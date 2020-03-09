@@ -3,7 +3,7 @@ layout: page
 title: Presentation formats
 ---
 
-We invite you to present you work in the OSR in one of the following formats. [Theme](theme.md) specific talks will be presented in "[keynote](#keynote)", "[lightning](#lightning)" or "[demo](#demo)" formats. Spontaneous or non-themed sessions are bookable in advance or during the meeting in an "[emergent](#emergent)" format.
+We invite you to present your work in the OSR in one of the following formats. [Theme](theme.md) specific talks will be presented in "[keynote](#keynote)", "[lightning](#lightning)" or "[demo](#demo)" formats. Spontaneous or non-themed sessions are bookable in advance or during the meeting in an "[emergent](#emergent)" format.
 
 In all formats we would like to take this opportunity to intentionally diversify the range of speakers we hear from, and where possible platform voices which are traditionally under-represented in our field.
 
@@ -18,7 +18,7 @@ Keynote talks will be 30 minutes long, with 15 minutes for questions. These talk
 
 <img align="right" src="../img/nounproj-lightning.png" alt="lightning" width="10%" hspace="20">
 
-Lighting talks will be 5 minutes long with 2 minutes for questions. In these sessions we will prioritise presentations which have been accepted as a poster in the main meeting, but also invite submissions which will be presented in other formats or not presented elsewhere. Although these talks are short, they are an excellent opportunity to showcase you work to a dedicated audience!
+Lightning talks will be 5 minutes long with 2 minutes for questions. In these sessions we will prioritise presentations which have been accepted as a poster in the main meeting, but also invite submissions which will be presented in other formats or not presented elsewhere. Although these talks are short, they are an excellent opportunity to showcase your work to a dedicated audience!
 
 ## Demo
 

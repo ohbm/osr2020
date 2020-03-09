@@ -14,15 +14,15 @@ We are holding an open call for presentations in the OSR. </p>
 
 <h2>Open review</h2>
 
-<p><b>All submitted proposals will automatically populate an issue in our publicly available <a href="https://github.com/ohbm/osr2020">GitHub repository</a>. By using the form below to submit your proposal you are providing your consent for the information supplied to be made public available for the purposes for open review. Fields which will not be made public will be indicated on the form.</b></p>
+<p><b>All submitted proposals will automatically populate an issue in our publicly available <a href="https://github.com/ohbm/osr2020">GitHub repository</a>. By using the form below to submit your proposal you are providing your consent for the information supplied to be made publicly available for the purposes of open review. Fields which will not be made public will be indicated on the form.</b></p>
 
-<p>Please <b>DO NOT</b> use the submit form if there is any reason you why your proposal should not be made available for open review. In these instances, please <a href="https://ohbm.github.io/osr2020/contact/">contact us</a> suppling the theme (if relevant), format and a short description of your presentation. Please comment that you do not wish for your proposal to be made public. You do not need to disclose a reason for this.</p>
+<p>Please <b>DO NOT</b> use the submit form if there is any reason why your proposal should not be made available for open review. In these instances, please <a href="https://ohbm.github.io/osr2020/contact/">contact us</a> supplying the theme (if relevant), format and a short description of your presentation. Please comment that you do not wish for your proposal to be made public. You do not need to disclose a reason for this.</p>
 
 <h2>Community feedback</h2>
 
 <p>The community is invited to openly review and comment on proposals. We will use this feedback to inform our decisions in selecting presentations, along with other criteria described on our <a href="https://ohbm.github.io/osr2020/faq/">FAQ</a> page. You are encouraged to submit your proposal as early as possible to allow time for community feedback.</p>
 
-<p>During the submission process you will be asked to provide your GitHub username so you can be linked to the issue. You will receive an email confirmation when your submission has been received, and this will link to you issue on our repository. Please feel free to promote your issue/proposal via any means you wish and ask the community for feedback!</p>
+<p>During the submission process you will be asked to provide your GitHub username so you can be linked to the issue. You will receive an email confirmation when your submission has been received, and this will link to your issue on our repository. Please feel free to promote your issue/proposal via any means you wish and ask the community for feedback!</p>
 
 <p><b>If you do not have a GitHub username, we invite you to follow the instructions available <a href="https://github.com/">here</a> to create your free account before beginning the submission process.</b></p>
 
