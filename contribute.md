@@ -8,7 +8,7 @@ The OS-SIG has been working hard to make this the biggest and best OSR yet, and 
 
 You don't need to have specific experience in open science or even brain imaging to join us! All we ask is that you are interested in providing a professional, welcoming, inclusive and inspiring OSR experience for your colleagues. We will also ask you to join us in regular on-line meetings, to support your progress with any activity you have chosen to undertake.
 
-We have identified some specific roles or work packages we would love for you to be involved in. If you'd like to share your skills in these or any other areas, please fill in the [form](#volunteer-to-build) below to get in touch. We will email you back as soon as we can to arrange a chat,
+We have identified some roles or work packages we would love for you to contribute to. If you'd like to share your skills in these or any other areas, please fill in the [form](#volunteer-to-build) below to get in touch. We will email you back as soon as we can to arrange a chat,
 and you are under no obligation to agree to any work at this stage!
 
 - [OSR Host](#host)
