@@ -35,8 +35,7 @@ You are encouraged to submit your proposal as early as possible to allow time fo
 
 <p>During the submission process you will be asked to provide your GitHub username so you can be linked to the issue.
 You will receive an email confirmation when your submission has been received,
-and this will link to your issue on our <a href="https://github.com/ohbm/osr2020">GitHub repository</a>.
-Please feel free to promote your issue/proposal via any means you wish and ask the community for feedback!</p>
+and this will link to your issue on our <a href="https://github.com/ohbm/osr2020">GitHub repository</a>. The OS-SIG will also send out an automatic tweet every time a new talk proposal is added to the repository, along with a link and invitation for the community to review. Please feel free to use this and other means to promote your issue/proposal in any way you wish and ask the community for feedback!</p>
 
 <p><b>If you do not have a GitHub username, we invite you to follow the instructions available <a href="https://github.com/join">here</a> to create your free account before beginning the submission process.</b></p>
 
