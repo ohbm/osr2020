@@ -13,6 +13,8 @@ In all formats we would like to take this opportunity to intentionally diversify
 
 Keynote talks will be 30 minutes long, with 15 minutes for questions. These talks should showcase the best of our discipline with a clear message and call to action for our community.
 
+Keynotes may be followed by a panel discussion if appropriate for the talk. If you would like to be part of a panel following your keynote, we invite you to suggest names of up to three additional people who would promote discussion around the wider context of your talk. It would be preferable if panel members are at the meeting in person. You may wish to discuss you proposal with panel members before submission, but we do not expect you to have firm arrangements in place.
+
 
 ## Lightning <img align="left" src="../img/nounproj-lightning.png" alt="lightning" width="4%" hspace="20">
 
@@ -30,9 +32,9 @@ Software demo sessions are 7 minutes with 2 minutes for questions. These are a c
 
 <!-- <img align="right" src="../img/nounproj-emergent.png" alt="emergent" width="15%" hspace="20"> -->
 
-Emergent sessions are 15 minutes long. They can be framed as conversations which you would like to have in an open format among your peers.
+Emergent sessions may be variable length from 15 minutes to one hour. They can be framed as conversations which you would like to have in an open format among your peers.
 
-You may use these sessions to invite contributions to your collaborative project, hold an open forum to discuss a development on social media, follow up on a discussion started in the main meeting, or basically anything you would like! You are equally welcome to share other research findings or practices which do not fit into one of the [themes](themes.md) we are promoting. You are welcome to book an emergent session via the [submit](submit.md) page now, or wait until you are at the meeting itself.  
+You may use these sessions to invite contributions to your collaborative project, hold an open forum to discuss a development on social media, follow up on a discussion started in the main meeting, hold a panel discussion, or basically anything you would like! You are equally welcome to share other research findings or practices which do not fit into one of the [themes](themes.md) we are promoting. You are welcome to book an emergent session via the [submit](submit.md) page now, or wait until you are at the meeting itself.  
 
 
 
