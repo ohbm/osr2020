@@ -28,7 +28,7 @@ And on twitter @OhbmOpen #OHBM #OSR #WatchParty - need to think of a way of iden
 ## What is happening when
 
 The schedule for the OSR is [here](schedule.md). Please note times are local in Montreal.
-&ltHow to convert times to your local? e.g. <a href="https://arewemeetingyet.com/#form">are we meeting yet</a>&gt
+&lt;How to convert times to your local? e.g. <a href="https://arewemeetingyet.com/#form">are we meeting yet</a>&gt;
 
 <div id='host'></div>
 ## How to host a watch party!
