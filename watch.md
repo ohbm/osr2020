@@ -9,6 +9,10 @@ For the first time in OHBM and OSR history, we will be broadcasting all the sche
 
 We'd love to see where you are watching from! We'd also love to help your colleagues find you so you can watch the action in the OSR together, and share the experience!
 
+<div align="center">
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1D1GeMmfc14zmYXt9059h5-op8n8x72mq" width="640" height="480"></iframe>
+</div>
+
 If you would like to let us know about your watch party, please add it to this [open map](https://drive.google.com/open?id=1D1GeMmfc14zmYXt9059h5-op8n8x72mq&usp=sharing). Simply search for your location and click `Add to Map` then the pencil icon to `Edit` the details. In the details please provide:
 1. Your contact name and email address;
 2. The time and date for any events;
@@ -18,10 +22,6 @@ If you would like to let us know about your watch party, please add it to this [
 If there is a watch party near you which you would like to join, please contact the organiser!
 
 If you would like to watch by yourself or have a party, [below](#how) you will find some useful information about how to connect to the broadcast and other essentials.
-
-<div align="center">
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1D1GeMmfc14zmYXt9059h5-op8n8x72mq" width="640" height="480"></iframe>
-</div>
 
 <div id='how'></div>
 # How to watch
