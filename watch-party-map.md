@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FAQ
+title: Watch Party Map
 ---
 
 # Host a watch party!
