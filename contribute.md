@@ -25,7 +25,7 @@ and you are under no obligation to agree to any work at this stage!
 
 <img align="right" src="../img/undraw_Hello_qnas.svg" alt="host" width="30%">
 
-OSR Hosts will be onsite to welcome speakers and guests in the OSR. We would also love for you to be involved in designing our opening and closing events, overseeing the physical use of the multipurpose OSR space, chair sessions, and ensure that we are reaching our goals for accessibility.
+OSR Hosts will be online to welcome speakers and guests in the virtual OSR space. We would also love for you to be involved in designing our opening and closing events, overseeing the use of the multipurpose virtual OSR space, chair sessions, and ensure that we are reaching our goals for accessibility.
 The [OS-SIG and OSR Co-Chairs](https://ossig.netlify.com/) will help build and support your efforts all the way.
 
 <div id='officehours'></div>
@@ -36,12 +36,12 @@ The [OS-SIG and OSR Co-Chairs](https://ossig.netlify.com/) will help build and s
 Stepping into the Open Science field can be a daunting task, and we want to help with that. Many of our community members have years of experience and loads of skills in open source programming, analysis methods, open publishing and peer review, data and code sharing tools and practices. On the other hand, many of us are new to all of this and would like to know more! We want to create an informal, inclusive and helpful environment where newcomers are encouraged to ask questions, and experienced open neuroimagers or open sciencers are happy to answer them. If you like helping others and would like to share your knowledge in the OSR, please let us know!
 
 <div id='tech'></div>
-## Onsite and Online Tech Support
+## Online Tech Support and Planning
 
 <img align="right" src="../img/undraw_programmer_imem.svg" alt="tech" width="40%">
 
-For the first time in OHBM and OSR history, we will be broadcasting all the scheduled OSR material live via the [OS-SIG YouTube channel](https://www.youtube.com/channel/UChvSitFvqGDeA1y7MJs4CGQ)
-to anyone who would like to tune in! We have been greatly supported by OHBM and the conference venue in arranging the live broadcast, but there are a number of additional technical challenges we will encounter onsite as a result. We are also hoping to introduce live captioning of presentations for improved accessibility, and a number of physical and computational systems for impact monitoring. If you like fiddling with a bit of tech (hardware and software!) we'd love for you to join us in helping to deliver the professional and accessible OSR experience our community deserves.
+For the first time in OHBM and OSR history, we will host a virtual meeting and broadcast all the scheduled OSR material via the [OS-SIG YouTube channel](https://www.youtube.com/channel/UChvSitFvqGDeA1y7MJs4CGQ)
+to anyone who would like to tune in! Of course, this exciting development comes with its own challenges and we want to ensure a seamless experience for our community. We are also hoping to introduce live captioning of presentations for improved accessibility, and an online system for impact monitoring. If you like fiddling with a bit of tech we'd love for you to join us in helping to deliver the professional and accessible OSR experience our community deserves.
 
 <div id='branding'></div>
 ## Branding and Merchandise

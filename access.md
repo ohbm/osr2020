@@ -14,7 +14,8 @@ All online and in-person interactions relating to the OSR should be conducted in
 
 ## Live broadcast
 
-For the first time in OHBM and OSR history, we will be broadcasting all the scheduled OSR material live via the [OS-SIG YouTube channel](https://www.youtube.com/channel/UChvSitFvqGDeA1y7MJs4CGQ) to anyone who would like to tune in! We have championed this facility to support participation of our colleagues who cannot or choose not to travel to Montreal. The live broadcast will be supported by a system for receiving questions from remote viewers, so they can contribute directly to the discussion. We would also be pleased to support you with materials and advice if you would like to host a local "watch party" at your institution - please [contact us](contact.md) for further information!
+For the first time in OHBM and OSR history, we will host a virtual meeting and broadcast all the scheduled OSR material via the [OS-SIG YouTube channel](https://www.youtube.com/channel/UChvSitFvqGDeA1y7MJs4CGQ) to anyone who would like to tune in!
+The live broadcast will be supported by a system for receiving questions from remote viewers, so they can contribute directly to the discussion. 
 
 We are pleased that the stream to YouTube will not require our viewers to install any additional software and the feed can be scaled to fit available bandwidth. We are aware that YouTube is not currently available in all countries and are working to identify a more universal solution. We are very happy for you to [contact us](contact.md) to discuss options if YouTube is not a available in your region.
 
