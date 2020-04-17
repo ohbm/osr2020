@@ -5,8 +5,8 @@ title: Submit
 
 <div align="left">
 <p>
-
-We are holding an open call for talks in the OSR. We will be reviewing talk submissions in two rounds.<b> The first round will close on May 15th</b>. For talks accepted in this round, we may be able to support you in generating prerecorded material for your talk.<b> The second round will close June 15th<b>. For talks accepted in this round we may be able to provide only limited support to assist you in generating prerecorded material.</p>
+We are holding an open call for talks in the OSR. We will be reviewing talk submissions in two rounds.<b> The first round will close on May 15th</b>. For talks accepted in this round, we may be able to support you in generating prerecorded material for your talk.<b> The second round will close June 15th</b>. For talks accepted in this round we may be able to provide only limited support to assist you in generating prerecorded material.
+</p>
 
 <p><b>It is our strong preference that Lightning and Demo talks are pre-recorded to minimise the likelihood of technical difficulties in speaker changes, while Keynote and Emergent sessions are held live to maximise audience engagement</b>. We still have to finalise the details with the platform, but we expect that it will be possible for you to host your Emergent session with only minimal advance warning, by submitting a request during the meeting itself.</p>
 
