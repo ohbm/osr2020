@@ -39,7 +39,7 @@ Stepping into the Open Science field can be a daunting task, and we want to help
 
 <img align="right" src="../img/undraw_programmer_imem.svg" alt="tech" width="40%">
 
-The move to a virtual meeting is brining some new technological challenges, some yet we don't even understand know about! We want to ensure a seamless and accessible experience for our community, and this will undoubtedly involve getting to grips with some new tech, such as building of the virtual environment, live captioning and video production. If you like fiddling with a bit of tech we'd love for you to join us in helping to deliver the professional and accessible OSR experience our community deserves. As with all other roles, you will be part of the team helping to build these processes and make decisions as we uncover them.
+The move to a virtual meeting is bringing some new technological challenges, some yet we don't even understand know about! We want to ensure a seamless and accessible experience for our community, and this will undoubtedly involve getting to grips with some new tech, such as building of the virtual environment, live captioning and video production. If you like fiddling with a bit of tech we'd love for you to join us in helping to deliver the professional and accessible OSR experience our community deserves. As with all other roles, you will be part of the team helping to build these processes and make decisions as we uncover them.
 
 <div id='branding'></div>
 ## Branding and Design

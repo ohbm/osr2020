@@ -10,7 +10,7 @@ We are holding an open call for talks in the OSR. We will be reviewing talk subm
 
 <p><b>It is our strong preference that Lightning and Demo talks are pre-recorded to minimise the likelihood of technical difficulties in speaker changes, while Keynote and Emergent sessions are held live to maximise audience engagement</b>. We still have to finalise the details with the platform, but we expect that it will be possible for you to host your Emergent session with only minimal advance warning, by submitting a request during the meeting itself.</p>
 
-<p>Please see our description of <a href="https://ohbm.github.io/osr2020/formats/">formats</a> to understand which type of session your talk will fall best into. Please also see the <a href="https://ohbm.github.io/osr2020/faq/">FAQ</a> page for notes our decision timeline. Once you know where your talk will be best positioned, please use the form below to submit your presentation proposal.</p>
+<p>Please see our description of <a href="https://ohbm.github.io/osr2020/formats/">formats</a> to understand which type of session your talk will fall best into. Please also see the <a href="https://ohbm.github.io/osr2020/faq/">FAQ</a> page for notes on our decision timeline. Once you know where your talk will be best positioned, please use the form below to submit your presentation proposal.</p>
 
 <h2>Open review</h2>
 
