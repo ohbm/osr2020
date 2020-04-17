@@ -5,7 +5,7 @@ title: FAQ
 
 - [What is the OSR?](#what)
 - [Who can present in the OSR?](#whopresent)
-- [Who can visit the OSR?](#whovisit)
+- [Who can participate in the OSR?](#whovisit)
 - [Do I have to travel to participate in the OSR?](#attend)
 - [When will I know if I have been accepted to present in the OSR?](#when)
 - [Who will decide if my presentation proposal is accepted in the OSR?](#decide)
