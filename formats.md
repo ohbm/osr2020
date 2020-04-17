@@ -12,7 +12,7 @@ and where possible platform voices which are traditionally under-represented in 
 
 ## Prerecorded and live talks
 
-To smooth the flow of a virtual conference, we would like to prerecord Lightning and Demo talks. Recording can be done via a tool of your choosing, and we will provide tips and recommendations to maximise the impact of your talk. We are aiming for your recording to include contain both an image of yourself and your slides. We are finalising details of this process and will share more information or requirements with yuo as soon as they are available.
+To smooth the flow of a virtual conference, we would like to prerecord Lightning and Demo talks. Recording can be done via a tool of your choosing, and we will provide tips and recommendations to maximise the impact of your talk. We are aiming for your recording to contain both an image of yourself and your slides. We are finalising details of this process and will share more information or requirements with you as soon as they are available.
 
 ## Keynote <img style="float: left;" src="../img/nounproj-key.png" alt="keynote" width="5%" hspace="20">
 
