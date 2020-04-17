@@ -4,11 +4,15 @@ title: Talk formats
 ---
 
 We invite you to present your work in the OSR in one of the following formats.
-[Theme](themes.md) specific talks will be presented in "keynote", "lightning", "demo" or "panel discussion" formats.
-Spontaneous or non-themed sessions are bookable in advance or during the meeting in an "emergent" format.
+[Theme](themes.md) specific talks will be presented in "keynote", "lightning", "demo" or "panel discussion" sessions.
+Spontaneous or non-themed sessions are bookable in advance or during the meeting in an "Emergent" format.
 
 In all formats we would like to take this opportunity to intentionally diversify the range of speakers we hear from,
 and where possible platform voices which are traditionally under-represented in our field.
+
+## Prerecorded and live talks
+
+To smooth the flow of a virtual conference, we would like to prerecord Lightning and Demo talks. Recording can be done via a tool of your choosing, and we will provide tips and recommendations to maximise the impact of your talk. We are aiming for your recording to contain both an image of yourself and your slides. We are finalising details of this process and will share more information or requirements with you as soon as they are available.
 
 ## Keynote <img style="float: left;" src="../img/nounproj-key.png" alt="keynote" width="5%" hspace="20">
 
@@ -37,13 +41,13 @@ Software demo sessions are 7 minutes with 2 minutes for questions.
 These are a chance to showcase the latest developments in open source software,
 whether you have written the code yourself or would just like to champion the tool!
 
-## Emergent <img align="left" src="../img/nounproj-emergent.png" alt="emergent" width="7%" hspace="15">
+## Emergent <img align="left" src="../img/nounproj-emergent.png" alt="Emergent" width="7%" hspace="15">
 
-<!-- <img align="right" src="../img/nounproj-emergent.png" alt="emergent" width="15%" hspace="20"> -->
+<!-- <img align="right" src="../img/nounproj-Emergent.png" alt="Emergent" width="15%" hspace="20"> -->
 
 Emergent sessions may be variable length from 15 minutes to one hour. They can be framed as conversations which you would like to have in an open format among your peers.
 
-You may use these sessions to invite contributions to your collaborative project, hold an open forum to discuss a development on social media, follow up on a discussion started in the main meeting, hold a panel discussion, or basically anything you would like! You are equally welcome to share other research findings or practices which do not fit into one of the [themes](themes.md) we are promoting. You are welcome to book an emergent session via the [submit](submit.md) page now, or wait until you are at the meeting itself.  
+You may use these sessions to invite contributions to your collaborative project, hold an open forum to discuss a development on social media, follow up on a discussion started in the main meeting, hold a panel discussion, or basically anything you would like! You are equally welcome to share other research findings or practices which do not fit into one of the [themes](themes.md) we are promoting. You are welcome to book an Emergent session via the [submit](submit.md) page now, or wait until you are at the meeting itself.  
 
 
 ---
