@@ -6,13 +6,11 @@ title: Submit
 <div align="left">
 <p>
 
-We are holding an open call for talks in the OSR. </p>
+We are holding an open call for talks in the OSR. We will be reviewing talk submissions in two rounds.<b> The first round will close on May 15th</b>. For talks accepted in this round, we may be able to support you in generating prerecorded material for your talk.<b> The second round will close June 15th<b>. For talks accepted in this round we may be able to provide only limited support to assist you in generating prerecorded material.</p>
 
-<p><b><i>The call will open on March 16th and close on April 10th (the submission form will remain open as long as it is April 10th somewhere in the world!).
-</i></b> Please also see the <a href="https://ohbm.github.io/osr2020/faq/">FAQ</a> page for notes about conference registration and our decision timeline.</p>
+<p><b>It is our strong preference that Lightning and Demo talks are pre-recorded to minimise the likelihood of technical difficulties in speaker changes, while Keynote and Emergent sessions are held live to maximise audience engagement</b>. We still have to finalise the details with the platform, but we expect that it will be possible for you to host your Emergent session with only minimal advance warning, by submitting a request during the meeting itself.</p>
 
-<p><a href="https://ohbm.github.io/osr2020/themes/">Themes</a> and talk <a href="https://ohbm.github.io/osr2020/formats/">formats</a> are described on the linked pages.
-Once you know where your talk will be best positioned, please use the form below to submit your presentation proposal.</p>
+<p>Please see our description of <a href="https://ohbm.github.io/osr2020/formats/">formats</a> to understand which type of session your talk will fall best into. Please also see the <a href="https://ohbm.github.io/osr2020/faq/">FAQ</a> page for notes our decision timeline. Once you know where your talk will be best positioned, please use the form below to submit your presentation proposal.</p>
 
 <h2>Open review</h2>
 
@@ -43,7 +41,7 @@ The <a href="https://twitter.com/OhbmOpen">OS-SIG twitter account</a> will also 
 
 <h2>Live streaming and recording of presentations</h2>
 
-<p>In line with our requirements for <a href="https://ohbm.github.io/osr2020/access/">accessibility</a>, we will be live streaming and recording all non-emergent presentations in the OSR. If your presentation is accepted, we will ask you to sign a release form licensing the broadcast and recording. If you do not wish your talk to be made publicly available, please select the "emergent" format.</p>
+<p>In line with our requirements for <a href="https://ohbm.github.io/osr2020/access/">accessibility</a>, we will be live streaming and recording all non-Emergent presentations in the OSR. If your presentation is accepted, we will ask you to sign a release form licensing the broadcast and recording. If you do not wish your talk to be made publicly available, please select the "Emergent" format.</p>
 
 <h2>Submit your proposal</h2>
 

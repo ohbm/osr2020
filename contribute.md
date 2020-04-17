@@ -14,7 +14,7 @@ and you are under no obligation to agree to any work at this stage!
 - [OSR Host](#host)
 - [Open Research Advisor (Office Hours)](#officehours)
 - [Onsite and Online Tech Support](#tech)
-- [Branding and Merchandise](#branding)
+- [Branding and Design](#branding)
 - [Social and Media](#social)
 
 ---
@@ -25,30 +25,28 @@ and you are under no obligation to agree to any work at this stage!
 
 <img align="right" src="../img/undraw_Hello_qnas.svg" alt="host" width="30%">
 
-OSR Hosts will be online to welcome speakers and guests in the virtual OSR space. We would also love for you to be involved in designing our opening and closing events, overseeing the use of the multipurpose virtual OSR space, chair sessions, and ensure that we are reaching our goals for accessibility.
-The [OS-SIG and OSR Co-Chairs](https://ossig.netlify.com/) will help build and support your efforts all the way.
+OSR Hosts will be online to welcome speakers and guests in the virtual OSR space in your own timezone. We would also love for you to be involved in designing our opening and closing events, overseeing the use of the multipurpose virtual OSR space, chairing sessions, moderating chat, and ensuring that we are reaching our goals for accessibility. The [OS-SIG and OSR Co-Chairs](https://ossig.netlify.com/) will help build and support your efforts all the way.
 
 <div id='officehours'></div>
 ## Open Research Advisor
 
 <img align="right" src="../img/undraw_code_review_l1q9.svg" alt="officehours" width="40%">
 
-Stepping into the Open Science field can be a daunting task, and we want to help with that. Many of our community members have years of experience and loads of skills in open source programming, analysis methods, open publishing and peer review, data and code sharing tools and practices. On the other hand, many of us are new to all of this and would like to know more! We want to create an informal, inclusive and helpful environment where newcomers are encouraged to ask questions, and experienced open neuroimagers or open sciencers are happy to answer them. If you like helping others and would like to share your knowledge in the OSR, please let us know!
+Stepping into the Open Science field can be a daunting task, and we want to help with that. Many of our community members have years of experience and loads of skills in open source programming, analysis methods, open publishing and peer review, data and code sharing tools and practices. On the other hand, many of us are new to all of this and would like to know more! We want to create an informal, inclusive and helpful environment where newcomers are encouraged to ask questions, and experienced open neuroimagers or open sciencers are happy to answer them. If you like helping others and would like to share your knowledge in the OSR, please let us know! In the virtual space this will likely involve being available at designated times for one-to-one or one-to-group chats via video or text. We will let you know as soon as we have details on the process, and you will be involved in designing this every step of the way.
 
 <div id='tech'></div>
 ## Online Tech Support and Planning
 
 <img align="right" src="../img/undraw_programmer_imem.svg" alt="tech" width="40%">
 
-For the first time in OHBM and OSR history, we will host a virtual meeting and broadcast all the scheduled OSR material via the [OS-SIG YouTube channel](https://www.youtube.com/channel/UChvSitFvqGDeA1y7MJs4CGQ)
-to anyone who would like to tune in! Of course, this exciting development comes with its own challenges and we want to ensure a seamless experience for our community. We are also hoping to introduce live captioning of presentations for improved accessibility, and an online system for impact monitoring. If you like fiddling with a bit of tech we'd love for you to join us in helping to deliver the professional and accessible OSR experience our community deserves.
+The move to a virtual meeting is brining some new technological challenges, some yet we don't even understand know about! We want to ensure a seamless and accessible experience for our community, and this will undoubtedly involve getting to grips with some new tech, such as building of the virtual environment, live captioning and video production. If you like fiddling with a bit of tech we'd love for you to join us in helping to deliver the professional and accessible OSR experience our community deserves. As with all other roles, you will be part of the team helping to build these processes and make decisions as we uncover them.
 
 <div id='branding'></div>
-## Branding and Merchandise
+## Branding and Design
 
 <img align="right" src="../img/undraw_logo_design_bjnx.svg" alt="branding" width="40%">
 
-We love a bit of merch. Branding and merchandise will create an identity for the OSR, and subsequently project an identity for our community. We are proud of the work we do, and we want to create devices which can unite us while bringing others in. This includes onsite signage, badges, t-shirts for our volunteers (if you'd like them!) and holding screens for the live broadcast and between talks. We're also not too precious about our colour schemes and current logo, so if you think that could be improved, you're welcome to have a play! If you have a creative mind and like designing and building, feel free to join!
+Branding and design will create an identity for the OSR, and subsequently project an identity for our community. We are proud of the work we do, and we want to create devices which can unite us while bringing others in. This includes digital material on our website, any branding that we can build into the virtual space, splash screens, virtual backgrounds, slide templates, fun graphics to throw around the place, and anything else you can think of to bring the virtual environment to life! If you have a creative mind and like designing and building, feel free to join! There are many details yet to finalise on this one, so this is a great opportunity to put your stamp on the project.
 
 <div id='social'></div>
 ## Social and Media

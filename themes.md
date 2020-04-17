@@ -9,7 +9,7 @@ We'd also like to reflect where we have come from and what we may be heading tow
 
 If you would like to present in the OSR, we invite you to:
 1. Consider how your work falls into one of the themes indicated below.
-2. Consider what [format](formats.md) you would like to present in (including the "emergent" format for work which falls outside of the proposed themes)
+2. Consider what [format](formats.md) you would like to present in (including the "Emergent" format for work which falls outside of the proposed themes)
 3. [Submit](submit.md) an application to present!
 
 ## Theme 1: Open Workflows
