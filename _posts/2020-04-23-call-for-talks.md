@@ -4,7 +4,7 @@ title: Call for OSR talks and speaker mini-grants!
 comments: true
 social-links: true
 image: "../img/logo-osr2020_cropped.png"
-show-avatar: true
+show-avatar: false
 ---
 
 We have two exciting announcements!
@@ -53,3 +53,6 @@ If you have any further questions, please reach out to us:
 - Send a mail to ohbm`(dot)`osr`(at)`gmail`(dot)`com
 - Follow [@OHBMopen](https://twitter.com/ohbmopen) on Twitter
 - Visit our [News page](https://ohbm.github.io/osr2020/news/) for updates
+
+---
+
