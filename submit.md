@@ -10,6 +10,7 @@ We are holding an open call for talks in the OSR and will be reviewing talk subm
 - The first round of submissions is ***open until 15 May 2020***. For talks accepted in the first round, we aim to support you in generating pre-recorded material for your talk.
 - The second and last round of submissions is ***open until 15 June 2020***. For talks accepted in the last round we may be able to provide only limited support in generating pre-recorded material.
 
+<br>
 ## Recording and Live streaming of presentations
 
 **It is our strong preference that Lightning and Demo talks are pre-recorded** to minimise the likelihood of technical difficulties during speaker changes,
@@ -24,7 +25,7 @@ If you do not wish your talk to be made publicly available, please select the "E
 Please see our description of [talk formats](https://ohbm.github.io/osr2020/formats/) to understand which type of session your talk will fall best into.
 Please also see the [FAQ page](https://ohbm.github.io/osr2020/faq/) for notes on our decision timeline.
 
-
+<br>
 ## Inclusivity and representation
 
 The OHBM Open Science Special Interest Group (OS-SIG) promotes diversity and improved representation for traditionally underrepresented groups in the OSR.
@@ -36,7 +37,7 @@ We have therefore set up a [secure and data-privacy-aware form](#framasoft) (in 
 
 
 <div id="minigrants"></div>
-
+<br>
 ## Mini-grants
 
 We are providing 20 mini-grants, at 100 USD each, to serve as financial support for OSR speakers.
@@ -48,7 +49,7 @@ We also ask that you provide your motivation for applying and explain how you mi
 The OS-SIG prioritises applicants from underrepresented groups, those with financial need and those who do not yet own the essential equipment for online conferencing.
 Since your motivation for applying might include sensitive personal information, we provide ask you to submit your motivation as part of the second form.
 
-
+<br>
 ## Open review
 
 **All submitted talk proposals will automatically populate an issue in our publicly available [GitHub repository](https://github.com/ohbm/osr2020/issues).
@@ -60,7 +61,7 @@ In these instances, please [contact us](https://ohbm.github.io/osr2020/contact/)
 Please comment that you do not wish for your proposal to be made public.
 You do not need to disclose a reason for this.
 
-
+<br>
 ## Community feedback
 
 The community is invited to openly review and comment on proposals.
@@ -78,9 +79,10 @@ Please feel free to use this and other means to promote your issue/proposal in a
 If you do not have a GitHub username, we invite you to follow the instructions available [here](https://github.com/join) to create your free account before beginning the submission process.
 
 
-## Submit your talk proposal
 
-</div>
+<div id="tripetto"></div>
+<br>
+## Submit your talk proposal
 
 <div style="--aspect-ratio: 3/4;">
   <iframe
@@ -104,7 +106,7 @@ tripettoDoc.document.close();
 
 
 <div id="framasoft"></div>
-
+<br>
 ## Sensitive information
 
 Please use this form to indicate whether you self-identify with an underrepresented group,
