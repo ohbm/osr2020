@@ -22,10 +22,7 @@ If your presentation is accepted, we will ask you to sign a release form licensi
 If you do not wish your talk to be made publicly available, please select the "Emergent" format in the submission form below.
 
 Please see our description of [talk formats](https://ohbm.github.io/osr2020/formats/) to understand which type of session your talk will fall best into.
-
 Please also see the [FAQ page](https://ohbm.github.io/osr2020/faq/) for notes on our decision timeline.
-
-Once you know where your talk will be best positioned, please use the form below to submit your presentation proposal.
 
 
 ## Inclusivity and representation
