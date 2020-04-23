@@ -3,6 +3,19 @@ layout: page
 title: Submit
 ---
 
+- [Submission rounds](#rounds)
+- [Recording and Live streaming of presentations](#recording)
+- [Inclusivity and representation](#inclusivity)
+- [Mini-grants](#minigrants)
+- [Open review](#review)
+- [Community feedback](#feedback)
+- [Submission Step 1: talk proposal](#tripetto)
+- [Submission Step 2: sensitive information](#framasoft)
+
+---
+
+<div id="rounds"></div>
+
 ## Submission rounds
 
 We are holding an open call for talks in the OSR and will be reviewing talk submissions in two rounds:
@@ -10,6 +23,7 @@ We are holding an open call for talks in the OSR and will be reviewing talk subm
 - The first round of submissions is ***open until 15 May 2020***. For talks accepted in the first round, we aim to support you in generating pre-recorded material for your talk.
 - The second and last round of submissions is ***open until 15 June 2020***. For talks accepted in the last round we may be able to provide only limited support in generating pre-recorded material.
 
+<div id="recording"></div>
 <br>
 ## Recording and Live streaming of presentations
 
@@ -25,6 +39,8 @@ If you do not wish your talk to be made publicly available, please select the "E
 Please see our description of [talk formats](https://ohbm.github.io/osr2020/formats/) to understand which type of session your talk will fall best into.
 Please also see the [FAQ page](https://ohbm.github.io/osr2020/faq/) for notes on our decision timeline.
 
+
+<div id="inclusivity"></div>
 <br>
 ## Inclusivity and representation
 
@@ -49,6 +65,7 @@ We also ask that you provide your motivation for applying and explain how you mi
 The OS-SIG prioritises applicants from underrepresented groups, those with financial need and those who do not yet own the essential equipment for online conferencing.
 Since your motivation for applying might include sensitive personal information, we provide ask you to submit your motivation as part of the [second form below](#framasoft).
 
+<div id="review"></div>
 <br>
 ## Open review
 
@@ -61,6 +78,8 @@ In these instances, please [contact us](https://ohbm.github.io/osr2020/contact/)
 Please comment that you do not wish for your proposal to be made public.
 You do not need to disclose a reason for this.
 
+
+<div id="feedback"></div>
 <br>
 ## Community feedback
 
@@ -77,8 +96,6 @@ The [OS-SIG twitter account](https://twitter.com/ohbmopen) will also automatical
 Please feel free to use this and other means to promote your issue/proposal in any way you wish and gather as much feedback or interest as you can!
 
 If you do not have a GitHub username, we invite you to follow the instructions available [here](https://github.com/join) to create your free account before beginning the submission process.
-
-
 
 <div id="tripetto"></div>
 <br>
