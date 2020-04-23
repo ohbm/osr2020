@@ -27,6 +27,7 @@ navbar-links:
     - Review: "review"
   Contribute: "contribute"
   Accessibility: "access"
+  News: "news"
   Contact: "contact"
   FAQ: "faq"
   # Watch: "watch"
