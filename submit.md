@@ -43,11 +43,11 @@ We have therefore set up a [secure and data-privacy-aware form](#framasoft) (in 
 We are providing 20 mini-grants, at 100 USD each, to serve as financial support for OSR speakers.
 These are ideal to assist with buying essential online communication equipment, data packages, or related expenses.
 Applicants can also suggest a different use of the mini-grant based on their specific needs.
-If you would like to apply for the mini-grant, please check the appropriate box in the talk submission form below.
+If you would like to apply for the mini-grant, please check the appropriate box in the [talk submission form below](#tripetto).
 We also ask that you provide your motivation for applying and explain how you might benefit from it.
 
 The OS-SIG prioritises applicants from underrepresented groups, those with financial need and those who do not yet own the essential equipment for online conferencing.
-Since your motivation for applying might include sensitive personal information, we provide ask you to submit your motivation as part of the second form.
+Since your motivation for applying might include sensitive personal information, we provide ask you to submit your motivation as part of the [second form below](#framasoft).
 
 <br>
 ## Open review
