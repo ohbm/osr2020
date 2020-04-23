@@ -131,7 +131,7 @@ whether you are from the [Global South](https://en.wikipedia.org/wiki/Global_Sou
 
 <div style="--aspect-ratio: 3/4;">
   <iframe
-    src="https://framaforms.org/open-science-room-talk-application-step-2-1587630815"
+    src="https://framaforms.org/1587630815"
     width="720"
     height="600"
     frameborder="0"
@@ -139,5 +139,6 @@ whether you are from the [Global South](https://en.wikipedia.org/wiki/Global_Sou
     marginwidth="0"
   >
   </iframe>
-</div>
+</div>  
+
 
