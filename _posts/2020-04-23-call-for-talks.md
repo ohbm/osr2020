@@ -3,7 +3,7 @@ layout: post
 title: Call for OSR talks and speaker mini-grants!
 comments: true
 social-links: true
-image: "../news/assets/logo-osr2020_square2.png"
+image: "https://github.com/ohbm/osr2020/blob/master/img/logo-osr2020_square2.png"
 show-avatar: true
 ---
 
