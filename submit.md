@@ -82,7 +82,7 @@ If you do not have a GitHub username, we invite you to follow the instructions a
 
 <div id="tripetto"></div>
 <br>
-## Submit your talk proposal
+## Submission Step 1: talk proposal
 
 <div style="--aspect-ratio: 3/4;">
   <iframe
@@ -107,7 +107,7 @@ tripettoDoc.document.close();
 
 <div id="framasoft"></div>
 <br>
-## Sensitive information
+## Submission Step 2: sensitive information
 
 Please use this form to indicate whether you self-identify with an underrepresented group,
 whether you are from the [Global South](https://en.wikipedia.org/wiki/Global_South), and to provide your motivation for applying for the OSR speaker mini-grant.
