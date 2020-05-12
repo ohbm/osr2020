@@ -27,9 +27,7 @@ We are holding an open call for talks in the OSR and will be reviewing talk subm
 <br>
 ## Recording and Live streaming of presentations
 
-**It is our strong preference that Lightning and Demo talks are pre-recorded** to minimise the likelihood of technical difficulties during speaker changes,
-while **Keynote and Emergent sessions are held live** to maximise audience engagement.
-We still have to finalise details with the platform, but we expect that it will be possible for you to host your Emergent session with only minimal advance warning, by submitting a request during the meeting itself.
+**It will be necessary for all Lightning and Demo and Keynote talks to be pre-recorded** to minimise the likelihood of technical difficulties during speaker changes. **Emergent sessions and Opening / Closing Ceremonies will be held live** to maximise audience engagement. We still have to finalise details with the platform, but we expect that it will be possible for you to host your Emergent session with only minimal advance warning, by submitting a request during the meeting itself.
 
 In line with our requirements for [accessibility](https://ohbm.github.io/osr2020/access/),
 we will be live recording and streaming all non-Emergent presentations in the OSR.
