@@ -21,7 +21,7 @@ title: Submit
 We are holding an open call for talks in the OSR and will be reviewing talk submissions in two rounds:
 
 - The first round of submissions is ***open until 15 May 2020***. For talks accepted in the first round, we aim to support you in generating pre-recorded material for your talk.
-- The second and last round of submissions is ***open until 15 June 2020***. For talks accepted in the last round we may be able to provide only limited support in generating pre-recorded material.
+- The second and last round of submissions is ***open until 1 June 2020***. For talks accepted in the last round we may be able to provide only limited support in generating pre-recorded material.
 
 <div id="recording"></div>
 <br>
@@ -140,5 +140,3 @@ whether you are from the [Global South](https://en.wikipedia.org/wiki/Global_Sou
   >
   </iframe>
 </div>  
-
-
