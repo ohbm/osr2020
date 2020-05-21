@@ -20,16 +20,14 @@ title: Submit
 
 We are holding an open call for talks in the OSR and will be reviewing talk submissions in two rounds:
 
-- The first round of submissions is ***open until 15 May 2020***. For talks accepted in the first round, we aim to support you in generating pre-recorded material for your talk.
-- The second and last round of submissions is ***open until 15 June 2020***. For talks accepted in the last round we may be able to provide only limited support in generating pre-recorded material.
+- The first round of submissions is ***open until 15 May 2020, 23:59. As long as it is 15th May somewhere in the world, you are free to submit!***. For talks accepted in the first round, we aim to support you in generating pre-recorded material for your talk.
+- The second and last round of submissions is ***open until 1 June 2020***. For talks accepted in the last round we may be able to provide only limited support in generating pre-recorded material.
 
 <div id="recording"></div>
 <br>
 ## Recording and Live streaming of presentations
 
-**It is our strong preference that Lightning and Demo talks are pre-recorded** to minimise the likelihood of technical difficulties during speaker changes,
-while **Keynote and Emergent sessions are held live** to maximise audience engagement.
-We still have to finalise details with the platform, but we expect that it will be possible for you to host your Emergent session with only minimal advance warning, by submitting a request during the meeting itself.
+**It will be necessary for all Lightning and Demo and Keynote talks to be pre-recorded** to minimise the likelihood of technical difficulties during speaker changes. **Emergent sessions and Opening / Closing Ceremonies will be held live** to maximise audience engagement. We still have to finalise details with the platform, but we expect that it will be possible for you to host your Emergent session with only minimal advance warning, by submitting a request during the meeting itself.
 
 In line with our requirements for [accessibility](https://ohbm.github.io/osr2020/access/),
 we will be live recording and streaming all non-Emergent presentations in the OSR.
@@ -140,5 +138,3 @@ whether you are from the [Global South](https://en.wikipedia.org/wiki/Global_Sou
   >
   </iframe>
 </div>  
-
-

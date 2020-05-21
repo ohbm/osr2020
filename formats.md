@@ -10,9 +10,9 @@ Spontaneous or non-themed sessions are bookable in advance or during the meeting
 In all formats we would like to take this opportunity to intentionally diversify the range of speakers we hear from,
 and where possible platform voices which are traditionally under-represented in our field.
 
-## Prerecorded and live talks
+## Prerecorded talks
 
-To smooth the flow of a virtual conference, we would like to prerecord Lightning and Demo talks. Recording can be done via a tool of your choosing, and we will provide tips and recommendations to maximise the impact of your talk. We are aiming for your recording to contain both an image of yourself and your slides. We are finalising details of this process and will share more information or requirements with you as soon as they are available.
+To smooth the flow of a virtual conference, we would like to prerecord Lightning and Demo and Keynote talks. Recording will primarily be managed by an external audio-visual company and we will provide tips and recommendations to maximise the impact of your talk. Your recording will contain an image of yourself and your slides. Speakers will be asked to be available during and immediately after their talks to answer questions. We are finalising details of this process and will share more information or requirements with you as soon as they are available.
 
 ## Keynote <img style="float: left;" src="../img/nounproj-key.png" alt="keynote" width="5%" hspace="20">
 
