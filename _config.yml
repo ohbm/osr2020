@@ -259,6 +259,7 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jemoji
 
 permalinks: pretty
 
