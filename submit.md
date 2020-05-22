@@ -17,11 +17,13 @@ title: Submit
 <div id="rounds"></div>
 
 ## Submission rounds
+Submission is now CLOSED for talks in this year's virtual Open Science Room, **except for emergent and invited sessions**.
 
-We are holding an open call for talks in the OSR and will be reviewing talk submissions in two rounds:
+We will be notifying successful applicants soon to start recordings.
 
-- The first round of submissions is ***open until 15 May 2020, 23:59. As long as it is 15th May somewhere in the world, you are free to submit!***. For talks accepted in the first round, we aim to support you in generating pre-recorded material for your talk.
-- The second and last round of submissions is ***open until 1 June 2020***. For talks accepted in the last round we may be able to provide only limited support in generating pre-recorded material.
+We communicated previously that there would be a second call for talks, but due to the happy situation of being flooded with submissions, we have decided to close the call and allow time to focus on delivering the best content we can in the time available.
+
+If you missed the opportunity to submit a talk and you feel it would be of great benefit to the community you can [**reach out to us directly**](https://ohbm.github.io/osr2020/contact/) to consider your proposal.
 
 <div id="recording"></div>
 <br>
