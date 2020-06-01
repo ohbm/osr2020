@@ -1,0 +1,23 @@
+---
+layout: base
+---
+
+{% include header.html type="speaker" %}
+
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+       <span> <h1> {{ page.Name }} <i>({{ page.Pronouns }})</i></h1></span>
+        <br>
+        <h4> {{page.Job}}, {{ page.Affiliation }} </h4>  
+        <p> {{ page.ShortBio }} </p>
+        <h4>
+            {% if page.Twitter %} <a href="https://twitter.com/{{ page.Twitter }}"><i class="fa fa-twitter" style="position: relative; top: -5px;text-indent:0px;  vertical-align: middle;"></i></a> {% endif %}
+            {% if page.Github %} <a href="https://github.com/{{ page.Github }}"><i class="fa fa-github" style="position: relative; top: -5px; text-indent:0px;  "></i></a>{% endif %}
+            {% if page.Website %} <a href="{{ page.Website }}"> <i class="ai ai-website fa-vc" style="  margin-bottom: -50px;position: relative; top: -5px;text-indent:0px;"  ></i></a>{% endif %} 
+        </h4>
+
+    </div>
+  </div>
+</div>
