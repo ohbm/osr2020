@@ -25,6 +25,7 @@ navbar-links:
     - Formats: "formats"
     - Submit: "submit"
     - Review: "review"
+    - Speakers: "speakers"
   Contribute: "contribute"
   Accessibility: "access"
   News: "news"
@@ -266,3 +267,13 @@ permalinks: pretty
 paginate_path: "/news/page:num/"
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
+
+plugins:
+  - pagemaster
+
+collections:
+  speakers:
+    output: true
+    source: speakers.csv
+    id_key: Name
+    layout: speaker_page
