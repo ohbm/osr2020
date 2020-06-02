@@ -24,11 +24,11 @@ title: Speakers
                 {% endif %}
             {% endfor %}
 
-            <a style="display:block; color:#05323F" href="{{speaker.url}}">
+            <a style="display:block; color:#05323F" href="{{ site.baseurl }}{{speaker.url}}">
             <aside class="speaker-card {% if speaker.column %} {{ speaker.column }}{% endif %}">
             <header>
                 <h3>{{ speaker.Name }}</h3>
-                <img src="{{ img_path }}" class="person">
+                <img src="{{ site.baseurl }}{{ img_path }}" class="person">
                 <h6>{{ speaker.Affiliation }}</h6>
                 <h4>
                 {% if speaker.Twitter %} <a href="https://twitter.com/{{ speaker.Twitter }}"><i class="fa fa-twitter" style="position: relative; top: -5px;text-indent:0px;  vertical-align: middle;"></i></a> {% endif %}
