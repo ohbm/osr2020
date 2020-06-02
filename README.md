@@ -27,3 +27,10 @@ Feel free to [reach out to us](https://ohbm.github.io/osr2020/contact/)!
 
 ### Credit
 The [OSR website](https://ohbm.github.io/osr2020) was built using the [Beautiful Jekyll](https://deanattali.com/beautiful-jekyll/) theme by [Dean Attali](https://deanattali.com/).
+
+
+#### Instructions for building website (these must be run prior to uploading onto GH)
+Check the speaker/volunteer CSV files are in place (in _data/speakers, _data/volunteers)
+Wipe the built directories if they already exist, and re-build: 
+`rm -r _speakers _volunteers; bundle exec jekyll pagemaster speakers volunteers`
+Commit the new directories and push the site. This must be done every time the CSV files are changed. 

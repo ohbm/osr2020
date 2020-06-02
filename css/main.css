@@ -918,3 +918,22 @@ pre {
     clear: none;
   }
 }
+
+table.people {
+  width: 100%; 
+  table-layout: fixed;
+}
+
+tr.people {
+  height: 300px;
+}
+
+td.people {
+  width: 50%;
+  margin: 5%; 
+}
+
+img.person {
+  height: 200px;
+  float: right;
+}
