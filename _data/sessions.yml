@@ -11,165 +11,158 @@
 
 -
   id: 000
-  title: "Coffee / Breakfast / Lunch"
-  place: "Breakout room"
-  service: true
-  description: "Join if you feel like"
--
-  id: 001
-  title: "Social / Coffee / Food break"
-  place: "Breakout room"
-  description: "The best time to start talking with others"
-  service: true
--
-  id: 002
-  title: "Social / Coffee / Food break + Unconference !!!"
-  place: "Crowdcast"
-  description: "The best time to start talking with others"
+  title: "Break"
+  place: "some place  here"
+  description: "Some description here"
   service: true
 
+-
+  id: 100
+  title: "Open Data 2.0 Social"
+  place: "Some place here"
+  service: true
+  description: "Some description here"
 
-# Intro, wrap up, project pitches
+-
+  id: 200
+  title: "Open Workflows Social"
+  place: "Some place here"
+  service: true
+  description: "Some description here"
+
+-
+  id: 300
+  title: "Past, Present, Future Social"
+  place: "Some place here"
+  service: true
+  description: "Some description here"
+
+-
+  id: 400
+  title: "OS-SIG Social"
+  place: "Some place here"
+  service: true
+  description: "Some description here"
+
+# Emergent
 
 -
   id: 101
-  title: "Welcome"
-  place: "Crowdcast"
-  service: true
-  description: ""
--
-  id: 102
-  title: "Project Pitches"
-  place: "Crowdcast"
-  service: true
-  description: "Project leaders have 2 minutes to describe their project."
--
-  id: 103
-  title: "Project Q&A"
-  place: "Crowdcast"
-  service: true
-  description: "All the attendees can go and meet the project leaders in their video breakout room
-  to talk with thelm about the project."
--
-  id: 104
-  title: "Project kickoff"
-  place: "Crowdcast"
-  service: true
-  description: "The first time all the project team 'gathers around a table', discuss how they want
-  to work together and how to get started."
-
--
-  id: 105
-  title: "Daily intro and presentation of the Traintrack"
-  place: "Crowdcast"
+  title: "Open Data 2.0 Emergent"
+  place: ""
   service: true
   description: ""
 
--
-  id: 106
-  title: "Daily wrap-up"
-  place: "Crowdcast"
-  service: true
-  description: ""
-
--
-  id: 107
-  title: "Final wrap-up"
-  place: "Crowdcast"
-  service: true
-  description: "We all get together to hear what was accomplished in the past 3 days."
-
-
-# Hacking... More hacking
 -
   id: 201
-  title: "Hacking"
-  place: "Home"
-  description: "Don't say 'hackathon' but say 'hack at home'"
+  title: "Open Workflows Emergent"
+  place: ""
   service: true
+  description: ""
 
-
-# Traintrack...
 -
   id: 301
-  title: "Git - GitHub"
-  place: "Crowdcast"
-  description: "Learn to version control your code and to work collaboratively with others
-  wherever they are."
+  title: "Past, Present, Future Emergent"
+  place: ""
   service: true
--
-  id: 302
-  title: "Good coding practices with matlab"
-  place: "Crowdcast"
-  description: "Learn to trust your own code so sharing it feels less scary."
-  service: true
--
-  id: 303
-  title: "Good coding practices with python"
-  place: "Crowdcast"
-  description: "Learn to trust your own code so sharing it feels less scary."
-  service: true
--
-  id: 304
-  title: "BIDS and BIDS apps"
-  place: "Crowdcast"
-  description: "How to organize your data, so you will never hate your past 'self' ever again. 
-                We will also go over tools that are compatible with BIDS and how to run them."
-  service: true
--
-  id: 305
-  title: "Brain visualization"
-  place: "Crowdcast"
-  description: "A beautiful visualization is not just a good-looking piece of graph, chart, or colored brain.
-  It is an informative and efficient way to represent our data and results, which follows the scientific
-  principles (e.g. honesty truth, consistency etc.). A compelling visualization is essential to organize
-  the data, display the results, communicate the information, as well as change the way we perceive the world.
-  The Brain Art special interest group  will walk you through the basics, share the skills of brain visualization,
-  and make the brain visualization novel, creative, aesthetic and fun to the community."
-  service: true
--
-  id: 306
-  title: "Docker / Singularity"
-  place: "Crowdcast"
-  description: "Mody dock and a black hole walk into a bar."
-  service: true
--
-  id: 307
-  title: "Maching learning using Nilearn + Sklearn"
-  place: "Crowdcast"
-  description: "Hands-on machine learning tutorial for neuroimaging"
-  service: true
--
-  id: 308
-  title: "Jupyter notebook"
-  place: "Crowdcast"
-  description: "..."
-  service: true
--
-  id: 309
-  title: "Nilearn / Sklearn"
-  place: "Crowdcast"
-  description: "..."
-  service: true
--
-  id: 310
-  title: "Datalad"
-  place: "Crowdcast"
-  description: "Version control applied to your data... and much more."
-  service: true
+  description: ""
 
-# Asynchronous activities...
 -
   id: 401
-  title: "Go and explore"
-  place: "Home"
-  description: "Use the extra time that falls within working hours in your time zone to spend some
-  time with your mentor/mentee, follow our online resources, or continue hacking on your projects!"
+  title: "OS-SIG Emergent"
+  place: ""
   service: true
+  description: ""
 
-- id: 402
-  title: "Stretch up"
-  place: "Home"
-  description: "Use the extra time that falls within working hours in your time zone to spend some
-  time with your mentor/mentee, follow our online resources, or continue hacking on your projects!"
+# Lightening
+-
+  id: 102
+  title: "Open Data 2.0 Lightning"
+  place: ""
   service: true
+  description: "Some description here..."
+
+-
+  id: 202
+  title: "Open Workflows Lightning"
+  place: ""
+  service: true
+  description: "Some description here..."
+
+-
+  id: 302
+  title: "Past, Present, Future Lightning"
+  place: ""
+  service: true
+  description: "Some description here..."
+
+
+# Keynote
+-
+  id: 103
+  title: "Open Data 2.0 Keynote"
+  place: "Some place here"
+  service: true
+  description: "Some description here."
+
+-
+  id: 203
+  title: "Open Workflows Keynote"
+  place: "Some place here"
+  service: true
+  description: "Some description here."
+
+-
+  id: 303
+  title: "Past, Present, Future Keynote"
+  place: "Some place here"
+  service: true
+  description: "Some description here."
+
+
+# Demo
+-
+  id: 104
+  title: "Open Data 2.0 Demo"
+  place: "Some place here"
+  service: true
+  description: "Some description here."
+
+-
+  id: 204
+  title: "Open Workflows Demo"
+  place: "Some place here"
+  service: true
+  description: "Some description here."
+
+-
+  id: 304
+  title: "Past, Present, Future Demo"
+  place: "Some place here"
+  service: true
+  description: "Some description here."
+
+
+# Closing ceremony
+-
+  id: 402
+  title: "OS-SIG Closing Ceremony: hackathon highlights"
+  place: "Some place here"
+  service: true
+  description: "Some description here."
+
+-
+  id: 403
+  title: "OS-SIG Closing Ceremony: Sponsors thanks"
+  place: "Some place here"
+  service: true
+  description: "Some description here."
+
+-
+  id: 404
+  title: "OS-SIG Town Hall"
+  place: "Some place here"
+  service: true
+  description: "Some description here."
+
+-
