@@ -142,18 +142,27 @@
   service: true
   description: "Some description here."
 
+# Opening ceremony
+-
+  id: 402
+  title: "OS-SIG Ceremony"
+  place: "Some place here"
+  service: true
+  description: "Some description here."
+
+
 
 # Closing ceremony
 -
   id: 402
-  title: "OS-SIG Closing Ceremony: hackathon highlights"
+  title: "OS-SIG Ceremony: hackathon highlights"
   place: "Some place here"
   service: true
   description: "Some description here."
 
 -
   id: 403
-  title: "OS-SIG Closing Ceremony: Sponsors thanks"
+  title: "OS-SIG Ceremony: Sponsors thanks"
   place: "Some place here"
   service: true
   description: "Some description here."
@@ -166,3 +175,6 @@
   description: "Some description here."
 
 -
+
+
+

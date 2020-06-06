@@ -1,6 +1,34 @@
 -
-  date: "2020-06-23"
+  date: "2020-06-22"
   tz: "Europe/Paris"
+  dateReadable: "June 22nd, Day 0"
+  tracks:
+    - {title: "Open science meet-up", color: "#90be4e"}
+  timeslots:
+    - {
+      startTime: "10:00",
+      endTime: "10:30",
+      sessionIds: [400]
+    }
+    - {
+      startTime: "10:30",
+      endTime: "11:00",
+      sessionIds: [000]
+    }
+    - {
+      startTime: "11:00",
+      endTime: "12:00",
+      sessionIds: [501]
+    }
+    - {
+      startTime: "12:00",
+      endTime: "12:30",
+      sessionIds: [400]
+    }
+
+
+-
+  date: "2020-06-23"
   dateReadable: "June 23rd, Day 1"
   tracks:
     - {title: "Open Science Room", color: "#90be4e"}
