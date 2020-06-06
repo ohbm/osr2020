@@ -1,6 +1,6 @@
 -
   date: "2020-06-22"
-  tz: "Europe/Paris"
+  tz: "Europe/London"
   dateReadable: "June 22nd, Day 0"
   tracks:
     - {title: "Open science meet-up", color: "#90be4e"}
