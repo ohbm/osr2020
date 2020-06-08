@@ -1,6 +1,6 @@
 <!-- TODO this file has become a mess, refactor it -->
 
-{% if page.bigimg or page.title %}
+{% if (page.bigimg or page.title) and (include.type != "speaker") %}
 
 {% if page.bigimg %}
   <div id="header-big-imgs" data-num-img={% if page.bigimg.first %}{{ page.bigimg.size }}{% else %}1{% endif %}
