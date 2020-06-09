@@ -80,21 +80,28 @@
   title: "Open Data 2.0 Lightning"
   place: ""
   service: true
-  description: "Privacy preserving tech: the tools for safe open data use (Emma Bluemke (TBC)); Concept Annotations via NIDM-Terms Fosters Improved Search of Open Datasets (David Keator); Leveraging telehealth in underserved populations for open data research (Linda Larson-Prior); The Courtois project on neuronal modelling - first data release (Julie A. Boyle); BIDS: a data standard to support the neuroimaging community (Guiomar Niso)."
+  description: >
+    **Short talks showcasing advances in the field of open data.**
+
+    (1) Privacy preserving tech: the tools for safe open data use (Emma Bluemke (TBC)) - https://github.com/ohbm/osr2020/issues/18;
+    (2) Concept Annotations via NIDM-Terms Fosters Improved Search of Open Datasets (David Keator) - https://github.com/ohbm/osr2020/issues/27;
+    (3) Leveraging telehealth in underserved populations for open data research (Linda Larson-Prior) - https://github.com/ohbm/osr2020/issues/44;
+    (4) The Courtois project on neuronal modelling - first data release (Julie A. Boyle) - https://github.com/ohbm/osr2020/issues/32;
+    (5) BIDS: a data standard to support the neuroimaging community (Guiomar Niso) - https://github.com/ohbm/osr2020/issues/42;
 
 -
   id: 202
   title: "Open Workflows Lightning"
   place: ""
   service: true
-  description: "Some description here..."
+  description: "Short talks showcasing transferable, reproducible and connected workflows. (1) dMRIPrep - A robust and reproducible pipeline for dMRI data pre-processing (Michael Joseph); (2) shamo, a tool for electromagnetic modelling of the head and sensitivity analysis. (Martin Grignard); (3) Programming Brain Mapping Hypotheses in NeuroLang (Valentin Iovene); (4) ARIbrain: Interactive clustering with spatial activation guarantees using all-resolutions inference (Xu Chen); (5) Conquering confounds and covariates in neuroscientific analyses with an open, high quality library (Pradeep Reddy Raamana)."
 
 -
   id: 302
   title: "Past, Present, Future Lightning"
   place: ""
   service: true
-  description: "Some description here..."
+  description: "Short talks reflecting on where we've come from and where we may be headed. (1) The Open Source Imaging Initiative (João Periquito); (2) NeuroLibre : A cloud-based and curated repository for Jupyter Notebooks in neuroscience (Loïc Tetrel); (3) AFNI - From Then to Now and Beyond (Robert Cox); (4) Nilearn (TBC) (Gael Varoquaux (TBC)); (5) TBC (TBC)."
 
 
 # Keynote
