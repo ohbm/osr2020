@@ -80,21 +80,39 @@
   title: "Open Data 2.0 Lightning"
   place: ""
   service: true
-  description: **Short talks showcasing advances in the field of open data.**
+  description:
+      "**Short talks showcasing advances in the field of open data.**
+      (1) Privacy preserving tech: the tools for safe open data use (Emma Bluemke (TBC)) - https://github.com/ohbm/osr2020/issues/18;
+      (2) Concept Annotations via NIDM-Terms Fosters Improved Search of Open Datasets (David Keator) - https://github.com/ohbm/osr2020/issues/27;
+      (3) Leveraging telehealth in underserved populations for open data research (Linda Larson-Prior) - https://github.com/ohbm/osr2020/issues/44;
+      (4) The Courtois project on neuronal modelling - first data release (Julie A. Boyle) - https://github.com/ohbm/osr2020/issues/32;
+      (5) BIDS: a data standard to support the neuroimaging community (Guiomar Niso) - https://github.com/ohbm/osr2020/issues/42."
 
 -
   id: 202
   title: "Open Workflows Lightning"
   place: ""
   service: true
-  description: "Short talks showcasing transferable, reproducible and connected workflows."
+  description:
+      "**Short talks showcasing transferable, reproducible and connected workflows.**
+      (1) dMRIPrep - A robust and reproducible pipeline for dMRI data pre-processing (Michael Joseph) - https://github.com/ohbm/osr2020/issues/17;
+      (2) shamo, a tool for electromagnetic modelling of the head and sensitivity analysis. (Martin Grignard) - https://github.com/ohbm/osr2020/issues/26;
+      (3) Programming Brain Mapping Hypotheses in NeuroLang (Valentin Iovene) - https://github.com/ohbm/osr2020/issues/34;
+      (4) ARIbrain: Interactive clustering with spatial activation guarantees using all-resolutions inference (Xu Chen) - https://github.com/ohbm/osr2020/issues/40;
+      (5) Conquering confounds and covariates in neuroscientific analyses with an open, high quality library (Pradeep Reddy Raamana) - https://github.com/ohbm/osr2020/issues/13."
 
 -
   id: 302
   title: "Past, Present, Future Lightning"
   place: ""
   service: true
-  description: "Short talks reflecting on where we've come from and where we may be headed."
+  description:
+      "**Short talks reflecting on where we've come from and where we may be headed.**
+      (1) The Open Source Imaging Initiative (João Periquito) - https://github.com/ohbm/osr2020/issues/52;
+      (2) NeuroLibre : A cloud-based and curated repository for Jupyter Notebooks in neuroscience (Loïc Tetrel) - https://github.com/ohbm/osr2020/issues/15;
+      (3) AFNI - From Then to Now and Beyond (Robert Cox) - https://github.com/ohbm/osr2020/issues/56;
+      (4) Nilearn (TBC) (Gael Varoquaux (TBC)) - TBC;
+      (5) TBC (TBC) - TBC."
 
 # Keynote
 -
@@ -116,7 +134,7 @@
   title: "Past, Present, Future Keynote"
   place: "Some place here"
   service: true
-  description: "Low Field MRI - a possible brain imaging modality for sub-Saharan Africa (Johnes Obungoloch) - https://github.com/ohbm/osr2020/issues/48."
+  description: "Low Field MRI - a possible brain imaging modality for sub-Saharan Africa (Johnes Obungoloch) - https://github.com/ohbm/osr2020/issues/48"
 
 
 # Demo
@@ -125,21 +143,36 @@
   title: "Open Data 2.0 Demo"
   place: "Some place here"
   service: true
-  description: "Some description here."
+  description:
+      "**The latest developments in open source software as it relates to Open Data.**
+      (1) Bidsme: flexible bidsifier for multimodal datasets (Nikita Beliy) - https://github.com/ohbm/osr2020/issues/22;
+      (2) Individual Brain Charting dataset extension: second and third releases (Ana Luísa Pinho) - https://github.com/ohbm/osr2020/issues/20;
+      (3) Open and Shared Representations for Neuroscience (Paola Di Maio) - https://github.com/ohbm/osr2020/issues/24;
+      (4) Sharing MRI data while protecting participants’ privacy: Two ways to get started (Dorien Huijser) - https://github.com/ohbm/osr2020/issues/55."
 
 -
   id: 204
   title: "Open Workflows Demo"
   place: "Some place here"
   service: true
-  description: "Some description here."
+  description:
+      "**The latest developments in open source software as it relates to Open Workflows.**
+      (1) Reproducible Research Objects with DataLad (Adina Wagner) - https://github.com/ohbm/osr2020/issues/25;
+      (2) Open, Reproducible, and Decentralized Workflows with COINSTAC (Eric Verner) - https://github.com/ohbm/osr2020/issues/33;
+      (3) Macapype: An open multi-software framework for non-human primate anatomical MRI processing (David Meunier) - https://github.com/ohbm/osr2020/issues/29;
+      (4) No-effort fully reproducible analysis cod (Mats van Es) - https://github.com/ohbm/osr2020/issues/54."
 
 -
   id: 304
   title: "Past, Present, Future Demo"
   place: "Some place here"
   service: true
-  description: "Some description here."
+  description:
+      "**The latest developments in open source software as it relates to the future of Open Neuroimaging.**
+      (1) The Women in Neuroscience Repository (WiNRepo) (Fabio Ferreira) - https://github.com/ohbm/osr2020/issues/28;
+      (2) Status update on MNE-Python (TBC) (Marijn van Vliet (TBC)) - TBC;
+      (3) Group ICA Toolbox: New features and developments (Srinivas Rachakonda) - https://github.com/ohbm/osr2020/issues/37;
+      (4) INCF (TBC) (Ariel Rokem (TBC)) - TBC."
 
 # Opening ceremony
 -
@@ -147,24 +180,24 @@
   title: "OS-SIG Ceremony"
   place: "Some place here"
   service: true
-  description: "Some description here."
+  description: "Informal welcome to the OSR."
 
 
 
 # Closing ceremony
 -
   id: 402
-  title: "OS-SIG Ceremony: hackathon highlights"
+  title: "OS-SIG Ceremony: Brainhack Highlights"
   place: "Some place here"
   service: true
-  description: "Some description here."
+  description: "Hear about what went on in Brainhack!"
 
 -
   id: 403
-  title: "OS-SIG Ceremony: Sponsors thanks"
+  title: "OS-SIG Ceremony: Sponsors and OS-SIG Team Thanks"
   place: "Some place here"
   service: true
-  description: "Some description here."
+  description: "We wouldn't be here without the support of these folks!"
 
 -
   id: 404
