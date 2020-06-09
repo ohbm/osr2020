@@ -13,7 +13,7 @@
   id: 000
   title: "Break"
   place: "some place  here"
-  description: "Some description here"
+  description: "Grab a coffee or snack!"
   service: true
 
 -
@@ -21,28 +21,28 @@
   title: "Open Data 2.0 Social"
   place: "Some place here"
   service: true
-  description: "Some description here"
+  description: "Organised and disorganised fun, all invited!"
 
 -
   id: 200
   title: "Open Workflows Social"
   place: "Some place here"
   service: true
-  description: "Some description here"
+  description: "Organised and disorganised fun, all invited!"
 
 -
   id: 300
   title: "Past, Present, Future Social"
   place: "Some place here"
   service: true
-  description: "Some description here"
+  description: "Organised and disorganised fun, all invited!"
 
 -
   id: 400
   title: "OS-SIG Social"
   place: "Some place here"
   service: true
-  description: "Some description here"
+  description: "Organised and disorganised fun, all invited!"
 
 # Emergent
 
@@ -51,28 +51,28 @@
   title: "Open Data 2.0 Emergent"
   place: ""
   service: true
-  description: ""
+  description: "TBC"
 
 -
   id: 201
   title: "Open Workflows Emergent"
   place: ""
   service: true
-  description: ""
+  description: "TBC"
 
 -
   id: 301
   title: "Past, Present, Future Emergent"
   place: ""
   service: true
-  description: ""
+  description: "TBC"
 
 -
   id: 401
   title: "OS-SIG Emergent"
   place: ""
   service: true
-  description: ""
+  description: "TBC"
 
 # Lightening
 -
@@ -80,7 +80,7 @@
   title: "Open Data 2.0 Lightning"
   place: ""
   service: true
-  description: "Some description here..."
+  description: "Privacy preserving tech: the tools for safe open data use (Emma Bluemke (TBC)); Concept Annotations via NIDM-Terms Fosters Improved Search of Open Datasets (David Keator); Leveraging telehealth in underserved populations for open data research (Linda Larson-Prior); The Courtois project on neuronal modelling - first data release (Julie A. Boyle); BIDS: a data standard to support the neuroimaging community (Guiomar Niso)."
 
 -
   id: 202
@@ -175,6 +175,3 @@
   description: "Some description here."
 
 -
-
-
-
