@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Register
+title: Register for the OSR!
 ---
-
-We invite you to register for the OSR!
 
 **Registration here (via Eventbrite) is not necessary if you have already registered for the main OHBM meeting.**
 
@@ -23,7 +21,8 @@ We invite you to register for the OSR!
         iframeContainerId: 'eventbrite-widget-container-108179533898',
 
         // Optional
-        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        // iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        iframeContainerHeight: 650,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
         onOrderComplete: exampleCallback  // Method called when an order has successfully completed
     });
 </script>
