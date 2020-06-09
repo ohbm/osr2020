@@ -1,0 +1,196 @@
+-
+  date: "2020-06-22"
+  tz: "Europe/London"
+  dateReadable: "June 22nd, Day 0"
+  tracks:
+    - {title: "Open science meet-up", color: "#90be4e"}
+  timeslots:
+    - {
+      startTime: "10:00",
+      endTime: "10:30",
+      sessionIds: [400]
+    }
+    - {
+      startTime: "10:30",
+      endTime: "11:00",
+      sessionIds: [000]
+    }
+    - {
+      startTime: "11:00",
+      endTime: "12:00",
+      sessionIds: [501]
+    }
+    - {
+      startTime: "12:00",
+      endTime: "12:30",
+      sessionIds: [400]
+    }
+
+
+-
+  date: "2020-06-23"
+  dateReadable: "June 23rd, Day 1"
+  tracks:
+    - {title: "Open Science Room", color: "#90be4e"}
+  timeslots:
+    - {
+        startTime: "09:00",
+        endTime: "10:00",
+        sessionIds: [101, 100]
+    }
+    - {
+    	startTime: "10:00",
+    	endTime: "10:50",
+    	sessionIds: [102]
+    }
+    - {
+      startTime: "10:50",
+      endTime: "11:10",
+      sessionIds: [000]
+    }
+    - {
+      startTime: "11:10",
+      endTime: "11:50",
+      sessionIds: [103]
+    }
+    - {
+      startTime: "11:50",
+      endTime: "12:40",
+      sessionIds: [104]
+    }
+    - {
+      startTime: "12:40",
+      endTime: "13:00",
+      sessionIds: [000]
+    }
+    - {
+      startTime: "13:00",
+      endTime: "14:00",
+      sessionIds: [101, 100]
+    }
+
+-
+  date: "2020-06-24"
+  dateReadable: "June 24th, Day 2"
+  tracks:
+    - {title: "Open Science Room", color: "#90be4e"}
+  timeslots:
+    - {
+        startTime: "09:00",
+        endTime: "10:00",
+        sessionIds: [201, 200]
+    }
+    - {
+      startTime: "10:00",
+      endTime: "10:50",
+      sessionIds: [202]
+    }
+    - {
+      startTime: "10:50",
+      endTime: "11:10",
+      sessionIds: [000]
+    }
+    - {
+      startTime: "11:10",
+      endTime: "11:50",
+      sessionIds: [203]
+    }
+    - {
+      startTime: "11:50",
+      endTime: "12:40",
+      sessionIds: [204]
+    }
+    - {
+      startTime: "12:40",
+      endTime: "13:00",
+      sessionIds: [000]
+    }
+    - {
+      startTime: "13:00",
+      endTime: "14:00",
+      sessionIds: [201, 200]
+    }
+
+-
+  date: "2020-06-25"
+  dateReadable: "June 25th, Day 3"
+  tracks:
+    - {title: "Open Science Room", color: "#90be4e"}
+  timeslots:
+    - {
+        startTime: "09:00",
+        endTime: "10:00",
+        sessionIds: [301, 300]
+    }
+    - {
+      startTime: "10:00",
+      endTime: "10:50",
+      sessionIds: [302]
+    }
+    - {
+      startTime: "10:50",
+      endTime: "11:10",
+      sessionIds: [000]
+    }
+    - {
+      startTime: "11:10",
+      endTime: "11:50",
+      sessionIds: [303]
+    }
+    - {
+      startTime: "11:50",
+      endTime: "12:40",
+      sessionIds: [304]
+    }
+    - {
+      startTime: "12:40",
+      endTime: "13:00",
+      sessionIds: [000]
+    }
+    - {
+      startTime: "13:00",
+      endTime: "14:00",
+      sessionIds: [301, 300]
+    }
+
+-
+  date: "2020-06-26"
+  dateReadable: "June 26th, Day 4"
+  tracks:
+    - {title: "Open Science Room", color: "#90be4e"}
+  timeslots:
+    - {
+        startTime: "09:00",
+        endTime: "10:00",
+        sessionIds: [401, 400]
+    }
+    - {
+      startTime: "10:00",
+      endTime: "10:50",
+      sessionIds: [402]
+    }
+    - {
+      startTime: "10:50",
+      endTime: "11:10",
+      sessionIds: [000]
+    }
+    - {
+      startTime: "11:10",
+      endTime: "11:50",
+      sessionIds: [403]
+    }
+    - {
+      startTime: "11:50",
+      endTime: "12:40",
+      sessionIds: [404]
+    }
+    - {
+      startTime: "12:40",
+      endTime: "13:00",
+      sessionIds: [000]
+    }
+    - {
+      startTime: "13:00",
+      endTime: "14:00",
+      sessionIds: [401, 400]
+    }
