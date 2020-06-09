@@ -5,6 +5,8 @@ title: Register for the OSR!
 
 **Registration here (via Eventbrite) is not necessary if you have already registered for the main OHBM meeting.**
 
+You will be sent details on how to join the live broadcasts before the meeting commences on 23rd June. 
+
 <div id="eventbrite-widget-container-108179533898"></div>
 
 <script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
