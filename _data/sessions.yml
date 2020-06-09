@@ -81,13 +81,13 @@
   place: ""
   service: true
   description: |+
-    "Short talks showcasing advances in the field of open data.
+    Short talks showcasing advances in the field of open data.
 
     (1) Privacy preserving tech: the tools for safe open data use (Emma Bluemke (TBC)) - https://github.com/ohbm/osr2020/issues/18;
     (2) Concept Annotations via NIDM-Terms Fosters Improved Search of Open Datasets (David Keator) - https://github.com/ohbm/osr2020/issues/27;
     (3) Leveraging telehealth in underserved populations for open data research (Linda Larson-Prior) - https://github.com/ohbm/osr2020/issues/44;
     (4) The Courtois project on neuronal modelling - first data release (Julie A. Boyle) - https://github.com/ohbm/osr2020/issues/32;
-    (5) BIDS: a data standard to support the neuroimaging community (Guiomar Niso) - https://github.com/ohbm/osr2020/issues/42"
+    (5) BIDS: a data standard to support the neuroimaging community (Guiomar Niso) - https://github.com/ohbm/osr2020/issues/42
 
 -
   id: 202
@@ -95,13 +95,13 @@
   place: ""
   service: true
   description: |+
-    "Short talks showcasing transferable, reproducible and connected workflows.
+    Short talks showcasing transferable, reproducible and connected workflows.
 
     (1) dMRIPrep - A robust and reproducible pipeline for dMRI data pre-processing (Michael Joseph) - https://github.com/ohbm/osr2020/issues/17;
     (2) shamo, a tool for electromagnetic modelling of the head and sensitivity analysis. (Martin Grignard) - https://github.com/ohbm/osr2020/issues/26;
     (3) Programming Brain Mapping Hypotheses in NeuroLang (Valentin Iovene) - https://github.com/ohbm/osr2020/issues/34;
     (4) ARIbrain: Interactive clustering with spatial activation guarantees using all-resolutions inference (Xu Chen) - https://github.com/ohbm/osr2020/issues/40;
-    (5) Conquering confounds and covariates in neuroscientific analyses with an open, high quality library (Pradeep Reddy Raamana) - https://github.com/ohbm/osr2020/issues/13."
+    (5) Conquering confounds and covariates in neuroscientific analyses with an open, high quality library (Pradeep Reddy Raamana) - https://github.com/ohbm/osr2020/issues/13.
 
 -
   id: 302
@@ -109,13 +109,13 @@
   place: ""
   service: true
   description: |+
-    "Short talks reflecting on where we've come from and where we may be headed.
+    Short talks reflecting on where we've come from and where we may be headed.
 
     (1) The Open Source Imaging Initiative (João Periquito) - https://github.com/ohbm/osr2020/issues/52;
     (2) NeuroLibre : A cloud-based and curated repository for Jupyter Notebooks in neuroscience (Loïc Tetrel) - https://github.com/ohbm/osr2020/issues/15;
     (3) AFNI - From Then to Now and Beyond (Robert Cox) - https://github.com/ohbm/osr2020/issues/56;
     (4) Nilearn (TBC) (Gael Varoquaux (TBC)) - TBC;
-    (5) TBC (TBC) - TBC"
+    (5) TBC (TBC) - TBC
 
 
 # Keynote
@@ -124,21 +124,21 @@
   title: "Open Data 2.0 Keynote"
   place: "Some place here"
   service: true
-  description: | " Phenotypes, Genotypes & Voxels: A playground next to a nuclear power plant (Anqi Qiu) - https://github.com/ohbm/osr2020/issues/16"
+  description: | Phenotypes, Genotypes & Voxels: A playground next to a nuclear power plant (Anqi Qiu) - https://github.com/ohbm/osr2020/issues/16
 
 -
   id: 203
   title: "Open Workflows Keynote"
   place: "Some place here"
   service: true
-  description: | " Transparent MRI workflows: From scanner to publication (Agah Karakuzu) - https://github.com/ohbm/osr2020/issues/38"
+  description: | Transparent MRI workflows: From scanner to publication (Agah Karakuzu) - https://github.com/ohbm/osr2020/issues/38
 
 -
   id: 303
   title: "Past, Present, Future Keynote"
   place: "Some place here"
   service: true
-  description: | " Low Field MRI - a possible brain imaging modality for sub-Saharan Africa (Johnes Obungoloch) - https://github.com/ohbm/osr2020/issues/48."
+  description: | Low Field MRI - a possible brain imaging modality for sub-Saharan Africa (Johnes Obungoloch) - https://github.com/ohbm/osr2020/issues/48.
 
 
 # Demo
