@@ -1,0 +1,180 @@
+# Dummy
+-
+  id: 999
+  title: " "
+  place: " "
+  service: true
+  description: " "
+
+
+# 000 Breaks, socials and that sort of things
+
+-
+  id: 000
+  title: "Break"
+  place: "some place  here"
+  description: "Some description here"
+  service: true
+
+-
+  id: 100
+  title: "Open Data 2.0 Social"
+  place: "Some place here"
+  service: true
+  description: "Some description here"
+
+-
+  id: 200
+  title: "Open Workflows Social"
+  place: "Some place here"
+  service: true
+  description: "Some description here"
+
+-
+  id: 300
+  title: "Past, Present, Future Social"
+  place: "Some place here"
+  service: true
+  description: "Some description here"
+
+-
+  id: 400
+  title: "OS-SIG Social"
+  place: "Some place here"
+  service: true
+  description: "Some description here"
+
+# Emergent
+
+-
+  id: 101
+  title: "Open Data 2.0 Emergent"
+  place: ""
+  service: true
+  description: ""
+
+-
+  id: 201
+  title: "Open Workflows Emergent"
+  place: ""
+  service: true
+  description: ""
+
+-
+  id: 301
+  title: "Past, Present, Future Emergent"
+  place: ""
+  service: true
+  description: ""
+
+-
+  id: 401
+  title: "OS-SIG Emergent"
+  place: ""
+  service: true
+  description: ""
+
+# Lightening
+-
+  id: 102
+  title: "Open Data 2.0 Lightning"
+  place: ""
+  service: true
+  description: "Some description here..."
+
+-
+  id: 202
+  title: "Open Workflows Lightning"
+  place: ""
+  service: true
+  description: "Some description here..."
+
+-
+  id: 302
+  title: "Past, Present, Future Lightning"
+  place: ""
+  service: true
+  description: "Some description here..."
+
+
+# Keynote
+-
+  id: 103
+  title: "Open Data 2.0 Keynote"
+  place: "Some place here"
+  service: true
+  description: "Some description here."
+
+-
+  id: 203
+  title: "Open Workflows Keynote"
+  place: "Some place here"
+  service: true
+  description: "Some description here."
+
+-
+  id: 303
+  title: "Past, Present, Future Keynote"
+  place: "Some place here"
+  service: true
+  description: "Some description here."
+
+
+# Demo
+-
+  id: 104
+  title: "Open Data 2.0 Demo"
+  place: "Some place here"
+  service: true
+  description: "Some description here."
+
+-
+  id: 204
+  title: "Open Workflows Demo"
+  place: "Some place here"
+  service: true
+  description: "Some description here."
+
+-
+  id: 304
+  title: "Past, Present, Future Demo"
+  place: "Some place here"
+  service: true
+  description: "Some description here."
+
+# Opening ceremony
+-
+  id: 402
+  title: "OS-SIG Ceremony"
+  place: "Some place here"
+  service: true
+  description: "Some description here."
+
+
+
+# Closing ceremony
+-
+  id: 402
+  title: "OS-SIG Ceremony: hackathon highlights"
+  place: "Some place here"
+  service: true
+  description: "Some description here."
+
+-
+  id: 403
+  title: "OS-SIG Ceremony: Sponsors thanks"
+  place: "Some place here"
+  service: true
+  description: "Some description here."
+
+-
+  id: 404
+  title: "OS-SIG Town Hall"
+  place: "Some place here"
+  service: true
+  description: "Some description here."
+
+-
+
+
+
