@@ -80,8 +80,8 @@
   title: "Open Data 2.0 Lightning"
   place: ""
   service: true
-  description: >
-    **Short talks showcasing advances in the field of open data.**
+  description: |
+    Short talks showcasing advances in the field of open data.
 
     (1) Privacy preserving tech: the tools for safe open data use (Emma Bluemke (TBC)) - https://github.com/ohbm/osr2020/issues/18;
     (2) Concept Annotations via NIDM-Terms Fosters Improved Search of Open Datasets (David Keator) - https://github.com/ohbm/osr2020/issues/27;
