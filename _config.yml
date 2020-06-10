@@ -276,3 +276,9 @@ collections:
     source: speakers.csv
     id_key: Name
     layout: speaker_page
+
+  volunteers: 
+    output: true
+    source: volunteers.csv
+    id_key: Name
+    layout: speaker_page
