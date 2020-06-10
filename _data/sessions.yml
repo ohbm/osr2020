@@ -109,11 +109,11 @@
   description: |
     **Short talks reflecting on where we've come from and where we may be headed.**
     1. The Open Source Imaging Initiative (João Periquito) <https://github.com/ohbm/osr2020/issues/52>;
-    2. NeuroLibre : A cloud-based and curated repository for Jupyter Notebooks in neuroscience (Loïc Tetrel) <https://github.com/ohbm/osr2020/issues/15>;
+    2. [NeuroLibre : A cloud-based and curated repository for Jupyter Notebooks in neuroscience](https://github.com/ohbm/osr2020/issues/15) ([Loïc Tetrel](https://ohbm.github.io/osr2020/speakers/loc_tetrel.html));
     3. AFNI - From Then to Now and Beyond (Robert Cox) <https://github.com/ohbm/osr2020/issues/56>;
     4. Nilearn (TBC) (Gael Varoquaux (TBC)) - TBC;
     5. TBC (TBC) - TBC.
-    
+
 
 # Keynote
 -
@@ -210,4 +210,3 @@
   place: "Some place here"
   service: true
   description: "Some description here."
-
