@@ -30,3 +30,12 @@
     <script src="{{ js | relative_url }}"></script>
   {% endfor %}
 {% endif %}
+
+{% if page.permalink contains '/schedule/' %}
+  <script src="../js/moment.min.js"></script>
+  <script src="../js/moment-timezone-with-data-10-year-range.min.js"></script>
+  <script src="../js/selectize.min.js"></script>
+  <link rel="stylesheet" href="../css/selectize.bootstrap3.css">
+  <script src="../js/schedule.js"></script>
+{% endif %}
+
