@@ -106,13 +106,14 @@
   title: "Past, Present, Future Lightning"
   place: ""
   service: true
-  description:
-      "**Short talks reflecting on where we've come from and where we may be headed.**
-      (1) The Open Source Imaging Initiative (João Periquito) - https://github.com/ohbm/osr2020/issues/52;
-      (2) NeuroLibre : A cloud-based and curated repository for Jupyter Notebooks in neuroscience (Loïc Tetrel) - https://github.com/ohbm/osr2020/issues/15;
-      (3) AFNI - From Then to Now and Beyond (Robert Cox) - https://github.com/ohbm/osr2020/issues/56;
-      (4) Nilearn (TBC) (Gael Varoquaux (TBC)) - TBC;
-      (5) TBC (TBC) - TBC."
+  description: |
+    **Short talks reflecting on where we've come from and where we may be headed.**
+    1. The Open Source Imaging Initiative (João Periquito) <https://github.com/ohbm/osr2020/issues/52>;
+    2. NeuroLibre : A cloud-based and curated repository for Jupyter Notebooks in neuroscience (Loïc Tetrel) <https://github.com/ohbm/osr2020/issues/15>;
+    3. AFNI - From Then to Now and Beyond (Robert Cox) <https://github.com/ohbm/osr2020/issues/56>;
+    4. Nilearn (TBC) (Gael Varoquaux (TBC)) - TBC;
+    5. TBC (TBC) - TBC.
+    
 
 # Keynote
 -
@@ -135,7 +136,6 @@
   place: "Some place here"
   service: true
   description: "Low Field MRI - a possible brain imaging modality for sub-Saharan Africa (Johnes Obungoloch) - https://github.com/ohbm/osr2020/issues/48"
-
 
 # Demo
 -
@@ -176,13 +176,11 @@
 
 # Opening ceremony
 -
-  id: 402
+  id: 501
   title: "OS-SIG Ceremony"
   place: "Some place here"
   service: true
   description: "Informal welcome to the OSR."
-
-
 
 # Closing ceremony
 -
@@ -200,10 +198,16 @@
   description: "We wouldn't be here without the support of these folks!"
 
 -
-  id: 404
+  id: 408
   title: "OS-SIG Town Hall"
   place: "Some place here"
   service: true
   description: "Some description here."
 
 -
+  id: 405
+  title: "unused"
+  place: "Some place here"
+  service: true
+  description: "Some description here."
+
