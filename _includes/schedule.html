@@ -48,7 +48,7 @@
                                         <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
                                         <span class="slot-language">{{session.language | upcase}}</span>
                                         {% if session.description != null %}
-                                        <p class="service-description">{{ session.description }}</p>
+                                        <p class="service-description"><b>{{ session.description }}</b> </p>
                                         {% endif %}
                                         <ul class="slot-speakers">
                                             {% for speaker in site.data.speakers %}
@@ -72,7 +72,7 @@
                                     <div class="slot-content">
                                         <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
                                         {% if session.description != null %}
-                                        <p class="service-description">{{ session.description }}</p>
+                                        <p class="service-description">{{ session.description | markdownify }}</p>
                                         {% endif %}
                                     </div>
                                 </div>
