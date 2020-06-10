@@ -12,7 +12,6 @@ layout: base
     {% endif %}
 {% endfor %}
 
-
 <div class="container" role="main">
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
@@ -20,26 +19,26 @@ layout: base
         <table style="border: none">
         <tr style="border: none"> 
         <td style="border: none">
-       <span> <h1> {{ page.Name }} <i>({{ page.Pronouns }})</i></h1></span>
+        <span> <h1>{{ page.Name }} {% if page.Pronouns %} <i>({{ page.Pronouns }})</i> {% endif %}</h1></span>
         <h4> {{page.Job}}, {{ page.Affiliation }} </h4>  
-        <p> {{ page.ShortBio }} </p>
+        <p> {{ page.ShortBio | markdownify }} </p>
         <h4>
-            {% if page.Twitter %} <a href="https://twitter.com/{{ page.Twitter }}"><i class="fa fa-twitter" style="position: relative; top: -5px;text-indent:0px;  vertical-align: middle;"></i></a> {% endif %}
-            {% if page.Github %} <a href="https://github.com/{{ page.Github }}"><i class="fa fa-github" style="position: relative; top: -5px; text-indent:0px;  "></i></a>{% endif %}
-            {% if page.Website %} <a href="{{ page.Website }}"> <i class="ai ai-website fa-vc" style="  margin-bottom: -50px;position: relative; top: -5px;text-indent:0px;"  ></i></a>{% endif %} 
+            {% if page.Twitter %} <a href="https://twitter.com/{{ page.Twitter }}"><i class="fa fa-twitter" style="position: relative;text-indent:0px;  vertical-align: middle;"></i></a> {% endif %}
+            {% if page.Github %} <a href="https://github.com/{{ page.Github }}"><i class="fa fa-github" style="position: relative; text-indent:0px;  "></i></a>{% endif %}
+            {% if page.Website %} <a href="{{ page.Website }}"> <i class="ai ai-website fa-vc" style="position: relative;text-indent:0px;"  > web </i></a>{% endif %} 
         </h4>
         </td>
         <td style="border: none; width: 35%"><img src="{{ site.baseurl }}{{ img_path }}" class="person"></td>
         </tr>
-        </table>
 
+        <tr style="border: none; background: none"><td style="border: none; background: none">
         <h3> Talks </h3>
-        <br>
         {% assign talks = site.data.accepted_talks | where: "Name", page.Name %}
         {% for talk in talks %}
-          <h4><i>{{ talk.TalkTitle }}</i></h4>
+          <span><h4><i> {{ talk.TalkTitle }} </i></h4><h5>{{ talk.Date }}, <a href="{{talk.Link}}"> GitHub link </a> </h5></span>
         {% endfor %}
-
+        </td></tr>
+        </table>
     </div>
   </div>
 </div>

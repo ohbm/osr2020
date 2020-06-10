@@ -5,7 +5,7 @@ title: Volunteers
 
 <html>
 
-{% assign volunteers = site.speakers %}
+{% assign volunteers = site.volunteers %}
 
 {% assign n_rows = volunteers.size | divided_by:2 | minus:1 %}
 <table class="people">
@@ -26,7 +26,7 @@ title: Volunteers
                 {% endif %}
             {% endfor %}
 
-            <a style="display:block; color:#05323F" href="{{ site.baseurl }}{{speaker.url}}">
+            <a style="display:block; color:#05323F" href="{{ site.baseurl }}{{person.url}}">
             <aside class="speaker-card {% if speaker.column %} {{ speaker.column }}{% endif %}">
             <header>
                 <h3>{{ person.Name }}</h3>

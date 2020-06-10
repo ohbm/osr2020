@@ -14,7 +14,7 @@ title: Speakers
 
         {% assign idx = row | times:2 | plus:col %}
         {% assign speaker = site.speakers[idx] %}
-        {% if speaker %}
+        {% if speaker.Name %}
 
             {% assign img_path = nil %}
             {% assign names = speaker.Name | downcase | split: " " %}
@@ -31,9 +31,9 @@ title: Speakers
                 <img src="{{ site.baseurl }}{{ img_path }}" class="person">
                 <h6>{{ speaker.Affiliation }}</h6>
                 <h4>
-                {% if speaker.Twitter %} <a href="https://twitter.com/{{ speaker.Twitter }}"><i class="fa fa-twitter" style="position: relative; top: -5px;text-indent:0px;  vertical-align: middle;"></i></a> {% endif %}
-                {% if speaker.Github %} <a href="https://github.com/{{ speaker.Github }}"><i class="fa fa-github" style="position: relative; top: -5px; text-indent:0px;  "></i></a>{% endif %}
-                {% if speaker.Website %} <a href="{{ speaker.Website }}"> <i class="ai ai-website fa-vc" style="  margin-bottom: -50px;position: relative; top: -5px;text-indent:0px;"  ></i></a>{% endif %} 
+                {% if speaker.Twitter %} <a href="https://twitter.com/{{ speaker.Twitter }}"><i class="fa fa-twitter" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle;"></i></a> {% endif %}
+                {% if speaker.Github %} <a href="https://github.com/{{ speaker.Github }}"><i class="fa fa-github" style="position: relative; top: 0px; text-indent:0px;  "></i></a>{% endif %}
+                {% if speaker.Website %} <a href="{{ speaker.Website }}"> <i class="ai ai-website fa-vc" style="position: relative;">web</i></a>{% endif %}
                 </h4>
             </header>
             </aside>
