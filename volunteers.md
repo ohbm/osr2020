@@ -36,9 +36,9 @@ title: Volunteers
                 <h6>{{ person.Affiliation }}</h6>
                 
                 <h4>
-                {% if person.Twitter %} <a href="https://twitter.com/{{ person.Twitter }}"><i class="fa fa-twitter fa-2x" style="position: relative; top: -5px;text-indent:0px;  vertical-align: middle;"></i></a> {% endif %}
-                {% if person.Github %} <a href="https://github.com/{{ person.Github }}"><i class="fa fa-github fa-2x" style="position: relative; top: -5px; text-indent:0px;  "></i></a>{% endif %}
-                {% if person.Website %} <a href="{{ person.Website }}"><i class="fa fa-external-link-square fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle;"></i></a>{% endif %} 
+                {% if person.Twitter %} <a href="https://twitter.com/{{ person.Twitter }}"><i class="fa fa-twitter fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle;"></i></a> {% endif %}
+                {% if person.Github %} <a href="https://github.com/{{ person.Github }}"><i class="fa fa-github fa-2x" style="position: relative; top: 0px; text-indent:0px; vertical-align: middle;"></i></a>{% endif %}
+                {% if person.Website %} <a href="{{ person.Website }}"><i class="fa fa-external-link fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle;"></i></a>{% endif %} 
                 </h4>
                 <br>
             </header>

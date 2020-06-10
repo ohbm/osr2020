@@ -35,8 +35,8 @@ title: Speakers
                 
                 <h4>
                 {% if speaker.Twitter %} <a href="https://twitter.com/{{ speaker.Twitter }}"><i class="fa fa-twitter fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle;"></i></a> {% endif %}
-                {% if speaker.Github %} <a href="https://github.com/{{ speaker.Github }}"><i class="fa fa-github fa-2x" style="position: relative; top: 0px; text-indent:0px;  "></i></a>{% endif %}
-                {% if speaker.Website %} <a href="{{ speaker.Website }}"><i class="fa fa-external-link-square fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle;"></i></a>{% endif %}
+                {% if speaker.Github %} <a href="https://github.com/{{ speaker.Github }}"><i class="fa fa-github fa-2x" style="position: relative; top: 0px; text-indent:0px; vertical-align: middle; "></i></a>{% endif %}
+                {% if speaker.Website %} <a href="{{ speaker.Website }}"><i class="fa fa-external-link fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle;"></i></a>{% endif %}
                 </h4>
                 <br>
             </header>
