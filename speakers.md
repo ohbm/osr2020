@@ -27,13 +27,16 @@ title: Speakers
             <a style="display:block; color:#05323F" href="{{ site.baseurl }}{{speaker.url}}">
             <aside class="speaker-card {% if speaker.column %} {{ speaker.column }}{% endif %}">
             <header>
+                <img src="{{ site.baseurl }}{{ img_path }}" style="height:200px; border-radius:50%;">
+                <br>
                 <h3>{{ speaker.Name }}</h3>
-                <img src="{{ site.baseurl }}{{ img_path }}" class="person">
+                <br>
                 <h6>{{ speaker.Affiliation }}</h6>
+                <br>
                 <h4>
-                {% if speaker.Twitter %} <a href="https://twitter.com/{{ speaker.Twitter }}"><i class="fa fa-twitter" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle;"></i></a> {% endif %}
-                {% if speaker.Github %} <a href="https://github.com/{{ speaker.Github }}"><i class="fa fa-github" style="position: relative; top: 0px; text-indent:0px;  "></i></a>{% endif %}
-                {% if speaker.Website %} <a href="{{ speaker.Website }}"> <i class="ai ai-website fa-vc" style="position: relative;">web</i></a>{% endif %}
+                {% if speaker.Twitter %} <a href="https://twitter.com/{{ speaker.Twitter }}"><i class="fa fa-twitter fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle;"></i></a> {% endif %}
+                {% if speaker.Github %} <a href="https://github.com/{{ speaker.Github }}"><i class="fa fa-github fa-2x" style="position: relative; top: 0px; text-indent:0px;  "></i></a>{% endif %}
+                {% if speaker.Website %} <a href="{{ speaker.Website }}"><i class="fas fa-external-link-square-alt fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle;"></i></a>{% endif %}
                 </h4>
             </header>
             </aside>

@@ -29,13 +29,16 @@ title: Volunteers
             <a style="display:block; color:#05323F" href="{{ site.baseurl }}{{person.url}}">
             <aside class="speaker-card {% if speaker.column %} {{ speaker.column }}{% endif %}">
             <header>
+                <img src="{{ site.baseurl }}{{ img_path }}" style="height:200px; border-radius:50%;">
+                <br>
                 <h3>{{ person.Name }}</h3>
-                <img src="{{ site.baseurl }}{{ img_path }}" class="person">
+                <br>
                 <h6>{{ person.Affiliation }}</h6>
+                <br>
                 <h4>
-                {% if person.Twitter %} <a href="https://twitter.com/{{ person.Twitter }}"><i class="fa fa-twitter" style="position: relative; top: -5px;text-indent:0px;  vertical-align: middle;"></i></a> {% endif %}
-                {% if person.Github %} <a href="https://github.com/{{ person.Github }}"><i class="fa fa-github" style="position: relative; top: -5px; text-indent:0px;  "></i></a>{% endif %}
-                {% if person.Website %} <a href="{{ person.Website }}"> <i class="ai ai-website fa-vc" style="  margin-bottom: -50px;position: relative; top: -5px;text-indent:0px;"  ></i></a>{% endif %} 
+                {% if person.Twitter %} <a href="https://twitter.com/{{ person.Twitter }}"><i class="fa fa-twitter fa-2x" style="position: relative; top: -5px;text-indent:0px;  vertical-align: middle;"></i></a> {% endif %}
+                {% if person.Github %} <a href="https://github.com/{{ person.Github }}"><i class="fa fa-github fa-2x" style="position: relative; top: -5px; text-indent:0px;  "></i></a>{% endif %}
+                {% if person.Website %} <a href="{{ person.Website }}"><i class="fas fa-external-link-square-alt fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle;"></i></a>{% endif %} 
                 </h4>
             </header>
             </aside>

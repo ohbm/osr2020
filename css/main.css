@@ -922,20 +922,25 @@ pre {
 table.people {
   width: 100%; 
   table-layout: fixed;
+  border: none;
 }
 
 tr.people {
   height: 300px;
+  border: none;
 }
 
 td.people {
   width: 50%;
-  margin: 5%; 
+  margin: 5%;
+  border: none;
+  text-align: center;
 }
 
 img.person {
   height: 200px;
   float: right;
+  border-radius: 50%;
 }
 
 /* SCHEDULE START, imported from hackathon 2020 */
