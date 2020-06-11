@@ -1,5 +1,5 @@
 ---
-Name: Gaston Zanitti (presenting for Valentin Iovene)
+Name: Gaston Zanitti
 Title: Mr
 Pronouns: He/him
 Job: PhD. Student
@@ -11,6 +11,6 @@ Website:
 Twitter: gzanitti
 Github: gzanitti
 Comment: 'not on the list of speakers '
-permalink: "/speakers/gaston_zanitti_presenting_for_valentin_iovene.html"
+permalink: "/speakers/gaston_zanitti.html"
 layout: speaker_page
 ---
