@@ -1,4 +1,5 @@
 ---
+ID: '11'
 Name: Adina Wagner
 Title: Ms
 Pronouns: she/her
@@ -14,7 +15,6 @@ ShortBio: After graduating with a M.Sc in Psychology in 2019, Adina Wagner is no
 Website: https://www.adina-wagner.com/
 Twitter: AdinaKrik
 Github: adswa
-Comment: 
 permalink: "/speakers/adina_wagner.html"
 layout: speaker_page
 ---

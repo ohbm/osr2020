@@ -1,4 +1,5 @@
 ---
+ID: '21'
 Name: Marijn van Vliet
 Title: Dr.
 Pronouns: He/him
@@ -10,7 +11,6 @@ ShortBio: Dr Marijn van Vliet is a neuroscientist studying language processing u
 Website: https://users.aalto.fi/~vanvlm1
 Twitter: wmvanvliet
 Github: wmvanvliet
-Comment: 
 permalink: "/speakers/marijn_van_vliet.html"
 layout: speaker_page
 ---

@@ -1,4 +1,5 @@
 ---
+ID: '16'
 Name: Gaston Zanitti
 Title: Mr
 Pronouns: He/him
@@ -10,7 +11,6 @@ ShortBio: "[Presenting for Valentin Iovene]Gaston Zanitti has a Master in Comput
 Website: 
 Twitter: gzanitti
 Github: gzanitti
-Comment: 'not on the list of speakers '
 permalink: "/speakers/gaston_zanitti.html"
 layout: speaker_page
 ---

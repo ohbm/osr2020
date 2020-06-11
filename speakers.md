@@ -18,8 +18,9 @@ title: Speakers
 
             {% assign img_path = nil %}
             {% assign names = speaker.Name | downcase | split: " " %}
+            {% assign img_path = site.baseurl | append: "/img/person_default.jpg" %}
             {% for file in site.static_files %}                
-                {% if file.path contains names.first and file.path contains names.last %}
+                {% if file.path contains names.first and file.path contains names[1] %}
                     {% assign img_path = file.path %}
                 {% endif %}
             {% endfor %}

@@ -1,4 +1,5 @@
 ---
+ID: '4'
 Name: Agah Karakuzu
 Title: 
 Pronouns: he/him
@@ -13,7 +14,6 @@ ShortBio: Agah is a PhD student at NeuroPoly Lab under the supervision of Dr. Ni
 Website: https://agahkarakuzu.github.io
 Twitter: agahkarakuzu
 Github: agahkarakuzu
-Comment: 
 permalink: "/speakers/agah_karakuzu.html"
 layout: speaker_page
 ---
