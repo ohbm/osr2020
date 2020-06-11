@@ -3,10 +3,12 @@
 <section id="schedule" class="schedule" style="max-width: 1200px; margin: 0 auto;">
     <div class="content-wrapper" style="margin: 0 1em;">
         <h1>{{ page.title }}</h1>
-        <div style="margin:2em auto;text-align:left;max-width:450px;" class="tz-selector">
+        <div style="margin:2em auto;text-align:left;max-width:600px;" class="tz-selector">
           <label for=timezone>Schedule times are currently displayed in the following time zone:</label><select id="timezone" data-base-tz="{{ schedule[0].tz }}"></select>
         </div>
-
+        <div class="text-left">
+            <p><br><br>Instructions on how to join each session will be sent to <a href="https://ohbm.github.io/osr2020/register/">registered</a> participants.</p>
+        </div>
         {% for day in schedule %}
         <div class="schedule-table">
             <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>
@@ -48,7 +50,7 @@
                                         <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
                                         <span class="slot-language">{{session.language | upcase}}</span>
                                         {% if session.description != null %}
-                                        <p class="service-description">{{ session.description }}</p>
+                                        <p class="service-description"><b>{{ session.description }}</b> </p>
                                         {% endif %}
                                         <ul class="slot-speakers">
                                             {% for speaker in site.data.speakers %}
@@ -72,7 +74,7 @@
                                     <div class="slot-content">
                                         <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
                                         {% if session.description != null %}
-                                        <p class="service-description">{{ session.description }}</p>
+                                        <p class="service-description">{{ session.description | markdownify }}</p>
                                         {% endif %}
                                     </div>
                                 </div>

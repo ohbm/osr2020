@@ -638,7 +638,7 @@ table tr {
   padding: 0;
 }
 table tr:nth-child(2n) {
-  background-color: #f8f8f8;
+  /*background-color: #f8f8f8;*/
 }
 table tr th {
   font-weight: bold;
@@ -922,20 +922,25 @@ pre {
 table.people {
   width: 100%; 
   table-layout: fixed;
+  border: none;
 }
 
 tr.people {
   height: 300px;
+  border: none;
 }
 
 td.people {
   width: 50%;
-  margin: 5%; 
+  margin: 5%;
+  border: none;
+  text-align: center;
 }
 
 img.person {
   height: 200px;
   float: right;
+  border-radius: 50%;
 }
 
 /* SCHEDULE START, imported from hackathon 2020 */
@@ -1121,4 +1126,12 @@ time.start-time, time.end-time {
   margin-top: 15px;
   margin-bottom: 0;
 }
+
+.schedule-landing p { text-align: center; font-weight: bold; font-size: 200%; }
+.schedule-landing ul { list-style-type: none; padding: 0;display: flex; flex-wrap: wrap;   align-items: center;
+  justify-content: center; }
+.schedule-landing li { margin: 1em; font-size: 200%; border: 2px solid #05323F; border-radius: 0px; padding: 0; display: flex; flex-direction: column; justify-content: center; color: #05323F;}
+.schedule-landing a { display: block; padding: 2em; color: inherit; font-weight: bold; }
+.schedule-landing li:hover { border-color: transparent; background-color: #05323F; color: #fff;}
+
 /* SCHEDULE END */
