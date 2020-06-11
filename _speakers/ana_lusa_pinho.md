@@ -1,7 +1,6 @@
 ---
-ID: '15'
 Name: Ana Luísa Pinho
-Title: Dr.
+Title: Dr
 Pronouns: She/her
 Job: Postdoctoral Researcher
 Affiliation: Inria Saclay Île-De-France, NeuroSpin CEA-Saclay, Paris-Saclay, France
@@ -16,6 +15,7 @@ ShortBio: Ana Luísa Pinho graduated in Engineering Physics at Instituto Superio
 Website: https://team.inria.fr/parietal/ana-luisa-pinho/
 Twitter: ALuisaPinho
 Github: alpinho
+Comment:
 permalink: "/speakers/ana_lusa_pinho.html"
 layout: speaker_page
 ---

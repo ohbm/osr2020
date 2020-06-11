@@ -1,6 +1,5 @@
 ---
-ID: '12'
-Name: Julie Boyle
+Name: Julie A. Boyle
 Title: Ms
 Pronouns: She
 Job: Project Manager, Courtois Neuromod Project
@@ -13,6 +12,7 @@ ShortBio: Julie Boyle is the project manager for the Courtois NeuroMod project. 
 Website: https://www.cneuromod.ca/
 Twitter: juliebo80922597
 Github: julieaboyle1
-permalink: "/speakers/julie_boyle.html"
+Comment:
+permalink: "/speakers/julie_a_boyle.html"
 layout: speaker_page
 ---

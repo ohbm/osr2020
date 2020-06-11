@@ -1,5 +1,4 @@
 ---
-ID: '10'
 Name: Alexandra Lautarescu
 Title: Miss
 Pronouns: She/her

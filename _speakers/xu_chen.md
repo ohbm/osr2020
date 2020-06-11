@@ -1,5 +1,4 @@
 ---
-ID: '10'
 Name: Xu Chen
 Title: Dr
 Pronouns: She/her
@@ -12,6 +11,7 @@ ShortBio: Dr Xu Chen is a post doctoral researcher working with Prof Jelle Goema
 Website:
 Twitter:
 Github: xuchen312
+Comment:
 permalink: "/speakers/xu_chen.html"
 layout: speaker_page
 ---

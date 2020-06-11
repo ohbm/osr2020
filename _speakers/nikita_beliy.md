@@ -1,5 +1,4 @@
 ---
-ID: '20'
 Name: Nikita Beliy
 Title: Mr
 Pronouns:
@@ -10,6 +9,7 @@ ShortBio: Nikita Beliy started as high energy physicist at CMS collaboration (CE
 Website:
 Twitter:
 Github: nbeliy
+Comment:
 permalink: "/speakers/nikita_beliy.html"
 layout: speaker_page
 ---

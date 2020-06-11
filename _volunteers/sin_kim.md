@@ -1,8 +1,7 @@
 ---
-ID: '1'
 Name: Sin Kim
 Title: Mr
-Pronouns: he/him
+Pronouns: He/Him
 Job: PhD Student
 Affiliation: Korea Advanced Institute of Science and Technology, Daejeon, Korea
 ShortBio: Computer science major learning neuroimaging data analysis to study adolescent
