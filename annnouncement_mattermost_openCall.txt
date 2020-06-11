@@ -1,0 +1,21 @@
+Hi @channel, 
+
+:tada: We have three exciting announcements!  :tada: 
+
+:speaking_head: 1) The call is now open for talks, demos, and discussions in this year's virtual Open Science Room (OSR). 
+
+:running_woman: Submissions will be reviewed in two rounds, to expedite the process. The first round will close 15th May and we will communicate decisions as soon as possible after. *We'd be REALLY grateful if you can try to get submission in for the early deadline, so we have time to arrange the recording of talks before June!*
+
+:eyes: We're very happy for talk submissions to cover the same material as anything you've had accepted (or not!) as a poster for the main meeting. This would be a great opportunity to get some additional visibility for your research!
+
+[Submit your proposal now!](https://ohbm.github.io/osr2020/submit/)
+
+:hugs: 2) We'd love for you to help us build the OSR, so the whole community has an opportunity to contribute! Take a look at the potential [roles we've outlined for the OSR](https://ohbm.github.io/osr2020/contribute/) and let is know if you'd like to be a part of our events!
+
+:moneybag: 3) We are providing 20 mini-grants worth 100 USD each to help OSR speakers set up for online conferencing. These are provided to recognise the potential barriers which virtual presentation may impose, and go some way to improving the representation of our speakers. 
+
+You can apply for these mini grants on the talk submission page, and they are also detailed on our [accessability page](https://ohbm.github.io/osr2020/access/)
+
+:star2: For more information, please visit the OSR website and our [FAQ](https://ohbm.github.io/osr2020/faq/). [Contact us](https://ohbm.github.io/osr2020/contact/) via any of the means listed, including a message on this channel!
+
+Thank you! @cassgvp and @jsheunis 
