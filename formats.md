@@ -3,51 +3,56 @@ layout: page
 title: Talk formats
 ---
 
-We invite you to present your work in the OSR in one of the following formats.
-[Theme](themes.md) specific talks will be presented in "keynote", "lightning", "demo" or "panel discussion" sessions.
-Spontaneous or non-themed sessions are bookable in advance or during the meeting in an "Emergent" format.
+<img align="left" src="../img/fromFrantisek/formats.svg" alt="formats" width="40%">
 
-In all formats we would like to take this opportunity to intentionally diversify the range of speakers we hear from,
-and where possible platform voices which are traditionally under-represented in our field.
+Work will be presented in the OSR in one of the following formats.
+[Theme](themes.md) specific talks will be presented in [keynote](#keynote), [lightning](#lightning) or [demo](#demo) sessions. These have all been pre-recorded and will be broadcast according to our [schedule](schedule-PLACEHOLDER.html).
+
+Spontaneous or non-themed sessions are bookable in advance or during the meeting for [emergent](#emergent) sessions. These will be held live at a time convenient for the speakers. All emergents will be recorded (unless we have specific reason to think this would inhibit discussion) and made available for viewing on Crowdcast straight after the event. Links to this "spontaneously" recorded material will be shared with registered participants.
+
 
 ## Prerecorded talks
 
-To smooth the flow of a virtual conference, we would like to prerecord Lightning and Demo and Keynote talks. Recording will primarily be managed by an external audio-visual company and we will provide tips and recommendations to maximise the impact of your talk. Your recording will contain an image of yourself and your slides. Speakers will be asked to be available during and immediately after their talks to answer questions. We are finalising details of this process and will share more information or requirements with you as soon as they are available.
+To smooth the flow of the conference, all lightning and demo and keynote talks have been pre-recorded. Speakers will be available for Q&A immediately following the broadcast of their talks in at least two [timezone hubs](access.md/#hubs). You can also leave questions on pre-specified [mattermost](access.md/#zero-cost) channels and speakers will be encourage to get back to you.
 
+
+<div id="keynote"></div>
+<br>
 ## Keynote <img style="float: left;" src="../img/nounproj-key.png" alt="keynote" width="5%" hspace="20">
 
 <!-- <img align="right" src="../img/nounproj-key.png" alt="keynote" width="12.5%" hspace="20"> -->
 
-Keynote talks will be 30 minutes long, with 15 minutes for questions and discussion.
-These talks should showcase the best of our discipline with a clear message and call to action for our community.
+Keynote talks will be 25 minutes long, with 15 minutes for questions and discussion. These talks will showcase the best of our discipline with a clear message and call to action for our community.
 
-Keynotes may be followed by a panel discussion if appropriate for the talk. If you would like to be part of a panel following your keynote, we invite you to suggest names of up to three additional people who would promote discussion around the wider context of your talk. It would be preferable if panel members are at the meeting in person. You may wish to discuss you proposal with panel members before submission, but we do not expect you to have firm arrangements in place.
-
-
+<div id="lightning"></div>
+<br>
 ## Lightning <img align="left" src="../img/nounproj-lightning.png" alt="lightning" width="4%" hspace="20">
 
 <!-- <img align="left" src="../img/nounproj-lightning.png" alt="lightning" width="10%" hspace="20"> -->
 
-Lightning talks will be 5 minutes long with 2 minutes for questions.
-In these sessions we will prioritise talks which have been accepted as a poster in the main meeting,
-but also invite submissions which will be presented in other formats or not presented elsewhere.
-Although these talks are short, they are an excellent opportunity to showcase your work to a dedicated audience!
+Lightning talks will be 5 minutes long with 20 minutes for questions after all 5 talks in a session have taken place.
 
+These sessions will give a rapid showcase of how our community is working, where they are focused, and what methods they are exploring. This is the place to get a taster of the depth and breadth of the work going on in our community, spark interest and ideas for your own work, and keep an eye out for collaboration opportunities!
+
+<div id="demo"></div>
+<br>
 ## Demo <img align="left" src="../img/nounproj-demo.png" alt="demo" width="5%" hspace="20">
 
 <!-- <img align="right" src="../img/nounproj-demo.png" alt="demo" width="12.5%" hspace="20"> -->
 
-Software demo sessions are 7 minutes with 2 minutes for questions.
-These are a chance to showcase the latest developments in open source software,
-whether you have written the code yourself or would just like to champion the tool!
+Software and process demo sessions are 7 minutes with 20 minutes for questions after all 4 talks in the session have taken place.
 
+These sessions will give you a sneak preview of the tools our community are developing for their research. This is a great place to pick up processes before they reach the wider audience, speak directly with the developers, and contribute to the success of these applications. Lots of toys for you to pick up and play with, if you like that sort of thing!
+
+<div id="emergent"></div>
+<br>
 ## Emergent <img align="left" src="../img/nounproj-emergent.png" alt="Emergent" width="7%" hspace="15">
 
-<!-- <img align="right" src="../img/nounproj-Emergent.png" alt="Emergent" width="15%" hspace="20"> -->
+Emergent sessions may last from 15 minutes to 1 hour; a duration deemed appropriate by the participant organiser, or for as long as the conversation is flowing.  
 
-Emergent sessions may be variable length from 15 minutes to one hour. They can be framed as conversations which you would like to have in an open format among your peers.
+Emergents they can be framed as conversations held in open format among peers. These sessions may be used to invite contributions to collaborative projects, hold an open forum to discuss a development in existing projects, hold a panel discussions, or basically anything you would like! You are equally welcome to share other research findings or practices which do not fit into one of the [themes](themes.md) we are promoting.
 
-You may use these sessions to invite contributions to your collaborative project, hold an open forum to discuss a development on social media, follow up on a discussion started in the main meeting, hold a panel discussion, or basically anything you would like! You are equally welcome to share other research findings or practices which do not fit into one of the [themes](themes.md) we are promoting. You are welcome to book an Emergent session via the [submit](submit.md) page now, or wait until you are at the meeting itself.  
+Emergent sessions can be booked by any [registered](register-PLACEHOLDER.md) participant at any point in the meeting, while there is space in the schedule. [Submitted](submit.md) emergent requests will be briefly reviewed by the OSR team for appropriate content, and details communicated regarding how to book a slot in our schedule. We will be on hand to manage the hosting and broadcast of your session on your behalf, and help your participants join the conversation.
 
 
 ---
