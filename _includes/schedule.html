@@ -3,11 +3,11 @@
 <section id="schedule" class="schedule" style="max-width: 1200px; margin: 0 auto;">
     <div class="content-wrapper" style="margin: 0 1em;">
         <h1 style="text-align:center;">{{ page.title }}</h1>
-
-        <div style="text-align:center; max-width:600px;">
+        <br><br>
+        <div style="text-align:center;">
           <label for=timezone>Schedule times are currently displayed in the following time zone:</label>
         </div>
-        <div class="tz-selector" style="text-align:center; display:inline-block; max-width:600px;" >
+        <div class="tz-selector" style="text-align:center; display:inline-block;" >
             <select id="timezone" data-base-tz="{{ schedule[0].tz }}" style="width:100%"></select>
         </div>
         <div class="text-left">
