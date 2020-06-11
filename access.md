@@ -12,7 +12,6 @@ All interactions relating to the OSR should be conducted in accordance with the 
 
 *Everyone is invited to join us in the OSR, and we would like everyone to feel able to contribute.*
 
-
 - [Virtual attendance](#virtual)
 - [Sensory needs](#sensory)
 - [Open broadcast for zero-cost registrants](#zero-cost)
@@ -43,7 +42,7 @@ The OSR can be accessed for zero-cost at the point of [registration](register-PL
 
 Broadcast will take place via Crowdcast and DouYu. Both these services allow participants to direct questions to speakers. You will be sent details on how to connect to these services after [registration](register-PLACEHOLDER.md) and before the start of the meeting on 23rd June. We also encourace our zero-cost registrants to use [mattermost](https://mattermost.brainhack.org) to chat together, with our speakers and with our [volunteer team](volunteers.md).
 
-<div id="minigrants"></div>
+<div id="mini-grants"></div>
 <br>
 ## Participant Mini-grants
 
@@ -57,7 +56,7 @@ In completing the form you will be asked to **state explicitly what you intend t
 <br>
 ## Timezone hubs
 
-<img align="left" src="../img/osr-hubs.png" alt="hubs" width="40%">
+<img align="center" src="../img/osr-hubs.png" alt="hubs" width="100%">
 
 All our content will be repeated three times over 24 hours, to enable you to participate in the OSR at a time which suits you. The day starts in the Asia and Pacific Hub (Hub 1). The same content is then repeated in the Europe, Middle East and Africa Hub (Hub 2), and the day ends in the Americas Hub (Hub 3). Our speakers will be available for live Q&A across as many different time zones as possible. This means you will be able to follow a pseudo-live program and participate in live discussion where ever you are joining from.
 
