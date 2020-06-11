@@ -82,11 +82,11 @@
   service: true
   description: |
       **Short talks showcasing advances in the field of open data.**
-      1. [Privacy preserving tech: the tools for safe open data use](https://github.com/ohbm/osr2020/issues/18) ([Emma Bluemke](https://ohbm.github.io/osr2020/speakers/emma_bluemke.html))
+      1. [Privacy preserving tech: the tools for safe open data use](https://github.com/ohbm/osr2020/issues/18) (Emma Bluemke)
       2. [Concept Annotations via NIDM-Terms Fosters Improved Search of Open Datasets](https://github.com/ohbm/osr2020/issues/27) ([David Keator](https://ohbm.github.io/osr2020/speakers/david_keator.html))
       3. [Leveraging telehealth in underserved populations for open data research](https://github.com/ohbm/osr2020/issues/44) ([Linda Larson-Prior](https://ohbm.github.io/osr2020/speakers/linda_larson-prior.html))
       4. [The Courtois project on neuronal modelling - first data release](https://github.com/ohbm/osr2020/issues/32) ([Julie A. Boyle](https://ohbm.github.io/osr2020/speakers/julie_a_boyle.html))
-      5. [BIDS: a data standard to support the neuroimaging community](https://github.com/ohbm/osr2020/issues/42) ([Guiomar Niso](https://ohbm.github.io/osr2020/speakers/guiomar_niso.html))
+      5. [BIDS: a data standard to support the neuroimaging community](https://github.com/ohbm/osr2020/issues/42) (Guiomar Niso)
 
 -
   id: 202
@@ -95,11 +95,11 @@
   service: true
   description: |
       **Short talks showcasing transferable, reproducible and connected workflows.**
-      1. [dMRIPrep - A robust and reproducible pipeline for dMRI data pre-processing](https://github.com/ohbm/osr2020/issues/17) ([Michael Joseph](https://ohbm.github.io/osr2020/speakers/michael_joseph.html))
+      1. [dMRIPrep - A robust and reproducible pipeline for dMRI data pre-processing](https://github.com/ohbm/osr2020/issues/17) (Michael Joseph)
       2. [shamo, a tool for electromagnetic modelling of the head and sensitivity analysis.](https://github.com/ohbm/osr2020/issues/26) ([Martin Grignard](https://ohbm.github.io/osr2020/speakers/martin_grignard.html))
-      3. [Programming Brain Mapping Hypotheses in NeuroLang](https://github.com/ohbm/osr2020/issues/34) ([Valentin Iovene](https://ohbm.github.io/osr2020/speakers/valentin_iovene.html))
+      3. [Programming Brain Mapping Hypotheses in NeuroLang](https://github.com/ohbm/osr2020/issues/34) (Valentin Iovene)
       4. [ARIbrain: Interactive clustering with spatial activation guarantees using all-resolutions inference](https://github.com/ohbm/osr2020/issues/40) ([Xu Chen](https://ohbm.github.io/osr2020/speakers/xu_chen.html))
-      5. [Conquering confounds and covariates in neuroscientific analyses with an open, high quality library](https://github.com/ohbm/osr2020/issues/13) ([Pradeep Reddy Raamana](https://ohbm.github.io/osr2020/speakers/pradeep_reddy_raamana.html))
+      5. [Conquering confounds and covariates in neuroscientific analyses with an open, high quality library](https://github.com/ohbm/osr2020/issues/13) (Pradeep Reddy Raamana)
 
 -
   id: 302
@@ -109,9 +109,9 @@
   description: |
     **Short talks reflecting on where we've come from and where we may be headed.**
     1. [The Open Source Imaging Initiative](https://github.com/ohbm/osr2020/issues/52) ([João Periquito](https://ohbm.github.io/osr2020/speakers/joão_periquito.html))
-    2. [NeuroLibre : A cloud-based and curated repository for Jupyter Notebooks in neuroscience](https://github.com/ohbm/osr2020/issues/15) ([Loïc Tetrel](https://ohbm.github.io/osr2020/speakers/loïc_tetrel.html))
+    2. [NeuroLibre : A cloud-based and curated repository for Jupyter Notebooks in neuroscience](https://github.com/ohbm/osr2020/issues/15) ([Loïc Tetrel](https://ohbm.github.io/osr2020/speakers/loc_tetrel.html))
     3. [AFNI - From Then to Now and Beyond](https://github.com/ohbm/osr2020/issues/56) ([Robert Cox](https://ohbm.github.io/osr2020/speakers/robert_cox.html))
-    4. [Nilearn: open, easy, and powerful statistical analysis of brain images](https://github.com/ohbm/osr2020/issues/63) ([Gael Varoquaux](https://ohbm.github.io/osr2020/speakers/gael_varoquaux.html))
+    4. [Nilearn: open, easy, and powerful statistical analysis of brain images](https://github.com/ohbm/osr2020/issues/63) (Gael Varoquaux)
     5. [TBC](TBC) ([TBC](https://ohbm.github.io/osr2020/speakers/tbc_.html))
 
 
