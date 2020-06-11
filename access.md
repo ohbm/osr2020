@@ -12,37 +12,53 @@ All interactions relating to the OSR should be conducted in accordance with the 
 
 *Everyone is invited to join us in the OSR, and we would like everyone to feel able to contribute.*
 
+
+- [Virtual attendance](#virtual)
+- [Sensory needs](#sensory)
+- [Open broadcast for zero-cost registrants](#zero-cost)
+- [Participant Mini-grants](#mini-grants)
+- [Timezone hubs](#hubs)
+
+<div id="virtual"></div>
+<br>
 ## Virtual attendance
 
 This year the OHMB and OSR will be open for virtual attendance only. We are excited about this opportunity to bring the OSR to all members of the community, whether they are facing temporary or long term travel restrictions, for practical or moral reasons.
 
 Before the recent turn of events we arranged for a live broadcast of OSR talks to be openly available to the whole community, with tools for speaker engagement and feedback. The current global pandemic has pushed our hosts and the OS-SIG into making some significant financial and logistical decisions which will greatly improve the opportunities for engagement for those members of our community who are unable to travel to the annual meeting this year or in the future. We dearly hope this meeting will set a precedent for creating high quality and engaging online material, and set the bar for what is possible going forwards. We recognise that this move has been motivated by the changing needs of individuals who have not previously been excluded. We would also like to acknowledge that others may have called for such changes in the past, but had their requests returned as impossible or impractical to achieve. The virtual meeting this year will demonstrate that this is not the case, and indeed we can serve all members of our community whether they are physically present at the meeting or not. The meeting this year will showcase why [accessible design benefits everyone, not just those with access needs](https://blog.ai-media.tv/blog/why-designing-for-accessibility-helps-everyone).
 
+<div id="sensory"></div>
+<br>
 ## Sensory needs
 
 We are working with the providers of our virtual environment to establish best practice in designing the visual aesthetic of the OSR space. This may include minimum font sizes and dyslexia friendly colours.
 
-For individuals requiring hearing or language support, we are attempting to provide captions for both our live and prerecorded material in English. We would also like to establish whether the community would benefit from captions in languages other than English for on demand material. We are in the very early stages of investigating this requirement and potential solutions, so please do [contact us](contact.md) if this is something you have strong feelings about.
+For individuals requiring hearing or support or who speak English as a second language, we are working hard to provide captions for our live and prerecorded material. This may not be possible in all cases.  
 
+<div id="zero-cost"></div>
+<br>
 ## Open broadcast for zero-cost registrants
 
-We are still finalising details, but we hope to make opportunities for zero-cost registrants to engage with the OSR via an open broadcast of talks. These registrants will not be able to access the range of virtual resources, but we are working hard to create the experience we can. We will release details about access for zero-cost registrants as soon as we can.
+The OSR can be accessed for zero-cost at the point of [registration](register-PLACEHOLDER.md). Zero-cost registrants can watch [scheduled talks](schedule-PLACEHOLDER.html), take part in live text-based Q&A, [host](submit.md) and participate in [emergents sessions](format.md/#emergent), and join our scheduled social events!
 
-<!-- For the first time in OHBM and OSR history, we will host a virtual meeting and broadcast all the scheduled OSR material via the [OS-SIG YouTube channel](https://www.youtube.com/channel/UChvSitFvqGDeA1y7MJs4CGQ) to anyone who would like to tune in!
-The live broadcast will be supported by a system for receiving questions from remote viewers, so they can contribute directly to the discussion.
+Broadcast will take place via Crowdcast and DouYu. Both these services allow participants to direct questions to speakers. You will be sent details on how to connect to these services after [registration](register-PLACEHOLDER.md) and before the start of the meeting on 23rd June. We also encourace our zero-cost registrants to use [mattermost](https://mattermost.brainhack.org) to chat together, with our speakers and with our [volunteer team](volunteers.md).
 
-We are pleased that the stream to YouTube will not require our viewers to install any additional software and the feed can be scaled to fit available bandwidth. We are aware that YouTube is not currently available in all countries and are working to identify a more universal solution. We are very happy for you to [contact us](contact.md) to discuss options if YouTube is not a available in your region. -->
+<div id="minigrants"></div>
+<br>
+## Participant Mini-grants
 
-## Mini-grants
+We are pleased to provide a limited number of Participant mini-grants of up to 100 USD. These mini-grants are intended to support engagement and participation in the OSR. These are ideal to assist with buying essential online communication equipment, data packages, or related expenses.
+Applicants can also suggest a different use of the mini-grant based on their specific needs, however **mini-grants will only be considered to cover costs directly incurred through participating in this event.**
 
-We are providing 20 mini-grants, at 100 USD each, to serve as financial support for OSR speakers.
-These are ideal to assist with buying essential online communication equipment, data packages, or related expenses.
-Applicants can also suggest a different use of the mini-grant based on their specific needs.
-If you would like to apply for the mini-grant, please check the appropriate box in the [talk submission form](https://ohbm.github.io/osr2020/submit/#tripetto). We also ask that you provide your motivation for applying and explain how you might benefit from it.
+If you would like to apply for a mini-grant, please complete the [zero-cost registration form](register-PLACEHOLDER.md) and check the appropriate box.
+In completing the form you will be asked to **state explicitly what you intend to do with the grant money and what benefit you will gain from receiving it**. Applications will be reviewed after the meeting. You will be notified of success and processes of award as soon as possible after the meeting. We will prioritise applicants from underrepresented groups, those with financial need and those who do not yet own the essential equipment for online conferencing.
 
-The OS-SIG prioritises applicants from underrepresented groups, those with financial need and those who do not yet own the essential equipment for online conferencing.
-Since your motivation for applying might include sensitive personal information, we provide ask you to submit your motivation as part of the [second submission form](https://ohbm.github.io/osr2020/submit/#framasoft).
+<div id="hubs"></div>
+<br>
+## Timezone hubs
 
-## Have we missed anything?
+<img align="left" src="../img/osr-hubs.png" alt="hubs" width="40%">
 
-If you have specific access needs which we haven't addressed in the above, we would love for you to let us know. Please [contact us](contact.md) and provide as much information as you wish on what would improve your OSR experience. You are equally welcome to point us to an example of good practice for your needs (or an advocacy group) and we will do our best to incorporate their advice.
+All our content will be repeated three times over 24 hours, to enable you to participate in the OSR at a time which suits you. The day starts in the Asia and Pacific Hub (Hub 1). The same content is then repeated in the Europe, Middle East and Africa Hub (Hub 2), and the day ends in the Americas Hub (Hub 3). Our speakers will be available for live Q&A across as many different time zones as possible. This means you will be able to follow a pseudo-live program and participate in live discussion where ever you are joining from.
+
+View our [schedule](schedule-PLACEHOLDER.html) for your timezone by selecting your hub from the three shown. You will then be able to pick your specific country/city so see times converted to your location. No more time zone conversion! Yay!
