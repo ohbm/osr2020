@@ -121,21 +121,21 @@
   title: "Open Data 2.0 Keynote"
   place: "Some place here"
   service: true
-  description: "Phenotypes, Genotypes & Voxels: A playground next to a nuclear power plant (Anqi Qiu) - https://github.com/ohbm/osr2020/issues/16"
+  description: | [Phenotypes, Genotypes & Voxels: A playground next to a nuclear power plant](https://github.com/ohbm/osr2020/issues/16) ([Anqi Qiu](https://ohbm.github.io/osr2020/speakers/anqi_qiu.html))
 
 -
   id: 203
   title: "Open Workflows Keynote"
   place: "Some place here"
   service: true
-  description: "Transparent MRI workflows: From scanner to publication (Agah Karakuzu) - https://github.com/ohbm/osr2020/issues/38"
+  description: | [Transparent MRI workflows: From scanner to publication](https://github.com/ohbm/osr2020/issues/38) ([Agah Karakuzu](https://ohbm.github.io/osr2020/speakers/agah_karakuzu.html))
 
 -
   id: 303
   title: "Past, Present, Future Keynote"
   place: "Some place here"
   service: true
-  description: "Low Field MRI - a possible brain imaging modality for sub-Saharan Africa (Johnes Obungoloch) - https://github.com/ohbm/osr2020/issues/48"
+  description: | [Low Field MRI - a possible brain imaging modality for sub-Saharan Africa](https://github.com/ohbm/osr2020/issues/48) ([Johnes Obungoloch](https://ohbm.github.io/osr2020/speakers/johnes_obungoloch.html))
 
 # Demo
 -
