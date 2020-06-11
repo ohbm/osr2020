@@ -5,11 +5,10 @@ title: Submit
 
 - [Submission rounds](#rounds)
 - [Recording and Live streaming of presentations](#recording)
-- [Inclusivity and representation](#inclusivity)
-- [Mini-grants](#minigrants)
+- [Participant Mini-grants](#minigrants)
 - [Open review](#review)
 - [Community feedback](#feedback)
-- [Submission Step 1: talk proposal](#tripetto)
+- [Submission](#tripetto)
 - [Submission Step 2: sensitive information](#framasoft)
 
 ---
@@ -19,51 +18,24 @@ title: Submit
 ## Submission rounds
 Submission is now CLOSED for talks in this year's virtual Open Science Room, **except for emergent and invited sessions**.
 
-We will be notifying successful applicants soon to start recordings.
-
-We communicated previously that there would be a second call for talks, but due to the happy situation of being flooded with submissions, we have decided to close the call and allow time to focus on delivering the best content we can in the time available.
-
-If you missed the opportunity to submit a talk and you feel it would be of great benefit to the community you can [**reach out to us directly**](https://ohbm.github.io/osr2020/contact/) to consider your proposal.
-
 <div id="recording"></div>
 <br>
 ## Recording and Live streaming of presentations
 
-**It will be necessary for all Lightning and Demo and Keynote talks to be pre-recorded** to minimise the likelihood of technical difficulties during speaker changes. **Emergent sessions and Opening / Closing Ceremonies will be held live** to maximise audience engagement. We still have to finalise details with the platform, but we expect that it will be possible for you to host your Emergent session with only minimal advance warning, by submitting a request during the meeting itself.
+All Lightning, Demo and Keynote talks have been pre-recorded to minimise the likelihood of technical difficulties during speaker changes. The will be broadcast according to a [schedule](schedule-PLACEHOLDER.md) designed to maximise global access, with each session broadcast three times per day.
 
-In line with our requirements for [accessibility](https://ohbm.github.io/osr2020/access/),
-we will be live recording and streaming all non-Emergent presentations in the OSR.
-If your presentation is accepted, we will ask you to sign a release form licensing the broadcast and recording.
-If you do not wish your talk to be made publicly available, please select the "Emergent" format in the submission form below.
-
-Please see our description of [talk formats](https://ohbm.github.io/osr2020/formats/) to understand which type of session your talk will fall best into.
-Please also see the [FAQ page](https://ohbm.github.io/osr2020/faq/) for notes on our decision timeline.
-
-
-<div id="inclusivity"></div>
-<br>
-## Inclusivity and representation
-
-The OHBM Open Science Special Interest Group (OS-SIG) promotes diversity and improved representation for traditionally underrepresented groups in the OSR.
-This is of particular relevance in the process for awarding talks and [mini-grants](#minigrants), where we will actively seek to diversify representation in these recipients.
-Traditionally underrepresented groups at OHBM OS-SIG events include (but are not limited to): being based outside of North America & Europe, being LGBTQ+, being disabled, being neurodiverse, having caring responsibilities, being a woman.
-If you self-identify as such, you have the option to let us know.
-We understand that this means sharing sensitive personal information and we value your privacy.
-We have therefore set up a [secure and data-privacy-aware form](#framasoft) (in accordance with GDPR principles) to collect this information separately from the talk submission form.
-
+**Emergent sessions and Opening / Closing Ceremonies will be held live** to maximise audience engagement. Emergent sessions can be initiated by anyone registered for the OSR (as a OHBM registrant or a zero-cost registrant), by completing the form below. By registering for the OSR you provide your consent for emergent session to be recorded and preserved for later viewing. Please let us know if there is a particular reason why your emergent session should not be recorded.
 
 <div id="minigrants"></div>
 <br>
-## Mini-grants
+## Participant Mini-grants
 
-We are providing 20 mini-grants, at 100 USD each, to serve as financial support for OSR speakers.
-These are ideal to assist with buying essential online communication equipment, data packages, or related expenses.
-Applicants can also suggest a different use of the mini-grant based on their specific needs.
-If you would like to apply for the mini-grant, please check the appropriate box in the [talk submission form below](#tripetto).
-We also ask that you provide your motivation for applying and explain how you might benefit from it.
+We are pleased to be able to provide a limited number of Participant mini-grants of up to 100 USD. These mini-grants are intended to support engagement and participation in the OSR. These are ideal to assist with buying essential online communication equipment, data packages, or related expenses.
+Applicants can also suggest a different use of the mini-grant based on their specific needs, however **mini-grants they will only be considered to cover costs directly incurred through participating in this event.**
 
-The OS-SIG prioritises applicants from underrepresented groups, those with financial need and those who do not yet own the essential equipment for online conferencing.
-Since your motivation for applying might include sensitive personal information, we provide ask you to submit your motivation as part of the [second form below](#framasoft).
+If you would like to apply for a mini-grant, please complete the [zero-cost registration form](register-PLACEHOLDER.md) and check the appropriate box.
+In completing the form you will be asked to **state explicitly what you intend to do with the grant money and what benefit you will gain from receiving it**. Applications will be reviewed after the meeting. You will be notified of success and processes of award as soon as possible after the meeting. We will prioritise applicants from underrepresented groups, those with financial need and those who do not yet own the essential equipment for online conferencing.
+
 
 <div id="review"></div>
 <br>
@@ -92,14 +64,14 @@ During the submission process you will be asked to provide your GitHub username 
 You will receive an email confirmation when your submission has been received,
 and this will link to your issue on our [GitHub repository](https://github.com/ohbm/osr2020/issues).
 
-The [OS-SIG twitter account](https://twitter.com/ohbmopen) will also automatically tweet a link to every a new talk proposal added to the repository and invite community review.
+The [OS-SIG twitter account](https://twitter.com/ohbmopen) will also tweet a link to every a new talk proposal added to the repository and invite community review.
 Please feel free to use this and other means to promote your issue/proposal in any way you wish and gather as much feedback or interest as you can!
 
 If you do not have a GitHub username, we invite you to follow the instructions available [here](https://github.com/join) to create your free account before beginning the submission process.
 
 <div id="tripetto"></div>
 <br>
-## Submission Step 1: talk proposal
+## Submission
 
 <div style="--aspect-ratio: 3/4;">
   <iframe
@@ -122,7 +94,7 @@ tripettoDoc.document.close();
 </script>
 
 
-<div id="framasoft"></div>
+<!-- <div id="framasoft"></div>
 <br>
 ## Submission Step 2: sensitive information
 
@@ -139,4 +111,4 @@ whether you are from the [Global South](https://en.wikipedia.org/wiki/Global_Sou
     marginwidth="0"
   >
   </iframe>
-</div>  
+</div>   -->
