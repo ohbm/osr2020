@@ -82,11 +82,11 @@
   service: true
   description: |
       **Short talks showcasing advances in the field of open data.**
-      1. [Privacy preserving tech: the tools for safe open data use](https://github.com/ohbm/osr2020/issues/18) ([Emma Bluemke](https://ohbm.github.io/osr2020/speakers/Emma_Bluemke.html))
-      2. [Concept Annotations via NIDM-Terms Fosters Improved Search of Open Datasets](https://github.com/ohbm/osr2020/issues/27) ([David Keator](https://ohbm.github.io/osr2020/speakers/David_Keator.html))
-      3. [Leveraging telehealth in underserved populations for open data research](https://github.com/ohbm/osr2020/issues/44) ([Linda Larson-Prior](https://ohbm.github.io/osr2020/speakers/Linda_Larson-Prior.html))
-      4. [The Courtois project on neuronal modelling - first data release](https://github.com/ohbm/osr2020/issues/32) ([Julie A. Boyle](https://ohbm.github.io/osr2020/speakers/Julie_A._Boyle.html))
-      5. [BIDS: a data standard to support the neuroimaging community](https://github.com/ohbm/osr2020/issues/42) ([Guiomar Niso](https://ohbm.github.io/osr2020/speakers/Guiomar_Niso.html))
+      1. [Privacy preserving tech: the tools for safe open data use](https://github.com/ohbm/osr2020/issues/18) ([Emma Bluemke](https://ohbm.github.io/osr2020/speakers/emma_bluemke.html))
+      2. [Concept Annotations via NIDM-Terms Fosters Improved Search of Open Datasets](https://github.com/ohbm/osr2020/issues/27) ([David Keator](https://ohbm.github.io/osr2020/speakers/david_keator.html))
+      3. [Leveraging telehealth in underserved populations for open data research](https://github.com/ohbm/osr2020/issues/44) ([Linda Larson-Prior](https://ohbm.github.io/osr2020/speakers/linda_larson-prior.html))
+      4. [The Courtois project on neuronal modelling - first data release](https://github.com/ohbm/osr2020/issues/32) ([Julie A. Boyle](https://ohbm.github.io/osr2020/speakers/julie_a_boyle.html))
+      5. [BIDS: a data standard to support the neuroimaging community](https://github.com/ohbm/osr2020/issues/42) ([Guiomar Niso](https://ohbm.github.io/osr2020/speakers/guiomar_niso.html))
 
 -
   id: 202
