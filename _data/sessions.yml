@@ -149,8 +149,8 @@
   description: |
       **The latest developments in open source software as it relates to Open Data.**
       1. [Bidsme: flexible bidsifier for multimodal datasets](https://github.com/ohbm/osr2020/issues/22) ([Nikita Beliy](https://ohbm.github.io/osr2020/speakers/nikita_beliy.html))
-      2. [Individual Brain Charting dataset extension: second and third releases](https://github.com/ohbm/osr2020/issues/20) ([Ana Luísa Pinho](https://ohbm.github.io/osr2020/speakers/ana_luísa_pinho.html))
-      3. [Open and Shared Representations for Neuroscience](https://github.com/ohbm/osr2020/issues/24) ([Paola Di Maio](https://ohbm.github.io/osr2020/speakers/paola_di maio.html))
+      2. [Individual Brain Charting dataset extension: second and third releases](https://github.com/ohbm/osr2020/issues/20) ([Ana Luísa Pinho](https://ohbm.github.io/osr2020/speakers/ana_lusa_pinho.html))
+      3. [Open and Shared Representations for Neuroscience](https://github.com/ohbm/osr2020/issues/24) ([Paola Di Maio](https://ohbm.github.io/osr2020/speakers/paola_di_maio.html))
       4. [Sharing MRI data while protecting participants’ privacy: Two ways to get started](https://github.com/ohbm/osr2020/issues/55) ([Dorien Huijser](https://ohbm.github.io/osr2020/speakers/dorien_huijser.html))
 
 -
@@ -173,9 +173,9 @@
   description: |
       **The latest developments in open source software as it relates to the future of Open Neuroimaging.**
       1. [The Women in Neuroscience Repository (WiNRepo)](https://github.com/ohbm/osr2020/issues/28) ([Fabio Ferreira](https://ohbm.github.io/osr2020/speakers/fabio_ferreira.html))
-      2. [Status update on MNE-Python (TBC)](https://github.com/ohbm/osr2020/issues/59) ([Marijn van Vliet](https://ohbm.github.io/osr2020/speakers/marijn_van _vliet.html))
-      3. [Group ICA Toolbox: New features and developments](https://github.com/ohbm/osr2020/issues/37) ([Srinivas Rachakonda](https://ohbm.github.io/osr2020/speakers/srinivas_rachakonda.html))
-      4. [The INCF online training suite ](https://github.com/ohbm/osr2020/issues/60) ([Ariel Rokem](https://ohbm.github.io/osr2020/speakers/ariel_rokem.html))
+      2. [Status update on MNE-Python (TBC)](https://github.com/ohbm/osr2020/issues/59) ([Marijn van Vliet](https://ohbm.github.io/osr2020/speakers/marijn_van_vliet.html))
+      3. [Group ICA Toolbox: New features and developments](https://github.com/ohbm/osr2020/issues/37) (Srinivas Rachakonda)
+      4. [The INCF online training suite ](https://github.com/ohbm/osr2020/issues/60) (Ariel Rokem)
 
 # Opening ceremony
 -
