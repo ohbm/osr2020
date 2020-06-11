@@ -1,4 +1,5 @@
 ---
+ID: '3'
 Name: Fabio Ferreira
 Title: 
 Pronouns: He/him
@@ -11,7 +12,6 @@ ShortBio: Fabio Ferreira graduated in Biomedical Engineering at University of Co
 Website: https://www.researchgate.net/profile/Fabio_Ferreira33
 Twitter: "@FSFerreir"
 Github: ferreirafabio80
-Comment: 
 permalink: "/speakers/fabio_ferreira.html"
 layout: speaker_page
 ---

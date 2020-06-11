@@ -1,4 +1,5 @@
 ---
+ID: '8'
 Name: Loïc Tetrel
 Title: Mr
 Pronouns: 
@@ -11,7 +12,6 @@ ShortBio: Loïc Tetrel graduated with a M. Eng. in Electrical Engineering from F
 Website: https://www.neurolibre.com/
 Twitter: 
 Github: ltetrel
-Comment: 
 permalink: "/speakers/loc_tetrel.html"
 layout: speaker_page
 ---

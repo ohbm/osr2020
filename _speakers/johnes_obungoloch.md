@@ -1,4 +1,5 @@
 ---
+ID: '13'
 Name: Johnes Obungoloch
 Title: Dr
 Pronouns: He
@@ -12,7 +13,6 @@ ShortBio: Dr. Obungoloch is a lecturer in the department of Biomedical Engineeri
 Website: http://fast.must.ac.ug/fast-staff/dr-johnes-obungoloch/
 Twitter: 
 Github: Johnes1221
-Comment: 
 permalink: "/speakers/johnes_obungoloch.html"
 layout: speaker_page
 ---

@@ -1,4 +1,5 @@
 ---
+ID: '18'
 Name: David Meunier
 Title: Dr
 Pronouns: He/him
@@ -11,7 +12,6 @@ ShortBio: After some post-docs in Cambridge UK, Orsay and Lyon where Dr David Me
 Website: http://www.int.univ-amu.fr/spip.php?page=auteur&id_auteur=809&lang=en
 Twitter: 
 Github: https://github.com/davidmeunier79
-Comment: 
 permalink: "/speakers/david_meunier.html"
 layout: speaker_page
 ---

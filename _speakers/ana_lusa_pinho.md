@@ -1,4 +1,5 @@
 ---
+ID: '15'
 Name: Ana Luísa Pinho
 Title: Dr.
 Pronouns: She/her
@@ -15,7 +16,6 @@ ShortBio: Ana Luísa Pinho graduated in Engineering Physics at Instituto Superio
 Website: https://team.inria.fr/parietal/ana-luisa-pinho/
 Twitter: ALuisaPinho
 Github: alpinho
-Comment: 
 permalink: "/speakers/ana_lusa_pinho.html"
 layout: speaker_page
 ---
