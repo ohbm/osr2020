@@ -5,11 +5,9 @@ title: Submit
 
 - [Submission rounds](#rounds)
 - [Recording and Live streaming of presentations](#recording)
-- [Participant Mini-grants](#minigrants)
 - [Open review](#review)
 - [Community feedback](#feedback)
 - [Submission](#tripetto)
-- [Submission Step 2: sensitive information](#framasoft)
 
 ---
 
@@ -26,19 +24,6 @@ All Lightning, Demo and Keynote talks have been pre-recorded to minimise the lik
 
 **Emergent sessions and Opening / Closing Ceremonies will be held live** to maximise audience engagement. Emergent sessions can be initiated by anyone registered for the OSR (as a OHBM registrant or a zero-cost registrant), by completing the form below. By registering for the OSR you provide your consent for emergent session to be recorded and preserved for later viewing. Please let us know if there is a particular reason why your emergent session should not be recorded.
 
-<div id="minigrants"></div>
-<br>
-## Participant Mini-grants
-
-We are pleased to be able to provide a limited number of Participant mini-grants of up to 100 USD. These mini-grants are intended to support engagement and participation in the OSR. These are ideal to assist with buying essential online communication equipment, data packages, or related expenses.
-Applicants can also suggest a different use of the mini-grant based on their specific needs, however **mini-grants they will only be considered to cover costs directly incurred through participating in this event.**
-
-If you would like to apply for a mini-grant, please complete the [zero-cost registration form](register-PLACEHOLDER.md) and check the appropriate box.
-In completing the form you will be asked to **state explicitly what you intend to do with the grant money and what benefit you will gain from receiving it**. Applications will be reviewed after the meeting. You will be notified of success and processes of award as soon as possible after the meeting. We will prioritise applicants from underrepresented groups, those with financial need and those who do not yet own the essential equipment for online conferencing.
-
-
-<div id="review"></div>
-<br>
 ## Open review
 
 **All submitted talk proposals will automatically populate an issue in our publicly available [GitHub repository](https://github.com/ohbm/osr2020/issues).
