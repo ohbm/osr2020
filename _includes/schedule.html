@@ -7,12 +7,14 @@
         <div style="text-align:center;">
           <label for=timezone>Schedule times are currently displayed in the following time zone:</label>
         </div>
-        <div>
-            <select id="timezone" data-base-tz="{{ schedule[0].tz }}"></select>
+        <br>
+        <div style="margin-left: 22%">
+            <select style="width: 60%;" id="timezone" data-base-tz="{{ schedule[0].tz }}"></select>
         </div>
-        <div class="text-left">
+        <div style="text-align:center;">
             <p><br><i>Note: Instructions on how to join each session will be sent to <a href="https://ohbm.github.io/osr2020/register/">registered</a> participants.</i></p>
         </div>
+        <br>
         {% for day in schedule %}
         <div class="schedule-table">
             <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>

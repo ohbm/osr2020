@@ -9,8 +9,8 @@ ShortBio: After graduating as an industrial engineer, Martin Grignard started hi
   thesis in the field of neuroimaging. Since then, Martin's work is mainly focused
   on electromagnetic modelling using EEG, MEG, and tDCS. He is also a big FOSS and
   Python enthusiast.
-Website: 
-Twitter: 
+Website:
+Twitter:
 Github: MartinGrignard
 permalink: "/speakers/martin_grignard.html"
 layout: speaker_page

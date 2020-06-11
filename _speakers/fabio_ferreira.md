@@ -1,7 +1,7 @@
 ---
 ID: '3'
 Name: Fabio Ferreira
-Title: 
+Title:
 Pronouns: He/him
 Job: PhD Student
 Affiliation: University College London, London, UK

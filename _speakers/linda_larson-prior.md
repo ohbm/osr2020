@@ -14,8 +14,8 @@ ShortBio: Professor Linda Larson-Prior is interested in better understanding the
   tertiary care medical center and it is one thrust of that effort that she plans
   to discuss in this talk.
 Website: https://ndl.uams.edu
-Twitter: 
-Github: 
+Twitter:
+Github:
 permalink: "/speakers/linda_larson-prior.html"
 layout: speaker_page
 ---

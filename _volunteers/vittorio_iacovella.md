@@ -1,7 +1,7 @@
 ---
 ID: '3'
 Name: Vittorio Iacovella
-Title: 
+Title:
 Pronouns: He/him
 Job: Open Data technician
 Affiliation: CIMeC - Center for Mind / Brain Sciences, The University of Trento (Italy)

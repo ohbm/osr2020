@@ -1,7 +1,7 @@
 ---
 ID: '4'
 Name: Agah Karakuzu
-Title: 
+Title:
 Pronouns: he/him
 Job: PhD Candidate
 Affiliation: NeuroPoly Lab, Polytechnique Montreal, Montreal, Canada

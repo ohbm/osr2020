@@ -11,7 +11,7 @@ ShortBio: Dr. Obungoloch is a lecturer in the department of Biomedical Engineeri
   world and is currently involved in a project to develop a low field MRI system for
   imaging of hydrocephalus.
 Website: http://fast.must.ac.ug/fast-staff/dr-johnes-obungoloch/
-Twitter: 
+Twitter:
 Github: Johnes1221
 permalink: "/speakers/johnes_obungoloch.html"
 layout: speaker_page

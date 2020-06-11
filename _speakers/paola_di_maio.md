@@ -13,7 +13,7 @@ ShortBio: After working as Science and Technology correspondent and as a freelan
   unification. A lecturer and researcher, she is the founder and Chair of the W3C
   AI KR CG and a free spirit.
 Website: http://istcs.org
-Twitter: 
+Twitter:
 Github: starborn
 permalink: "/speakers/paola_di_maio.html"
 layout: speaker_page

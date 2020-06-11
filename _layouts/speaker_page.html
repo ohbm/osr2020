@@ -24,9 +24,9 @@ layout: base
         <h4> {{page.Job}}, {{ page.Affiliation }} </h4>  
         <p> {{ page.ShortBio | markdownify }} </p>
         <h4>
-            {% if page.Twitter %} <a href="https://twitter.com/{{ page.Twitter }}"><i class="fa fa-twitter fa-2x" style="position: relative;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a> {% endif %}
-            {% if page.Github %} <a href="https://github.com/{{ page.Github }}"><i class="fa fa-github fa-2x" style="position: relative; text-indent:0px; vertical-align: middle; margin-left:4px; margin-right:4px; "></i></a>{% endif %}
-            {% if page.Website %} <a href="{{ page.Website }}"> <i class="fa fa-external-link-square fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>{% endif %}
+            {% if page.Twitter %} <a target="_blank" href="https://twitter.com/{{ page.Twitter }}"><i class="fa fa-twitter fa-2x" style="position: relative;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a> {% endif %}
+            {% if page.Github %} <a target="_blank" href="https://github.com/{{ page.Github }}"><i class="fa fa-github fa-2x" style="position: relative; text-indent:0px; vertical-align: middle; margin-left:4px; margin-right:4px; "></i></a>{% endif %}
+            {% if page.Website %} <a target="_blank" href="{{ page.Website }}"> <i class="fa fa-external-link-square fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>{% endif %}
         </h4>
         </td>
         <td style="border: none; width: 35%"><img src="{{ site.baseurl }}{{ img_path }}" class="person"></td>
@@ -37,7 +37,7 @@ layout: base
           <tr style="border: none; background: none"><td style="border: none; background: none">
           <h3> Talks </h3>
           {% for talk in talks %}
-            <span><h4><i> {{ talk.TalkTitle }} </i></h4><h5>{{ talk.Date }}, <a href="{{talk.Link}}"> GitHub link </a> </h5></span>
+            <span><h4><i> {{ talk.TalkTitle }} </i></h4><h5>{{ talk.Date }}, <a target="_blank" href="{{talk.Link}}"> Talk abstract </a> </h5></span>
           {% endfor %}
           </td></tr>
         {% endif %}
