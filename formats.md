@@ -3,14 +3,14 @@ layout: page
 title: Talk formats
 ---
 
-<img align="left" src="../img/fromFrantisek/formats.svg" alt="formats" width="40%">
+<img align="left" src="../img/fromFrantisek/formats.svg" alt="formats" width="30%">
 
 Work will be presented in the OSR in one of the following formats.
 [Theme](themes.md) specific talks will be presented in [keynote](#keynote), [lightning](#lightning) or [demo](#demo) sessions. These have all been pre-recorded and will be broadcast according to our [schedule](schedule-PLACEHOLDER.html).
 
 Spontaneous or non-themed sessions are bookable in advance or during the meeting for [emergent](#emergent) sessions. These will be held live at a time convenient for the speakers. All emergents will be recorded (unless we have specific reason to think this would inhibit discussion) and made available for viewing on Crowdcast straight after the event. Links to this "spontaneously" recorded material will be shared with registered participants.
 
-
+<br><br><br><br>
 ## Prerecorded talks
 
 To smooth the flow of the conference, all lightning and demo and keynote talks have been pre-recorded. Speakers will be available for Q&A immediately following the broadcast of their talks in at least two [timezone hubs](access.md/#hubs). You can also leave questions on pre-specified [mattermost](access.md/#zero-cost) channels and speakers will be encourage to get back to you.
