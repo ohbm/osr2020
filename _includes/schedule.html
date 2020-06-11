@@ -3,11 +3,10 @@
 <section id="schedule" class="schedule" style="max-width: 1200px; margin: 0 auto;">
     <div class="content-wrapper" style="margin: 0 1em;">
         <h1>{{ page.title }}</h1>
-        <div style="margin:2em auto;text-align:left;max-width:600px;" class="tz-selector">
+        <div style="margin:5px auto;text-align:left;max-width:600px;" class="tz-selector">
           <label for=timezone>Schedule times are currently displayed in the following time zone:</label><select id="timezone" data-base-tz="{{ schedule[0].tz }}"></select>
-          <p>Instructions on how to join each session will be sent to <a href="https://ohbm.github.io/osr2020/register/">registered</a>participants.</p>
         </div>
-
+        <p>Instructions on how to join each session will be sent to <a href="https://ohbm.github.io/osr2020/register/">registered</a> participants.</p>
         {% for day in schedule %}
         <div class="schedule-table">
             <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>
