@@ -1,5 +1,4 @@
 ---
-ID: '7'
 Name: Tulika Nandi
 Title: Dr.
 Pronouns: She/her

@@ -1,5 +1,4 @@
 ---
-ID: '2'
 Name: David Keator
 Title: Dr
 Pronouns: He/him
@@ -13,6 +12,7 @@ ShortBio: 'Dr. Keator has an extensive background in data science, applied machi
 Website: http://www.davidkeator.com
 Twitter: "@BrainJunky"
 Github: dbkeator
+Comment:
 permalink: "/speakers/david_keator.html"
 layout: speaker_page
 ---

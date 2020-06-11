@@ -1,5 +1,4 @@
 ---
-ID: '6'
 Name: Eric Verner
 Title: Mr
 Pronouns: He/him
@@ -13,6 +12,7 @@ ShortBio: Eric Verner is an electrical engineer by training and has worked in ne
 Website: https://trendscenter.org
 Twitter: "@everner"
 Github: everner
+Comment:
 permalink: "/speakers/eric_verner.html"
 layout: speaker_page
 ---

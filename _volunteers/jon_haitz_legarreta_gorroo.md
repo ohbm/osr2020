@@ -1,5 +1,4 @@
 ---
-ID: '8'
 Name: Jon Haitz Legarreta Gorroño
 Title:
 Pronouns: He/him

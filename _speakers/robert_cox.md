@@ -1,5 +1,4 @@
 ---
-ID: '17'
 Name: Robert Cox
 Title:
 Pronouns: He/Him
@@ -12,6 +11,7 @@ ShortBio: Long ago, Robert fell in love, moved to be with his new wife, and had 
 Website: https://afni.nimh.nih.gov
 Twitter: "@AFNIman"
 Github: afni-rwcox
+Comment:
 permalink: "/speakers/robert_cox.html"
 layout: speaker_page
 ---

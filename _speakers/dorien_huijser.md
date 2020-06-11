@@ -1,5 +1,4 @@
 ---
-ID: '7'
 Name: Dorien Huijser
 Title: Ms
 Pronouns: She/her
@@ -16,6 +15,7 @@ ShortBio: Dorien is lab and data manager for the Society, Youth and Neuroscience
 Website: https://erasmus-synclab.nl/
 Twitter: "@DorienHuijser"
 Github: DorienHuijser
+Comment:
 permalink: "/speakers/dorien_huijser.html"
 layout: speaker_page
 ---
