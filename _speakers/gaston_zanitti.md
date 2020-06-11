@@ -8,7 +8,7 @@ Affiliation: Institut national de recherche en sciences et technologies du numé
   Ile-de-France, France
 ShortBio: "[Presenting for Valentin Iovene]Gaston Zanitti has a Master in Computer
   Science and is currently a PhD student at the Parietal Team (INRIA)."
-Website: 
+Website:
 Twitter: gzanitti
 Github: gzanitti
 permalink: "/speakers/gaston_zanitti.html"

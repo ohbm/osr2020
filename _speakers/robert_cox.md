@@ -1,7 +1,7 @@
 ---
 ID: '17'
 Name: Robert Cox
-Title: 
+Title:
 Pronouns: He/Him
 Job: Core Director
 Affiliation: NIMH, Bethesda Maryland, USA

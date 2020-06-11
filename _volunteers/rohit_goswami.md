@@ -1,7 +1,7 @@
 ---
 ID: '2'
 Name: Rohit Goswami
-Title: 
+Title:
 Pronouns: He/Him
 Job: Doctoral Researcher
 Affiliation: Faculty of Physical Sciences, University of Iceland

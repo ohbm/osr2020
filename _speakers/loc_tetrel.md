@@ -2,7 +2,7 @@
 ID: '8'
 Name: Loïc Tetrel
 Title: Mr
-Pronouns: 
+Pronouns:
 Job: Research professional
 Affiliation: CRIUGM, Montreal, Canada
 ShortBio: Loïc Tetrel graduated with a M. Eng. in Electrical Engineering from France/Canada,
@@ -10,7 +10,7 @@ ShortBio: Loïc Tetrel graduated with a M. Eng. in Electrical Engineering from F
   optics). Loïc is now focusing on fMRI with an emphasis on pre-processing, hardware
   computing and open science tools for neuroscience.
 Website: https://www.neurolibre.com/
-Twitter: 
+Twitter:
 Github: ltetrel
 permalink: "/speakers/loc_tetrel.html"
 layout: speaker_page

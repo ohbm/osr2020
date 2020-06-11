@@ -1,7 +1,7 @@
 ---
 ID: '4'
 Name: Marta Topor
-Title: 
+Title:
 Pronouns: She/her
 Job: PhD Candidate
 Affiliation: University of Surrey
@@ -11,7 +11,7 @@ ShortBio: Marta Topor is a second-year psychology PhD student at the University 
   Alongside her PhD work, she collaborates on many projects regarding open research
   with the focus on the development of training and educational materials and the
   improvement of research methods and workflow.
-Website: 
+Website:
 Twitter: MartaTopor
 Github: m-topor
 permalink: "/volunteers/marta_topor.html"

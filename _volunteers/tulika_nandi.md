@@ -11,7 +11,7 @@ ShortBio: I have a background in physiotherapy and my research focuses on non-in
   neuromodulation technique.
 Website: https://www.ndcn.ox.ac.uk/team/tulika-nandi
 Twitter: TulikaNan
-Github: 
+Github:
 permalink: "/volunteers/tulika_nandi.html"
 layout: speaker_page
 ---

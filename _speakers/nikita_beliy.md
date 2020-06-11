@@ -2,13 +2,13 @@
 ID: '20'
 Name: Nikita Beliy
 Title: Mr
-Pronouns: 
+Pronouns:
 Job: Post Doc
 Affiliation: University of Liege, Liege, Belgium
 ShortBio: Nikita Beliy started as high energy physicist at CMS collaboration (CERN),
   after which he moved to data management of medical imaging data.
-Website: 
-Twitter: 
+Website:
+Twitter:
 Github: nbeliy
 permalink: "/speakers/nikita_beliy.html"
 layout: speaker_page
