@@ -82,19 +82,18 @@
   service: true
   description: |
       **Short talks showcasing advances in the field of open data.**
-      1. [Privacy preserving tech: the tools for safe open data use](https://github.com/ohbm/osr2020/issues/18) ([Emma Bluemke](https://ohbm.github.io/osr/speakers/Emma_Bluemke.html))
-      2. [Concept Annotations via NIDM-Terms Fosters Improved Search of Open Datasets](https://github.com/ohbm/osr2020/issues/27) ([David Keator](https://ohbm.github.io/osr/speakers/David_Keator.html))
-      3. [Leveraging telehealth in underserved populations for open data research](https://github.com/ohbm/osr2020/issues/44) ([Linda Larson-Prior](https://ohbm.github.io/osr/speakers/Linda_Larson-Prior.html))
-      4. [The Courtois project on neuronal modelling - first data release](https://github.com/ohbm/osr2020/issues/32) ([Julie A. Boyle](https://ohbm.github.io/osr/speakers/Julie_A._Boyle.html))
-      5. [BIDS: a data standard to support the neuroimaging community](https://github.com/ohbm/osr2020/issues/42) ([Guiomar Niso](https://ohbm.github.io/osr/speakers/Guiomar_Niso.html))
-
+      1. [Privacy preserving tech: the tools for safe open data use](https://github.com/ohbm/osr2020/issues/18) ([Emma Bluemke](https://ohbm.github.io/osr2020/speakers/Emma_Bluemke.html))
+      2. [Concept Annotations via NIDM-Terms Fosters Improved Search of Open Datasets](https://github.com/ohbm/osr2020/issues/27) ([David Keator](https://ohbm.github.io/osr2020/speakers/David_Keator.html))
+      3. [Leveraging telehealth in underserved populations for open data research](https://github.com/ohbm/osr2020/issues/44) ([Linda Larson-Prior](https://ohbm.github.io/osr2020/speakers/Linda_Larson-Prior.html))
+      4. [The Courtois project on neuronal modelling - first data release](https://github.com/ohbm/osr2020/issues/32) ([Julie A. Boyle](https://ohbm.github.io/osr2020/speakers/Julie_A._Boyle.html))
+      5. [BIDS: a data standard to support the neuroimaging community](https://github.com/ohbm/osr2020/issues/42) ([Guiomar Niso](https://ohbm.github.io/osr2020/speakers/Guiomar_Niso.html))
 -
   id: 202
   title: "Open Workflows Lightning"
   place: ""
   service: true
-  description:
-      "**Short talks showcasing transferable, reproducible and connected workflows.**
+  description: |
+      **Short talks showcasing transferable, reproducible and connected workflows.**
       (1) dMRIPrep - A robust and reproducible pipeline for dMRI data pre-processing (Michael Joseph) - https://github.com/ohbm/osr2020/issues/17;
       (2) shamo, a tool for electromagnetic modelling of the head and sensitivity analysis. (Martin Grignard) - https://github.com/ohbm/osr2020/issues/26;
       (3) Programming Brain Mapping Hypotheses in NeuroLang (Valentin Iovene) - https://github.com/ohbm/osr2020/issues/34;
@@ -121,21 +120,21 @@
   title: "Open Data 2.0 Keynote"
   place: "Some place here"
   service: true
-  description: "Phenotypes, Genotypes & Voxels: A playground next to a nuclear power plant (Anqi Qiu) - https://github.com/ohbm/osr2020/issues/16"
+  description: | "Phenotypes, Genotypes & Voxels: A playground next to a nuclear power plant (Anqi Qiu) - https://github.com/ohbm/osr2020/issues/16"
 
 -
   id: 203
   title: "Open Workflows Keynote"
   place: "Some place here"
   service: true
-  description: "Transparent MRI workflows: From scanner to publication (Agah Karakuzu) - https://github.com/ohbm/osr2020/issues/38"
+  description: | "Transparent MRI workflows: From scanner to publication (Agah Karakuzu) - https://github.com/ohbm/osr2020/issues/38"
 
 -
   id: 303
   title: "Past, Present, Future Keynote"
   place: "Some place here"
   service: true
-  description: "Low Field MRI - a possible brain imaging modality for sub-Saharan Africa (Johnes Obungoloch) - https://github.com/ohbm/osr2020/issues/48"
+  description: | "Low Field MRI - a possible brain imaging modality for sub-Saharan Africa (Johnes Obungoloch) - https://github.com/ohbm/osr2020/issues/48"
 
 # Demo
 -
@@ -143,8 +142,8 @@
   title: "Open Data 2.0 Demo"
   place: "Some place here"
   service: true
-  description:
-      "**The latest developments in open source software as it relates to Open Data.**
+  description: |
+      **The latest developments in open source software as it relates to Open Data.**
       (1) Bidsme: flexible bidsifier for multimodal datasets (Nikita Beliy) - https://github.com/ohbm/osr2020/issues/22;
       (2) Individual Brain Charting dataset extension: second and third releases (Ana Luísa Pinho) - https://github.com/ohbm/osr2020/issues/20;
       (3) Open and Shared Representations for Neuroscience (Paola Di Maio) - https://github.com/ohbm/osr2020/issues/24;
@@ -155,8 +154,8 @@
   title: "Open Workflows Demo"
   place: "Some place here"
   service: true
-  description:
-      "**The latest developments in open source software as it relates to Open Workflows.**
+  description: |
+      **The latest developments in open source software as it relates to Open Workflows.**
       (1) Reproducible Research Objects with DataLad (Adina Wagner) - https://github.com/ohbm/osr2020/issues/25;
       (2) Open, Reproducible, and Decentralized Workflows with COINSTAC (Eric Verner) - https://github.com/ohbm/osr2020/issues/33;
       (3) Macapype: An open multi-software framework for non-human primate anatomical MRI processing (David Meunier) - https://github.com/ohbm/osr2020/issues/29;
@@ -167,8 +166,8 @@
   title: "Past, Present, Future Demo"
   place: "Some place here"
   service: true
-  description:
-      "**The latest developments in open source software as it relates to the future of Open Neuroimaging.**
+  description: |
+      **The latest developments in open source software as it relates to the future of Open Neuroimaging.**
       (1) The Women in Neuroscience Repository (WiNRepo) (Fabio Ferreira) - https://github.com/ohbm/osr2020/issues/28;
       (2) Status update on MNE-Python (TBC) (Marijn van Vliet (TBC)) - TBC;
       (3) Group ICA Toolbox: New features and developments (Srinivas Rachakonda) - https://github.com/ohbm/osr2020/issues/37;
