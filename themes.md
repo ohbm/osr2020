@@ -23,6 +23,9 @@ We would like to celebrate what you have achieved and be inspired to bring new m
 
 <img align="right" src="../img/undraw_code_typing_7jnv.png" alt="future" width="40%">
 
+
+
+
 ## Theme 2: Open Workflows
 
 <img align="left" src="../img/fromFrantisek/open_workflows.svg" alt="OW" width="40%">
@@ -40,6 +43,9 @@ reproducible and connected. We are also pleased to hear about open source office
 lab or life hacks we couldn't do without!
 
 <img align="right" src="../img/undraw_data_xmfy.png" alt="workflow" width="40%">
+
+
+
 
 
 ## Theme 3: The Past, Present and Future of Open Neuroimaging
