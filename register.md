@@ -7,7 +7,7 @@ title: Register for the OSR!
 
 You will be sent details on how to join the live broadcasts before the meeting commences on 23rd June.
 
-Please also use this form to apply for our [Participant mini-grants](https://ohbm.github.io/osr2020/access/#minigrants)
+Please also use this form to apply for our [Participant mini-grants](https://ohbm.github.io/osr2020/access/#mini-grants)
 
 <div id="eventbrite-widget-container-108179533898"></div>
 
