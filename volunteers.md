@@ -16,6 +16,7 @@ The core OSR team were elected into these roles in July 2019, as part of the [OH
             <header>
                 <img src="../img/team/cassandra_gould_van_praag.jpg" style="height:200px; border-radius:50%;">
                 <h3>Cassandra Gould van Praag</h3>
+                <h4>OSR Co-chair</h4>
                 <h6>Wellcome Centre for Integrative Neuroimaging, University of Oxford</h6>
                 <h4>
                 <a target="_blank" href="https://twitter.com/cassgvp"><i class="fa fa-twitter fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
@@ -32,6 +33,7 @@ The core OSR team were elected into these roles in July 2019, as part of the [OH
             <header>
                 <img src="../img/team/stephan_heunis.jpg" style="height:200px; border-radius:50%;">
                 <h3>Stephan Heunis</h3>
+                <h4>OSR Co-chair</h4>
                 <h6>Eindhoven University of Technology, The Netherlands</h6>
                 <h4>
                 <a target="_blank" href="https://twitter.com/fmrwhy"><i class="fa fa-twitter fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
@@ -54,6 +56,7 @@ The core OSR team were elected into these roles in July 2019, as part of the [OH
             <header>
                 <img src="../img/team/camille_maumet.jpg" style="height:200px; border-radius:50%;">
                 <h3>Camille Maumet</h3>
+                <h4>OS-SIG Chair</h4>
                 <h6>Inria, Univ Rennes, CNRS, Inserm</h6>
                 <h4>
                 <a target="_blank" href="https://twitter.com/cmaumet"><i class="fa fa-twitter fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
