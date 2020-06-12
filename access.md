@@ -38,9 +38,9 @@ For individuals requiring hearing or support or who speak English as a second la
 <br>
 ## Open broadcast for zero-cost registrants
 
-The OSR can be accessed for zero-cost at the point of [registration](register-PLACEHOLDER.md). Zero-cost registrants can watch [scheduled talks](schedule.html), take part in live text-based Q&A, [host](submit.md) and participate in [emergents sessions](format.md/#emergent), and join our scheduled social events!
+The OSR can be accessed for zero-cost at the point of [registration](register.md). Zero-cost registrants can watch [scheduled talks](schedule.html), take part in live text-based Q&A, [host](submit.md) and participate in [emergents sessions](format.md/#emergent), and join our scheduled social events!
 
-Broadcast will take place via Crowdcast and DouYu. Both these services allow participants to direct questions to speakers. You will be sent details on how to connect to these services after [registration](register-PLACEHOLDER.md) and before the start of the meeting on June 23rd.
+Broadcast will take place via Crowdcast and DouYu. Both these services allow participants to direct questions to speakers. You will be sent details on how to connect to these services after [registration](register.md) and before the start of the meeting on June 23rd.
 
 We also encourage our zero-cost registrants to use [Mattermost](https://mattermost.brainhack.org) to chat together, with our speakers and with our [volunteer team](volunteers.md). If you are not familiar with Mattermost, you can check out the [user-guide](https://docs.mattermost.com/guides/user.html) and this [short video](https://www.youtube.com/watch?v=eq4yEM5z5SY&list=PL-jqvaPsjQpMqnRgFEw_3fuGQbcVDTpaM&index=5) describing how it works.
 
@@ -51,7 +51,7 @@ We also encourage our zero-cost registrants to use [Mattermost](https://mattermo
 We are pleased to provide a limited number of Participant mini-grants of up to 100 USD. These mini-grants are intended to support engagement and participation in the OSR. These are ideal to assist with buying essential online communication equipment, data packages, or related expenses.
 Applicants can also suggest a different use of the mini-grant based on their specific needs, however **mini-grants will only be considered to cover costs directly incurred through participating in this event.**
 
-If you would like to apply for a mini-grant, please complete the [zero-cost registration form](register-PLACEHOLDER.md) and check the appropriate box.
+If you would like to apply for a mini-grant, please complete the [zero-cost registration form](register.md) and check the appropriate box.
 In completing the form you will be asked to **state explicitly what you intend to do with the grant money and what benefit you will gain from receiving it**. Applications will be reviewed after the meeting. You will be notified of success and processes of award as soon as possible after the meeting. We will prioritise applicants from underrepresented groups, those with financial need and those who do not yet own the essential equipment for online conferencing.
 
 <div id="hubs"></div>

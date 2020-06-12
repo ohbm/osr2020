@@ -37,7 +37,7 @@ Anyone can participate in the OSR! Our content is scheduled to minimise clashes 
 
 You must register for the OSR to obtain the relevant details to join the discussions. Registration for the OSR is bundled into the main meeting if you are attending the full <a href="https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3958">OHMB program</a>. Details for how to join the OSR will be provided in the OHBM Meeting Virtual Platform.
 
-You can also [register](register-PLACEHOLDER.md) for the OSR at [zero-cost](access.md/#zero-cost). Please complete the registration form and we will communicate details on howbto join the conversation before the meeting commences on June 23rd.
+You can also [register](register.md) for the OSR at [zero-cost](access.md/#zero-cost). Please complete the registration form and we will communicate details on howbto join the conversation before the meeting commences on June 23rd.
 
 <div id='attend'></div><br>
 ### Do I have to travel to participate in the OSR?
