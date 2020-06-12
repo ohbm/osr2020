@@ -8,12 +8,13 @@ title: FAQ
 - [Who can participate in the OSR?](#whovisit)
 - [Do I have to travel to participate in the OSR?](#attend)
 - [When will I know if I have been accepted to present in the OSR?](#when)
-- [Who will decide if my presentation proposal is accepted in the OSR?](#decide)
 - [What if my presentation clashes with my talk/poster in the main meeting?!](#clash)
 - [How do I contact the OSR?](#contact)
 - [How will the virtual OSR differ from the in-person OSR?](#virtual)
 - [How will you handle time zone differences of attendees?](#time-zones)
-- [Why are you encouraging some presenters to prerecord talks?](#prerecord)
+- [Why have talks been pre-recorded?](#prerecord)
+- [Who has contributed to the OSR?](#contributors)
+- [Who has sponsored the OSR?](#sponsors)
 
 ---
 
@@ -68,5 +69,21 @@ There have been a few format changes from the main meeting to reduce the load (n
 We have structured our content to be repeated across three [timezone hubs](accedd.md/#hubs) over 24 hours. The "official program" of accepted talks will run for 2 hours 30 minutes per day, and we have timed it to fit into a 09:00 - 17:00 day for most regions within each hub. Emergent and social sessions will be held at the beginning and end of each day, so they should be convenient for the start or end of the day in each hub depending on where you are located. Take a look at our [schedule](schedule-PLACEHOLDER.html) to find time of broadcast in your hub, and view activities in your local time zone.
 
 <div id='prerecord'></div>
-### Why have presenters to pre-recorded talks?
+### Why have talks been pre-recorded?
 Pre-recording of talks will minimise technicalities in switching between speakers, which will be frequent in the short formats. Giving a prerecorded talk also means the speaker can be on hand to answer questions from the community during the talk itself, and will not have to split their attention between presentation and text chat. Pre-recording also means presenters will have a greater opportunity to deliver the talk they were aiming for in the allotted time, which will be invaluable for these short format sessions. Pre-recording also means that we have all material ready to broadcast across each hub following the arch of the day, rather than waiting for speakers to wake up in their local timezones before we can share their work with the world!
+
+<div id='contributors'></div>
+### Who has contributed to the OSR?
+the OSR has been built by the [OHBM Open Science Special Interest Group (OS-SIG)](https://ossig.netlify.app/), and the generous support of our team of  [volunteers](volunteers.md) who responded to our call for contributors. We are indebted to the them for the time and energy they have brought to this project.
+
+You can join the team for next year by running for election into the OS-SIG, or staying close to OS-SIG activities and reaching out as we start to build again next year! You can find out more about our operations by joining our content on [Friday June 26th](schedule-PLACEHOLDER.html), where we will host discussions around elections and an open Town Hall session where you can ask us anything!
+
+<div id='sponsors'></div>
+### Who has sponsored the OSR?
+The OSR has been made possible this year by the generous support of [OpenNeuro](https://openneuro.org/), [the International Neuroinformatics Coordinating Facility (INCF)](https://www.incf.org/), [Courtois NeuroMod](https://www.cneuromod.ca/), [the Ludmer Centre](http://ludmercentre.ca/) and [NeuroLibre](https://conp-pcno.github.io/). We are indebted to our sponsors for helping us work towards our vision for a world class and inclusive OSR.
+
+<img align="left" src="../img/sponsor-logos/openneuro_logo.png" alt="openneuro" width="20%">
+<img align="left" src="../img/sponsor-logos/incf_logo.png" alt="INCF" width="20%">
+<img align="left" src="../img/sponsor-logos/cneuromod_logo.svg" alt="cneuromod" width="20%">
+<img align="left" src="../img/sponsor-logos/ludmer_logo.png" alt="ludmer" width="20%">
+<img align="left" src="../img/sponsor-logos/conp_logo.png" alt="neurolibre" width="20%">
