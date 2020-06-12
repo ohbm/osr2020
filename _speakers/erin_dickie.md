@@ -12,7 +12,7 @@ ShortBio: Dr. Erin Dickie completed her PhD in Neuroscience from McGill Universi
   with people with complex brain disorders (i.e. Autism and Schizophrenia Spectrum
   Disorders) using functional Magnetic Resonance Imaging. Her research focus is personalized
   connectomics, or the ability to map brain organization at the level of an individual.
-  She is the lead developer of the ciftify package (https://edickie.github.io/ciftify)
+  She is the lead developer of the [ciftify package](https://edickie.github.io/ciftify)
   and contributes to various projects (i.e. dmriprep, BIDS Common Derivatives, Canadian
   Open Neuroscience Platform).
 Website: http://imaging-genetics.camh.ca/
