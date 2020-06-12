@@ -38,7 +38,7 @@ For individuals requiring hearing or support or who speak English as a second la
 <br>
 ## Open broadcast for zero-cost registrants
 
-The OSR can be accessed for zero-cost at the point of [registration](register-PLACEHOLDER.md). Zero-cost registrants can watch [scheduled talks](schedule-PLACEHOLDER.html), take part in live text-based Q&A, [host](submit.md) and participate in [emergents sessions](format.md/#emergent), and join our scheduled social events!
+The OSR can be accessed for zero-cost at the point of [registration](register-PLACEHOLDER.md). Zero-cost registrants can watch [scheduled talks](schedule.html), take part in live text-based Q&A, [host](submit.md) and participate in [emergents sessions](format.md/#emergent), and join our scheduled social events!
 
 Broadcast will take place via Crowdcast and DouYu. Both these services allow participants to direct questions to speakers. You will be sent details on how to connect to these services after [registration](register-PLACEHOLDER.md) and before the start of the meeting on June 23rd.
 
@@ -62,4 +62,4 @@ In completing the form you will be asked to **state explicitly what you intend t
 
 All our content will be repeated three times over 24 hours, to enable you to participate in the OSR at a time which suits you. The day starts in the Asia and Pacific Hub (Hub 1). The same content is then repeated in the Europe, Middle East and Africa Hub (Hub 2), and the day ends in the Americas Hub (Hub 3). Our speakers will be available for live Q&A across as many different time zones as possible. This means you will be able to follow a pseudo-live program and participate in live discussion where ever you are joining from.
 
-View our [schedule](schedule-PLACEHOLDER.html) for your timezone by selecting your hub from the three shown. You will then be able to pick your specific country/city to see times converted to your location. No more time zone conversion! Yay!
+View our [schedule](schedule.html) for your timezone by selecting your hub from the three shown. You will then be able to pick your specific country/city to see times converted to your location. No more time zone conversion! Yay!
