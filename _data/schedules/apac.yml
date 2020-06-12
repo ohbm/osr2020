@@ -3,7 +3,10 @@
   tz: "Asia/Shanghai"
   dateReadable: "Monday June 22nd, Day 0"
   tracks:
-    - {title: | "Open science meet-up" <a href="https://add.eventable.com/events/5ca5df8466ac0a001d6602cc/5ee27cf118c2970083e51e3e/" data-event="5ee27cf118c2970083e51e3e" class="eventable-link" target="_blank" data-key="5ca5df8466ac0a001d6602cc" data-style="1">Add to Calendar</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://plugins.eventable.com/eventable.js";fjs.parentNode.insertBefore(js, fjs);}}(document, "script", "eventable-script");</script>, color: "#90be4e"}
+    - {
+      title: |
+        Open science meet-up <a href="https://add.eventable.com/events/5ca5df8466ac0a001d6602cc/5ee27cf118c2970083e51e3e/" data-event="5ee27cf118c2970083e51e3e" class="eventable-link" target="_blank" data-key="5ca5df8466ac0a001d6602cc" data-style="1">Add to Calendar</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://plugins.eventable.com/eventable.js";fjs.parentNode.insertBefore(js, fjs);}}(document, "script", "eventable-script");</script>, color: "#90be4e"
+      }
   timeslots:
     - {
       startTime: "10:00",
