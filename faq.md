@@ -77,7 +77,7 @@ Pre-recording of talks will minimise technicalities in switching between speaker
 ### Who has contributed to the OSR?
 The OSR has been built by the [OHBM Open Science Special Interest Group (OS-SIG)](https://ossig.netlify.app/), and the generous support of our team of  [volunteers](volunteers.md) who responded to our call for contributors. We are indebted to the them for the time and energy they have brought to this project.
 
-You can join the team for next year by running for election into the OS-SIG, or staying close to OS-SIG activities and reaching out as we start to build again next year! You can find out more about OS-SIG operations by joining our content on [Friday June 26th](schedule.html), where we will host discussions around elections and an open Town Hall session where you can ask us anything!
+You can join the team for next year by running for election into the OS-SIG, or staying close to OS-SIG activities and reaching out as we start to build again next year! You can find out more about OS-SIG operations by joining our content on [Friday 26th June](schedule.html), where we will host discussions around elections and an open Town Hall session where you can ask us anything!
 
 <div id='sponsors'></div><br>
 ### Who has sponsored the OSR?
