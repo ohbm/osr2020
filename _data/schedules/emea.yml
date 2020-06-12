@@ -194,3 +194,84 @@
       endTime: "14:00",
       sessionIds: [401, 400]
     }
+
+
+  date: "2020-06-29"
+  dateReadable: "Monday June 29th, Day 5"
+  tracks:
+    - {title: "Open Science Room", color: "#90be4e"}
+  timeslots:
+    - {
+      startTime: "10:00",
+      endTime: "11:00",
+      sessionIds: [511]
+    }
+    - {
+      startTime: "11:00",
+      endTime: "12:00",
+      sessionIds: [512]
+    }
+
+  date: "2020-06-30"
+  dateReadable: "Tuesday June 30th, Day 6"
+  tracks:
+    - {title: "Open Science Room", color: "#90be4e"}
+  timeslots:
+    - {
+      startTime: "10:00",
+      endTime: "11:00",
+      sessionIds: [513]
+    }
+    - {
+      startTime: "11:00",
+      endTime: "12:00",
+      sessionIds: [514]
+    }
+
+  date: "2020-07-01"
+  dateReadable: "Wednesday July 1st, Day 7"
+  tracks:
+    - {title: "Open Science Room", color: "#90be4e"}
+  timeslots:
+    - {
+      startTime: "10:00",
+      endTime: "11:00",
+      sessionIds: [515]
+    }
+    - {
+      startTime: "11:00",
+      endTime: "12:00",
+      sessionIds: [516]
+    }
+
+  date: "2020-07-02"
+  dateReadable: "Thursday July 2nd, Day 8"
+  tracks:
+    - {title: "Open Science Room", color: "#90be4e"}
+  timeslots:
+    - {
+      startTime: "10:00",
+      endTime: "11:00",
+      sessionIds: [517]
+    }
+    - {
+      startTime: "11:00",
+      endTime: "12:00",
+      sessionIds: [518]
+    }
+
+  date: "2020-07-03"
+  dateReadable: "Friday July 3rd, Day 9"
+  tracks:
+    - {title: "Open Science Room", color: "#90be4e"}
+  timeslots:
+    - {
+      startTime: "10:00",
+      endTime: "11:00",
+      sessionIds: [519]
+    }
+    - {
+      startTime: "11:00",
+      endTime: "12:00",
+      sessionIds: [520]
+    }        
