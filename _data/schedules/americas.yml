@@ -1,7 +1,7 @@
 -
   date: "2020-06-22"
   tz: "America/Los_Angeles"
-  dateReadable: "Monday 22nd June, Day 0"
+  dateReadable: "Monday 22nd June"
   tracks:
     - {title: "Open science meet-up", color: "#90be4e"}
   timeslots:
