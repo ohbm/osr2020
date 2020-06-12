@@ -3,30 +3,31 @@ layout: page
 title: Submit
 ---
 
-- [Submission rounds](#rounds)
-- [Recording and Live streaming of presentations](#recording)
+- [Recording talks](#recording)
+- [Live discussions](#live)
 - [Open review](#review)
 - [Community feedback](#feedback)
 - [Submission](#tripetto)
 
 ---
 
-<div id="rounds"></div>
-
-## Submission rounds
-Submission is now CLOSED for talks in this year's virtual Open Science Room, **except for emergent and invited sessions**.
-
 <div id="recording"></div>
 <br>
-## Recording and Live streaming of presentations
+## Recorded talks
 
-All Lightning, Demo and Keynote talks have been pre-recorded to minimise the likelihood of technical difficulties during speaker changes. The will be broadcast according to a [schedule](schedule-PLACEHOLDER.md) designed to maximise global access, with each session broadcast three times per day.
+All Lightning, Demo and Keynote talks have been pre-recorded to minimise technical difficulties during speaker changes. They will be broadcast according to a [schedule](schedule.html) designed to maximise global access, with each session broadcast three times per day.
 
-**Emergent sessions and Opening / Closing Ceremonies will be held live** to maximise audience engagement. Emergent sessions can be initiated by anyone registered for the OSR (as a OHBM registrant or a zero-cost registrant), by completing the form below. By registering for the OSR you provide your consent for emergent session to be recorded and preserved for later viewing. Please let us know if there is a particular reason why your emergent session should not be recorded.
+*We are no longer accepting submissions for Lighting, Demo or Keynote talks.*
+
+<div id="live"></div>
+<br>
+## Live discussions
+
+**Emergent sessions and OS-SIG Ceremonies will be held live** to maximise audience engagement. Emergent sessions can be initiated by anyone registered for the OSR (as a OHBM registrant or a zero-cost registrant), by completing the form below. When registering for the OSR by either route, you will be asked to provide your consent for emergent session to be recorded and preserved for later viewing. Please let us know if there is a particular reason why your emergent session should not be recorded.
 
 ## Open review
 
-**All submitted talk proposals will automatically populate an issue in our publicly available [GitHub repository](https://github.com/ohbm/osr2020/issues).
+**All submitted talk and emergent proposals will automatically populate an issue in our publicly available [GitHub repository](https://github.com/ohbm/osr2020/issues).
 By using the form below to submit your proposal you are providing your consent for the information supplied to be made publicly available for the purposes of open review.
 Sensitive personal information will NOT be made public.**
 
@@ -40,17 +41,16 @@ You do not need to disclose a reason for this.
 <br>
 ## Community feedback
 
-The community is invited to openly review and comment on proposals.
+The community is invited to openly review and comment on talk and emergent proposals.
 We will use this feedback to inform our decisions in selecting proposals,
 along with other criteria described on our [FAQ page](https://ohbm.github.io/osr2020/faq/).
 You are encouraged to submit your proposal as early as possible to allow time for community feedback.
 
 During the submission process you will be asked to provide your GitHub username so you can be linked to the issue.
-You will receive an email confirmation when your submission has been received,
-and this will link to your issue on our [GitHub repository](https://github.com/ohbm/osr2020/issues).
+You will receive an email confirmation when your submission has been recorded, and this will include a link to your issue on our [GitHub repository](https://github.com/ohbm/osr2020/issues).
 
 The [OS-SIG twitter account](https://twitter.com/ohbmopen) will also tweet a link to every a new talk proposal added to the repository and invite community review.
-Please feel free to use this and other means to promote your issue/proposal in any way you wish and gather as much feedback or interest as you can!
+Please feel free to use this and other means to promote your proposal in any way you wish and gather as much feedback or interest as you can!
 
 If you do not have a GitHub username, we invite you to follow the instructions available [here](https://github.com/join) to create your free account before beginning the submission process.
 
