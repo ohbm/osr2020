@@ -26,7 +26,7 @@ We would like to celebrate what you have achieved and be inspired to bring new m
 
 ## Theme 2: Open Workflows
 
-<img align="left" src="../img/fromFrantisek/open_workflows.svg" alt="OW" width="40%" style="vertical-align:middle; margin:10px 0px; margin-right:20px;">
+<img align="left" src="../img/fromFrantisek/open_workflows.svg" alt="OW" width="60%" style="vertical-align:middle; margin:10px 0px; margin-right:20px;">
 
 A "workflow" is a sequence of operations. Following good open research practices,
 we aim to describe our workflow from data collection to figure generation as accurately as possible,
@@ -46,7 +46,7 @@ lab or life hacks we couldn't do without!
 
 ## Theme 3: The Past, Present and Future of Open Neuroimaging
 
-<img align="right" src="../img/fromFrantisek/past_present_future.svg" alt="PPF" width="40%">
+<img align="right" src="../img/fromFrantisek/past_present_future.svg" alt="PPF" width="64%" style="vertical-align:middle; margin:10px 0px; margin-left:20px;">
 
 How has openness in neuroimaging evolved over time? What have we learnt from the past,
 and how are current activities shaping the future of our discipline?
