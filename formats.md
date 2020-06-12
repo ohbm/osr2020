@@ -28,7 +28,7 @@ To smooth the flow of the conference, all lightning and demo and keynote talks h
 <br>
 ## Lightning <img align="left" src="../img/lightning.png" alt="lightning" width="6%" hspace="20">
 
-Lightning talks will be 5 minutes long with 20 minutes for questions after all 5 talks in a session have taken place.
+Lightning talks will be five minutes long with 20 minutes for questions after all five talks in a session have taken place.
 
 These sessions will give a rapid showcase of how our community is working, where they are focused, and what methods they are exploring. This is the place to get a taster of the depth and breadth of the work going on in our community, spark interest and ideas for your own work, and keep an eye out for collaboration opportunities!
 
@@ -42,7 +42,7 @@ Keynote talks will be 25 minutes long, with 15 minutes for questions and discuss
 <br>
 ## Demo <img align="left" src="../img/demo.png" alt="demo" width="6%" hspace="20">
 
-Software and process demo sessions are 7 minutes with 20 minutes for questions after all 4 talks in the session have taken place.
+Software and process demo sessions are seven minutes with 20 minutes for questions after all four talks in the session have taken place.
 
 These sessions will give you a sneak preview of the tools our community are developing for their research. This is a great place to pick up processes before they reach the wider audience, speak directly with the developers, and contribute to the success of these applications. Lots of toys for you to pick up and play with, if you like that sort of thing!
 
@@ -50,9 +50,8 @@ These sessions will give you a sneak preview of the tools our community are deve
 <br>
 ## Emergent <img align="left" src="../img/emergent.png" alt="Emergent" width="6%" hspace="15" style="vertical-align=middle;">
 
-Emergent sessions may last from 15 minutes to 1 hour; a duration deemed appropriate by the participant organiser, or for as long as the conversation is flowing.  
+Emergent sessions may last from 15 minutes to one hour. The duration will be set by the participant organiser, or it will run for as long as the conversation is flowing.  
 
 Emergents they can be framed as conversations held in open format among peers. These sessions may be used to invite contributions to collaborative projects, hold an open forum to discuss a development in existing projects, hold a panel discussions, or basically anything you would like! You are equally welcome to share other research findings or practices which do not fit into one of the [themes](themes.md) we are promoting.
 
 Emergent sessions can be booked by any [registered](register-PLACEHOLDER.md) participant at any point in the meeting, while there is space in the schedule. [Submitted](submit.md) emergent requests will be briefly reviewed by the OSR team for appropriate content, and details communicated regarding how to book a slot in our schedule. We will be on hand to manage the hosting and broadcast of your session on your behalf, and help your participants join the conversation.
-

@@ -4,8 +4,8 @@ title: Speakers
 ---
 
 
-We are honoured and excited to host a wonderful list of speakers in the Open Science Room.
-They contribute to lightning talks, demos, keynotes and invited emergent sessions.
+We are excited to host a wonderful list of speakers in the Open Science Room.
+They will be contributing lightning talks, demos, keynotes and invited emergent sessions.
 Click on a speaker below to see their bio and talk details.
 
 <br>
@@ -36,11 +36,11 @@ Click on a speaker below to see their bio and talk details.
             <aside class="speaker-card {% if speaker.column %} {{ speaker.column }}{% endif %}">
             <header>
                 <img src="{{ site.baseurl }}{{ img_path }}" style="height:200px; border-radius:50%;">
-                
+
                 <h3>{{ speaker.Name }}</h3>
-                
+
                 <h6>{{ speaker.Affiliation }}</h6>
-                
+
                 <h4>
                 {% if speaker.Twitter %} <a target="_blank" href="https://twitter.com/{{ speaker.Twitter }}"><i class="fa fa-twitter fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a> {% endif %}
                 {% if speaker.Github %} <a target="_blank" href="https://github.com/{{ speaker.Github }}"><i class="fa fa-github fa-2x" style="position: relative; top: 0px; text-indent:0px; vertical-align: middle; margin-left:4px; margin-right:4px; "></i></a>{% endif %}
