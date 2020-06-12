@@ -15,7 +15,7 @@ title: Submit
 <br>
 ## Recorded talks
 
-All Lightning, Demo and Keynote talks have been pre-recorded to minimise technical difficulties during speaker changes. They will be broadcast according to a [schedule](schedule.html) designed to maximise global access, with each session broadcast three times per day.
+All lightning, demo and keynote talks have been pre-recorded to minimise technical difficulties during speaker changes. They will be broadcast according to a [schedule](schedule.html) designed to maximise global access, with each session broadcast three times per day.
 
 *We are no longer accepting submissions for Lighting, Demo or Keynote talks.*
 
