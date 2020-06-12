@@ -27,10 +27,9 @@ navbar-links:
     - Formats: "formats"
     - Submit: "submit"
     - Review: "review"
-  Volunteers: "volunteers"
+  Register: "register"
   Accessibility: "access"
-  News: "news"
-  Contact: "contact"
+  Volunteers: "volunteers"
   FAQ: "faq"
   # Watch: "watch"
 
