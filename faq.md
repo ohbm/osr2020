@@ -4,7 +4,7 @@ title: FAQ
 ---
 
 - [What is the OSR?](#what)
-- [Who can present in the OSR?](#whopresent)
+- [Who will be presenting in the OSR?](#whopresent)
 - [Who can participate in the OSR?](#whovisit)
 - [Do I have to travel to participate in the OSR?](#attend)
 - [When will I know if I have been accepted to present in the OSR?](#when)
@@ -21,36 +21,35 @@ title: FAQ
 
 <div id='what'></div>
 ### What is the OSR?
-The Open Science Room (OSR) is a conference within a conference, at the <a href="https://www.humanbrainmapping.org/">Organisation for Human Brain Mapping</a> annual meeting. The meeting this year will be held on a virtual platform, opening on June 23rd. The OSR hosts discussions around advances in neuroimaging, but we have a specific interest in open research practices.
+The Open Science Room (OSR) is a conference within a conference, at the <a href="https://www.humanbrainmapping.org/">Organisation for Human Brain Mapping</a> (OHBM) annual meeting. The meeting this year will be held on a virtual platform, opening on June 23rd. The OSR hosts discussions around advances in neuroimaging, but we have a specific interest in open research practices.
 
 <div id='whopresent'></div>
-### Who can present in the OSR?
-Anyone can present in the OSR! We invite presentations linked to our [themes](themes.md) and in the specified [formats](formats.md),
-but we also have room for unconferece style "Emergent" sessions where you can discuss anything you would like! We would like to especially platform the work of Early Career Researchers (ECRs), and provide the lightning talk format for you to give voice to posters which have been accepted in the main meeting.
+### Who will be presenting in the OSR?
+We have selected presentation following an open call for submission and an open review. The [schedule](schedule-PLACEHOLDER.html) of talks contains links to the accepted presentations, with links to speaker bios. You can also review [speaker profiles](speakers-PLACEHOLDER.md).
 
-**The call for talks is open now and will be reviewed in two rounds, closing May 15th (Round 1) and June 15th (Round 2). Please see the [submission](submit.md) page for more details on the benefits of applying within each round, and for details on the review process.**
+We are open to [submissions for emergent](submit.md) discussion throughout the meeting. Emergent organisers will also be listed on the [speakers](speamers-PLACEHOLDER.md) page where profiles are provided.
 
 <div id='whovisit'></div>
 ### Who can participate in the OSR?
-Anyone can participate in the OSR! Our content is scheduled to avoid clashes with live material being presented in the main meeting so we hope many of you will make the choice to visit us! We are looking into ways open the OSR to zero-cost registrants, and will let you know as soon as we have a decision on this process.
+Anyone can participate in the OSR! Our content is scheduled to minimise clashes with live material being presented in the main meeting, and there will be repeat broadcasts at different [timezones](access.md/#hubs) so you can join at a time convenient for you.
+
+You must register for the OSR to obtain the relevant details to join the discussions. Registration for the OSR is bundled into the main meeting if you are attending the full <a href="https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3958">OHMB program</a>. Details for how to join the OSR will be provided in the OHBM Meeting Virtual Platform.
+
+You can also [register](register-PLACEHOLDER.md) for the OSR at [zero-cost](access.md/#zero-cost). Please complete the registration form and we will communicate details on howbto join the conversation before the meeting commences on June 23rd.
 
 <div id='attend'></div>
 ### Do I have to travel to participate in the OSR?
-Short answer - No! This year we will be virtual only, and you can attend from anywhere with an internet connection and access to a web browser. We currently understand that you will also be able to participate via a mobile device after downloading the appropriate app for your operating system.
-
-*If your proposal is accepted for an presentation in the OSR, you will need to be <a href="https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3969">registered</a> for the main conference which hosts us. We are unfortunately unable to provide honoraria or financial assistance for conference registration.*
+Short answer - No! This year we will be virtual only, and you can attend from anywhere with an internet connection and access to a web browser.
 
 <div id='when'></div>
 ### When will I know if I have been accepted to present in the OSR?
-We will contact you as soon as possible after the relevant submission round to inform you whether you have been successful. This process is slightly in flux as we wait to learn more about the requirement for prerecording of material. We will let you know as soon as we have more information about this process.
+We have communicated with all lightning, demo and keynote submission authors to confirm outcome.
 
-<div id='decide'></div>
-### Who will decide if my presentation proposal is accepted in the OSR?
-All submitted proposals will automatically populate an issue in our <a href="https://github.com/ohbm/osr2020">GitHub repository</a>. The community is then invited to openly review and comment on proposals, and we will use this feedback to inform our decisions in selecting presentations should we reach capacity. The final decisions on content will be determined through a combination of relatedness to our themes, community interest, and diversity of representation. We will also prioritise accepted poster presentations for lightning talks. Final decisions will be overseen by the <a href="https://ossig.netlify.com/">elected OS-SIG officials</a>.
+If you have submitted a proposal for an emergent session, there will be a brief review process to determine whether your proposal is broadly relevant to our community. We will aim to get back to you on the same day to confirm your proposal has been accepted and communicate the process for booking time to host your session in our program.
 
 <div id='clash'></div>
 ### What if my presentation clashes with my talk/poster in the main meeting?!
-There will be no overlap of live material in the virtual environment. This means nothing you agree to present in the OSR will preclude you from presenting or attending live material at the rest of the conference.
+We have attempted to minimise clashes between our own content and that of the main meeting. Unfortunately it is unlikely that we will be able to adjust the schedule if there is a clash between your scheduled appearance in the OSR and activities in the main meeting. In these situations we ask that you contact us as soon as possible and we will work with you to find a convenient time to address the Q&A portion of your talk. If you are hosting an emergent session, you will be given access to our calendar to book a convenient time to hold your session.
 
 <div id='contact'></div>
 ### How do I contact the OSR?
@@ -60,18 +59,14 @@ During the meeting you will be able to identify members of the OSR team at named
 
 <div id='virtual'></div>
 ### How will the virtual OSR differ from the in-person OSR?
-We'd like for it to be as similar as possible! We are working towards including a space for talks, spaces for chat and networking, the ability to ask questions from speakers, and a chance for one-to-one or one-to-many support from Open Research Advisors, to ask your questions about working open for your study.
+We'd like for it to be as similar as possible! We have created a space for talks, spaces for chat and networking, the ability to ask questions from speakers, and a chance for one-to-one or one-to-many support from the community, to ask your questions about working open.
 
-There will be a few format changes from the main meeting to reduce the load (no-one is going to attend 8 hours of online talks!) and compensate for the understanding that attention spans will be divided when attending online, working with an approximately 50% shorter attention span. For example, we will keep talks and sessions to a maximum of 30 minutes long, we will make greater use of polls and audience interaction tools to keep you engaged (expect to touch your keyboard every 3-4 minutes!), there will be live chat (and gifs!) happening alongside talks, and there will be 15 minute breaks between live talks, so you have time for screen breaks and to explore other areas of the OSR or main meeting. There will also be "on-demand" material which you can watch whenever it is convenient for you.
-
-For our presenters, we will be offering guidance on how to make your presentations more visually engaging. If you would like one, we could supply a customisable template - please just ask for any resources which you think would be beneficial!
+There have been a few format changes from the main meeting to reduce the load (no-one is going to attend 8 hours of online talks!) and compensate for the understanding that attention spans will be divided when attending online, working with an approximately 50% shorter attention span. The scheduled talks will be a maximum of 30 minutes long, and there will be comfortable breaks throughout the day. We will also make greater use of polls and audience interaction tools to keep you engaged and there will be live chat happening alongside talks. There will also be "on-demand" material which you can watch whenever it is convenient for you.
 
 <div id='time-zones'></div>
 ### How will you handle time zone differences of attendees?
-We don't yet know! On-demand material will be available at any time of the day or night, and we are aiming to have OSR Hosts on hand to answer questions 24h a day. It has been suggested that we schedule live events to suit the timezone of the majority of attendees, but as this registration will be biased by a number of factors, it will likely preclude certain groups of attendees engaging in live events. This does not sound cool to us.
-
-We are considering holding repeats of our live "networking" events such as the OSR welcome party, by splitting the globe into four timezone groups. The timezone groups would cover working hours (09:00-17:00) across the globe, such that within one group events would start no earlier than 09:00 and finish no later than 17:00. If our speakers are up for it, we might even see if they are able to give their presentations (or be on-hand to answer questions) for each of the separate timezone groups over the course of the meeting! We would like to devise a simple and clear way for you to work out what is on in your timezone, so you won't risk missing anything. Take a look at [this spreadsheet](https://docs.google.com/spreadsheets/d/1FSy61YJOPPWpqq-wkV4RRwdWT9Im_8chrtxiOkmlmPQ/edit?usp=sharing) to get an idea of how we are considering the split, and feel free to give us [feedback](contact.md) if you think we are missing something crucial here!
+We have structured our content to be repeated across three [timezone hubs](accedd.md/#hubs) over 24 hours. The "official program" of accepted talks will run for 2 hours 30 minutes per day, and we have timed it to fit into a 09:00 - 17:00 day for most regions within each hub. Emergent and social sessions will be held at the beginning and end of each day, so they should be convenient for the start or end of the day in each hub depending on where you are located. Take a look at our [schedule](schedule-PLACEHOLDER.html) to find time of broadcast in your hub, and view activities in your local time zone.
 
 <div id='prerecord'></div>
-### Why are you encouraging presenters to prerecord talks?
-We would like for as many Lightning and Demo talks to be prerecorded as possible. This will minimise technicalities in switching between speakers, which will be frequent in the short formats. Giving a prerecorded talk also means the speaker can be on hand to answer questions from the community during the talk itself, and will not have to split their attention between presentation and text chat. Prerecording also means you will have a greater opportunity to deliver the talk you are aiming for in the allotted time, which will be invaluable for these short format sessions. We would like to keep Keynote sessions live to maximise the community pull, and Emergent sessions live to retain the fluid nature of these discussions. Live Keynotes will be available on demand after they are first broadcast, and we will finalise details for recording and sharing emergent sessions, if this is possible.
+### Why have presenters to pre-recorded talks?
+Pre-recording of talks will minimise technicalities in switching between speakers, which will be frequent in the short formats. Giving a prerecorded talk also means the speaker can be on hand to answer questions from the community during the talk itself, and will not have to split their attention between presentation and text chat. Pre-recording also means presenters will have a greater opportunity to deliver the talk they were aiming for in the allotted time, which will be invaluable for these short format sessions. Pre-recording also means that we have all material ready to broadcast across each hub following the arch of the day, rather than waiting for speakers to wake up in their local timezones before we can share their work with the world!
