@@ -80,10 +80,11 @@ You can join the team for next year by running for election into the OS-SIG, or 
 
 <div id='sponsors'></div>
 ### Who has sponsored the OSR?
-The OSR has been made possible this year by the generous support of [OpenNeuro](https://openneuro.org/), [the International Neuroinformatics Coordinating Facility (INCF)](https://www.incf.org/), [Courtois NeuroMod](https://www.cneuromod.ca/), and [Canadian Open Neuroscience Platform](https://conp-pcno.github.io/). We are indebted to our sponsors for helping us work towards our vision for a world class and inclusive OSR.
+The OSR has been made possible this year by the generous support of [Canadian Open Neuroscience Platform](https://conp-pcno.github.io/), [Courtois NeuroMod](https://www.cneuromod.ca/), [the International Neuroinformatics Coordinating Facility (INCF)](https://www.incf.org/), [OHBM Australian Chapter](https://ohbmaustralia.wordpress.com),[OpenNeuro](https://openneuro.org/) and [The Wellcome Centre for Integrative Neuroscience](https://www.win.ox.ac.uk/). Thank you to all our sponsors, sponsors for helping us work towards our vision for an inclusive, world class OSR.
 
-<img align="left" src="../img/sponsor-logos/openneuro_logo.png" alt="openneuro" width="20%">
-<img align="left" src="../img/sponsor-logos/incf_logo.png" alt="INCF" width="20%">
-<img align="left" src="../img/sponsor-logos/cneuromod_logo.svg" alt="cneuromod" width="20%">
-
-<img align="left" src="../img/sponsor-logos/conp_logo.png" alt="neurolibre" width="20%">
+<img align="left" src="../img/sponsor-logos/conp_logo.png" alt="neurolibre" width="25%">
+<img align="left" src="../img/sponsor-logos/cneuromod_logo.svg" alt="cneuromod" width="25%">
+<img align="left" src="../img/sponsor-logos/incf_logo.png" alt="INCF" width="25%">
+<img align="left" src="../img/sponsor-logos/logo_OHBM_australian_chapter.png" alt="INCF" width="25%">
+<img align="left" src="../img/sponsor-logos/openneuro_logo.png" alt="openneuro" width="25%">
+<img align="left" src="../img/sponsor-logos/logo_WIN_white.jpg" alt="neurolibre" width="25%">
