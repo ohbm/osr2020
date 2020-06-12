@@ -180,11 +180,7 @@
 # Opening ceremony
 -
   id: 501
-  title: |
-    <div style="text-align:right;">
-    <a href="https://add.eventable.com/events/5ca5df8466ac0a001d6602cc/5ee27cf118c2970083e51e3e/" data-event="5ee27cf118c2970083e51e3e" class="eventable-link" target="_blank" data-key="5ca5df8466ac0a001d6602cc" data-style="1">Add to Calendar</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://plugins.eventable.com/eventable.js";fjs.parentNode.insertBefore(js, fjs);}}(document, "script", "eventable-script");</script>
-    </div>
-    "OS-SIG Ceremony"
+  title: "OS-SIG Ceremony"
   place: "Some place here"
   service: true
   description: "Informal welcome to the OSR."
@@ -202,7 +198,8 @@
   title: "OS-SIG Ceremony: Sponsors and OS-SIG Team Thanks"
   place: "Some place here"
   service: true
-  description: "We wouldn't be here without the support of these folks!"
+  description: |
+    A few words from our [Sponsors](https://ohbm.github.io/osr2020/faq/#sponsors) and special thanks to our team of [Volunteers](https://ohbm.github.io/osr2020/volunteers/)!
 
 -
   id: 408
@@ -217,3 +214,244 @@
   place: "Some place here"
   service: true
   description: "Some description here."
+
+# Week 2 Emergents
+-
+  id: 601
+  title: "Open Emergent (Asia and Pacific)"
+  place: "Some place here"
+  service: true
+  description: |
+    Open discussion on a topic of your choosing. [Submit your proposal here](https://ohbm.github.io/osr2020/submit).
+
+-
+  id: 602
+  title: "Open Emergent (Asia and Pacific)"
+  place: "Some place here"
+  service: true
+  description: |
+    Open discussion on a topic of your choosing. [Submit your proposal here](https://ohbm.github.io/osr2020/submit).
+
+-
+  id: 603
+  title: "Open Emergent (Asia and Pacific)"
+  place: "Some place here"
+  service: true
+  description: |
+    Open discussion on a topic of your choosing. [Submit your proposal here](https://ohbm.github.io/osr2020/submit).
+
+-
+  id: 604
+  title: "Open Emergent (Asia and Pacific)"
+  place: "Some place here"
+  service: true
+  description: |
+    Open discussion on a topic of your choosing. [Submit your proposal here](https://ohbm.github.io/osr2020/submit).
+
+-
+  id: 605
+  title: "Open Emergent (Asia and Pacific)"
+  place: "Some place here"
+  service: true
+  description: |
+    Open discussion on a topic of your choosing. [Submit your proposal here](https://ohbm.github.io/osr2020/submit).
+
+-
+  id: 606
+  title: "Open Emergent (Asia and Pacific)"
+  place: "Some place here"
+  service: true
+  description: |
+    Open discussion on a topic of your choosing. [Submit your proposal here](https://ohbm.github.io/osr2020/submit).
+
+-
+  id: 607
+  title: "Open Emergent (Asia and Pacific)"
+  place: "Some place here"
+  service: true
+  description: |
+    Open discussion on a topic of your choosing. [Submit your proposal here](https://ohbm.github.io/osr2020/submit).
+
+-
+  id: 608
+  title: "Open Emergent (Asia and Pacific)"
+  place: "Some place here"
+  service: true
+  description: |
+    Open discussion on a topic of your choosing. [Submit your proposal here](https://ohbm.github.io/osr2020/submit).
+
+-
+  id: 609
+  title: "Open Emergent (Asia and Pacific)"
+  place: "Some place here"
+  service: true
+  description: |
+    Open discussion on a topic of your choosing. [Submit your proposal here](https://ohbm.github.io/osr2020/submit).
+
+-
+  id: 610
+  title: "Open Emergent (Asia and Pacific)"
+  place: "Some place here"
+  service: true
+  description: |
+    Open discussion on a topic of your choosing. [Submit your proposal here](https://ohbm.github.io/osr2020/submit).
+
+-
+  id: 611
+  title: "Open Emergent (Europe, Middile East and Africa)"
+  place: "Some place here"
+  service: true
+  description: |
+    Open discussion on a topic of your choosing. [Submit your proposal here](https://ohbm.github.io/osr2020/submit).
+
+-
+  id: 612
+  title: "Open Emergent (Europe, Middile East and Africa)"
+  place: "Some place here"
+  service: true
+  description: |
+    Open discussion on a topic of your choosing. [Submit your proposal here](https://ohbm.github.io/osr2020/submit).
+
+-
+  id: 613
+  title: "Open Emergent (Europe, Middile East and Africa)"
+  place: "Some place here"
+  service: true
+  description: |
+    Open discussion on a topic of your choosing. [Submit your proposal here](https://ohbm.github.io/osr2020/submit).
+
+-
+  id: 614
+  title: "Open Emergent (Europe, Middile East and Africa)"
+  place: "Some place here"
+  service: true
+  description: |
+    Open discussion on a topic of your choosing. [Submit your proposal here](https://ohbm.github.io/osr2020/submit).
+
+-
+  id: 615
+  title: "Open Emergent (Europe, Middile East and Africa)"
+  place: "Some place here"
+  service: true
+  description: |
+    Open discussion on a topic of your choosing. [Submit your proposal here](https://ohbm.github.io/osr2020/submit).
+
+-
+  id: 616
+  title: "Open Emergent (Europe, Middile East and Africa)"
+  place: "Some place here"
+  service: true
+  description: |
+    Open discussion on a topic of your choosing. [Submit your proposal here](https://ohbm.github.io/osr2020/submit).
+
+-
+  id: 617
+  title: "Open Emergent (Europe, Middile East and Africa)"
+  place: "Some place here"
+  service: true
+  description: |
+    Open discussion on a topic of your choosing. [Submit your proposal here](https://ohbm.github.io/osr2020/submit).
+
+-
+  id: 618
+  title: "Open Emergent (Europe, Middile East and Africa)"
+  place: "Some place here"
+  service: true
+  description: |
+    [The Positron Emission Tomography Brain imaging Data structure (PET-BIDS) extension: A new standard for sharing PET data](https://github.com/ohbm/osr2020/issues/57) (Melanie Ganz)
+
+-
+  id: 619
+  title: "Open Emergent (Europe, Middile East and Africa)"
+  place: "Some place here"
+  service: true
+  description: |
+    Open discussion on a topic of your choosing. [Submit your proposal here](https://ohbm.github.io/osr2020/submit).
+
+-
+  id: 620
+  title: "Open Emergent (Europe, Middile East and Africa)"
+  place: "Some place here"
+  service: true
+  description: |
+    Open discussion on a topic of your choosing. [Submit your proposal here](https://ohbm.github.io/osr2020/submit).
+
+-
+  id: 621
+  title: "Open Emergent (Americas)"
+  place: "Some place here"
+  service: true
+  description: |
+    [qMRI-BIDS: an extension to the brain imaging data structure for structural acquisitions that include multiple contrast](https://github.com/ohbm/osr2020/issues/50) (Gilles de Hollander)
+
+-
+  id: 622
+  title: "Open Emergent (Americas)"
+  place: "Some place here"
+  service: true
+  description: |
+    Open discussion on a topic of your choosing. [Submit your proposal here](https://ohbm.github.io/osr2020/submit).
+
+-
+  id: 623
+  title: "Open Emergent (Americas)"
+  place: "Some place here"
+  service: true
+  description: |
+    Open discussion on a topic of your choosing. [Submit your proposal here](https://ohbm.github.io/osr2020/submit).
+
+-
+  id: 624
+  title: "Open Emergent (Americas)"
+  place: "Some place here"
+  service: true
+  description: |
+    Open discussion on a topic of your choosing. [Submit your proposal here](https://ohbm.github.io/osr2020/submit).
+
+-
+  id: 625
+  title: "Open Emergent (Americas)"
+  place: "Some place here"
+  service: true
+  description: |
+    Open discussion on a topic of your choosing. [Submit your proposal here](https://ohbm.github.io/osr2020/submit).
+
+-
+  id: 626
+  title: "Open Emergent (Americas)"
+  place: "Some place here"
+  service: true
+  description: |
+    Open discussion on a topic of your choosing. [Submit your proposal here](https://ohbm.github.io/osr2020/submit).
+
+-
+  id: 627
+  title: "Open Emergent (Americas)"
+  place: "Some place here"
+  service: true
+  description: |
+    Open discussion on a topic of your choosing. [Submit your proposal here](https://ohbm.github.io/osr2020/submit).
+
+-
+  id: 628
+  title: "Open Emergent (Americas)"
+  place: "Some place here"
+  service: true
+  description: |
+    Open discussion on a topic of your choosing. [Submit your proposal here](https://ohbm.github.io/osr2020/submit).
+
+-
+  id: 629
+  title: "Open Emergent (Americas)"
+  place: "Some place here"
+  service: true
+  description: |
+    Open discussion on a topic of your choosing. [Submit your proposal here](https://ohbm.github.io/osr2020/submit).
+
+-
+  id: 630
+  title: "Open Emergent (Americas)"
+  place: "Some place here"
+  service: true
+  description: |
+    Open discussion on a topic of your choosing. [Submit your proposal here](https://ohbm.github.io/osr2020/submit).
