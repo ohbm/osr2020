@@ -9,6 +9,64 @@ Have a look at their contact links and bios below, and give them a virtual high-
 
 <br>
 
+<table class="people">
+    <tr class="people">
+        <td class="people">
+            <a style="display:block; color:#05323F" href="../team/camille_maumet.html">
+            <aside>
+            <header>
+                <img src="../img/team/camille_maumet.jpg" style="height:200px; border-radius:50%;">
+                <h3>Camille Maumet</h3>
+                <h6>Inria, Univ Rennes, CNRS, Inserm</h6>
+                <h4>
+                <a target="_blank" href="https://twitter.com/cmaumet"><i class="fa fa-twitter fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
+                <a target="_blank" href="https://github.com/cmaumet"><i class="fa fa-github fa-2x" style="position: relative; top: 0px; text-indent:0px; vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
+                <a target="_blank" href="http://camillemaumet.com/"><i class="fa fa-external-link-square fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a> 
+                </h4>
+                <br>
+            </header>
+            </aside>
+            </a>
+        </td>
+        <td class="people">
+            <a style="display:block; color:#05323F" href="../team/cassandra_gould_van_praag.html">
+            <aside>
+            <header>
+                <img src="../img/team/cassandra_gould_van_praag.jpg" style="height:200px; border-radius:50%;">
+                <h3>Cassandra Gould van Praag</h3>
+                <h6>Wellcome Centre for Integrative Neuroimaging, University of Oxford</h6>
+                <h4>
+                <a target="_blank" href="https://twitter.com/cassgvp"><i class="fa fa-twitter fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
+                <a target="_blank" href="https://github.com/cassgvp"><i class="fa fa-github fa-2x" style="position: relative; top: 0px; text-indent:0px; vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a> 
+                </h4>
+                <br>
+            </header>
+            </aside>
+            </a>
+        </td>
+        <td class="people">
+            <a style="display:block; color:#05323F" href="../team/stephan_heunis.html">
+            <aside>
+            <header>
+                <img src="../img/team/stephan_heunis.jpg" style="height:200px; border-radius:50%;">
+                <h3>Stephan Heunis</h3>
+                <h6>Eindhoven University of Technology, The Netherlands</h6>
+                <h4>
+                <a target="_blank" href="https://twitter.com/fmrwhy"><i class="fa fa-twitter fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
+                <a target="_blank" href="https://github.com/jsheunis"><i class="fa fa-github fa-2x" style="position: relative; top: 0px; text-indent:0px; vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
+                <a target="_blank" href="https://jsheunis.github.io/"><i class="fa fa-external-link-square fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a> 
+                </h4>
+                <br>
+            </header>
+            </aside>
+            </a>
+        </td>
+    </tr>
+</table>
+
+<br>
+
+
 <html>
 
 {% assign volunteers = site.volunteers %}
