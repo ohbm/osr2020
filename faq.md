@@ -85,6 +85,6 @@ The OSR has been made possible this year by the generous support of [Canadian Op
 <img align="left" src="../img/sponsor-logos/conp_logo.png" alt="neurolibre" width="25%">
 <img align="left" src="../img/sponsor-logos/cneuromod_logo.svg" alt="cneuromod" width="25%">
 <img align="left" src="../img/sponsor-logos/incf_logo.png" alt="INCF" width="25%">
-<img align="left" src="../img/sponsor-logos/logo_OHBM_australian_chapter.png" alt="INCF" width="25%">
+<img align="left" src="../img/sponsor-logos/logo_OHBM_australian_chapter.png" alt="OHBM-Aus" width="25%">
 <img align="left" src="../img/sponsor-logos/openneuro_logo.png" alt="openneuro" width="25%">
-<img align="left" src="../img/sponsor-logos/logo_WIN_white.jpg" alt="neurolibre" width="25%">
+<img align="left" src="../img/sponsor-logos/logo_WIN_white.jpg" alt="WIN" width="25%">
