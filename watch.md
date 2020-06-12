@@ -44,7 +44,7 @@ Youtube comments during the talks - may be a delay of a few minutes in the broad
 
 And on twitter @OhbmOpen #OHBM #OSR #WatchParty &lt;need to think of a way of identifying each talk.?&gt;
 
-On mattermost - general chat about remote participation. &lt;needs a new channel&gt;
+On Mattermost - general chat about remote participation. &lt;needs a new channel&gt;
 
 <div id='schedule'></div>
 ## What is happening when

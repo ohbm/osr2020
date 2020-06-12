@@ -21,7 +21,7 @@ Links to this "spontaneously" recorded material will be shared with registered p
 <br>
 ## Prerecorded talks
 
-To smooth the flow of the conference, all lightning and demo and keynote talks have been pre-recorded. Speakers will be available for Q&A immediately following the broadcast of their talks in at least two [timezone hubs](access.md/#hubs). You can also leave questions on pre-specified [mattermost](access.md/#zero-cost) channels and speakers will be encourage to get back to you.
+To smooth the flow of the conference, all lightning and demo and keynote talks have been pre-recorded. Speakers will be available for Q&A immediately following the broadcast of their talks in at least two [timezone hubs](access.md/#hubs). You can also leave questions on pre-specified [Mattermost](access.md/#zero-cost) channels and speakers will be encourage to get back to you.
 
 
 <div id="lightning"></div>
