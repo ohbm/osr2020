@@ -15,7 +15,6 @@ ShortBio: Jonathan is a research scientist at ConsenSys Health and Imperial Coll
 Website: https://jopasser.at
 Twitter: https://twitter.com/ConsenSysHealth
 Github: https://github.com/jopasserat/
-Comment:
 permalink: "/speakers/jonathan_passerat-palmbach.html"
 layout: speaker_page
 ---

@@ -11,7 +11,6 @@ ShortBio: Dr Xu Chen is a post doctoral researcher working with Prof Jelle Goema
 Website:
 Twitter:
 Github: xuchen312
-Comment:
 permalink: "/speakers/xu_chen.html"
 layout: speaker_page
 ---

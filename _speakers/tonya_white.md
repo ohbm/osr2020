@@ -11,7 +11,6 @@ ShortBio: Tonya White is a pediatrician, child and adolescent psychiatrist, and 
 Website: https://www.researchgate.net/profile/Tonya_White2
 Twitter: tjhwhite
 Github: tjhwhite
-Comment:
 permalink: "/speakers/tonya_white.html"
 layout: speaker_page
 ---

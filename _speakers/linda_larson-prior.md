@@ -15,7 +15,6 @@ ShortBio: Professor Linda Larson-Prior is interested in better understanding the
 Website: https://ndl.uams.edu
 Twitter:
 Github:
-Comment:
 permalink: "/speakers/linda_larson-prior.html"
 layout: speaker_page
 ---

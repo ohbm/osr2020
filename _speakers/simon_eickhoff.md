@@ -1,5 +1,5 @@
 ---
-Name: Simon B. Eickhoff
+Name: Simon Eickhoff
 Title: Dr.
 Pronouns: He/Him
 Job: Professor
@@ -19,7 +19,6 @@ ShortBio: Simon Eickhoff is a full professor and chair of the Institute for Syst
 Website: https://www.fz-juelich.de/inm/inm-7/EN/Home/home_node.html+J2:L6
 Twitter: "@inm7_isn"
 Github: SBEickhoff
-Comment:
-permalink: "/speakers/simon_b_eickhoff.html"
+permalink: "/speakers/simon_eickhoff.html"
 layout: speaker_page
 ---

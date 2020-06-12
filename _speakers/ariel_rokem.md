@@ -14,7 +14,6 @@ ShortBio: 'Ariel Rokem is a data scientist at the University of Washington eScie
 Website: https://arokem.org
 Twitter: arokem
 Github: arokem
-Comment:
 permalink: "/speakers/ariel_rokem.html"
 layout: speaker_page
 ---

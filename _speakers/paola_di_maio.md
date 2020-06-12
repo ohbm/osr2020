@@ -14,7 +14,6 @@ ShortBio: After working as Science and Technology correspondent and as a freelan
 Website: http://istcs.org
 Twitter:
 Github: starborn
-Comment:
 permalink: "/speakers/paola_di_maio.html"
 layout: speaker_page
 ---

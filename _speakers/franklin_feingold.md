@@ -11,7 +11,6 @@ ShortBio: I am currently a Center Assistant Director for the Center of Reproduci
 Website:
 Twitter: "@franklincrn1"
 Github: franklin-feingold
-Comment:
 permalink: "/speakers/franklin_feingold.html"
 layout: speaker_page
 ---

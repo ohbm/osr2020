@@ -9,7 +9,6 @@ ShortBio: Researcher in neuroimaging working with methods for image processing, 
 Website: https://liu.se/en/employee/andek67
 Twitter:
 Github: wanderine
-Comment:
 permalink: "/speakers/anders_eklund.html"
 layout: speaker_page
 ---

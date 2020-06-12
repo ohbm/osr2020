@@ -12,7 +12,6 @@ ShortBio: Dr. Nichols is the Professor of Neuroimaging Statistics at the Oxford 
 Website: https://nisox.org
 Twitter: "@ten_photos"
 Github: nicholst
-Comment:
 permalink: "/speakers/thomas_nichols.html"
 layout: speaker_page
 ---

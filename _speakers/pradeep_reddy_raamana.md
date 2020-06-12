@@ -11,7 +11,6 @@ ShortBio: Pradeep is interested in developing multimodal biomarkers for brain di
 Website: https://crossinvalidation.com
 Twitter: raamana_
 Github: raamana
-Comment:
 permalink: "/speakers/pradeep_reddy_raamana.html"
 layout: speaker_page
 ---

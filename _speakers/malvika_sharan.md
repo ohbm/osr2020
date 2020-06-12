@@ -15,7 +15,6 @@ ShortBio: Malvika Sharan is the community manager of The Turing Way at The Alan 
 Website: https://openlifesci.org/about#organizers
 Twitter: malvikasharan
 Github: malvikasharan
-Comment:
 permalink: "/speakers/malvika_sharan.html"
 layout: speaker_page
 ---
