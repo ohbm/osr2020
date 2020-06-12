@@ -5,7 +5,7 @@ title: Register for the OSR!
 
 **Registration here (via Eventbrite) is not necessary if you have already registered for the main OHBM meeting.**
 
-You will be sent details on how to join the live broadcasts before the meeting commences on 23rd June.
+You will be sent details on how to join the live broadcasts before the meeting commences on June 23rd.
 
 Please also use this form to apply for our [Participant mini-grants](https://ohbm.github.io/osr2020/access/#mini-grants)
 
