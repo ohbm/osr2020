@@ -202,7 +202,8 @@
   title: "OS-SIG Ceremony: Sponsors and OS-SIG Team Thanks"
   place: "Some place here"
   service: true
-  description: "We wouldn't be here without the support of these folks!"
+  description: |
+    A few words from our [Sponsors](https://ohbm.github.io/osr2020/faq/#sponsors) and special thanks to our team of [Volunteers](https://ohbm.github.io/osr2020/volunteers/)!
 
 -
   id: 408

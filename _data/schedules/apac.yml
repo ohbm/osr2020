@@ -1,7 +1,7 @@
 -
   date: "2020-06-22"
   tz: "Asia/Shanghai"
-  dateReadable: "June 22nd, Day 0"
+  dateReadable: "Monday June 22nd, Day 0"
   tracks:
     - {title: "Open science meet-up", color: "#90be4e"}
   timeslots:
@@ -29,7 +29,7 @@
 
 -
   date: "2020-06-23"
-  dateReadable: "June 23rd, Day 1"
+  dateReadable: "Tuesday June 23rd, Day 1"
   tracks:
     - {title: "Open Science Room", color: "#90be4e"}
   timeslots:
@@ -71,7 +71,7 @@
 
 -
   date: "2020-06-24"
-  dateReadable: "June 24th, Day 2"
+  dateReadable: "Wednesday June 24th, Day 2"
   tracks:
     - {title: "Open Science Room", color: "#90be4e"}
   timeslots:
@@ -113,7 +113,7 @@
 
 -
   date: "2020-06-25"
-  dateReadable: "June 25th, Day 3"
+  dateReadable: "Thursday June 25th, Day 3"
   tracks:
     - {title: "Open Science Room", color: "#90be4e"}
   timeslots:
@@ -155,7 +155,7 @@
 
 -
   date: "2020-06-26"
-  dateReadable: "June 26th, Day 4"
+  dateReadable: "Friday June 26th, Day 4"
   tracks:
     - {title: "Open Science Room", color: "#90be4e"}
   timeslots:
@@ -171,16 +171,16 @@
     }
     - {
       startTime: "10:50",
-      endTime: "11:10",
+      endTime: "11:20",
       sessionIds: [000]
     }
     - {
-      startTime: "11:10",
-      endTime: "11:50",
+      startTime: "11:20",
+      endTime: "11:40",
       sessionIds: [403]
     }
     - {
-      startTime: "11:50",
+      startTime: "11:40",
       endTime: "12:40",
       sessionIds: [408]
     }
@@ -194,4 +194,3 @@
       endTime: "14:00",
       sessionIds: [401, 400]
     }
-
