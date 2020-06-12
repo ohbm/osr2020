@@ -8,6 +8,5 @@ ShortBio: Camille Maumet is a research scientist in brain imaging data sciences,
 Website: http://camillemaumet.com/
 Twitter: cmaumet
 Github: cmaumet
-permalink: "/team/camille_maumet.html"
 layout: speaker_page
 ---

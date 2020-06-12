@@ -8,6 +8,5 @@ ShortBio: Stephan is a biomedical engineer from Stellenbosch, South Africa, wher
 Website: https://jsheunis.github.io/
 Twitter: fmrwhy
 Github: jsheunis
-permalink: "/volunteers/stephan_heunis.html"
 layout: speaker_page
 ---

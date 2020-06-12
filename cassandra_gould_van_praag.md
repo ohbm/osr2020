@@ -8,6 +8,5 @@ ShortBio: I spent the last 10 years as a neuroimaging researcher, primarily inte
 Website:
 Twitter: cassgvp
 Github: cassgvp
-permalink: "/volunteers/cassandra_gould_van_praag.html"
 layout: speaker_page
 ---
