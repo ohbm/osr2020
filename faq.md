@@ -26,7 +26,7 @@ The Open Science Room (OSR) is a conference within a conference, at the <a href=
 
 <div id='whopresent'></div>
 ### Who will be presenting in the OSR?
-We have selected presentation following an open call for submission and an open review. The [schedule](schedule-PLACEHOLDER.html) of talks contains links to the accepted presentations, with links to speaker bios. You can also review [speaker profiles](speakers-PLACEHOLDER.md).
+We have selected presentation following an open call for submission and an open review. The [schedule](schedule.html) of talks contains links to the accepted presentations, with links to speaker bios. You can also review [speaker profiles](speakers-PLACEHOLDER.md).
 
 We are open to [submissions for emergent](submit.md) discussion throughout the meeting. Emergent organisers will also be listed on the [speakers](speamers-PLACEHOLDER.md) page where profiles are provided.
 
@@ -66,7 +66,7 @@ There have been a few format changes from the main meeting to reduce the load (n
 
 <div id='time-zones'></div>
 ### How will you handle time zone differences of attendees?
-We have structured our content to be repeated across three [timezone hubs](accedd.md/#hubs) over 24 hours. The "official program" of accepted talks will run for 2 hours 30 minutes per day, and we have timed it to fit into a 09:00 - 17:00 day for most regions within each hub. Emergent and social sessions will be held at the beginning and end of each day, so they should be convenient for the start or end of the day in each hub depending on where you are located. Take a look at our [schedule](schedule-PLACEHOLDER.html) to find time of broadcast in your hub, and view activities in your local time zone.
+We have structured our content to be repeated across three [timezone hubs](accedd.md/#hubs) over 24 hours. The "official program" of accepted talks will run for 2 hours 30 minutes per day, and we have timed it to fit into a 09:00 - 17:00 day for most regions within each hub. Emergent and social sessions will be held at the beginning and end of each day, so they should be convenient for the start or end of the day in each hub depending on where you are located. Take a look at our [schedule](schedule.html) to find time of broadcast in your hub, and view activities in your local time zone.
 
 <div id='prerecord'></div>
 ### Why have talks been pre-recorded?
@@ -76,14 +76,14 @@ Pre-recording of talks will minimise technicalities in switching between speaker
 ### Who has contributed to the OSR?
 the OSR has been built by the [OHBM Open Science Special Interest Group (OS-SIG)](https://ossig.netlify.app/), and the generous support of our team of  [volunteers](volunteers.md) who responded to our call for contributors. We are indebted to the them for the time and energy they have brought to this project.
 
-You can join the team for next year by running for election into the OS-SIG, or staying close to OS-SIG activities and reaching out as we start to build again next year! You can find out more about our operations by joining our content on [Friday June 26th](schedule-PLACEHOLDER.html), where we will host discussions around elections and an open Town Hall session where you can ask us anything!
+You can join the team for next year by running for election into the OS-SIG, or staying close to OS-SIG activities and reaching out as we start to build again next year! You can find out more about our operations by joining our content on [Friday June 26th](schedule.html), where we will host discussions around elections and an open Town Hall session where you can ask us anything!
 
 <div id='sponsors'></div>
 ### Who has sponsored the OSR?
-The OSR has been made possible this year by the generous support of [OpenNeuro](https://openneuro.org/), [the International Neuroinformatics Coordinating Facility (INCF)](https://www.incf.org/), [Courtois NeuroMod](https://www.cneuromod.ca/), [the Ludmer Centre](http://ludmercentre.ca/) and [NeuroLibre](https://conp-pcno.github.io/). We are indebted to our sponsors for helping us work towards our vision for a world class and inclusive OSR.
+The OSR has been made possible this year by the generous support of [OpenNeuro](https://openneuro.org/), [the International Neuroinformatics Coordinating Facility (INCF)](https://www.incf.org/), [Courtois NeuroMod](https://www.cneuromod.ca/), and [Canadian Open Neuroscience Platform](https://conp-pcno.github.io/). We are indebted to our sponsors for helping us work towards our vision for a world class and inclusive OSR.
 
 <img align="left" src="../img/sponsor-logos/openneuro_logo.png" alt="openneuro" width="20%">
 <img align="left" src="../img/sponsor-logos/incf_logo.png" alt="INCF" width="20%">
 <img align="left" src="../img/sponsor-logos/cneuromod_logo.svg" alt="cneuromod" width="20%">
-<img align="left" src="../img/sponsor-logos/ludmer_logo.png" alt="ludmer" width="20%">
+
 <img align="left" src="../img/sponsor-logos/conp_logo.png" alt="neurolibre" width="20%">
