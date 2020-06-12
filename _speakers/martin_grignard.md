@@ -11,7 +11,6 @@ ShortBio: After graduating as an industrial engineer, Martin Grignard started hi
 Website:
 Twitter:
 Github: MartinGrignard
-Comment:
 permalink: "/speakers/martin_grignard.html"
 layout: speaker_page
 ---

@@ -10,7 +10,6 @@ ShortBio: Gaston Zanitti has a Master in Computer Science and is currently a PhD
 Website:
 Twitter: gzanitti
 Github: gzanitti
-Comment: 'not on the list of speakers '
 permalink: "/speakers/gaston_zanitti.html"
 layout: speaker_page
 ---

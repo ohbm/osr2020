@@ -18,7 +18,6 @@ ShortBio: Melanie Ganz is Assistant Professor at the Department of Computer Scie
 Website: https://sites.google.com/view/melanieganz/home
 Twitter: "@melanieganzben1"
 Github: melanieganz
-Comment:
 permalink: "/speakers/melanie_ganz.html"
 layout: speaker_page
 ---

@@ -11,7 +11,6 @@ ShortBio: I received my PhD in Cognitive and Neural Systems from Boston Universi
 Website:
 Twitter: effigies
 Github: effigies
-Comment:
 permalink: "/speakers/christopher_markiewicz.html"
 layout: speaker_page
 ---

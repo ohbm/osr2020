@@ -9,7 +9,6 @@ ShortBio: Medical Imaging PhD Student at the Institute of Biomedical Engineering
 Website:
 Twitter:
 Github: emmabluemke
-Comment:
 permalink: "/speakers/emma_bluemke.html"
 layout: speaker_page
 ---

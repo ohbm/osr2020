@@ -11,7 +11,6 @@ ShortBio: Mats van Es has a background in cognitive neuroscience and biophysics.
 Website: https://www.linkedin.com/in/matsvanes/
 Twitter: mats_van_es
 Github: matsvanes
-Comment:
 permalink: "/speakers/mats_van_es.html"
 layout: speaker_page
 ---

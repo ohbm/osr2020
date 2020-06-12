@@ -15,7 +15,6 @@ ShortBio: 'João is currently finishing his PhD at Berlin Ultrahigh Field Facili
 Website: https://www.opensourceimaging.org
 Twitter: "@PeriJoao"
 Github: JoaoPeriquito
-Comment:
 permalink: "/speakers/joo_periquito.html"
 layout: speaker_page
 ---

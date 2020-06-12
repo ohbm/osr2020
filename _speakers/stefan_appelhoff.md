@@ -12,7 +12,6 @@ ShortBio: Stefan is currently pursuing his PhD on neural information processing 
 Website: https://stefanappelhoff.com
 Twitter: stefanappelhoff
 Github: sappelhoff
-Comment:
 permalink: "/speakers/stefan_appelhoff.html"
 layout: speaker_page
 ---

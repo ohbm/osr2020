@@ -15,7 +15,6 @@ ShortBio: Russell A. Poldrack is the Albert Ray Lang Professor in the Department
 Website: http://poldracklab.org
 Twitter: russpoldrack
 Github: poldrack
-Comment:
 permalink: "/speakers/russell_poldrack.html"
 layout: speaker_page
 ---

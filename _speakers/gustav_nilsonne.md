@@ -10,7 +10,6 @@ ShortBio: I am a researcher in neuroscience and metascience, and also national c
 Website: https://nilsonne.net/about/
 Twitter: "@GustavNilsonne"
 Github: GNilsonne
-Comment:
 permalink: "/speakers/gustav_nilsonne.html"
 layout: speaker_page
 ---
