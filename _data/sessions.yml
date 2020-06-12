@@ -82,7 +82,7 @@
   service: true
   description: |
       Short talks showcasing advances in the field of open data.
-      1. [Privacy preserving tech: the tools for safe open data use](https://github.com/ohbm/osr2020/issues/18) (Emma Bluemke)
+      1. [Privacy preserving tech: the tools for safe open data use](https://github.com/ohbm/osr2020/issues/18) ([Emma Bluemke](https://ohbm.github.io/osr2020/speakers/emma_bluemke.html))
       2. [Concept Annotations via NIDM-Terms Fosters Improved Search of Open Datasets](https://github.com/ohbm/osr2020/issues/27) ([David Keator](https://ohbm.github.io/osr2020/speakers/david_keator.html))
       3. [Leveraging telehealth in underserved populations for open data research](https://github.com/ohbm/osr2020/issues/44) ([Linda Larson-Prior](https://ohbm.github.io/osr2020/speakers/linda_larson-prior.html))
       4. [The Courtois project on neuronal modelling - first data release](https://github.com/ohbm/osr2020/issues/32) ([Julie A. Boyle](https://ohbm.github.io/osr2020/speakers/julie_a_boyle.html))
@@ -99,7 +99,7 @@
       2. [shamo, a tool for electromagnetic modelling of the head and sensitivity analysis.](https://github.com/ohbm/osr2020/issues/26) ([Martin Grignard](https://ohbm.github.io/osr2020/speakers/martin_grignard.html))
       3. [Programming Brain Mapping Hypotheses in NeuroLang](https://github.com/ohbm/osr2020/issues/34) (Valentin Iovene)
       4. [ARIbrain: Interactive clustering with spatial activation guarantees using all-resolutions inference](https://github.com/ohbm/osr2020/issues/40) ([Xu Chen](https://ohbm.github.io/osr2020/speakers/xu_chen.html))
-      5. [Conquering confounds and covariates in neuroscientific analyses with an open, high quality library](https://github.com/ohbm/osr2020/issues/13) (Pradeep Reddy Raamana)
+      5. [Conquering confounds and covariates in neuroscientific analyses with an open, high quality library](https://github.com/ohbm/osr2020/issues/13) ([Pradeep Reddy Raamana](https://ohbm.github.io/osr2020/speakers/pradeep_reddy_raamana.html))
 
 -
   id: 302
@@ -175,7 +175,7 @@
       1. [The Women in Neuroscience Repository (WiNRepo)](https://github.com/ohbm/osr2020/issues/28) ([Fabio Ferreira](https://ohbm.github.io/osr2020/speakers/fabio_ferreira.html))
       2. [Status update on MNE-Python (TBC)](https://github.com/ohbm/osr2020/issues/59) ([Marijn van Vliet](https://ohbm.github.io/osr2020/speakers/marijn_van_vliet.html))
       3. [Group ICA Toolbox: New features and developments](https://github.com/ohbm/osr2020/issues/37) (Srinivas Rachakonda)
-      4. [The INCF online training suite ](https://github.com/ohbm/osr2020/issues/60) (Ariel Rokem)
+      4. [The INCF online training suite ](https://github.com/ohbm/osr2020/issues/60) ([Ariel Rokem](https://ohbm.github.io/osr2020/speakers/ariel_rokem.html))
 
 # Opening ceremony
 -
@@ -358,7 +358,7 @@
   place: "Some place here"
   service: true
   description: |
-    [The Positron Emission Tomography Brain imaging Data structure (PET-BIDS) extension: A new standard for sharing PET data](https://github.com/ohbm/osr2020/issues/57) (Melanie Ganz)
+    [The Positron Emission Tomography Brain imaging Data structure (PET-BIDS) extension: A new standard for sharing PET data](https://github.com/ohbm/osr2020/issues/57) ([Melanie Ganz](https://ohbm.github.io/osr2020/speakers/melanie_ganz.html))
 
 -
   id: 619
