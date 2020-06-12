@@ -9,7 +9,7 @@ We'd also like to reflect where we have come from and what we may be heading tow
 
 ## Theme 1: Open Data 2.0
 
-<img align="left" src="../img/fromFrantisek/open_data.svg" alt="OD" width="40%">
+<img align="right" src="../img/fromFrantisek/open_data.svg" alt="OD" width="40%">
 
 Borrowing from the language of web, "Open Data 2.0" represents a transition from a static open data dump
 (what might be considered as Open Data 1.0) to the developments of social tools which facilitate collaboration.
@@ -19,16 +19,14 @@ Perhaps we should be looking further into the future to Open Data 3.0,
 where high quality meta-data will enable machine readable semantic understanding of data sources?
 
 Talks in this theme will showcase advances in the field of open data, collaboration and data curation.
-We would like to celebrate what you have achieved and be inspired to bring new models to our own research practices.  
-
-<img align="right" src="../img/undraw_code_typing_7jnv.png" alt="future" width="40%">
+We would like to celebrate what you have achieved and be inspired to bring new models to our own research practices.
 
 
 
 
 ## Theme 2: Open Workflows
 
-<img align="left" src="../img/fromFrantisek/open_workflows.svg" alt="OW" width="40%">
+<img align="left" src="../img/fromFrantisek/open_workflows.svg" alt="OW" width="40%" style="vertical-align:middle; margin:10px 0px; margin-right:20px;">
 
 A "workflow" is a sequence of operations. Following good open research practices,
 we aim to describe our workflow from data collection to figure generation as accurately as possible,
@@ -42,18 +40,14 @@ Talks in this theme will showcase how we ensure individual aspects of our resear
 reproducible and connected. We are also pleased to hear about open source office,
 lab or life hacks we couldn't do without!
 
-<img align="right" src="../img/undraw_data_xmfy.png" alt="workflow" width="40%">
-
 
 
 
 
 ## Theme 3: The Past, Present and Future of Open Neuroimaging
 
-<img align="left" src="../img/fromFrantisek/past_present_future.svg" alt="PPF" width="40%">
+<img align="right" src="../img/fromFrantisek/past_present_future.svg" alt="PPF" width="40%">
 
 How has openness in neuroimaging evolved over time? What have we learnt from the past,
 and how are current activities shaping the future of our discipline?
 In this theme we look to where the community thinks we are headed, what we would like to work towards and what we should be mindful of along the way.
-
-<img align="right" src="../img/undraw_maker_launch_crhe.png" alt="future" width="40%">

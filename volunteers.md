@@ -3,6 +3,12 @@ layout: page
 title: Volunteers
 ---
 
+Together with the [OHBM Open Science Special Interest Group](https://ossig.netlify.app/), these wonderfully talented and hard-working Open Brainers made significant contributions to the Open Science Room.
+We are thankful and proud to have them in our community.
+Have a look at their contact links and bios below, and give them a virtual high-five in the OSR!
+
+<br>
+
 <html>
 
 {% assign volunteers = site.volunteers %}

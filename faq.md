@@ -16,8 +16,9 @@ title: FAQ
 - [Who has contributed to the OSR?](#contributors)
 - [Who has sponsored the OSR?](#sponsors)
 
----
+*For specific recent updates, please refer to our [News page](news/index.html)*.
 
+---
 
 
 <div id='what'></div><br>

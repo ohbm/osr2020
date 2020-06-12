@@ -3,6 +3,13 @@ layout: page
 title: Speakers
 ---
 
+
+We are honoured and excited to host a wonderful list of speakers in the Open Science Room.
+They contribute to lightning talks, demos, keynotes and invited emergent sessions.
+Click on a speaker below to see their bio and talk details.
+
+<br>
+
 <html>
 
 {% assign n_rows = site.speakers.size | divided_by:2 | minus:1 %}
