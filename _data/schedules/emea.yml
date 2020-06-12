@@ -195,7 +195,7 @@
       sessionIds: [401, 400]
     }
 
-
+-
   date: "2020-06-29"
   dateReadable: "Monday June 29th, Day 5"
   tracks:
@@ -211,7 +211,7 @@
       endTime: "12:00",
       sessionIds: [512]
     }
-
+-
   date: "2020-06-30"
   dateReadable: "Tuesday June 30th, Day 6"
   tracks:
@@ -227,7 +227,7 @@
       endTime: "12:00",
       sessionIds: [514]
     }
-
+-
   date: "2020-07-01"
   dateReadable: "Wednesday July 1st, Day 7"
   tracks:
@@ -243,7 +243,7 @@
       endTime: "12:00",
       sessionIds: [516]
     }
-
+-
   date: "2020-07-02"
   dateReadable: "Thursday July 2nd, Day 8"
   tracks:
@@ -259,7 +259,7 @@
       endTime: "12:00",
       sessionIds: [518]
     }
-
+-
   date: "2020-07-03"
   dateReadable: "Friday July 3rd, Day 9"
   tracks:
@@ -274,4 +274,5 @@
       startTime: "11:00",
       endTime: "12:00",
       sessionIds: [520]
-    }        
+    }
+-
