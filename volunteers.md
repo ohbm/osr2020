@@ -81,7 +81,7 @@ Have a look at their contact links and bios below, and give them a virtual high-
 
 {% assign volunteers = site.volunteers %}
 
-{% assign n_rows = volunteers.size | divided_by:2 | minus:1 %}
+{% assign n_rows = volunteers.size | divided_by:2 %}
 <table class="people">
 {% for row in (0..n_rows) %}
     <tr class="people">
