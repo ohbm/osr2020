@@ -23,7 +23,7 @@ title: FAQ
 
 <div id='what'></div><br>
 ### What is the OSR?
-The Open Science Room (OSR) is a conference within a conference, at the <a href="https://www.humanbrainmapping.org/">Organisation for Human Brain Mapping</a> (OHBM) annual meeting. The meeting this year will be held on a virtual platform, opening on June 23rd. The OSR hosts discussions around advances in neuroimaging, with a specific interest in open research practices.
+The Open Science Room (OSR) is a conference within a conference, at the <a href="https://www.humanbrainmapping.org/">Organisation for Human Brain Mapping</a> (OHBM) annual meeting. The meeting this year will be held on a virtual platform, opening on Tuesday 23rd June. The OSR hosts discussions around advances in neuroimaging, with a specific interest in open research practices.
 
 <div id='whopresent'></div><br>
 ### Who will be presenting in the OSR?
@@ -37,7 +37,7 @@ Anyone can participate in the OSR! Our content is scheduled to minimise clashes 
 
 **You must register for the OSR to obtain the details to connect to the discussions.** Registration for the OSR is included with the main meeting if you are attending the full <a href="https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3958">OHMB program</a>. Details for how to join the OSR will be provided in the OHBM meeting virtual platform.
 
-You can also [register](register.md) for the OSR at [zero-cost](access.md/#zero-cost). Please complete the registration form and we will communicate the details regarding how to join the conversation before the meeting commences on June 23rd.
+You can also [register](register.md) for the OSR at [zero-cost](access.md/#zero-cost). Please complete the registration form and we will communicate the details regarding how to join the conversation before the meeting commences on Tuesday 23rd June.
 
 <div id='attend'></div><br>
 ### Do I have to travel to participate in the OSR?

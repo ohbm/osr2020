@@ -7,7 +7,7 @@ show-avatar: true
 ---
 
 Hi folks! We're excited to announce that you can now [**register for free**](https://ohbm.github.io/osr2020/register/) for the virtual OHBM Open Science Room (OSR),
-happening **22nd June 2020 to 3rd July 2020**.
+happening **Monday 22nd June 2020 to Friday 3rd July 2020**.
 
 ### 1. Zero-cost registration
 

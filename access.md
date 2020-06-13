@@ -40,7 +40,7 @@ For individuals requiring hearing support or who speak English as a second langu
 
 The OSR can be accessed for zero-cost at the point of [registration](register.md). Zero-cost registrants can watch [scheduled talks](schedule.html), take part in live text-based Q&A, [host](submit.md) and participate in [emergents sessions](format.md/#emergent), and join our scheduled social events!
 
-Broadcast will take place via Crowdcast and DouYu. Both these services allow participants to direct questions to speakers. You will be sent details on how to connect to these services after [registration](register.md) and before the start of the meeting on June 23rd.
+Broadcast will take place via Crowdcast and DouYu. Both these services allow participants to direct questions to speakers. You will be sent details on how to connect to these services after [registration](register.md) and before the start of the meeting on Tuesday 23rd June.
 
 We also encourage our zero-cost registrants to use [Mattermost](https://mattermost.brainhack.org) to chat together, with our speakers and with our [volunteer team](volunteers.md). If you are not familiar with Mattermost, you can check out the [user-guide](https://docs.mattermost.com/guides/user.html) and this [short video](https://www.youtube.com/watch?v=eq4yEM5z5SY&list=PL-jqvaPsjQpMqnRgFEw_3fuGQbcVDTpaM&index=5) describing how it works.
 
