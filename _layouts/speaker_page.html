@@ -37,7 +37,13 @@ layout: base
           <tr style="border: none; background: none"><td style="border: none; background: none">
           <h3> Talks </h3>
           {% for talk in talks %}
-            <span><h4><i> {{ talk.TalkTitle }} </i></h4><h5>{{ talk.Date }}, <a target="_blank" href="{{talk.Link}}"> Talk abstract </a> </h5></span>
+            <span>
+                <h4><i> {{ talk.TalkTitle }} </i></h4>
+                <h5><a target="_blank" href="{{talk.Link}}">Talk abstract</a> - {{ talk.Date }} </h5>
+                <h5>Theme: {{talk.Theme}}</h5>
+                <h5>Format: {{talk.TalkFormat}}</h5>
+
+            </span>
           {% endfor %}
           </td></tr>
         {% endif %}

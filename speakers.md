@@ -12,7 +12,7 @@ Click on a speaker below to see their bio and talk details.
 
 <html>
 
-{% assign n_rows = site.speakers.size | divided_by:2 | minus:1 %}
+{% assign n_rows = site.speakers.size | divided_by:2 %}
 <table class="people">
 {% for row in (0..n_rows) %}
     <tr class="people">

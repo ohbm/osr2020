@@ -936,9 +936,19 @@ td.people {
   border: none;
   text-align: center;
 }
+@media(max-width: 760px) {
+  td.people {
+    display: block;
+    width: 50%;
+    margin: auto;
+    border: none;
+    text-align: center;
+
+  }
+}
 
 img.person {
-  height: 200px;
+  /*height: 200px;*/
   float: right;
   border-radius: 50%;
 }
