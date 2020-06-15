@@ -223,6 +223,17 @@
       endTime: "11:00",
       sessionIds: [602]
     }
+    - {
+      startTime: "17:00",
+      endTime: "18:00",
+      sessionIds: [611]
+    }
+    - {
+      startTime: "18:00",
+      endTime: "19:00",
+      sessionIds: [612]
+    }
+
 -
   date: "2020-06-30"
   dateReadable: |
@@ -231,6 +242,16 @@
   tracks:
     - {title: "Open Science Room", color: "#90be4e"}
   timeslots:
+    - {
+      startTime: "02:00",
+      endTime: "03:00",
+      sessionIds: [621]
+    }
+    - {
+      startTime: "03:00",
+      endTime: "04:00",
+      sessionIds: [622]
+    }
     - {
       startTime: "09:00",
       endTime: "10:00",
@@ -241,6 +262,16 @@
       endTime: "11:00",
       sessionIds: [604]
     }
+    - {
+      startTime: "17:00",
+      endTime: "18:00",
+      sessionIds: [613]
+    }
+    - {
+      startTime: "18:00",
+      endTime: "19:00",
+      sessionIds: [614]
+    }
 -
   date: "2020-07-01"
   dateReadable: |
@@ -249,6 +280,16 @@
   tracks:
     - {title: "Open Science Room", color: "#90be4e"}
   timeslots:
+    - {
+      startTime: "02:00",
+      endTime: "03:00",
+      sessionIds: [623]
+    }
+    - {
+      startTime: "03:00",
+      endTime: "04:00",
+      sessionIds: [624]
+    }
     - {
       startTime: "09:00",
       endTime: "10:00",
@@ -259,6 +300,16 @@
       endTime: "11:00",
       sessionIds: [606]
     }
+    - {
+      startTime: "17:00",
+      endTime: "18:00",
+      sessionIds: [615]
+    }
+    - {
+      startTime: "18:00",
+      endTime: "19:00",
+      sessionIds: [616]
+    }
 -
   date: "2020-07-02"
   dateReadable: |
@@ -267,6 +318,16 @@
   tracks:
     - {title: "Open Science Room", color: "#90be4e"}
   timeslots:
+    - {
+      startTime: "02:00",
+      endTime: "03:00",
+      sessionIds: [625]
+    }
+    - {
+      startTime: "03:00",
+      endTime: "04:00",
+      sessionIds: [626]
+    }
     - {
       startTime: "09:00",
       endTime: "10:00",
@@ -277,6 +338,16 @@
       endTime: "11:00",
       sessionIds: [608]
     }
+    - {
+      startTime: "17:00",
+      endTime: "18:00",
+      sessionIds: [617]
+    }
+    - {
+      startTime: "18:00",
+      endTime: "19:00",
+      sessionIds: [618]
+    }
 -
   date: "2020-07-03"
   dateReadable: |
@@ -285,6 +356,16 @@
   tracks:
     - {title: "Open Science Room", color: "#90be4e"}
   timeslots:
+    - {
+      startTime: "02:00",
+      endTime: "03:00",
+      sessionIds: [627]
+    }
+    - {
+      startTime: "03:00",
+      endTime: "04:00",
+      sessionIds: [628]
+    }
     - {
       startTime: "09:00",
       endTime: "10:00",
@@ -295,4 +376,31 @@
       endTime: "11:00",
       sessionIds: [610]
     }
+    - {
+      startTime: "17:00",
+      endTime: "18:00",
+      sessionIds: [619]
+    }
+    - {
+      startTime: "18:00",
+      endTime: "19:00",
+      sessionIds: [620]
+    }
 -
+  date: "2020-07-04"
+  dateReadable: |
+    Saturday 4th July
+    <a href="https://add.eventable.com/events/5ee283bb688c450085e01590/5ee40a9a2d049d004feba320/" data-event="5ee40a9a2d049d004feba320" class="eventable-link" target="_blank" data-key="5ee283bb688c450085e01590" data-style="1">Add to Calendar</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://plugins.eventable.com/eventable.js";fjs.parentNode.insertBefore(js, fjs);}}(document, "script", "eventable-script");</script>
+  tracks:
+    - {title: "Open Science Room", color: "#90be4e"}
+  timeslots:
+    - {
+      startTime: "02:00",
+      endTime: "03:00",
+      sessionIds: [629]
+    }
+    - {
+      startTime: "03:00",
+      endTime: "04:00",
+      sessionIds: [630]
+    }
