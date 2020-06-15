@@ -390,7 +390,7 @@
   date: "2020-07-04"
   dateReadable: |
     Saturday 4th July
-    <a href="https://add.eventable.com/events/5ee283bb688c450085e01590/5ee7610239ed550016a21f20/" data-event="5ee7610239ed550016a21f20" class="eventable-link" target="_blank" data-key="5ee283bb688c450085e01590" data-style="1">Add to Calendar</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://plugins.eventable.com/eventable.js";fjs.parentNode.insertBefore(js, fjs);}}(document, "script", "eventable-script");</script>
+    <a href="https://add.eventable.com/events/5ee283bb688c450085e01590/5ee76ded697e44007902bf96/" data-event="5ee76ded697e44007902bf96" class="eventable-link" target="_blank" data-key="5ee283bb688c450085e01590" data-style="1">Add to Calendar</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://plugins.eventable.com/eventable.js";fjs.parentNode.insertBefore(js, fjs);}}(document, "script", "eventable-script");</script>
   tracks:
     - {title: "Open Science Room", color: "#90be4e"}
   timeslots:
