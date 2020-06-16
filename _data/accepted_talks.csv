@@ -2,7 +2,7 @@ Name,Date,Theme,TalkFormat,TalkCount,Duration,TalkTitle,Link
 Emma Bluemke,23rd June 2020,Open Data 2.0,Lightning Talk,1,5,Privacy preserving tech: the tools for safe open data use,https://github.com/ohbm/osr2020/issues/18
 David Keator,23rd June 2020,Open Data 2.0,Lightning Talk,2,5,Concept Annotations via NIDM-Terms Fosters Improved Search of OpenNeuro Datasets,https://github.com/ohbm/osr2020/issues/27
 Linda Larson-Prior,23rd June 2020,Open Data 2.0,Lightning Talk,3,5,Leveraging telehealth in underserved populations for open data research,https://github.com/ohbm/osr2020/issues/44
-Julie A. Boyle,23rd June 2020,Open Data 2.0,Lightning Talk,4,5,The Courtois project on neuronal modelling - first data release,https://github.com/ohbm/osr2020/issues/32
+Julie Boyle,23rd June 2020,Open Data 2.0,Lightning Talk,4,5,The Courtois project on neuronal modelling - first data release,https://github.com/ohbm/osr2020/issues/32
 Guiomar Niso,23rd June 2020,Open Data 2.0,Lightning Talk,5,5,BIDS: a data standard to support the neuroimaging community,https://github.com/ohbm/osr2020/issues/42
 Anqi Qiu,23rd June 2020,Open Data 2.0,Keynote,1,25,"Phenotypes, Genotypes & Voxels: A playground next to a nuclear power plant",https://github.com/ohbm/osr2020/issues/16
 Nikita Beliy,23rd June 2020,Open Data 2.0,Software or process demo,1,7,Bidsme: flexible bidsifier for multimodal datasets,https://github.com/ohbm/osr2020/issues/22
@@ -28,3 +28,42 @@ Fabio Ferreira,25th June 2020,"Past, Present, Future of Open Neuroimaging",Softw
 Srinivas Rachakonda,25th June 2020,"Past, Present, Future of Open Neuroimaging",Software or process demo,2,7,Group ICA Toolbox: New features and developments,https://github.com/ohbm/osr2020/issues/37
 Marijn van Vliet,25th June 2020,"Past, Present, Future of Open Neuroimaging",Software or process demo,3,7,Status update on MNE-Python,https://github.com/ohbm/osr2020/issues/59
 Ariel Rokem,25th June 2020,"Past, Present, Future of Open Neuroimaging",Software or process demo,4,7,The INCF online training suite,https://github.com/ohbm/osr2020/issues/60
+Stephan Heunis,,Open Data 2.0,Emergent session,1,60,Open neuroimaging data and personal data privacy: convergence or divergence?,https://github.com/ohbm/osr2020/issues/70
+Emma Bluemke,,Open Data 2.0,Emergent session,1,60,Open neuroimaging data and personal data privacy: convergence or divergence?,https://github.com/ohbm/osr2020/issues/70
+Andrew Trask,,Open Data 2.0,Emergent session,1,60,Open neuroimaging data and personal data privacy: convergence or divergence?,https://github.com/ohbm/osr2020/issues/70
+Jonathan Passerat-Palmbach,,Open Data 2.0,Emergent session,1,60,Open neuroimaging data and personal data privacy: convergence or divergence?,https://github.com/ohbm/osr2020/issues/70
+PJ Toussaint,,Open Data 2.0,Emergent session,1,60,Open neuroimaging data and personal data privacy: convergence or divergence?,https://github.com/ohbm/osr2020/issues/70
+Abeba Birhane,,Open Data 2.0,Emergent session,1,60,Open neuroimaging data and personal data privacy: convergence or divergence?,https://github.com/ohbm/osr2020/issues/70
+Adam Thomas,,Open Data 2.0,Emergent session,1,60,Open neuroimaging data and personal data privacy: convergence or divergence?,https://github.com/ohbm/osr2020/issues/70
+Tonya White,,Open Data 2.0,Emergent session,1,60,Open neuroimaging data and personal data privacy: convergence or divergence?,https://github.com/ohbm/osr2020/issues/70
+Michael Beauvais,,Open Data 2.0,Emergent session,1,60,Open neuroimaging data and personal data privacy: convergence or divergence?,https://github.com/ohbm/osr2020/issues/70
+Gustav Nilsonne,,Open Data 2.0,Emergent session,1,60,Open neuroimaging data and personal data privacy: convergence or divergence?,https://github.com/ohbm/osr2020/issues/70
+Lyuba Zehl,,Open Data 2.0,Emergent session,1,60,Open neuroimaging data and personal data privacy: convergence or divergence?,https://github.com/ohbm/osr2020/issues/70
+Reubs Walsh,,Open Data 2.0,Emergent session,1,60,Open neuroimaging data and personal data privacy: convergence or divergence?,https://github.com/ohbm/osr2020/issues/70
+Guiomar Niso,,Open Data 2.0,Emergent session,2,60,BIDS Town-hall meeting,https://github.com/ohbm/osr2020/issues/71
+Christopher Markiewicz,,Open Data 2.0,Emergent session,2,60,BIDS Town-hall meeting,https://github.com/ohbm/osr2020/issues/71
+Melanie Ganz,,Open Data 2.0,Emergent session,2,60,BIDS Town-hall meeting,https://github.com/ohbm/osr2020/issues/71
+Franklin Feingold,,Open Data 2.0,Emergent session,2,60,BIDS Town-hall meeting,https://github.com/ohbm/osr2020/issues/71
+Stefan Appelhoff,,Open Data 2.0,Emergent session,2,60,BIDS Town-hall meeting,https://github.com/ohbm/osr2020/issues/71
+Russell Poldrack,,Open Data 2.0,Emergent session,2,60,BIDS Town-hall meeting,https://github.com/ohbm/osr2020/issues/71
+Karolina Finc,,Open Workflows,Emergent session,3,60,"Open, community-driven, software pipelines: a retrospective and future outlook",https://github.com/ohbm/osr2020/issues/68
+Thomas Nichols,,Open Workflows,Emergent session,3,60,"Open, community-driven, software pipelines: a retrospective and future outlook",https://github.com/ohbm/osr2020/issues/68
+Oscar Esteban,,Open Workflows,Emergent session,3,60,"Open, community-driven, software pipelines: a retrospective and future outlook",https://github.com/ohbm/osr2020/issues/68
+Satrajit Ghosh,,Open Workflows,Emergent session,3,60,"Open, community-driven, software pipelines: a retrospective and future outlook",https://github.com/ohbm/osr2020/issues/68
+Erin Dickie,,Open Workflows,Emergent session,3,60,"Open, community-driven, software pipelines: a retrospective and future outlook",https://github.com/ohbm/osr2020/issues/68
+Chuan-Peng Hu,,Open Workflows,Emergent session,4,60,Open and inclusive collaboration in neuroscience/neuroimaging: how can we make it happen?,https://github.com/ohbm/osr2020/issues/72
+Rotem Botvinik-Nezer,,Open Workflows,Emergent session,4,60,Open and inclusive collaboration in neuroscience/neuroimaging: how can we make it happen?,https://github.com/ohbm/osr2020/issues/72
+David Selassie Opoku,,Open Workflows,Emergent session,4,60,Open and inclusive collaboration in neuroscience/neuroimaging: how can we make it happen?,https://github.com/ohbm/osr2020/issues/72
+Angie Laird,,Open Workflows,Emergent session,4,60,Open and inclusive collaboration in neuroscience/neuroimaging: how can we make it happen?,https://github.com/ohbm/osr2020/issues/72
+Malvika Sharan,,Open Workflows,Emergent session,4,60,Open and inclusive collaboration in neuroscience/neuroimaging: how can we make it happen?,https://github.com/ohbm/osr2020/issues/72
+Reubs Walsh,,Open Workflows,Emergent session,4,60,Open and inclusive collaboration in neuroscience/neuroimaging: how can we make it happen?,https://github.com/ohbm/osr2020/issues/72
+Simon Eickhoff,,"Past, Present, Future of Open Neuroimaging",Emergent session,5,60,"Clinical and computational neuroimaging, is there an open science divide?",https://github.com/ohbm/osr2020/issues/62
+Xenia Kobeleva,,"Past, Present, Future of Open Neuroimaging",Emergent session,5,60,"Clinical and computational neuroimaging, is there an open science divide?",https://github.com/ohbm/osr2020/issues/62
+Pim Pullens,,"Past, Present, Future of Open Neuroimaging",Emergent session,5,60,"Clinical and computational neuroimaging, is there an open science divide?",https://github.com/ohbm/osr2020/issues/62
+Sanmi Koyejo,,"Past, Present, Future of Open Neuroimaging",Emergent session,6,60,Machine learning in neuroimaging: what do we agree on and where are we headed?,https://github.com/ohbm/osr2020/issues/69
+Satrajit Ghosh,,"Past, Present, Future of Open Neuroimaging",Emergent session,6,60,Machine learning in neuroimaging: what do we agree on and where are we headed?,https://github.com/ohbm/osr2020/issues/69
+Manjari Narayan,,"Past, Present, Future of Open Neuroimaging",Emergent session,6,60,Machine learning in neuroimaging: what do we agree on and where are we headed?,https://github.com/ohbm/osr2020/issues/69
+Anders Eklund,,"Past, Present, Future of Open Neuroimaging",Emergent session,6,60,Machine learning in neuroimaging: what do we agree on and where are we headed?,https://github.com/ohbm/osr2020/issues/69
+Estefany Suarez,,"Past, Present, Future of Open Neuroimaging",Emergent session,6,60,Machine learning in neuroimaging: what do we agree on and where are we headed?,https://github.com/ohbm/osr2020/issues/69
+Gaël Varoquaux,,"Past, Present, Future of Open Neuroimaging",Emergent session,6,60,Machine learning in neuroimaging: what do we agree on and where are we headed?,https://github.com/ohbm/osr2020/issues/69
+Saige Rutherford,,"Past, Present, Future of Open Neuroimaging",Emergent session,6,60,Machine learning in neuroimaging: what do we agree on and where are we headed?,https://github.com/ohbm/osr2020/issues/69
