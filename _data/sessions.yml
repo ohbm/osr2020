@@ -203,10 +203,10 @@
 
 -
   id: 408
-  title: "OS-SIG Town Hall"
+  title: "OS-SIG General Assembly"
   place: "Some place here"
   service: true
-  description: "Learn about the election process for next year, and ask us anything!"
+  description: "Meet the [SIG Officers](https://ossig.netlify.app/), learn about the election process for next year, and ask us anything!"
 
 -
   id: 405
