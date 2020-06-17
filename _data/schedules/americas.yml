@@ -117,7 +117,7 @@
     - {title: "Open Science Room", color: "#90be4e"}
   timeslots:
     - {
-        startTime: 16:00",
+        startTime: "16:00",
         endTime: "17:00",
         sessionIds: [301, 300]
     }
