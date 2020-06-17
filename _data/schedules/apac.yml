@@ -13,18 +13,18 @@
       sessionIds: [400]
     }
     - {
-      startTime: "10:30",
-      endTime: "11:00",
+      startTime: "02:30",
+      endTime: "03:00",
       sessionIds: [000]
     }
     - {
-      startTime: "11:00",
-      endTime: "12:00",
+      startTime: "03:00",
+      endTime: "04:00",
       sessionIds: [501]
     }
     - {
-      startTime: "12:00",
-      endTime: "12:30",
+      startTime: "04:00",
+      endTime: "04:30",
       sessionIds: [400]
     }
 
