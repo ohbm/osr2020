@@ -1,6 +1,6 @@
 -
   date: "2020-06-22"
-  tz: "America/Los_Angeles"
+  tz: "UTC"
   dateReadable: |
     Monday 22nd June
     <a href="https://add.eventable.com/events/5ee283bb688c450085e01590/5ee415e08376b0001c411183/" data-event="5ee415e08376b0001c411183" class="eventable-link" target="_blank" data-key="5ee283bb688c450085e01590" data-style="1">Add to Calendar</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://plugins.eventable.com/eventable.js";fjs.parentNode.insertBefore(js, fjs);}}(document, "script", "eventable-script");</script>
@@ -8,23 +8,23 @@
     - {title: "Open science meet-up", color: "#90be4e"}
   timeslots:
     - {
-      startTime: "10:00",
-      endTime: "10:30",
+      startTime: "18:00",
+      endTime: "18:30",
       sessionIds: [400]
     }
     - {
-      startTime: "10:30",
-      endTime: "11:00",
+      startTime: "18:30",
+      endTime: "19:00",
       sessionIds: [000]
     }
     - {
-      startTime: "11:00",
-      endTime: "12:00",
+      startTime: "19:00",
+      endTime: "20:00",
       sessionIds: [501]
     }
     - {
-      startTime: "12:00",
-      endTime: "12:30",
+      startTime: "20:00",
+      endTime: "20:30",
       sessionIds: [400]
     }
 
@@ -38,39 +38,29 @@
     - {title: "Open Science Room", color: "#90be4e"}
   timeslots:
     - {
-        startTime: "09:00",
-        endTime: "10:00",
-        sessionIds: [101, 100]
-    }
-    - {
-      startTime: "10:00",
-      endTime: "10:50",
+      startTime: "18:00",
+      endTime: "18:50",
       sessionIds: [102]
     }
     - {
-      startTime: "10:50",
-      endTime: "11:10",
+      startTime: "18:50",
+      endTime: "19:10",
       sessionIds: [000]
     }
     - {
-      startTime: "11:10",
-      endTime: "11:50",
+      startTime: "19:10",
+      endTime: "19:50",
       sessionIds: [103]
     }
     - {
-      startTime: "11:50",
-      endTime: "12:40",
+      startTime: "19:50",
+      endTime: "20:40",
       sessionIds: [104]
     }
     - {
-      startTime: "12:40",
-      endTime: "13:00",
+      startTime: "20:40",
+      endTime: "21:00",
       sessionIds: [000]
-    }
-    - {
-      startTime: "13:00",
-      endTime: "14:00",
-      sessionIds: [101, 100]
     }
 
 -
@@ -82,40 +72,41 @@
     - {title: "Open Science Room", color: "#90be4e"}
   timeslots:
     - {
-        startTime: "09:00",
-        endTime: "10:00",
+        startTime: "16:00",
+        endTime: "17:00",
         sessionIds: [201, 200]
     }
     - {
-      startTime: "10:00",
-      endTime: "10:50",
+        startTime: "17:00",
+        endTime: "18:00",
+        sessionIds: [101]
+    }
+    - {
+      startTime: "18:00",
+      endTime: "18:50",
       sessionIds: [202]
     }
     - {
-      startTime: "10:50",
-      endTime: "11:10",
+      startTime: "18:50",
+      endTime: "19:10",
       sessionIds: [000]
     }
     - {
-      startTime: "11:10",
-      endTime: "11:50",
+      startTime: "19:10",
+      endTime: "19:50",
       sessionIds: [203]
     }
     - {
-      startTime: "11:50",
-      endTime: "12:40",
+      startTime: "19:50",
+      endTime: "20:40",
       sessionIds: [204]
     }
     - {
-      startTime: "12:40",
-      endTime: "13:00",
+      startTime: "20:40",
+      endTime: "21:00",
       sessionIds: [000]
     }
-    - {
-      startTime: "13:00",
-      endTime: "14:00",
-      sessionIds: [201, 200]
-    }
+
 
 -
   date: "2020-06-25"
@@ -126,39 +117,39 @@
     - {title: "Open Science Room", color: "#90be4e"}
   timeslots:
     - {
-        startTime: "09:00",
-        endTime: "10:00",
+        startTime: 16:00",
+        endTime: "17:00",
         sessionIds: [301, 300]
     }
     - {
-      startTime: "10:00",
-      endTime: "10:50",
+      startTime: "17:00",
+      endTime: "18:00",
+      sessionIds: [201]
+    }
+    - {
+      startTime: "18:00",
+      endTime: "18:50",
       sessionIds: [302]
     }
     - {
-      startTime: "10:50",
-      endTime: "11:10",
+      startTime: "18:50",
+      endTime: "19:10",
       sessionIds: [000]
     }
     - {
-      startTime: "11:10",
-      endTime: "11:50",
+      startTime: "19:10",
+      endTime: "19:50",
       sessionIds: [303]
     }
     - {
-      startTime: "11:50",
-      endTime: "12:40",
+      startTime: "19:50",
+      endTime: "20:40",
       sessionIds: [304]
     }
     - {
-      startTime: "12:40",
-      endTime: "13:00",
+      startTime: "20:40",
+      endTime: "21:00",
       sessionIds: [000]
-    }
-    - {
-      startTime: "13:00",
-      endTime: "14:00",
-      sessionIds: [301, 300]
     }
 
 -
@@ -170,39 +161,40 @@
     - {title: "Open Science Room", color: "#90be4e"}
   timeslots:
     - {
-        startTime: "09:00",
-        endTime: "10:00",
+        startTime: "16:00",
+        endTime: "17:00",
         sessionIds: [401, 400]
     }
     - {
-      startTime: "10:00",
-      endTime: "10:50",
+        startTime: "17:00",
+        endTime: "18:00",
+        sessionIds: [301]
+    }
+
+    - {
+      startTime: "18:00",
+      endTime: "18:50",
       sessionIds: [402]
     }
     - {
-      startTime: "10:50",
-      endTime: "11:20",
+      startTime: "18:50",
+      endTime: "19:20",
       sessionIds: [000]
     }
     - {
-      startTime: "11:20",
-      endTime: "11:40",
+      startTime: "19:20",
+      endTime: "19:40",
       sessionIds: [403]
     }
     - {
-      startTime: "11:40",
-      endTime: "12:40",
+      startTime: "19:40",
+      endTime: "20:40",
       sessionIds: [408]
     }
     - {
-      startTime: "12:40",
-      endTime: "13:00",
+      startTime: "20:40",
+      endTime: "21:00",
       sessionIds: [000]
-    }
-    - {
-      startTime: "13:00",
-      endTime: "14:00",
-      sessionIds: [401, 400]
     }
 
 -
@@ -214,13 +206,13 @@
     - {title: "Open Science Room", color: "#90be4e"}
   timeslots:
     - {
-      startTime: "18:00",
-      endTime: "19:00",
+      startTime: "01:00",
+      endTime: "02:00",
       sessionIds: [601]
     }
     - {
-      startTime: "19:00",
-      endTime: "20:00",
+      startTime: "02:00",
+      endTime: "03:00",
       sessionIds: [602]
     }
 -
@@ -232,33 +224,33 @@
     - {title: "Open Science Room", color: "#90be4e"}
   timeslots:
     - {
-      startTime: "02:00",
-      endTime: "03:00",
+      startTime: "09:00",
+      endTime: "10:00",
       sessionIds: [611]
     }
     - {
-      startTime: "03:00",
-      endTime: "04:00",
+      startTime: "10:00",
+      endTime: "11:00",
       sessionIds: [612]
-    }
-    - {
-      startTime: "11:00",
-      endTime: "12:00",
-      sessionIds: [621]
-    }
-    - {
-      startTime: "12:00",
-      endTime: "13:00",
-      sessionIds: [622]
     }
     - {
       startTime: "18:00",
       endTime: "19:00",
-      sessionIds: [603]
+      sessionIds: [621]
     }
     - {
       startTime: "19:00",
       endTime: "20:00",
+      sessionIds: [622]
+    }
+    - {
+      startTime: "01:00",
+      endTime: "02:00",
+      sessionIds: [603]
+    }
+    - {
+      startTime: "02:00",
+      endTime: "03:00",
       sessionIds: [604]
     }
 
@@ -271,33 +263,33 @@
     - {title: "Open Science Room", color: "#90be4e"}
   timeslots:
     - {
-      startTime: "02:00",
-      endTime: "03:00",
+      startTime: "09:00",
+      endTime: "10:00",
       sessionIds: [613]
     }
     - {
-      startTime: "03:00",
-      endTime: "04:00",
+      startTime: "10:00",
+      endTime: "11:00",
       sessionIds: [614]
-    }
-    - {
-      startTime: "11:00",
-      endTime: "12:00",
-      sessionIds: [623]
-    }
-    - {
-      startTime: "12:00",
-      endTime: "13:00",
-      sessionIds: [624]
     }
     - {
       startTime: "18:00",
       endTime: "19:00",
-      sessionIds: [605]
+      sessionIds: [623]
     }
     - {
       startTime: "19:00",
       endTime: "20:00",
+      sessionIds: [624]
+    }
+    - {
+      startTime: "01:00",
+      endTime: "02:00",
+      sessionIds: [605]
+    }
+    - {
+      startTime: "02:00",
+      endTime: "03:00",
       sessionIds: [606]
     }
 
@@ -310,72 +302,72 @@
     - {title: "Open Science Room", color: "#90be4e"}
   timeslots:
     - {
-      startTime: "02:00",
-      endTime: "03:00",
+      startTime: "09:00",
+      endTime: "10:00",
       sessionIds: [615]
     }
     - {
-      startTime: "03:00",
-      endTime: "04:00",
+      startTime: "10:00",
+      endTime: "11:00",
       sessionIds: [616]
-    }
-    - {
-      startTime: "11:00",
-      endTime: "12:00",
-      sessionIds: [625]
-    }
-    - {
-      startTime: "12:00",
-      endTime: "13:00",
-      sessionIds: [626]
     }
     - {
       startTime: "18:00",
       endTime: "19:00",
-      sessionIds: [607]
+      sessionIds: [625]
     }
     - {
       startTime: "19:00",
       endTime: "20:00",
+      sessionIds: [626]
+    }
+    - {
+      startTime: "01:00",
+      endTime: "02:00",
+      sessionIds: [607]
+    }
+    - {
+      startTime: "02:00",
+      endTime: "03:00",
       sessionIds: [608]
     }
 
 -
   date: "2020-07-02"
   dateReadable: |
-    Thursday 2nd July
+    Thursday 2nd J  uly
     <a href="https://add.eventable.com/events/5ee283bb688c450085e01590/5ee418faff1a8a001be3a2cf/" data-event="5ee418faff1a8a001be3a2cf" class="eventable-link" target="_blank" data-key="5ee283bb688c450085e01590" data-style="1">Add to Calendar</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://plugins.eventable.com/eventable.js";fjs.parentNode.insertBefore(js, fjs);}}(document, "script", "eventable-script");</script>
   tracks:
     - {title: "Open Science Room", color: "#90be4e"}
   timeslots:
     - {
-      startTime: "02:00",
-      endTime: "03:00",
+      startTime: "09:00",
+      endTime: "10:00",
       sessionIds: [617]
     }
     - {
-      startTime: "03:00",
-      endTime: "04:00",
+      startTime: "10:00",
+      endTime: "11:00",
       sessionIds: [618]
-    }
-    - {
-      startTime: "11:00",
-      endTime: "12:00",
-      sessionIds: [627]
-    }
-    - {
-      startTime: "12:00",
-      endTime: "13:00",
-      sessionIds: [628]
     }
     - {
       startTime: "18:00",
       endTime: "19:00",
-      sessionIds: [609]
+      sessionIds: [627]
     }
     - {
       startTime: "19:00",
       endTime: "20:00",
+      sessionIds: [628]
+    }
+    - {
+      startTime: "01:00",
+      endTime: "02:00",
+      sessionIds: [609]
+    }
+    - {
+      startTime: "02:00",
+      endTime: "03:00",
       sessionIds: [610]
     }
 
@@ -388,23 +380,23 @@
     - {title: "Open Science Room", color: "#90be4e"}
   timeslots:
     - {
-      startTime: "02:00",
-      endTime: "03:00",
+      startTime: "09:00",
+      endTime: "10:00",
       sessionIds: [619]
     }
     - {
-      startTime: "03:00",
-      endTime: "04:00",
+      startTime: "10:00",
+      endTime: "11:00",
       sessionIds: [620]
     }
     - {
-      startTime: "11:00",
-      endTime: "12:00",
+      startTime: "18:00",
+      endTime: "19:00",
       sessionIds: [629]
     }
     - {
-      startTime: "12:00",
-      endTime: "13:00",
+      startTime: "19:00",
+      endTime: "20:00",
       sessionIds: [630]
     }
 -
