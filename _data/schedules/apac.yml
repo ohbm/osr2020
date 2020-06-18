@@ -40,7 +40,7 @@
     - {
         startTime: "01:00",
         endTime: "02:00",
-        sessionIds: [101, 100]
+        sessionIds: [100]
     }
     - {
       startTime: "02:00",
@@ -70,7 +70,12 @@
     - {
       startTime: "05:00",
       endTime: "06:00",
-      sessionIds: [101, 100]
+      sessionIds: [100]
+    }
+    - {
+      startTime: "12:00",
+      endTime: "13:00",
+      sessionIds: [101]
     }
 
 -
@@ -84,7 +89,7 @@
     - {
         startTime: "01:00",
         endTime: "02:00",
-        sessionIds: [201, 200]
+        sessionIds: [200]
     }
     - {
       startTime: "02:00",
@@ -114,7 +119,12 @@
     - {
       startTime: "05:00",
       endTime: "06:00",
-      sessionIds: [201, 200]
+      sessionIds: [200]
+    }
+    - {
+      startTime: "16:00",
+      endTime: "17:00",
+      sessionIds: [201]
     }
 
 -
@@ -128,7 +138,7 @@
     - {
         startTime: "01:00",
         endTime: "02:00",
-        sessionIds: [301, 300]
+        sessionIds: [300]
     }
     - {
       startTime: "02:00",
@@ -158,9 +168,23 @@
     - {
       startTime: "05:00",
       endTime: "06:00",
-      sessionIds: [301, 300]
+      sessionIds: [300]
     }
-
+    - {
+      startTime: "08:00",
+      endTime: "09:00",
+      sessionIds: [701]
+    }
+    - {
+      startTime: "12:00",
+      endTime: "13:00",
+      sessionIds: [702]
+    }
+    - {
+      startTime: "17:00",
+      endTime: "13:00",
+      sessionIds: [301]
+    }
 -
   date: "2020-06-26"
   dateReadable: |

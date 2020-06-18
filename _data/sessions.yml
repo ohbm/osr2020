@@ -85,6 +85,24 @@
   service: true
   description: "TBC"
 
+-
+# Clincal TBC
+  id: 701
+  title: "Emergent"
+  place: ""
+  service: true
+  description: |
+    [Advocating open science is easy for data consumers - Time TBC](https://github.com/ohbm/osr2020/issues/62) ([Simon Eickhoff](https://ohbm.github.io/osr2020/speakers/simon_eickhoff.html), Pim Pullens, [Xenia Kobeleva](https://ohbm.github.io/osr2020/speakers/xenia_kobeleva.html))
+
+-
+# Clincal TBC
+  id: 702
+  title: "Emergent"
+  place: ""
+  service: true
+  description: |
+    [Advocating open science is easy for data consumers - Time TBC](https://github.com/ohbm/osr2020/issues/62) ([Simon Eickhoff](https://ohbm.github.io/osr2020/speakers/simon_eickhoff.html), Pim Pullens, [Xenia Kobeleva](https://ohbm.github.io/osr2020/speakers/xenia_kobeleva.html))
+
 # Lightning
 -
   id: 102
