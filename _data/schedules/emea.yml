@@ -40,7 +40,7 @@
     - {
         startTime: "08:00",
         endTime: "09:00",
-        sessionIds: [101, 100]
+        sessionIds: [100]
     }
     - {
     	startTime: "09:00",
@@ -84,7 +84,7 @@
     - {
         startTime: "08:00",
         endTime: "09:00",
-        sessionIds: [201, 200]
+        sessionIds: [200]
     }
     - {
       startTime: "09:00",
@@ -114,9 +114,13 @@
     - {
       startTime: "12:00",
       endTime: "13:00",
-      sessionIds: [201, 200]
+      sessionIds: [200]
     }
-
+    - {
+      startTime: "16:00",
+      endTime: "17:00",
+      sessionIds: [201]
+    }
 -
   date: "2020-06-25"
   dateReadable: |
@@ -128,7 +132,7 @@
     - {
         startTime: "08:00",
         endTime: "09:00",
-        sessionIds: [301, 300]
+        sessionIds: [701, 300]
     }
     - {
       startTime: "09:00",
@@ -158,7 +162,12 @@
     - {
       startTime: "12:00",
       endTime: "13:00",
-      sessionIds: [301, 300]
+      sessionIds: [702, 300]
+    }
+    - {
+      startTime: "17:00",
+      endTime: "18:00",
+      sessionIds: [301]
     }
 
 -
