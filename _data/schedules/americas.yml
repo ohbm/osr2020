@@ -38,6 +38,11 @@
     - {title: "Open Science Room", color: "#90be4e"}
   timeslots:
     - {
+        startTime: "12:00",
+        endTime: "13:00",
+        sessionIds: [101]
+    }
+    - {
         startTime: "18:00",
         endTime: "18:50",
         sessionIds: [102]
@@ -77,11 +82,6 @@
         sessionIds: [201, 200]
     }
     - {
-        startTime: "17:00",
-        endTime: "18:00",
-        sessionIds: [101]
-    }
-    - {
         startTime: "18:00",
         endTime: "18:50",
         sessionIds: [202]
@@ -117,14 +117,24 @@
     - {title: "Open Science Room", color: "#90be4e"}
   timeslots:
     - {
+        startTime: "08:00",
+        endTime: "09:00",
+        sessionIds: [701]
+    }
+    - {
+        startTime: "12:00",
+        endTime: "13:00",
+        sessionIds: [702]
+    }
+    - {
         startTime: "16:00",
         endTime: "17:00",
-        sessionIds: [301, 300]
+        sessionIds: [300]
     }
     - {
         startTime: "17:00",
         endTime: "18:00",
-        sessionIds: [201]
+        sessionIds: [301]
     }
     - {
         startTime: "18:00",
