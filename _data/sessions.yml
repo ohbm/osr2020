@@ -53,7 +53,7 @@
 -
 # Open Data 2.0
   id: 101
-  title: "Emergent"
+  title: "Open Data 2.0 Emergent"
   place: ""
   service: true
   description: |
@@ -62,7 +62,7 @@
 -
 # Open Workflows
   id: 201
-  title: "Emergent"
+  title: "Open Workflows Emergent"
   place: ""
   service: true
   description: |
@@ -71,7 +71,7 @@
 -
 # Past, Present, Future
   id: 301
-  title: "Emergent"
+  title: "Past, Present, Future Emergent (1)"
   place: ""
   service: true
   description: |
@@ -88,7 +88,7 @@
 -
 # Clincal TBC
   id: 701
-  title: "Emergent"
+  title: "Past, Present, Future Emergent (2)"
   place: ""
   service: true
   description: |
@@ -97,7 +97,7 @@
 -
 # Clincal TBC
   id: 702
-  title: "Emergent"
+  title: "Past, Present, Future Emergent (2)"
   place: ""
   service: true
   description: |
