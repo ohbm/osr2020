@@ -3,7 +3,6 @@
   tz: "UTC"
   dateReadable: |
     Monday 22nd June
-    <a href="https://add.eventable.com/events/5ee283bb688c450085e01590/5ee40d01c293d80050839c8b/" data-event="5ee40d01c293d80050839c8b" class="eventable-link" target="_blank" data-key="5ee283bb688c450085e01590" data-style="1">Add to Calendar</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://plugins.eventable.com/eventable.js";fjs.parentNode.insertBefore(js, fjs);}}(document, "script", "eventable-script");</script>
   tracks:
     - {title: "Open science meet-up", color: "#90be4e"}
   timeslots:
@@ -33,7 +32,6 @@
   date: "2020-06-23"
   dateReadable: |
     Tuesday 23rd June
-    <a href="https://add.eventable.com/events/5ee283bb688c450085e01590/5ee40ec4c293d80019495098/" data-event="5ee40ec4c293d80019495098" class="eventable-link" target="_blank" data-key="5ee283bb688c450085e01590" data-style="1">Add to Calendar</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://plugins.eventable.com/eventable.js";fjs.parentNode.insertBefore(js, fjs);}}(document, "script", "eventable-script");</script>
   tracks:
     - {title: "Open Science Room", color: "#90be4e"}
   timeslots:
@@ -77,7 +75,6 @@
   date: "2020-06-24"
   dateReadable: |
     Wednesday 24th June
-    <a href="https://add.eventable.com/events/5ee283bb688c450085e01590/5ee40f38443ccc00d42fd608/" data-event="5ee40f38443ccc00d42fd608" class="eventable-link" target="_blank" data-key="5ee283bb688c450085e01590" data-style="1">Add to Calendar</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://plugins.eventable.com/eventable.js";fjs.parentNode.insertBefore(js, fjs);}}(document, "script", "eventable-script");</script>
   tracks:
     - {title: "Open Science Room", color: "#90be4e"}
   timeslots:
@@ -125,7 +122,6 @@
   date: "2020-06-25"
   dateReadable: |
     Thursday 25th June
-    <a href="https://add.eventable.com/events/5ee283bb688c450085e01590/5ee40f7dff1a8a004edb09cb/" data-event="5ee40f7dff1a8a004edb09cb" class="eventable-link" target="_blank" data-key="5ee283bb688c450085e01590" data-style="1">Add to Calendar</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://plugins.eventable.com/eventable.js";fjs.parentNode.insertBefore(js, fjs);}}(document, "script", "eventable-script");</script>
   tracks:
     - {title: "Open Science Room", color: "#90be4e"}
   timeslots:
@@ -174,7 +170,6 @@
   date: "2020-06-26"
   dateReadable: |
     Friday 26th June
-    <a href="https://add.eventable.com/events/5ee283bb688c450085e01590/5ee40fbbc293d8001a20e9e8/" data-event="5ee40fbbc293d8001a20e9e8" class="eventable-link" target="_blank" data-key="5ee283bb688c450085e01590" data-style="1">Add to Calendar</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://plugins.eventable.com/eventable.js";fjs.parentNode.insertBefore(js, fjs);}}(document, "script", "eventable-script");</script>
   tracks:
     - {title: "Open Science Room", color: "#90be4e"}
   timeslots:
