@@ -3,7 +3,7 @@
   tz: "UTC"
   dateReadable: |
     Monday 22nd June
-    <p><a href="https://www.crowdcast.io/e/ohbm-osr-day1-apac" target="_blank">Join Day 1 APAC on Crowdcast</a> (Password in registration email)</p>
+    <div align="left"><body><p><a href="https://www.crowdcast.io/e/ohbm-osr-day1-apac" target="_blank">Join Day 1 APAC on Crowdcast</a> (Password in registraion email)</p></body></div>
   tracks:
     - {title: "Open science meet-up", color: "#90be4e"}
   timeslots:
@@ -27,7 +27,7 @@
 -
   date: "2020-06-23"
   dateReadable: |
-    Tuesday 23rd June - <a href="https://www.crowdcast.io/e/ohbm-osr-day2-apac" target="_blank">Join Day 2 APAC on Crowdcast</a> (Password in registration email)
+    Tuesday 23rd June - <a href="https://www.crowdcast.io/e/ohbm-osr-day2-apac" target="_blank">Join Day 2 APAC on Crowdcast</a>
   tracks:
     - {title: "Open Science Room", color: "#90be4e"}
   timeslots:
@@ -75,7 +75,7 @@
 -
   date: "2020-06-24"
   dateReadable: |
-    Wednesday 24th June - <a href="https://www.crowdcast.io/e/ohbm-osr-day3-apac" target="_blank">Join Day 3 APAC on Crowdcast</a> (Password in registration email)
+    Wednesday 24th June - <a href="https://www.crowdcast.io/e/ohbm-osr-day3-apac" target="_blank">Join Day 3 APAC on Crowdcast</a>
   tracks:
     - {title: "Open Science Room", color: "#90be4e"}
   timeslots:
@@ -123,7 +123,7 @@
 -
   date: "2020-06-25"
   dateReadable: |
-    Thursday 25th June - <a href="https://www.crowdcast.io/e/ohbm-osr-day4-apac" target="_blank">Join Day 4 APAC on Crowdcast</a> (Password in registration email)
+    Thursday 25th June - <a href="https://www.crowdcast.io/e/ohbm-osr-day4-apac" target="_blank">Join Day 4 APAC on Crowdcast</a>
   tracks:
     - {title: "Open Science Room", color: "#90be4e"}
   timeslots:
@@ -180,7 +180,7 @@
 -
   date: "2020-06-26"
   dateReadable: |
-    Friday 26th June - <a href="https://www.crowdcast.io/e/ohbm-osr-day5-apac" target="_blank">Join Day 5 APAC on Crowdcast</a> (Password in registration email)
+    Friday 26th June - <a href="https://www.crowdcast.io/e/ohbm-osr-day5-apac" target="_blank">Join Day 5 APAC on Crowdcast</a>
   tracks:
     - {title: "Open Science Room", color: "#90be4e"}
   timeslots:
