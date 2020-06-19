@@ -25,8 +25,8 @@
 
 -
   date: "2020-06-23"
-  dateReadable: | - <a href="https://www.crowdcast.io/e/ohbm-osr-day2-emea" target="_blank">Join Day 2 EMEA on Crowdcast</a>
-    Tuesday 23rd June
+  dateReadable: |
+    Tuesday 23rd June - <a href="https://www.crowdcast.io/e/ohbm-osr-day2-emea" target="_blank">Join Day 2 EMEA on Crowdcast</a>
   tracks:
     - {title: "Open Science Room", color: "#90be4e"}
   timeslots:
