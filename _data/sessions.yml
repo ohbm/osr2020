@@ -13,7 +13,7 @@
   id: 000
   title: "Break"
   place: "some place  here"
-  description: "Grab your refreshements and meet us on [https://meet.jit.si/snackoverflow](https://meet.jit.si/snackoverflow) (Password will be sent after registration)"
+  description: "Grab your refreshements and meet us on [Jitsi Snack Overflow](https://meet.jit.si/snackoverflow) (Password in registration email)"
   service: true
 
 -

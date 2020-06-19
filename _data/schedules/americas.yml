@@ -2,7 +2,7 @@
   date: "2020-06-22"
   tz: "UTC"
   dateReadable: |
-    Monday 22nd June
+    Monday 22nd June - <a href="https://www.crowdcast.io/e/ohbm-osr-day1-americas" target="_blank">Join Day 1 Americas on Crowdcast</a>
   tracks:
     - {title: "Open science meet-up", color: "#90be4e"}
   timeslots:
@@ -26,7 +26,7 @@
 -
   date: "2020-06-23"
   dateReadable: |
-    Tuesday 23rd June
+    Tuesday 23rd June - <a href="https://www.crowdcast.io/e/ohbm-osr-day2-americas" target="_blank">Join Day 2 Americas on Crowdcast</a>
   tracks:
     - {title: "Open Science Room", color: "#90be4e"}
   timeslots:
@@ -64,7 +64,7 @@
 -
   date: "2020-06-24"
   dateReadable: |
-    Wednesday 24th June
+    Wednesday 24th June - <a href="https://www.crowdcast.io/e/ohbm-osr-day3-americas" target="_blank">Join Day 3 Americas on Crowdcast</a>
   tracks:
     - {title: "Open Science Room", color: "#90be4e"}
   timeslots:
@@ -103,7 +103,7 @@
 -
   date: "2020-06-25"
   dateReadable: |
-    Thursday 25th June
+    Thursday 25th June - <a href="https://www.crowdcast.io/e/ohbm-osr-day4-americas" target="_blank">Join Day 4 Americas on Crowdcast</a>
   tracks:
     - {title: "Open Science Room", color: "#90be4e"}
   timeslots:
@@ -156,7 +156,7 @@
 -
   date: "2020-06-26"
   dateReadable: |
-    Friday 26th June
+    Friday 26th June - <a href="https://www.crowdcast.io/e/ohbm-osr-day5-americas" target="_blank">Join Day 5 Americas on Crowdcast</a>
   tracks:
     - {title: "Open Science Room", color: "#90be4e"}
   timeslots:
