@@ -2,7 +2,7 @@
   date: "2020-06-22"
   tz: "UTC"
   dateReadable: |
-    Monday 22nd June [Join on Crowdcast here](https://www.crowdcast.io/e/ohbm-osr-day1-emea)
+    Monday 22nd June - <a href="https://www.crowdcast.io/e/ohbm-osr-day1-emea">Join Day 1 EMEA on Crowdcast</a>
   tracks:
     - {title: "Open science meet-up", color: "#90be4e"}
   timeslots:
