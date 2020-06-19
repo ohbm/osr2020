@@ -22,7 +22,7 @@
   title: "Social"
   place: "Some place here"
   service: true
-  description: "Organised and disorganised fun, all invited! (More details to follow)"
+  description: "Organised and disorganised fun on Gather Town, all invited! (More details to follow)"
 
 -
 # Open Workflows
@@ -30,7 +30,7 @@
   title: "Social"
   place: "Some place here"
   service: true
-  description: "Organised and disorganised fun, all invited! (More details to follow)"
+  description: "Organised and disorganised fun on Gather Town, all invited! (More details to follow)"
 
 -
 # Past, Present, Future
@@ -38,7 +38,7 @@
   title: "Social"
   place: "Some place here"
   service: true
-  description: "Organised and disorganised fun, all invited! (More details to follow)"
+  description: "Organised and disorganised fun on Gather Town, all invited! (More details to follow)"
 
 -
 # OS-SIG
@@ -46,7 +46,14 @@
   title: "Social"
   place: "Some place here"
   service: true
-  description: "Organised and disorganised fun, all invited! (More details to follow)"
+  description: "Organised and disorganised fun on Gather Town, all invited! (More details to follow)"
+
+ # OS-SIG
+  id: 998
+  title: "Social"
+  place: "Some place here"
+  service: true
+  description: "Welcome to the OSR - Join us on Crowdcast!"
 
 # Emergent
 
@@ -212,7 +219,7 @@
   title: "OS-SIG Ceremony"
   place: "Some place here"
   service: true
-  description: "Informal welcome to the OSR."
+  description: "Who are the OS-SIG, what we've been up to and how the OSR will work"
 
 # Closing ceremony
 -
