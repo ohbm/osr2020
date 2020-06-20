@@ -54,7 +54,7 @@
   title: "Social"
   place: "Some place here"
   service: true
-  description: "Welcome to the OSR - Join us on Crowdcast!"
+  description: "Welcome to the Open Science Meet-up - Join us on Crowdcast!"
 
 # Emergent
 
@@ -220,7 +220,7 @@
   title: "OS-SIG Ceremony"
   place: "Some place here"
   service: true
-  description: "Who are the OS-SIG, what we've been up to and how the OSR will work"
+  description: "Who are the OS-SIG, how the hackathon went and how the OSR will work"
 
 # Closing ceremony
 -
