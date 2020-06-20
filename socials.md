@@ -21,7 +21,7 @@ Below are the tools we'll be using to get to know each other outside of the sche
 <div id='crowdcast'></div><br>
 ## Crowdcast
 <a href="https://www.crowdcast.io/ossig2019" _target="_blank">
-  <img align="right" src="./img/fromFrantisek/crowdcast.png" alt="OD" width="40%">
+  <img align="right" src="../img/fromFrantisek/crowdcast.png" alt="OD" width="40%">
 </a>
 
 We will be using our [Crowdcast channel](https://www.crowdcast.io/ossig2019) for streaming all our
