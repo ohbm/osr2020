@@ -2,7 +2,7 @@
   date: "2020-06-22"
   tz: "UTC"
   dateReadable: |
-    Monday 22nd June - <a href="https://www.crowdcast.io/e/ohbm-osr-day1-emea" target="_blank">Join Day 1 EMEA on Crowdcast</a>
+    Monday 22nd June - <a href="https://www.crowdcast.io/e/ohbm-osm-emea" target="_blank">Join on Crowdcast</a>
   tracks:
     - {title: "Open science meet-up", color: "#90be4e"}
   timeslots:
@@ -26,7 +26,7 @@
 -
   date: "2020-06-23"
   dateReadable: |
-    Tuesday 23rd June - <a href="https://www.crowdcast.io/e/ohbm-osr-day2-emea" target="_blank">Join Day 2 EMEA on Crowdcast</a>
+    Tuesday 23rd June - <a href="https://www.crowdcast.io/e/ohbm-osr-june23-emea" target="_blank">Join on Crowdcast</a>
   tracks:
     - {title: "Open Science Room", color: "#90be4e"}
   timeslots:
@@ -69,7 +69,7 @@
 -
   date: "2020-06-24"
   dateReadable: |
-    Wednesday 24th June - <a href="https://www.crowdcast.io/e/ohbm-osr-day3-emea" target="_blank">Join Day 3 EMEA on Crowdcast</a>
+    Wednesday 24th June - <a href="https://www.crowdcast.io/e/ohbm-osr-june24-emea" target="_blank">Join on Crowdcast</a>
   tracks:
     - {title: "Open Science Room", color: "#90be4e"}
   timeslots:
@@ -116,7 +116,7 @@
 -
   date: "2020-06-25"
   dateReadable: |
-    Thursday 25th June - <a href="https://www.crowdcast.io/e/ohbm-osr-day4-emea" target="_blank">Join Day 4 EMEA on Crowdcast</a>
+    Thursday 25th June - <a href="https://www.crowdcast.io/e/ohbm-osr-june25-emea" target="_blank">Join on Crowdcast</a>
   tracks:
     - {title: "Open Science Room", color: "#90be4e"}
   timeslots:
@@ -164,7 +164,7 @@
 -
   date: "2020-06-26"
   dateReadable: |
-    Friday 26th June - <a href="https://www.crowdcast.io/e/ohbm-osr-day5-emea" target="_blank">Join Day 5 EMEA on Crowdcast</a>
+    Friday 26th June - <a href="https://www.crowdcast.io/e/ohbm-osr-june26-emea" target="_blank">Join on Crowdcast</a>
   tracks:
     - {title: "Open Science Room", color: "#90be4e"}
   timeslots:
