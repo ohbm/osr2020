@@ -10,7 +10,7 @@ ShortBio: After some post-docs in Cambridge UK, Orsay and Lyon where Dr David Me
   is also working on the organisation and management of MRI data.
 Website: http://www.int.univ-amu.fr/spip.php?page=auteur&id_auteur=809&lang=en
 Twitter:
-Github: https://github.com/davidmeunier79
+Github: davidmeunier79
 permalink: "/speakers/david_meunier.html"
 layout: speaker_page
 ---

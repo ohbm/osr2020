@@ -13,8 +13,8 @@ ShortBio: Jonathan is a research scientist at ConsenSys Health and Imperial Coll
   Proofs, ...) with the goal to enhance machine learning deployments with these privacy
   preserving technologies.
 Website: https://jopasser.at
-Twitter: https://twitter.com/ConsenSysHealth
-Github: https://github.com/jopasserat/
+Twitter: ConsenSysHealth
+Github: jopasserat/
 permalink: "/speakers/jonathan_passerat-palmbach.html"
 layout: speaker_page
 ---
