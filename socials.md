@@ -20,11 +20,6 @@ Below are the tools we'll be using to get to know each other outside of the sche
 
 <div id='crowdcast'></div><br>
 ## Crowdcast
-<<<<<<< HEAD
-<!-- <img align="right" src="../img/fromFrantisek/open_data.svg" alt="OD" width="40%"> -->
-We will be using Crowdcast for streaming all our talks and Q&A. At times, we will also use Crowdcast as a place to congregate, "Hi"!, and welcome you all to the days! We would love to invite you on the screen with us to share some of your experiences so far. If you would like to be ready to come screen, please check through this [Guest Check List](https://docs.crowdcast.io/en/articles/611711-guest-checklist) to make sure you are ready for broadcast!
-=======
-
 <a href="https://www.crowdcast.io/ossig2019" _target="_blank">
   <img align="right" src="./img/fromFrantisek/crowdcast.png" alt="OD" width="40%">
 </a>
@@ -47,7 +42,6 @@ If you want an example of how crowdcast looks, here is an example of the play ba
 <!-- <a href=" _link_to_douyu_ " _target="_blank">
   <img align="right" src="./img/fromFrantisek/douyu.png" alt="OD" width="40%">
 </a> -->
->>>>>>> 26ab72385810b9020cd0ad4234a0b029665ed2c6
 
 
 
