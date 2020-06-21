@@ -20,6 +20,7 @@ description: Open Science Room 2020
 
 # List of links in the navigation bar. Strings should match .md filenames
 navbar-links:
+  Join: "join"
   Program:
     - Schedule: "schedule"
     - Speakers: "speakers"
@@ -278,7 +279,7 @@ collections:
     id_key: Name
     layout: speaker_page
 
-  volunteers: 
+  volunteers:
     output: true
     source: volunteers.csv
     id_key: Name
