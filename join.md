@@ -49,7 +49,7 @@ Jump to a specific topic using the links below:
 <table class="people">
     <tr class="people">
         <td class="people">
-            <a style="display:block; color:#05323F" href="./apac">
+            <a style="display:block; color:#05323F" href="./schedule/apac">
             <aside>
             <header>
                 <h3>Hub 1</h3>
@@ -60,7 +60,7 @@ Jump to a specific topic using the links below:
             </a>
         </td>
         <td class="people">
-            <a style="display:block; color:#05323F" href="./emea">
+            <a style="display:block; color:#05323F" href="./schedule/emea">
             <aside>
             <header>
                 <h3>Hub 2</h3>
@@ -71,7 +71,7 @@ Jump to a specific topic using the links below:
             </a>
         </td>
         <td class="people">
-            <a style="display:block; color:#05323F" href="./americas">
+            <a style="display:block; color:#05323F" href="./schedule/americas">
             <aside>
             <header>
                 <h3>Hub 3</h3>
@@ -105,10 +105,10 @@ Jump to a specific topic using the links below:
         <td class="join" style="width:70%;">
             <p>
                 The OSR program will be broadcast via Crowdcast. To prepare, you can <a href="https://www.crowdcast.io/" _target="_blank">create a free account</a>, and find out more about <a href="https://docs.crowdcast.io/en/articles/651701-attendee-quick-reference-guide" _target="_blank">how to attend a Crowdcast event</a>.
-                On the <a href="OHBM OS-SIG's Crowdcast page" _target="_blank">OHBM OS-SIG's Crowdcast page</a>, you can access the list of all upcoming OSR events. Follow the account to receive event updates. Passwords to access the broadcasts will be emailed to [registered](#register) participants.
+                On the <a href="https://www.crowdcast.io/ossig2019" _target="_blank">OHBM OS-SIG's Crowdcast page</a>, you can access the list of all upcoming OSR events. Follow the account to receive event updates. Passwords to access the broadcasts will be emailed to <a href="../register" _target="_blank">registered</a> participants.
             </p>
             <p>
-                If Crowdcast is not available in your region, we will also be broadcasting on [Douyu](#douyu).
+                If Crowdcast is not available in your region, we will also be broadcasting on <a href="./#douyu" _target="_blank">Douyu</a>.
             </p>
         </td>
     </tr>
@@ -154,7 +154,7 @@ Jump to a specific topic using the links below:
         </td>
         <td class="join" style="width:70%">
             <p>
-                Gather.town is a virtual meeting space that allows you to move freely in a room and join informal video conversations with fellow OSR participants. The space has a low tech [8-bit graphics](https://logicsimplified.com/newgames/rising-trend-of-pixel-art8-bit-graphic-style-use-in-modern-games/) style :space_invader:, and there are lounge areas, kitchen, garden and co-working spaces for you to explore! As you navigate around the space, you will be able to join video chat with people when you are are close to them :grin:. Each "town" has capacity of 50 people at any one time, so you can join <a href="https://gather.town/SNvy8sSrEU73UIDF/hbmhack" _target="_blank">OSR Social 1</a> or <a href="https://gather.town/f1QNy1MCI3fPFvNv/hbmhack-2" _target="_blank">OSR Social 2</a> spaces! Passwords to access the Gather.town spaces will be emailed to [registered](#register) participants. <b>Only available on for Chrome and Firefox browsers</b>.
+                Gather.town is a virtual meeting space that allows you to move freely in a room and join informal video conversations with fellow OSR participants. The space has a low tech <a href="https://logicsimplified.com/newgames/rising-trend-of-pixel-art8-bit-graphic-style-use-in-modern-games/" _target="_blank">[8-bit graphics]</a> style &#128126, and there are lounge areas, kitchen, garden and co-working spaces for you to explore! As you navigate around the space, you will be able to join video chat with people when you are are close to them &#128513. Each "town" has capacity of 50 people at any one time, so you can join <a href="https://gather.town/SNvy8sSrEU73UIDF/hbmhack" _target="_blank">OSR Social 1</a> or <a href="https://gather.town/f1QNy1MCI3fPFvNv/hbmhack-2" _target="_blank">OSR Social 2</a> spaces! Passwords to access the Gather.town spaces will be emailed to <a href="../register" _target="_blank">registered</a>participants. <b>Only available on for Chrome and Firefox browsers</b>.
             </p>
         </td>
     </tr>
@@ -178,7 +178,7 @@ Jump to a specific topic using the links below:
             <p>
                 Jitsi is an open-source video conferencing platform.
                 If you want to hang out in a video call with OSR participants during a break or while enjoying a snack,
-                head over to our <a href="https://meet.jit.si/snackoverflow" _target="_blank">"Snack Overflow" Jitsi room</a>. Passwords to access the Jitsi room will be emailed to [registered](#register) participants.  <b>Only available on for Chrome and Firefox browsers</b>.
+                head over to our <a href="https://meet.jit.si/snackoverflow" _target="_blank">"Snack Overflow" Jitsi room</a>. Passwords to access the Jitsi room will be emailed to <a href="../register" _target="_blank">registered</a>participants.  <b>Only available on for Chrome and Firefox browsers</b>.
             </p>
         </td>
     </tr>
@@ -223,7 +223,7 @@ Jump to a specific topic using the links below:
         </td>
         <td class="join" style="width:70%">
             <p>
-                We will be streaming to Douyu for participants  without access to Corwdcast. Here you can watch all the OSR content without participating in the events. Please see our <a href="https://www.douyu.com/rfmri" _target="_blank">live Douyu stream</a> and subscribe for updates.
+                We will be streaming to Douyu for participants  without access to Corwdcast. Here you can watch all the OSR content without participating in the events. Please see our live <a href="https://www.douyu.com/rfmri" _target="_blank">Douyu stream</a> and subscribe for updates.
             </p>
         </td>
     </tr>
