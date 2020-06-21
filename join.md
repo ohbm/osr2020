@@ -22,7 +22,7 @@ Jump to a specific topic using the links below:
 ---
 
 <div id='access'></div><br>
-<div class="text-left"><h2>Access the OSR</h2></div>
+<div class="text-left"><h2><i>Access the OSR</i></h2><br></div>
 <table class="join">
     <tr class="join">
         <td class="join" style="width:30%; text-align:center;">
@@ -45,7 +45,7 @@ Jump to a specific topic using the links below:
 </table>
 
 <div id='schedule'></div><br>
-<div class="text-left"><h2>Schedule of Activities</h2></div>
+<div class="text-left"><h2><i>Schedule of Activities</i></h2><br></div>
 <table class="people">
     <tr class="people">
         <td class="people">
@@ -90,7 +90,7 @@ Jump to a specific topic using the links below:
 
 
 <div id='crowdcast'></div><br>
-<div class="text-left"><h2>Crowdcast Video Broadcast</h2></div>
+<div class="text-left"><h2><i>Crowdcast Video Broadcast</i></h2><br></div>
 <table class="join">
     <tr class="join">
         <td class="join" style="width:30%; text-align:center;">
@@ -116,7 +116,7 @@ Jump to a specific topic using the links below:
 
 
 <div id='mattermost'></div><br>
-<div class="text-left"><h2>Mattermost Text Chat</h2></div>
+<div class="text-left"><h2><i>Mattermost Text Chat</i><br></h2></div>
 <table class="join">
     <tr class="join">
         <td class="join" style="width:30%; text-align:center;">
@@ -140,7 +140,7 @@ Jump to a specific topic using the links below:
 
 
 <div id='gather-town'></div><br>
-<div class="text-left"><h2>Gather.town Social Space</h2></div>
+<div class="text-left"><h2><i>Gather.town Social Space</i><br></h2></div>
 <table class="join">
     <tr class="join">
         <td class="join" style="width:30%; text-align:center;">
@@ -162,7 +162,7 @@ Jump to a specific topic using the links below:
 
 
 <div id='jitsi'></div><br>
-<div class="text-left"><h2>Jitsi Snack Breaks</h2></div>
+<div class="text-left"><h2><i>Jitsi Snack Breaks</i><br></h2></div>
 <table class="join">
     <tr class="join">
         <td class="join" style="width:30%; text-align:center;">
@@ -209,7 +209,7 @@ Jump to a specific topic using the links below:
 
 
 <div id='douyu'></div><br>
-<div class="text-left"><h2>Douyu Video Broadcast</h2></div>
+<div class="text-left"><h2><i>Douyu Video Broadcast</i><br></h2></div>
 <table class="join">
     <tr class="join">
         <td class="join" style="width:30%; text-align:center;">
@@ -231,7 +231,7 @@ Jump to a specific topic using the links below:
 
 
 <div id='coc'></div><br>
-<div class="text-left"><h2>Code of Conduct</h2></div>
+<div class="text-left"><h2><i>Code of Conduct</i><br></h2></div>
 <table class="join">
     <tr class="join">
         <td class="join" style="width:30%; text-align:center;">
@@ -254,7 +254,7 @@ Jump to a specific topic using the links below:
 </table>
 
 <div id='help'></div><br>
-<div class="text-left"><h2>Find Help</h2></div>
+<div class="text-left"><h2><i>Find Help</i></h2><br></div>
 <table class="join">
     <tr class="join">
         <td class="join" style="width:30%; text-align:center;">
