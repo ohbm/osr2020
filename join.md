@@ -22,7 +22,7 @@ Jump to a specific topic using the links below:
 ---
 
 <div id='access'></div><br>
-<div class="text-left"><h2><i>Access the OSR</i></h2><br></div>
+<div class="text-left"><h3>Access the Open Science Room</h2></div>
 <table class="join">
     <tr class="join">
         <td class="join" style="width:30%; text-align:center;">
@@ -45,11 +45,11 @@ Jump to a specific topic using the links below:
 </table>
 
 <div id='schedule'></div><br>
-<div class="text-left"><h2><i>Schedule of Activities</i></h2><br></div>
+<div class="text-left"><h3>Schedule of Activities</h2></div>
 <table class="people">
     <tr class="people">
         <td class="people">
-            <a style="display:block; color:#05323F" href="./schedule/apac">
+            <a style="display:block; color:#05323F" href="../schedule/apac">
             <aside>
             <header>
                 <h3>Hub 1</h3>
@@ -60,7 +60,7 @@ Jump to a specific topic using the links below:
             </a>
         </td>
         <td class="people">
-            <a style="display:block; color:#05323F" href="./schedule/emea">
+            <a style="display:block; color:#05323F" href="../schedule/emea">
             <aside>
             <header>
                 <h3>Hub 2</h3>
@@ -71,7 +71,7 @@ Jump to a specific topic using the links below:
             </a>
         </td>
         <td class="people">
-            <a style="display:block; color:#05323F" href="./schedule/americas">
+            <a style="display:block; color:#05323F" href="../schedule/americas">
             <aside>
             <header>
                 <h3>Hub 3</h3>
@@ -90,7 +90,7 @@ Jump to a specific topic using the links below:
 
 
 <div id='crowdcast'></div><br>
-<div class="text-left"><h2><i>Crowdcast Video Broadcast</i></h2><br></div>
+<div class="text-left"><h3>Crowdcast Video Broadcast</h2></div>
 <table class="join">
     <tr class="join">
         <td class="join" style="width:30%; text-align:center;">
@@ -116,7 +116,7 @@ Jump to a specific topic using the links below:
 
 
 <div id='mattermost'></div><br>
-<div class="text-left"><h2><i>Mattermost Text Chat</i><br></h2></div>
+<div class="text-left"><h3>Mattermost Text Chat<br></h2></div>
 <table class="join">
     <tr class="join">
         <td class="join" style="width:30%; text-align:center;">
@@ -140,7 +140,7 @@ Jump to a specific topic using the links below:
 
 
 <div id='gather-town'></div><br>
-<div class="text-left"><h2><i>Gather.town Social Space</i><br></h2></div>
+<div class="text-left"><h3>Gather.town Social Space<br></h2></div>
 <table class="join">
     <tr class="join">
         <td class="join" style="width:30%; text-align:center;">
@@ -154,7 +154,7 @@ Jump to a specific topic using the links below:
         </td>
         <td class="join" style="width:70%">
             <p>
-                Gather.town is a virtual meeting space that allows you to move freely in a room and join informal video conversations with fellow OSR participants. The space has a low tech <a href="https://logicsimplified.com/newgames/rising-trend-of-pixel-art8-bit-graphic-style-use-in-modern-games/" _target="_blank">[8-bit graphics]</a> style &#128126, and there are lounge areas, kitchen, garden and co-working spaces for you to explore! As you navigate around the space, you will be able to join video chat with people when you are are close to them &#128513. Each "town" has capacity of 50 people at any one time, so you can join <a href="https://gather.town/SNvy8sSrEU73UIDF/hbmhack" _target="_blank">OSR Social 1</a> or <a href="https://gather.town/f1QNy1MCI3fPFvNv/hbmhack-2" _target="_blank">OSR Social 2</a> spaces! Passwords to access the Gather.town spaces will be emailed to <a href="../register" _target="_blank">registered</a>participants. <b>Only available on for Chrome and Firefox browsers</b>.
+                Gather.town is a virtual meeting space that allows you to move freely in a room and join informal video conversations with fellow OSR participants. The space has a low tech <a href="https://logicsimplified.com/newgames/rising-trend-of-pixel-art8-bit-graphic-style-use-in-modern-games/" _target="_blank">8-bit graphics</a> style, and there are lounge areas, kitchen, garden and co-working spaces for you to explore! As you navigate around the space, you will be able to join video chat with people when you are are close to them. Each "town" has capacity of 50 people at any one time, so you can join <a href="https://gather.town/SNvy8sSrEU73UIDF/hbmhack" _target="_blank">OSR Social 1</a> or <a href="https://gather.town/f1QNy1MCI3fPFvNv/hbmhack-2" _target="_blank">OSR Social 2</a> spaces! Passwords to access the Gather.town spaces will be emailed to <a href="../register" _target="_blank">registered</a>participants. <b>Only available on for Chrome and Firefox browsers</b>.
             </p>
         </td>
     </tr>
@@ -162,7 +162,7 @@ Jump to a specific topic using the links below:
 
 
 <div id='jitsi'></div><br>
-<div class="text-left"><h2><i>Jitsi Snack Breaks</i><br></h2></div>
+<div class="text-left"><h3>Jitsi Snack Breaks<br></h2></div>
 <table class="join">
     <tr class="join">
         <td class="join" style="width:30%; text-align:center;">
@@ -209,7 +209,7 @@ Jump to a specific topic using the links below:
 
 
 <div id='douyu'></div><br>
-<div class="text-left"><h2><i>Douyu Video Broadcast</i><br></h2></div>
+<div class="text-left"><h3>Douyu Video Broadcast<br></h2></div>
 <table class="join">
     <tr class="join">
         <td class="join" style="width:30%; text-align:center;">
@@ -231,7 +231,7 @@ Jump to a specific topic using the links below:
 
 
 <div id='coc'></div><br>
-<div class="text-left"><h2><i>Code of Conduct</i><br></h2></div>
+<div class="text-left"><h3>Code of Conduct<br></h2></div>
 <table class="join">
     <tr class="join">
         <td class="join" style="width:30%; text-align:center;">
@@ -254,14 +254,14 @@ Jump to a specific topic using the links below:
 </table>
 
 <div id='help'></div><br>
-<div class="text-left"><h2><i>Find Help</i></h2><br></div>
+<div class="text-left"><h3>Find Help</h2></div>
 <table class="join">
     <tr class="join">
         <td class="join" style="width:30%; text-align:center;">
             <a style="display:block; color:#05323F" href="../contact" _target="_blank">
             <aside>
             <header>
-                <img src="../img/logo-osr2020_square.png" style="height:80px;">
+                <img src="../img/logo-osr2020_cropped.png" style="height:80px;">
             </header>
             </aside>
             </a>
