@@ -21,7 +21,7 @@ If we missed something, please let us know!
 
 <div id='access'></div><br>
 <div class="text-left">
-    <h2>Access the OSR<br> <span class="typed" style="color:#890000"; ></span></h2></div>
+    <h2>Access the OSR</h2></div>
 
 <table class="join">
     <tr class="join">
