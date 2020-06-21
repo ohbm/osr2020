@@ -245,9 +245,9 @@ Jump to a specific topic using the links below:
         </td>
         <td class="join" style="width:70%">
             <p>
-                We remind you to abide by the <a href="https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3846" _target="_blank">OHBM Code of Conduct</a>, which you agreed to do when registering for this event.
+                We remind you to abide by the <a href="https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3912" _target="_blank">OHBM Code of Conduct</a>, which you agreed to do when registering for this event.
                 Please treat fellow participants with respect and kindness.
-                If you see or experience any violation, please follow the reporting instructions given in the <a href="https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3846" _target="_blank">Code of Conduct</a>.
+                If you see or experience any violation, please follow the reporting instructions given in the <a href="https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3912" _target="_blank">Code of Conduct</a>.
             </p>
         </td>
     </tr>
@@ -276,7 +276,7 @@ Jump to a specific topic using the links below:
                 For general, technical or open science-related text-based support: ask a question on our the Mattermost channel<a href="https://mattermost.brainhack.org/brainhack/channels/help_desk-general" _target="_blank"><code>help_desk-general</code></a>
                 </li>
                 <li>
-                For Code of conducts violations: please refer to the contacts in the <a href="https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3846" _target="_blank">OHBM Code of Conduct</a>
+                For Code of conducts violations: please refer to the contacts in the <a href="https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3912" _target="_blank">OHBM Code of Conduct</a>
                 </li>
                 </ul>
             </p>
