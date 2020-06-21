@@ -3,21 +3,43 @@ layout: page
 title: Join!
 ---
 
-This is your Go To page with quick access to everything you need to make the best of your virtual OHBM OSR experience.
-If we missed something, please let us know! 
+This is your go-to page with quick access to everything you need to make the best of your virtual OHBM OSR experience.
+If we missed something, please let us know!
 
-- [Schedule](#schedule)
-- [Access](#access)
-- [Crowdcast](#crowdcast)
-- [Mattermost](#mattermost)
-- [Gather.town](#gather-town)
-- [Jitsi](#jitsi)
-- [Youtube](#youtube)
-- [Douyu](#douyu)
+- [Access the event](#access)
+- [Schedule of activities](#schedule)
+- [Crowdcast video broadcast](#crowdcast)
+- [Mattermost text chat](#mattermost)
+- [Gather.town Socials](#gather-town)
+- [Jitsi Snack Breaks](#jitsi)
+<!-- - [Youtube ](#youtube) -->
+- [Douyu video broadcast (for regions in which Crowdcast is not available)](#douyu)
 - [Code of Conduct](#coc)
 - [Find help](#help)
 
 ---
+
+<div id='access'></div><br>
+<table class="join">
+    <tr class="join">
+        <td class="join" style="width:30%; text-align:center;">
+            <a style="display:block; color:#05323F" href="../register" _target="_blank">
+            <aside>
+            <header>
+                <img src="../img/logo_semitransparent_1000x1000.png" style="height:100px;">
+            </header>
+            </aside>
+            </a>
+        </td>
+        <td class="join" style="width:70%;">
+            <p>
+                In order to participate in the Open Science Room activities, you have to be registered for the event.
+                You can do this via our <a href="../register" _target="_blank">registration page</a>.
+                Upon registration, you will receive an email with the necessary login details to access <a href="#crowdcast" _target="_blank">Crowdcast</a>, <a href="#gather-town" _target="_blank">Gather.town</a> and <a href="#jitsi" _target="_blank">Jitsi</a>.
+            </p>
+        </td>
+    </tr>
+</table>
 
 <div id='schedule'></div><br>
 <table class="people">
@@ -59,27 +81,7 @@ If we missed something, please let us know!
 </table>
 
 
-<div id='access'></div><br>
-<table class="join">
-    <tr class="join">
-        <td class="join" style="width:30%; text-align:center;">
-            <a style="display:block; color:#05323F" href="../register" _target="_blank">
-            <aside>
-            <header>
-                <img src="../img/logo_semitransparent_1000x1000.png" style="height:100px;">
-            </header>
-            </aside>
-            </a>
-        </td>
-        <td class="join" style="width:70%;">
-            <p>
-                In order to participate in the Open Science Room activities, you have to be registered for the event.
-                You can do this via our <a href="../register" _target="_blank">registration page</a>.
-                Upon registration, you will receive an email with the necessary login details to access <a href="#crowdcast" _target="_blank">Crowdcast</a>, <a href="#gather-town" _target="_blank">Gather.town</a> and <a href="#jitsi" _target="_blank">Jitsi</a>.
-            </p>
-        </td>
-    </tr>
-</table>
+
 
 
 <div id='crowdcast'></div><br>
@@ -173,7 +175,7 @@ If we missed something, please let us know!
 
 
 
-<div id='youtube'></div><br>
+<!-- <div id='youtube'></div><br>
 <table class="join">
     <tr class="join">
         <td class="join" style="width:30%; text-align:center;">
@@ -192,7 +194,7 @@ If we missed something, please let us know!
             </p>
         </td>
     </tr>
-</table>
+</table> -->
 
 
 <div id='douyu'></div><br>
@@ -258,7 +260,7 @@ If we missed something, please let us know!
                 For general OSR support: <a href="mailto:ohbm.osr@gmail.com" _target="_blank">email us</a>
                 </li>
                 <li>
-                For general, technical or open science-related text-based support: ask a question on our <a href="https://mattermost.brainhack.org/brainhack/channels/help_desk-general" _target="_blank">Mattermost help desk</a> 
+                For general, technical or open science-related text-based support: ask a question on our <a href="https://mattermost.brainhack.org/brainhack/channels/help_desk-general" _target="_blank">Mattermost help desk</a>
                 </li>
                 <li>
                 For Code of conducts violations: please refer to the contacts in the <a href="https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3846" _target="_blank">OHBM Code of Conduct</a>
@@ -268,10 +270,3 @@ If we missed something, please let us know!
         </td>
     </tr>
 </table>
-
-
-
-
-
-
-
