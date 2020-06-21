@@ -223,7 +223,7 @@ Jump to a specific topic using the links below:
         </td>
         <td class="join" style="width:70%">
             <p>
-                We will be streaming to Douyu for participants  without access to Corwdcast. Here you can watch all the OSR content without participating in the events. Please see our live <a href="https://www.douyu.com/rfmri" _target="_blank">Douyu stream</a> and subscribe for updates.
+                We will be streaming to Douyu for participants without access to Crowdcast. Here you can watch all the OSR content without participating in the events. Please see our live <a href="https://www.douyu.com/rfmri" _target="_blank">Douyu stream</a> and subscribe for updates.
             </p>
         </td>
     </tr>
