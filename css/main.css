@@ -953,6 +953,43 @@ img.person {
   border-radius: 50%;
 }
 
+
+/* START, addition for join page table */
+table.join {
+  width: 100%;
+  table-layout: auto;
+  border: none;
+}
+
+tr.join {
+
+  border: none;
+}
+
+td.join {
+  /*width: 50%;*/
+  /*margin: 5%;*/
+  border: none;
+  text-align: left;
+}
+@media(max-width: 760px) {
+  td.join {
+    display: block;
+    /*width: 50%;*/
+    margin: auto;
+    border: none;
+    text-align: left;
+
+  }
+}
+/* END, addition for join page table */
+
+
+
+
+
+
+
 /* SCHEDULE START, imported from hackathon 2020 */
 .schedule ul {
   list-style: none;
