@@ -2,7 +2,7 @@
   date: "2020-06-22"
   tz: "UTC"
   dateReadable: |
-    Monday 22nd June - <a href="https://www.crowdcast.io/e/ohbm-osm-americas" target="_blank">Join on Crowdcast</a>
+    Monday 22nd June - <a href="https://www.crowdcast.io/e/ohbm-osm-americas" target="_blank">Join on this Hub Crowdcast</a>
   tracks:
     - {title: "Open science meet-up", color: "#90be4e"}
   timeslots:
@@ -26,7 +26,7 @@
 -
   date: "2020-06-23"
   dateReadable: |
-    Tuesday 23rd June - <a href="https://www.crowdcast.io/e/ohbm-osr-june23-americas" target="_blank">Join on Crowdcast</a>
+    Tuesday 23rd June - <a href="https://www.crowdcast.io/e/ohbm-osr-june23-americas" target="_blank">Join on this Hub Crowdcast</a>
   tracks:
     - {title: "Open Science Room", color: "#90be4e"}
   timeslots:
@@ -64,7 +64,7 @@
 -
   date: "2020-06-24"
   dateReadable: |
-    Wednesday 24th June - <a href="https://www.crowdcast.io/e/ohbm-osr-june24-americas" target="_blank">Join on Crowdcast</a>
+    Wednesday 24th June - <a href="https://www.crowdcast.io/e/ohbm-osr-june24-americas" target="_blank">Join on this Hub Crowdcast</a>
   tracks:
     - {title: "Open Science Room", color: "#90be4e"}
   timeslots:
@@ -103,7 +103,7 @@
 -
   date: "2020-06-25"
   dateReadable: |
-    Thursday 25th June - <a href="https://www.crowdcast.io/e/ohbm-osr-june25-americas" target="_blank">Join on Crowdcast</a>
+    Thursday 25th June - <a href="https://www.crowdcast.io/e/ohbm-osr-june25-americas" target="_blank">Join on this Hub Crowdcast</a>
   tracks:
     - {title: "Open Science Room", color: "#90be4e"}
   timeslots:
@@ -156,7 +156,7 @@
 -
   date: "2020-06-26"
   dateReadable: |
-    Friday 26th June - <a href="https://www.crowdcast.io/e/ohbm-osr-june26-americas" target="_blank">Join on Crowdcast</a>
+    Friday 26th June - <a href="https://www.crowdcast.io/e/ohbm-osr-june26-americas" target="_blank">Join on this Hub Crowdcast</a>
   tracks:
     - {title: "Open Science Room", color: "#90be4e"}
   timeslots:
