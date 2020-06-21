@@ -10,7 +10,7 @@ ShortBio: Julie Boyle is the Project Manager for the NeuroMod project. She has o
   she has recently joined the SIMEXP lab to explore her interest in using fMRI data
   to help train artificial neural networks.
 Website: https://www.cneuromod.ca/
-Twitter: 'juliebo80922597 and @cneuromod '
+Twitter: juliebo80922597
 Github: julieaboyle1
 permalink: "/speakers/julie_boyle.html"
 layout: speaker_page
