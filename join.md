@@ -6,7 +6,7 @@ title: Join!
 This is your go-to page with quick access to everything you need to make the best of your virtual OHBM OSR experience.
 If we missed something, please let us know!
 
-- [Access the event](#access)
+- [Access the OSR](#access)
 - [Schedule of activities](#schedule)
 - [Crowdcast video broadcast](#crowdcast)
 - [Mattermost text chat](#mattermost)
@@ -20,6 +20,9 @@ If we missed something, please let us know!
 ---
 
 <div id='access'></div><br>
+<div class="text-left">
+    <h2>Access the OSR<br> <span class="typed" style="color:#890000"; ></span></h2></div>
+
 <table class="join">
     <tr class="join">
         <td class="join" style="width:30%; text-align:center;">
@@ -80,6 +83,13 @@ If we missed something, please let us know!
     </tr>
 </table>
 
+
+<!-- <div class="text-left">
+    <h2>Welcome to the OSR!<br> <span class="typed" style="color:#890000"; ></span></h2>
+
+
+    <p>The <a href="https://ossig.netlify.com/">OS-SIG</a> Open Science Room (OSR) is a conference within a conference. It is part of the <a href="https://www.humanbrainmapping.org/">Organisation for Human Brain Mapping (OHBM)</a> annual meeting. </p>
+    <p>The OSR aims to be a welcoming and inclusive space for discussion around open practices within neuroimaging and science more generally. Joining in with the activities of the OSR is a key opportunity to connect with others in the community, learn from each other, and start collaborations to build a more inclusive, transparent and future-ready scientific field.</p> -->
 
 
 
