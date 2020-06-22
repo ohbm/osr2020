@@ -28,6 +28,7 @@
   date: "2020-06-23"
   dateReadable: |
     Tuesday 23rd June - <a href="https://www.crowdcast.io/e/ohbm-osr-june23-americas" target="_blank">Join on this Hub Crowdcast</a>
+    <br><br><a href="https://add.eventable.com/events/5ee283bb688c450085e01590/5ee416958376b0001c411186/" data-event="5ee416958376b0001c411186" class="eventable-link" target="_blank" data-key="5ee283bb688c450085e01590" data-style="1">Add to Calendar</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://plugins.eventable.com/eventable.js";fjs.parentNode.insertBefore(js, fjs);}}(document, "script", "eventable-script");</script>
   tracks:
     - {title: "Open Science Room", color: "#90be4e"}
   timeslots:
