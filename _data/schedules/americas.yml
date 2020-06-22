@@ -3,7 +3,7 @@
   tz: "UTC"
   dateReadable: |
     Monday 22nd June - <a href="https://www.crowdcast.io/e/ohbm-osm-americas" target="_blank">Join on this Hub Crowdcast</a>
-    <br><br>Please <a href="https://ohbm.github.io/osr2020/contact/" target="_blank">Contact Us</a> for Monday passwords if you have registered via OHBM.
+    <br><br>Please could OHBM registered participants additionally <a href = "http://ohbm.github.io/osr2020/register/" target="_blank">register for the OSR</a> for Monday passwords.
     <br><br><a href="https://add.eventable.com/events/5ee283bb688c450085e01590/5ee415e08376b0001c411183/" data-event="5ee415e08376b0001c411183" class="eventable-link" target="_blank" data-key="5ee283bb688c450085e01590" data-style="1">Add to Calendar</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://plugins.eventable.com/eventable.js";fjs.parentNode.insertBefore(js, fjs);}}(document, "script", "eventable-script");</script>
   tracks:
     - {title: "Open science meet-up", color: "#90be4e"}
