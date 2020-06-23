@@ -231,7 +231,7 @@
     }
     - {
       startTime: "02:00",
-      endTime: "02:00",
+      endTime: "03:00",
       sessionIds: [602]
     }
     - {
@@ -270,7 +270,7 @@
     }
     - {
       startTime: "02:00",
-      endTime: "02:00",
+      endTime: "03:00",
       sessionIds: [604]
     }
     - {
@@ -308,7 +308,7 @@
     }
     - {
       startTime: "02:00",
-      endTime: "02:00",
+      endTime: "03:00",
       sessionIds: [606]
     }
     - {
@@ -346,7 +346,7 @@
     }
     - {
       startTime: "02:00",
-      endTime: "02:00",
+      endTime: "03:00",
       sessionIds: [608]
     }
     - {
@@ -384,7 +384,7 @@
     }
     - {
       startTime: "02:00",
-      endTime: "02:00",
+      endTime: "03:00",
       sessionIds: [610]
     }
     - {
