@@ -38,7 +38,7 @@ Jump to a specific topic using the links below:
             <p>
                 In order to participate in the Open Science Room activities, you have to be registered for the event.
                 You can do this via our <a href="../register" _target="_blank">registration page</a>.
-                Upon registration, you will receive an email with the necessary passwords and login details to access <a href="#crowdcast" _target="_blank">Crowdcast</a>, <a href="#gather-town" _target="_blank">Gather.town</a> and <a href="#jitsi" _target="_blank">Jitsi</a>.
+                Upon registration, you will receive an email with the necessary passwords and login details to access <a href="#crowdcast" _target="_blank">Crowdcast</a> and <a href="#gather-town" _target="_blank">Gather.town</a>.
             </p>
         </td>
     </tr>
