@@ -13,7 +13,7 @@ Jump to a specific topic using the links below:
 - [Crowdcast Video Broadcast](#crowdcast)
 - [Mattermost Text Chat](#mattermost)
 - [Gather.town Social Space](#gather-town)
-- [Jitsi Snack Breaks](#jitsi)
+<!-- - [Jitsi Snack Breaks](#jitsi) -->
 <!-- - [Youtube ](#youtube) -->
 - [Douyu Video Broadcast (for regions in which Crowdcast is not available)](#douyu)
 - [Code of Conduct](#coc)
@@ -161,7 +161,7 @@ Jump to a specific topic using the links below:
 </table>
 
 
-<div id='jitsi'></div><br>
+<!-- <div id='jitsi'></div><br>
 <div class="text-left"><h3>Jitsi Snack Breaks<br></h3></div>
 <table class="join">
     <tr class="join">
@@ -182,7 +182,7 @@ Jump to a specific topic using the links below:
             </p>
         </td>
     </tr>
-</table>
+</table> -->
 
 
 
