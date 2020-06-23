@@ -3,9 +3,7 @@ layout: page
 title: Register for the OSR!
 ---
 
-**Registration here (via Eventbrite) is not necessary if you have already registered for the main OHBM meeting.**
-
-You will be sent details on how to join the live broadcasts before the meeting commences on Tuesday 23rd June.
+**Registration here (via Eventbrite) is not necessary if you have already registered for the main OHBM meeting.** OHBM registrants can access the information required to join our live events by visiting the the Open Science SIG Booth. Our booth is accessible from the OHBM Lobby by selecting "Open Science SIG" in the list of "OHBM SIGS", then "Visit our Booth" on the panel next to the screen. You can alternatively find our booth in the "Exhibit Hall" and searching for the word "open". Once at the booth, select "How to Connect"to open a file containing all the passwords and links you need. 
 
 Please also use this form to apply for our [Participant mini-grants](https://ohbm.github.io/osr2020/access/#mini-grants). *Please read the guidance around the purpose of these mini-grants before applying.*
 
