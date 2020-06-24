@@ -3,8 +3,7 @@
   tz: "UTC"
   dateReadable: |
     Monday 22nd June - <a href="https://www.crowdcast.io/e/ohbm-osm-apac" target="_blank">Join on this Hub Crowdcast</a>
-    # <br><br>Please <a href="https://ohbm.github.io/osr2020/contact/" target="_blank">Contact Us</a> for Monday passwords if you have registered via OHBM.
-
+    
   tracks:
     - {title: "Open science meet-up", color: "#90be4e"}
   timeslots:

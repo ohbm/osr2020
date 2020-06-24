@@ -93,7 +93,7 @@
   place: ""
   service: true
   description: |
-    [BIDS Town-hall meeting (General Assembly)](https://github.com/ohbm/osr2020/issues/71). [Franklin Feingold](https://ohbm.github.io/osr2020/speakers/franklin_feingold.html), Guiomar Niso, [Melanie Ganz](https://ohbm.github.io/osr2020/speakers/melanie_ganz.html), [Russell Poldrack](https://ohbm.github.io/osr2020/speakers/russell_poldrack.html), [Stefan Appelhoff](https://ohbm.github.io/osr2020/speakers/stefan_appelhoff.html).
+    [BIDS Town-hall meeting (General Assembly)](https://github.com/ohbm/osr2020/issues/71). ([Franklin Feingold](https://ohbm.github.io/osr2020/speakers/franklin_feingold.html), Guiomar Niso, [Melanie Ganz](https://ohbm.github.io/osr2020/speakers/melanie_ganz.html), [Russell Poldrack](https://ohbm.github.io/osr2020/speakers/russell_poldrack.html), [Stefan Appelhoff](https://ohbm.github.io/osr2020/speakers/stefan_appelhoff.html)).
     **[Join Americas Hub on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-june26-americas/)**
 
 
@@ -471,7 +471,8 @@
   place: "Some place here"
   service: true
   description: |
-    Open discussion on a topic of your choosing. [Submit your proposal to book this session](https://ohbm.github.io/osr2020/submit)
+    [Machine learning in neuroimaging: what do we agree on and where are we headed?](https://github.com/ohbm/osr2020/issues/69) ([Estefany Suarez](https://ohbm.github.io/osr2020/speakers/estefany_suarez.html), [Gael Varoquaux](https://ohbm.github.io/osr2020/speakers/gael_varoquaux.html), Manjari Narayan, [Saige Rutherford](https://ohbm.github.io/osr2020/speakers/saige_rutherford.html), [Sanmi Koyejo](https://ohbm.github.io/osr2020/speakers/sanmi_koyejo.html), [Satrajit Ghosh](https://ohbm.github.io/osr2020/speakers/satrajit_ghosh.html)) **[Join Americas Hub on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-july2-americas/)**
+
 
 -
   id: 628
