@@ -1,5 +1,5 @@
 ---
-Name: Jess Stevenson
+Name: Jess Steventon
 Title:
 Pronouns: She/her
 Job: Research Fellow
@@ -10,6 +10,6 @@ ShortBio: My research is focused on how the brain changes with age, and what fac
 Website: https://www.cardiff.ac.uk/people/view/62741-steventon-jessica
 Twitter: JessSteventon
 Github:
-permalink: "/volunteers/jess_stevenson.html"
+permalink: "/volunteers/jess_steventon.html"
 layout: speaker_page
 ---
