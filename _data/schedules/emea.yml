@@ -172,7 +172,7 @@
     - {
         startTime: "08:00",
         endTime: "09:00",
-        sessionIds: [401, 400]
+        sessionIds: [400]
     }
     - {
       startTime: "09:00",
@@ -202,7 +202,13 @@
     - {
       startTime: "12:00",
       endTime: "13:00",
-      sessionIds: [401, 400]
+      sessionIds: [400]
+    }
+
+    - {
+      startTime: "17:00",
+      endTime: "18:00",
+      sessionIds: [401]
     }
 
 -

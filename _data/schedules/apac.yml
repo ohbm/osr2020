@@ -3,7 +3,7 @@
   tz: "UTC"
   dateReadable: |
     Monday 22nd June - <a href="https://www.crowdcast.io/e/ohbm-osm-apac" target="_blank">Join on this Hub Crowdcast</a>
-    <br><br>Please <a href="https://ohbm.github.io/osr2020/contact/" target="_blank">Contact Us</a> for Monday passwords if you have registered via OHBM.
+    # <br><br>Please <a href="https://ohbm.github.io/osr2020/contact/" target="_blank">Contact Us</a> for Monday passwords if you have registered via OHBM.
 
   tracks:
     - {title: "Open science meet-up", color: "#90be4e"}
@@ -183,7 +183,7 @@
     - {
         startTime: "01:00",
         endTime: "02:00",
-        sessionIds: [401, 400]
+        sessionIds: [400]
     }
     - {
       startTime: "02:00",
@@ -213,10 +213,25 @@
     - {
       startTime: "05:00",
       endTime: "06:00",
-      sessionIds: [401, 400]
+      sessionIds: [400]
     }
 
 -
+
+  date: "2020-07-04"
+  dateReadable: |
+    Saturday 27th June
+  tracks:
+    - {title: "Open Science Room", color: "#90be4e"}
+  timeslots:
+    - {
+      startTime: "17:00",
+      endTime: "18:00",
+      sessionIds: [401]
+    }
+
+-
+
   date: "2020-06-29"
   dateReadable: |
     Monday 29th June
