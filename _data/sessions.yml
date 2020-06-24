@@ -13,7 +13,7 @@
   id: 000
   title: "Break"
   place: "some place  here"
-  description: ""
+  description: "Take a screen break, grab a coffee, or meet your colleagues in [Gather Town](https://gather.town/SNvy8sSrEU73UIDF/hbmhack). Password for Gather Town will be sent after registration. "
   service: true
 
 -
@@ -88,10 +88,13 @@
 -
 # OS-SIG
   id: 401
-  title: "Emergent"
+  title: |
+    Emergent (hosted in Americas Hub. [Join on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-june26-americas/) )
   place: ""
   service: true
-  description: "TBC"
+  description: |
+    [BIDS Town-hall meeting (General Assembly)](https://github.com/ohbm/osr2020/issues/71). [Franklin Feingold](https://ohbm.github.io/osr2020/speakers/franklin_feingold.html), Guiomar Niso, [Melanie Ganz](https://ohbm.github.io/osr2020/speakers/melanie_ganz.html), [Russell Poldrack](https://ohbm.github.io/osr2020/speakers/russell_poldrack.html), [Stefan Appelhoff](https://ohbm.github.io/osr2020/speakers/stefan_appelhoff.html).
+
 
 -
 # Clincal TBC
