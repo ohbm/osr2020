@@ -65,7 +65,7 @@
   place: ""
   service: true
   description: |
-    [Open neuroimaging data and personal data privacy: convergence or divergence?](https://github.com/ohbm/osr2020/issues/70) (Adam Thomas, [Emma Bleumke](https://ohbm.github.io/osr2020/speakers/emma_bluemke.html), [Gustav Nilsonne](https://ohbm.github.io/osr2020/speakers/gustav_nilsonne.html), [Jonathan Passerat-Palmbach](https://ohbm.github.io/osr2020/speakers/jonathan_passerat-palmbach.html), [Lyuba Zehl](https://ohbm.github.io/osr2020/speakers/lyuba_zehl_.html), [Reubs Walsh](https://ohbm.github.io/osr2020/speakers/reubs_walsh.html), [Stephan Heunis](https://ohbm.github.io/osr2020/stephan_heunis/), [Tonya White](https://ohbm.github.io/osr2020/speakers/tonya_white.html)). **[Join EMEA Hub on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-june23-emea/)**
+    [Open neuroimaging data and personal data privacy: convergence or divergence?](https://github.com/ohbm/osr2020/issues/70) (Adam Thomas, [Emma Bleumke](https://ohbm.github.io/osr2020/speakers/emma_bluemke.html), [Gustav Nilsonne](https://ohbm.github.io/osr2020/speakers/gustav_nilsonne.html), [Jonathan Passerat-Palmbach](https://ohbm.github.io/osr2020/speakers/jonathan_passerat-palmbach.html), [Lyuba Zehl](https://ohbm.github.io/osr2020/speakers/lyuba_zehl_.html), [Reubs Walsh](https://ohbm.github.io/osr2020/speakers/reubs_walsh.html), [Stephan Heunis](https://ohbm.github.io/osr2020/stephan_heunis/), [Tonya White](https://ohbm.github.io/osr2020/speakers/tonya_white.html)). **[Join EMEA hub on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-june23-emea/)**
 
 -
 # Open Workflows
@@ -74,7 +74,7 @@
   place: ""
   service: true
   description: |
-    [Open, community-driven, software pipelines: a retrospective and future outlook](https://github.com/ohbm/osr2020/issues/68) ([Erin Dickie](https://ohbm.github.io/osr2020/speakers/erin_dickie.html), [Karolina Finc](https://ohbm.github.io/osr2020/speakers/karolina_finc.html), [Oscar Esteban](https://ohbm.github.io/osr2020/speakers/oscar_esteban_.html), [Satrajit Ghosh](https://ohbm.github.io/osr2020/speakers/satrajit_ghosh.html), [Thomas Nichols](https://ohbm.github.io/osr2020/speakers/thomas_nichols.html)). **[Join Americas Hub on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-june24-americas/)**
+    [Open, community-driven, software pipelines: a retrospective and future outlook](https://github.com/ohbm/osr2020/issues/68) ([Erin Dickie](https://ohbm.github.io/osr2020/speakers/erin_dickie.html), [Karolina Finc](https://ohbm.github.io/osr2020/speakers/karolina_finc.html), [Oscar Esteban](https://ohbm.github.io/osr2020/speakers/oscar_esteban_.html), [Satrajit Ghosh](https://ohbm.github.io/osr2020/speakers/satrajit_ghosh.html), [Thomas Nichols](https://ohbm.github.io/osr2020/speakers/thomas_nichols.html)). **[Join Americas hub on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-june24-americas/)**
 
 -
 # Past, Present, Future
@@ -83,18 +83,18 @@
   place: ""
   service: true
   description: |
-    [Open and inclusive collaboration in neuroscience/neuroimaging: how can we make it happen?](https://github.com/ohbm/osr2020/issues/72) ([Angie Laird](https://ohbm.github.io/osr2020/speakers/angie_laird.html), [Chuan-Peng Hu](https://ohbm.github.io/osr2020/speakers/chuan-peng_hu.html), [David Selassie Opoku](https://ohbm.github.io/osr2020/speakers/david_selassie_opoku.html), [Malvika Sharan](https://ohbm.github.io/osr2020/speakers/malvika_sharan.html), [Rotem Botvinik-Nezer](https://ohbm.github.io/osr2020/speakers/rotem_botvinik-nezer.html), [Reubs Walsh](https://ohbm.github.io/osr2020/speakers/reubs_walsh.html)). **[Join Americas Hub on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-june25-americas/)**
+    [Open and inclusive collaboration in neuroscience/neuroimaging: how can we make it happen?](https://github.com/ohbm/osr2020/issues/72) ([Angie Laird](https://ohbm.github.io/osr2020/speakers/angie_laird.html), [Chuan-Peng Hu](https://ohbm.github.io/osr2020/speakers/chuan-peng_hu.html), [David Selassie Opoku](https://ohbm.github.io/osr2020/speakers/david_selassie_opoku.html), [Malvika Sharan](https://ohbm.github.io/osr2020/speakers/malvika_sharan.html), [Rotem Botvinik-Nezer](https://ohbm.github.io/osr2020/speakers/rotem_botvinik-nezer.html), [Reubs Walsh](https://ohbm.github.io/osr2020/speakers/reubs_walsh.html)). **[Join Americas hub on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-june25-americas/)**
 
 -
 # OS-SIG
   id: 401
   title: |
-    Emergent (hosted in Americas Hub)
+    Emergent (hosted in Americas hub)
   place: ""
   service: true
   description: |
     [BIDS Town-hall meeting (General Assembly)](https://github.com/ohbm/osr2020/issues/71). ([Franklin Feingold](https://ohbm.github.io/osr2020/speakers/franklin_feingold.html), Guiomar Niso, [Melanie Ganz](https://ohbm.github.io/osr2020/speakers/melanie_ganz.html), [Russell Poldrack](https://ohbm.github.io/osr2020/speakers/russell_poldrack.html), [Stefan Appelhoff](https://ohbm.github.io/osr2020/speakers/stefan_appelhoff.html)).
-    **[Join Americas Hub on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-june26-americas/)**
+    **[Join Americas hub on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-june26-americas/)**
 
 
 -
@@ -104,7 +104,7 @@
   place: ""
   service: true
   description: |
-    [Advocating open science is easy for data consumers - Time TBC](https://github.com/ohbm/osr2020/issues/62) ([Simon Eickhoff](https://ohbm.github.io/osr2020/speakers/simon_eickhoff.html), Pim Pullens, [Xenia Kobeleva](https://ohbm.github.io/osr2020/speakers/xenia_kobeleva.html)). **[Join Americas Hub on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-june25-emea/)**
+    [Advocating open science is easy for data consumers - Time TBC](https://github.com/ohbm/osr2020/issues/62) ([Simon Eickhoff](https://ohbm.github.io/osr2020/speakers/simon_eickhoff.html), Pim Pullens, [Xenia Kobeleva](https://ohbm.github.io/osr2020/speakers/xenia_kobeleva.html)). **[Join Americas hub on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-june25-emea/)**
 
 -
 # Clincal TBC
@@ -113,7 +113,7 @@
   place: ""
   service: true
   description: |
-    [Advocating open science is easy for data consumers - Time TBC](https://github.com/ohbm/osr2020/issues/62) ([Simon Eickhoff](https://ohbm.github.io/osr2020/speakers/simon_eickhoff.html), Pim Pullens, [Xenia Kobeleva](https://ohbm.github.io/osr2020/speakers/xenia_kobeleva.html)). **[Join Americas Hub on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-june25-emea/)**
+    [Advocating open science is easy for data consumers - Time TBC](https://github.com/ohbm/osr2020/issues/62) ([Simon Eickhoff](https://ohbm.github.io/osr2020/speakers/simon_eickhoff.html), Pim Pullens, [Xenia Kobeleva](https://ohbm.github.io/osr2020/speakers/xenia_kobeleva.html)). **[Join Americas hub on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-june25-emea/)**
 
 # Lightning
 -
@@ -399,7 +399,7 @@
   place: "Some place here"
   service: true
   description: |
-    [The Positron Emission Tomography Brain imaging Data structure (PET-BIDS) extension: A new standard for sharing PET data](https://github.com/ohbm/osr2020/issues/57) ([Melanie Ganz](https://ohbm.github.io/osr2020/speakers/melanie_ganz.html)). [Advocating open science is easy for data consumers - Time TBC](https://github.com/ohbm/osr2020/issues/62) ([Simon Eickhoff](https://ohbm.github.io/osr2020/speakers/simon_eickhoff.html), Pim Pullens, [Xenia Kobeleva](https://ohbm.github.io/osr2020/speakers/xenia_kobeleva.html)). **[Join EMEA Hub on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-july2-emea/)**
+    [The Positron Emission Tomography Brain imaging Data structure (PET-BIDS) extension: A new standard for sharing PET data](https://github.com/ohbm/osr2020/issues/57) ([Melanie Ganz](https://ohbm.github.io/osr2020/speakers/melanie_ganz.html)). [Advocating open science is easy for data consumers - Time TBC](https://github.com/ohbm/osr2020/issues/62) ([Simon Eickhoff](https://ohbm.github.io/osr2020/speakers/simon_eickhoff.html), Pim Pullens, [Xenia Kobeleva](https://ohbm.github.io/osr2020/speakers/xenia_kobeleva.html)). **[Join EMEA hub on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-july2-emea/)**
 
 -
   id: 619
@@ -447,7 +447,7 @@
   place: "Some place here"
   service: true
   description: |
-    [Multi-Echo (fMRI) Community meeting](https://github.com/ohbm/osr2020/issues/51) (Stefano Moia). [Advocating open science is easy for data consumers - Time TBC](https://github.com/ohbm/osr2020/issues/62) ([Simon Eickhoff](https://ohbm.github.io/osr2020/speakers/simon_eickhoff.html), Pim Pullens, [Xenia Kobeleva](https://ohbm.github.io/osr2020/speakers/xenia_kobeleva.html)). **[Join Americas Hub on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-june30-americas/)**
+    [Multi-Echo (fMRI) Community meeting](https://github.com/ohbm/osr2020/issues/51) (Stefano Moia). [Advocating open science is easy for data consumers - Time TBC](https://github.com/ohbm/osr2020/issues/62) ([Simon Eickhoff](https://ohbm.github.io/osr2020/speakers/simon_eickhoff.html), Pim Pullens, [Xenia Kobeleva](https://ohbm.github.io/osr2020/speakers/xenia_kobeleva.html)). **[Join Americas hub on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-june30-americas/)**
 
 -
   id: 625
@@ -471,7 +471,7 @@
   place: "Some place here"
   service: true
   description: |
-    [Machine learning in neuroimaging: what do we agree on and where are we headed?](https://github.com/ohbm/osr2020/issues/69) ([Estefany Suarez](https://ohbm.github.io/osr2020/speakers/estefany_suarez.html), [Gael Varoquaux](https://ohbm.github.io/osr2020/speakers/gael_varoquaux.html), Manjari Narayan, [Saige Rutherford](https://ohbm.github.io/osr2020/speakers/saige_rutherford.html), [Sanmi Koyejo](https://ohbm.github.io/osr2020/speakers/sanmi_koyejo.html), [Satrajit Ghosh](https://ohbm.github.io/osr2020/speakers/satrajit_ghosh.html)). **[Join Americas Hub on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-july2-americas/)**
+    [Machine learning in neuroimaging: what do we agree on and where are we headed?](https://github.com/ohbm/osr2020/issues/69) ([Estefany Suarez](https://ohbm.github.io/osr2020/speakers/estefany_suarez.html), [Gael Varoquaux](https://ohbm.github.io/osr2020/speakers/gael_varoquaux.html), Manjari Narayan, [Saige Rutherford](https://ohbm.github.io/osr2020/speakers/saige_rutherford.html), [Sanmi Koyejo](https://ohbm.github.io/osr2020/speakers/sanmi_koyejo.html), [Satrajit Ghosh](https://ohbm.github.io/osr2020/speakers/satrajit_ghosh.html)). **[Join Americas hub on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-july2-americas/)**
 
 
 -
