@@ -214,7 +214,7 @@
   description: |
       The latest developments in open source software as it relates to the future of Open Neuroimaging.
       1. [The Women in Neuroscience Repository (WiNRepo)](https://github.com/ohbm/osr2020/issues/28) ([Fabio Ferreira](https://ohbm.github.io/osr2020/speakers/fabio_ferreira.html))
-      2. [Status update on MNE-Python (TBC)](https://github.com/ohbm/osr2020/issues/59) ([Marijn van Vliet](https://ohbm.github.io/osr2020/speakers/marijn_van_vliet.html))
+      2. [Status update on MNE-Python](https://github.com/ohbm/osr2020/issues/59) ([Marijn van Vliet](https://ohbm.github.io/osr2020/speakers/marijn_van_vliet.html))
       3. [Group ICA Toolbox: New features and developments](https://github.com/ohbm/osr2020/issues/37) (Srinivas Rachakonda)
       4. [The INCF online training suite ](https://github.com/ohbm/osr2020/issues/60) ([Ariel Rokem](https://ohbm.github.io/osr2020/speakers/ariel_rokem.html))
 
@@ -447,7 +447,7 @@
   place: "Some place here"
   service: true
   description: |
-    [Multi-Echo (fMRI) Community meeting](https://github.com/ohbm/osr2020/issues/51) (Stefano Moia). [Advocating open science is easy for data consumers - Time TBC](https://github.com/ohbm/osr2020/issues/62) ([Simon Eickhoff](https://ohbm.github.io/osr2020/speakers/simon_eickhoff.html), Pim Pullens, [Xenia Kobeleva](https://ohbm.github.io/osr2020/speakers/xenia_kobeleva.html)). **[Join Americas hub on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-june30-americas/)**
+    [Multi-Echo (fMRI) Community meeting](https://github.com/ohbm/osr2020/issues/51) (Stefano Moia). **[Join Americas hub on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-june30-americas/)**
 
 -
   id: 625
