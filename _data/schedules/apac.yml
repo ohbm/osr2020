@@ -2,7 +2,8 @@
   date: "2020-06-22"
   tz: "UTC"
   dateReadable: |
-    Monday 22nd June - <a href="https://www.crowdcast.io/e/ohbm-osm-apac" target="_blank">Replay this day on Crowdcast</a>
+    Monday 22nd June - <a href="https://www.crowdcast.io/e/ohbm-osm-apac/1" target="_blank">Replay this day on Crowdcast</a>
+    <body><p>On Crowdcast, select your desired session from the "schedule" button (top left)</p></body>
 
   tracks:
     - {title: "Open science meet-up", color: "#90be4e"}
@@ -28,7 +29,7 @@
   date: "2020-06-23"
   dateReadable: |
     Tuesday 23rd June - <a href="https://www.crowdcast.io/e/ohbm-osr-june23-apac/1?utm_source=profile&utm_medium=profile_web&utm_campaign=profile" target="_blank">Replay this day on Crowdcast</a>
-    <p>Note any "Emergent" sessions will have a separate replay link</p>
+    <body><p>Note any "Emergent" sessions will have a separate replay link</p></body>
   tracks:
     - {title: "Open Science Room", color: "#90be4e"}
   timeslots:
