@@ -2,7 +2,7 @@
   date: "2020-06-22"
   tz: "UTC"
   dateReadable: |
-    Monday 22nd June - <a href="https://www.crowdcast.io/e/ohbm-osm-apac" target="_blank">Join on this hub on Crowdcast</a>
+    Monday 22nd June - <a href="https://www.crowdcast.io/e/ohbm-osm-apac" target="_blank">Replay this day on Crowdcast</a>
 
   tracks:
     - {title: "Open science meet-up", color: "#90be4e"}
@@ -27,7 +27,8 @@
 -
   date: "2020-06-23"
   dateReadable: |
-    Tuesday 23rd June - <a href="https://www.crowdcast.io/e/ohbm-osr-june23-apac?utm_source=profile&utm_medium=profile_web&utm_campaign=profile" target="_blank">Join on this hub on Crowdcast</a>
+    Tuesday 23rd June - <a href="https://www.crowdcast.io/e/ohbm-osr-june23-apac/1?utm_source=profile&utm_medium=profile_web&utm_campaign=profile" target="_blank">Replay this day on Crowdcast</a>
+    <p>Note any "Emergent" sessions will have a separate replay link</p>
   tracks:
     - {title: "Open Science Room", color: "#90be4e"}
   timeslots:
@@ -75,7 +76,7 @@
 -
   date: "2020-06-24"
   dateReadable: |
-    Wednesday 24th June - <a href="https://www.crowdcast.io/e/ohbm-osr-june24-apac?utm_source=profile&utm_medium=profile_web&utm_campaign=profile" target="_blank">Join on this hub on Crowdcast</a>
+    Wednesday 24th June - <a href="https://www.crowdcast.io/e/ohbm-osr-june24-apac?utm_source=profile&utm_medium=profile_web&utm_campaign=profile" target="_blank">Replay this day on Crowdcast</a>
     <br><br><a href="https://add.eventable.com/events/5ee283bb688c450085e01590/5ee40674a0f44b001b3d0f25/" data-event="5ee40674a0f44b001b3d0f25" class="eventable-link" target="_blank" data-key="5ee283bb688c450085e01590" data-style="1">Add to Calendar</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://plugins.eventable.com/eventable.js";fjs.parentNode.insertBefore(js, fjs);}}(document, "script", "eventable-script");</script>
   tracks:
     - {title: "Open Science Room", color: "#90be4e"}
@@ -120,7 +121,7 @@
 -
   date: "2020-06-25"
   dateReadable: |
-    Thursday 25th June - <a href="https://www.crowdcast.io/e/ohbm-osr-june25-apac?utm_source=profile&utm_medium=profile_web&utm_campaign=profile" target="_blank">Join on this hub on Crowdcast</a>
+    Thursday 25th June - <a href="https://www.crowdcast.io/e/ohbm-osr-june25-apac?utm_source=profile&utm_medium=profile_web&utm_campaign=profile" target="_blank">Replay this day on Crowdcast</a>
     <br><br><a href="https://add.eventable.com/events/5ee283bb688c450085e01590/5ee406a98376b00019156441/" data-event="5ee406a98376b00019156441" class="eventable-link" target="_blank" data-key="5ee283bb688c450085e01590" data-style="1">Add to Calendar</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://plugins.eventable.com/eventable.js";fjs.parentNode.insertBefore(js, fjs);}}(document, "script", "eventable-script");</script>
   tracks:
     - {title: "Open Science Room", color: "#90be4e"}
@@ -178,7 +179,7 @@
 -
   date: "2020-06-26"
   dateReadable: |
-    Friday 26th June - <a href="https://www.crowdcast.io/e/ohbm-osr-june26-apac?utm_source=profile&utm_medium=profile_web&utm_campaign=profile" target="_blank">Join on this hub on Crowdcast</a>
+    Friday 26th June - <a href="https://www.crowdcast.io/e/ohbm-osr-june26-apac?utm_source=profile&utm_medium=profile_web&utm_campaign=profile" target="_blank">Replay this day on Crowdcast</a>
     <br><br><a href="https://add.eventable.com/events/5ee283bb688c450085e01590/5ee408388376b0001c41112a/" data-event="5ee408388376b0001c41112a" class="eventable-link" target="_blank" data-key="5ee283bb688c450085e01590" data-style="1">Add to Calendar</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://plugins.eventable.com/eventable.js";fjs.parentNode.insertBefore(js, fjs);}}(document, "script", "eventable-script");</script>
   tracks:
     - {title: "Open Science Room", color: "#90be4e"}
