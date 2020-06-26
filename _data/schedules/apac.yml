@@ -3,7 +3,10 @@
   tz: "UTC"
   dateReadable: |
     Monday 22nd June - <a href="https://www.crowdcast.io/e/ohbm-osm-apac/1" target="_blank">Replay this day on Crowdcast</a>
-    <body><p>On Crowdcast, select your desired session from the "schedule" button (top left)</p></body>
+    <div class="text-left">
+        <p>On Crowdcast, select your desired session from the "schedule" button (top left)</p>
+        <p>Sessions are named acording to the schedule below</p>
+    </div>
 
   tracks:
     - {title: "Open science meet-up", color: "#90be4e"}
