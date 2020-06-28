@@ -361,7 +361,7 @@
   service: true
   description: |
     [The hidden cost of open neuroimaging: what’s our footprint?](https://github.com/ohbm/osr2020/issues/82) (Charlotte Rae)
-    **[Join EMEA hub on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-june29-emea/)**
+    **[Join this session on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-june29-emea/3)**
 
 -
   id: 612
@@ -403,7 +403,7 @@
   description: |
     [Pre-registration, Registered reports](https://github.com/ohbm/osr2020/issues/88)
     (Rémi Gau, [Rotem Botvinik-Nezer](https://ohbm.github.io/osr2020/speakers/rotem_botvinik-nezer.html), Chris Chambers, Gustav Nilsonne, Dustin Moraczewski, Johannes Algermissen, Olivia Guest)
-    **[Join EMEA hub on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-july1-emea/)**
+    **[Join this session on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-july1-emea/3)**
 
 -
   id: 617
@@ -419,8 +419,9 @@
   place: "Some place here"
   service: true
   description: |
-    [The Positron Emission Tomography Brain Imaging Data Structure (PET-BIDS) extension: A new standard for sharing PET data](https://github.com/ohbm/osr2020/issues/57) ([Melanie Ganz](https://ohbm.github.io/osr2020/speakers/melanie_ganz.html)).
-    **[Join EMEA hub on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-july2-emea/)**
+    [The Positron Emission Tomography Brain Imaging Data Structure (PET-BIDS) extension: A new standard for sharing PET data](https://github.com/ohbm/osr2020/issues/57)
+    ([Melanie Ganz](https://ohbm.github.io/osr2020/speakers/melanie_ganz.html)).
+    **[Join this session EMEA on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-july2-emea/3)**
 
 -
   id: 619
@@ -444,7 +445,8 @@
   place: "Some place here"
   service: true
   description: |
-    [qMRI-BIDS: an extension to the brain imaging data structure for structural acquisitions that include multiple contrast](https://github.com/ohbm/osr2020/issues/50) ([Gilles de Hollander](https://ohbm.github.io/osr2020/speakers/gilles_de_hollander.html))
+    [qMRI-BIDS: an extension to the brain imaging data structure for structural acquisitions that include multiple contrast](https://github.com/ohbm/osr2020/issues/50)
+    ([Gilles de Hollander](https://www.crowdcast.io/e/ohbm-osr-june29-americas/2))
     **[Join Americas hub on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-june29-americas/)**
 
 -
@@ -469,7 +471,8 @@
   place: "Some place here"
   service: true
   description: |
-    [Multi-Echo (fMRI) Community meeting](https://github.com/ohbm/osr2020/issues/51) (Stefano Moia). **[Join Americas hub on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-june30-americas/)**
+    [Multi-Echo (fMRI) Community meeting](https://github.com/ohbm/osr2020/issues/51) (Stefano Moia).
+    **[Join this session on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-june30-americas/3)**
 
 -
   id: 625
@@ -477,7 +480,8 @@
   place: "Some place here"
   service: true
   description: |
-    Open discussion on a topic of your choosing. [Submit your proposal to book this session](https://ohbm.github.io/osr2020/submit)
+    [Improving data synthesis with open and reproducible research approaches](https://github.com/ohbm/osr2020/issues/91) ([Marta Topor](https://ohbm.github.io/osr2020/volunteers/marta_topor.html), Meghan Testerman.)
+    **[Join this session on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-july1-americas/2)**
 
 -
   id: 626
@@ -485,7 +489,8 @@
   place: "Some place here"
   service: true
   description: |
-    Open discussion on a topic of your choosing. [Submit your proposal to book this session](https://ohbm.github.io/osr2020/submit)
+    [Containers: Ticket to Valhala or Ticket to the Inferno?](https://github.com/ohbm/osr2020/issues/87) (Dave Kennedy and others TBC)
+    **[Join this session on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-july1-americas/2)**
 
 -
   id: 627
@@ -494,7 +499,7 @@
   service: true
   description: |
     [Machine learning in neuroimaging: what do we agree on and where are we headed?](https://github.com/ohbm/osr2020/issues/69) ([Estefany Suarez](https://ohbm.github.io/osr2020/speakers/estefany_suarez.html), [Gael Varoquaux](https://ohbm.github.io/osr2020/speakers/gael_varoquaux.html), Manjari Narayan, [Saige Rutherford](https://ohbm.github.io/osr2020/speakers/saige_rutherford.html), [Sanmi Koyejo](https://ohbm.github.io/osr2020/speakers/sanmi_koyejo.html), [Satrajit Ghosh](https://ohbm.github.io/osr2020/speakers/satrajit_ghosh.html)).
-    **[Join Americas hub on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-july2-americas/)**
+    **[Join this session on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-july2-americas/2)**
 
 
 -
@@ -511,7 +516,9 @@
   place: "Some place here"
   service: true
   description: |
-    Open discussion on a topic of your choosing. [Submit your proposal to book this session](https://ohbm.github.io/osr2020/submit)
+    [Proposals to define, test and address confounding in fMRI](https://github.com/ohbm/osr2020/issues/89)
+    (Manjari Narayan, Pierre Bellec, Russ Poldrack, Fidel Almagro, Molly Bright, [Gael Varoquaux](https://ohbm.github.io/osr2020/speakers/gael_varoquaux.html))
+    **[Join this session on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-july3-americas/2)**
 
 -
   id: 630
