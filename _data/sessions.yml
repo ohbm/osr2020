@@ -361,7 +361,7 @@
   service: true
   description: |
     [The hidden cost of open neuroimaging: what’s our footprint?](https://github.com/ohbm/osr2020/issues/82) (Charlotte Rae)
-    **[Join this session on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-june29-emea/3)**
+    **[Join this session on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-june29-emea/2)**
 
 -
   id: 612
@@ -508,7 +508,9 @@
   place: "Some place here"
   service: true
   description: |
-    Open discussion on a topic of your choosing. [Submit your proposal to book this session](https://ohbm.github.io/osr2020/submit)
+    [A virtual meeting set of tools for future OHBM meetings](https://github.com/ohbm/osr2020/issues/90)
+    (Aina Puce and others TBC) 
+    **[Join this session on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-july2-americas/2)**
 
 -
   id: 629
