@@ -16,9 +16,26 @@
             <p>After registering, you will find passwords in a confirmation email from Eventbrite</p>
         </div>
         <br>
+
+        <div style="text-align: center">
+            <ul>
+                {% assign count = 1 %}
+                {% for day in schedule %}
+                <li><b><a href="#{{ count }}">{{ day.dateText }}</a></b></li>
+                {% assign count = count | plus: 1 %}
+                {% endfor %}
+
+            </ul>
+        </div>
+
+        <br>
+        
+        {% assign count = 1 %}
         {% for day in schedule %}
+
         <div class="schedule-table">
-            <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>
+            <h4 id="{{ count }}" class="schedule-table-heading">{{ day.dateReadable }}</h4>
+            {% assign count = count | plus: 1 %}
             <div class="timeslot track-header stick-header">
                 <div class="timeslot-elements flexbox-wrapper">
                     {% for track in day.tracks %}
