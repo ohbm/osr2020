@@ -1,6 +1,7 @@
 -
   date: "2020-06-22"
   tz: "UTC"
+  dateText: "Monday 22nd June"
   dateReadable: |
     Monday 22nd June - <a href="https://www.crowdcast.io/e/ohbm-osm-apac/1" target="_blank">Replay this day on Crowdcast</a>
     <div class="text-left">
@@ -30,6 +31,7 @@
 
 -
   date: "2020-06-23"
+  dateText: "Tuesday 23rd June"
   dateReadable: |
     Tuesday 23rd June - <a href="https://www.crowdcast.io/e/ohbm-osr-june23-apac/1?utm_source=profile&utm_medium=profile_web&utm_campaign=profile" target="_blank">Replay this day on Crowdcast</a>
     <body><p>Note any "Emergent" sessions will have a separate replay link</p></body>
@@ -79,6 +81,7 @@
 
 -
   date: "2020-06-24"
+  dateText: "Wednesday 24th June"
   dateReadable: |
     Wednesday 24th June - <a href="https://www.crowdcast.io/e/ohbm-osr-june24-apac?utm_source=profile&utm_medium=profile_web&utm_campaign=profile" target="_blank">Replay this day on Crowdcast</a>
     <br><br><a href="https://add.eventable.com/events/5ee283bb688c450085e01590/5ee40674a0f44b001b3d0f25/" data-event="5ee40674a0f44b001b3d0f25" class="eventable-link" target="_blank" data-key="5ee283bb688c450085e01590" data-style="1">Add to Calendar</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://plugins.eventable.com/eventable.js";fjs.parentNode.insertBefore(js, fjs);}}(document, "script", "eventable-script");</script>
@@ -124,6 +127,7 @@
 
 -
   date: "2020-06-25"
+  dateText: "Thursday 25th June"
   dateReadable: |
     Thursday 25th June - <a href="https://www.crowdcast.io/e/ohbm-osr-june25-apac?utm_source=profile&utm_medium=profile_web&utm_campaign=profile" target="_blank">Replay this day on Crowdcast</a>
     <br><br><a href="https://add.eventable.com/events/5ee283bb688c450085e01590/5ee406a98376b00019156441/" data-event="5ee406a98376b00019156441" class="eventable-link" target="_blank" data-key="5ee283bb688c450085e01590" data-style="1">Add to Calendar</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://plugins.eventable.com/eventable.js";fjs.parentNode.insertBefore(js, fjs);}}(document, "script", "eventable-script");</script>
@@ -182,6 +186,7 @@
     }
 -
   date: "2020-06-26"
+  dateText: "Friday 26th June"
   dateReadable: |
     Friday 26th June - <a href="https://www.crowdcast.io/e/ohbm-osr-june26-apac?utm_source=profile&utm_medium=profile_web&utm_campaign=profile" target="_blank">Replay this day on Crowdcast</a>
     <br><br><a href="https://add.eventable.com/events/5ee283bb688c450085e01590/5ee408388376b0001c41112a/" data-event="5ee408388376b0001c41112a" class="eventable-link" target="_blank" data-key="5ee283bb688c450085e01590" data-style="1">Add to Calendar</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://plugins.eventable.com/eventable.js";fjs.parentNode.insertBefore(js, fjs);}}(document, "script", "eventable-script");</script>
@@ -227,6 +232,7 @@
 -
 
   date: "2020-07-04"
+  dateText: "Saturday 27th June"
   dateReadable: |
     Saturday 27th June
     <br><br><a href="https://add.eventable.com/events/5ee283bb688c450085e01590/5ef2d0fb85335e0056482dbd/" data-event="5ef2d0fb85335e0056482dbd" class="eventable-link" target="_blank" data-key="5ee283bb688c450085e01590" data-style="1">Add to Calendar</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://plugins.eventable.com/eventable.js";fjs.parentNode.insertBefore(js, fjs);}}(document, "script", "eventable-script");</script>
@@ -242,6 +248,7 @@
 -
 
   date: "2020-06-29"
+  dateText: "Monday 29th June"
   dateReadable: |
     Monday 29th June
     <a href="https://add.eventable.com/events/5ee283bb688c450085e01590/5ee4088b2d049d0056e76dd7/" data-event="5ee4088b2d049d0056e76dd7" class="eventable-link" target="_blank" data-key="5ee283bb688c450085e01590" data-style="1">Add to Calendar</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://plugins.eventable.com/eventable.js";fjs.parentNode.insertBefore(js, fjs);}}(document, "script", "eventable-script");</script>
@@ -255,7 +262,7 @@
     }
     - {
       startTime: "02:00",
-      endTime: "02:00",
+      endTime: "03:00",
       sessionIds: [602]
     }
     - {
@@ -271,6 +278,7 @@
 
 -
   date: "2020-06-30"
+  dateText: "Tuesday 30th June"
   dateReadable: |
     Tuesday 30th June
     <a href="https://add.eventable.com/events/5ee283bb688c450085e01590/5ee4099528fe21001a6510af/" data-event="5ee4099528fe21001a6510af" class="eventable-link" target="_blank" data-key="5ee283bb688c450085e01590" data-style="1">Add to Calendar</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://plugins.eventable.com/eventable.js";fjs.parentNode.insertBefore(js, fjs);}}(document, "script", "eventable-script");</script>
@@ -294,7 +302,7 @@
     }
     - {
       startTime: "02:00",
-      endTime: "02:00",
+      endTime: "03:00",
       sessionIds: [604]
     }
     - {
@@ -309,6 +317,7 @@
     }
 -
   date: "2020-07-01"
+  dateText: "Wednesday 1st July"
   dateReadable: |
     Wednesday 1st July
     <a href="https://add.eventable.com/events/5ee283bb688c450085e01590/5ee40a34713d0100d53d23e9/" data-event="5ee40a34713d0100d53d23e9" class="eventable-link" target="_blank" data-key="5ee283bb688c450085e01590" data-style="1">Add to Calendar</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://plugins.eventable.com/eventable.js";fjs.parentNode.insertBefore(js, fjs);}}(document, "script", "eventable-script");</script>
@@ -332,7 +341,7 @@
     }
     - {
       startTime: "02:00",
-      endTime: "02:00",
+      endTime: "03:00",
       sessionIds: [606]
     }
     - {
@@ -347,6 +356,7 @@
     }
 -
   date: "2020-07-02"
+  dateText: "Thursday 2nd July"
   dateReadable: |
     Thursday 2nd July
     <a href="https://add.eventable.com/events/5ee283bb688c450085e01590/5ee40a63b92ea10026ebddb7/" data-event="5ee40a63b92ea10026ebddb7" class="eventable-link" target="_blank" data-key="5ee283bb688c450085e01590" data-style="1">Add to Calendar</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://plugins.eventable.com/eventable.js";fjs.parentNode.insertBefore(js, fjs);}}(document, "script", "eventable-script");</script>
@@ -370,7 +380,7 @@
     }
     - {
       startTime: "02:00",
-      endTime: "02:00",
+      endTime: "03:00",
       sessionIds: [608]
     }
     - {
@@ -385,6 +395,7 @@
     }
 -
   date: "2020-07-03"
+  dateText: "Friday 3rd July"
   dateReadable: |
     Friday 3rd July
     <a href="https://add.eventable.com/events/5ee283bb688c450085e01590/5ee40a9a2d049d004feba320/" data-event="5ee40a9a2d049d004feba320" class="eventable-link" target="_blank" data-key="5ee283bb688c450085e01590" data-style="1">Add to Calendar</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://plugins.eventable.com/eventable.js";fjs.parentNode.insertBefore(js, fjs);}}(document, "script", "eventable-script");</script>
@@ -408,7 +419,7 @@
     }
     - {
       startTime: "02:00",
-      endTime: "02:00",
+      endTime: "03:00",
       sessionIds: [610]
     }
     - {
@@ -423,6 +434,7 @@
     }
 -
   date: "2020-07-04"
+  dateText: "Saturday 4th July"
   dateReadable: |
     Saturday 4th July
     <a href="https://add.eventable.com/events/5ee283bb688c450085e01590/5ee76ded697e44007902bf96/" data-event="5ee76ded697e44007902bf96" class="eventable-link" target="_blank" data-key="5ee283bb688c450085e01590" data-style="1">Add to Calendar</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://plugins.eventable.com/eventable.js";fjs.parentNode.insertBefore(js, fjs);}}(document, "script", "eventable-script");</script>

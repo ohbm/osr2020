@@ -1,6 +1,7 @@
 -
   date: "2020-06-22"
   tz: "UTC"
+  dateText: "Monday 22nd June"
   dateReadable: |
     Monday 22nd June - <a href="https://www.crowdcast.io/e/ohbm-osm-americas" target="_blank">Replay this day on Crowdcast</a>
     <br><br><a href="https://add.eventable.com/events/5ee283bb688c450085e01590/5ee415e08376b0001c411183/" data-event="5ee415e08376b0001c411183" class="eventable-link" target="_blank" data-key="5ee283bb688c450085e01590" data-style="1">Add to Calendar</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://plugins.eventable.com/eventable.js";fjs.parentNode.insertBefore(js, fjs);}}(document, "script", "eventable-script");</script>
@@ -26,6 +27,7 @@
 
 -
   date: "2020-06-23"
+  dateText: "Tuesday 23rd June"
   dateReadable: |
     Tuesday 23rd June - <a href="https://www.crowdcast.io/e/ohbm-osr-june23-americas" target="_blank">Replay this day on Crowdcast</a>
     <br><br><a href="https://add.eventable.com/events/5ee283bb688c450085e01590/5ee416958376b0001c411186/" data-event="5ee416958376b0001c411186" class="eventable-link" target="_blank" data-key="5ee283bb688c450085e01590" data-style="1">Add to Calendar</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://plugins.eventable.com/eventable.js";fjs.parentNode.insertBefore(js, fjs);}}(document, "script", "eventable-script");</script>
@@ -65,6 +67,7 @@
 
 -
   date: "2020-06-24"
+  dateText: "Wednesday 24th June"
   dateReadable: |
     Wednesday 24th June - <a href="https://www.crowdcast.io/e/ohbm-osr-june24-americas" target="_blank">Replay this day on Crowdcast</a>
     <br><br><a href="https://add.eventable.com/events/5ee283bb688c450085e01590/5ee416f3c5701900197d8f5c/" data-event="5ee416f3c5701900197d8f5c" class="eventable-link" target="_blank" data-key="5ee283bb688c450085e01590" data-style="1">Add to Calendar</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://plugins.eventable.com/eventable.js";fjs.parentNode.insertBefore(js, fjs);}}(document, "script", "eventable-script");</script>
@@ -105,6 +108,7 @@
 
 -
   date: "2020-06-25"
+  dateText: "Thursday 25th June"
   dateReadable: |
     Thursday 25th June - <a href="https://www.crowdcast.io/e/ohbm-osr-june25-americas" target="_blank">Replay this day on Crowdcast</a>
     <br><br><a href="https://add.eventable.com/events/5ee283bb688c450085e01590/5ee4173d713d0100d53d247c/" data-event="5ee4173d713d0100d53d247c" class="eventable-link" target="_blank" data-key="5ee283bb688c450085e01590" data-style="1">Add to Calendar</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://plugins.eventable.com/eventable.js";fjs.parentNode.insertBefore(js, fjs);}}(document, "script", "eventable-script");</script>
@@ -154,6 +158,7 @@
 
 -
   date: "2020-06-26"
+  dateText: "Friday 26th June"
   dateReadable: |
     Friday 26th June - <a href="https://www.crowdcast.io/e/ohbm-osr-june26-americas" target="_blank">Replay this day on Crowdcast</a>
     <br><br><a href="https://add.eventable.com/events/5ee283bb688c450085e01590/5ee4179d713d010107334a86/" data-event="5ee4179d713d010107334a86" class="eventable-link" target="_blank" data-key="5ee283bb688c450085e01590" data-style="1">Add to Calendar</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://plugins.eventable.com/eventable.js";fjs.parentNode.insertBefore(js, fjs);}}(document, "script", "eventable-script");</script>
@@ -199,6 +204,7 @@
 
 -
   date: "2020-06-28"
+  dateText: "Sunday 28th June"
   dateReadable: |
     Sunday 28th June
     <a href="https://add.eventable.com/events/5ee283bb688c450085e01590/5ee763fe6dfe950016ea088d/" data-event="5ee763fe6dfe950016ea088d" class="eventable-link" target="_blank" data-key="5ee283bb688c450085e01590" data-style="1">Add to Calendar</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://plugins.eventable.com/eventable.js";fjs.parentNode.insertBefore(js, fjs);}}(document, "script", "eventable-script");</script>
@@ -217,6 +223,7 @@
     }
 -
   date: "2020-06-29"
+  dateText: "Monday 29th June"
   dateReadable: |
     Monday 29th June
     <a href="https://add.eventable.com/events/5ee283bb688c450085e01590/5ee41801ff1a8a001dd7bb0a/" data-event="5ee41801ff1a8a001dd7bb0a" class="eventable-link" target="_blank" data-key="5ee283bb688c450085e01590" data-style="1">Add to Calendar</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://plugins.eventable.com/eventable.js";fjs.parentNode.insertBefore(js, fjs);}}(document, "script", "eventable-script");</script>
@@ -256,6 +263,7 @@
 
 -
   date: "2020-06-30"
+  dateText: "Tuesday 30th June"
   dateReadable: |
     Tuesday 30th June
     <a href="https://add.eventable.com/events/5ee283bb688c450085e01590/5ee418408376b00018f99a88/" data-event="5ee418408376b00018f99a88" class="eventable-link" target="_blank" data-key="5ee283bb688c450085e01590" data-style="1">Add to Calendar</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://plugins.eventable.com/eventable.js";fjs.parentNode.insertBefore(js, fjs);}}(document, "script", "eventable-script");</script>
@@ -295,6 +303,7 @@
 
 -
   date: "2020-07-01"
+  dateText: "Wednesday 1st July"
   dateReadable: |
     Wednesday 1st July
     <a href="https://add.eventable.com/events/5ee283bb688c450085e01590/5ee418b7ff1a8a001a01e064/" data-event="5ee418b7ff1a8a001a01e064" class="eventable-link" target="_blank" data-key="5ee283bb688c450085e01590" data-style="1">Add to Calendar</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://plugins.eventable.com/eventable.js";fjs.parentNode.insertBefore(js, fjs);}}(document, "script", "eventable-script");</script>
@@ -334,6 +343,7 @@
 
 -
   date: "2020-07-02"
+  dateText: "Thursday 2nd July"
   dateReadable: |
     Thursday 2nd July
     <a href="https://add.eventable.com/events/5ee283bb688c450085e01590/5ee418faff1a8a001be3a2cf/" data-event="5ee418faff1a8a001be3a2cf" class="eventable-link" target="_blank" data-key="5ee283bb688c450085e01590" data-style="1">Add to Calendar</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://plugins.eventable.com/eventable.js";fjs.parentNode.insertBefore(js, fjs);}}(document, "script", "eventable-script");</script>
@@ -373,6 +383,7 @@
 
 -
   date: "2020-07-03"
+  dateText: "Friday 3rd July"
   dateReadable: |
     Friday 3rd July
     <a href="https://add.eventable.com/events/5ee283bb688c450085e01590/5ee41972a0f44b001c5f7922/" data-event="5ee41972a0f44b001c5f7922" class="eventable-link" target="_blank" data-key="5ee283bb688c450085e01590" data-style="1">Add to Calendar</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://plugins.eventable.com/eventable.js";fjs.parentNode.insertBefore(js, fjs);}}(document, "script", "eventable-script");</script>
