@@ -344,7 +344,10 @@
   place: "Some place here"
   service: true
   description: |
-    Open discussion on a topic of your choosing. [Submit your proposal to book this session](https://ohbm.github.io/osr2020/submit)
+    [Web native data analysis with WebAssembly: a BISWeb demo and conversation](https://github.com/ohbm/osr2020/issues/95)
+    (Stephanie Noble, Javid Dadashkarimi, Xenophon Papademetris, Dustin Scheinost).
+    **[Join this session on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-july3-apac/)**
+
 
 -
   id: 610
@@ -413,7 +416,7 @@
   description: |
     [Developing collective action campaigns to change norms and drive progress in academia](https://github.com/ohbm/osr2020/issues/80)
     ([Cooper Smout](https://ohbm.github.io/osr2020/volunteers/cooper_smout.html), Kelly Garner, Ali Gwilliams, Charlotte Rae, [Tibor Auer](https://ohbm.github.io/osr2020/volunteers/tibor_auer.html), Vinodh Ilangovan, Daniele Marinazzo, Anthony Harris, Eelke Spaak)
-    **[Join this session on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-july2-emea)**
+    **[Join this session on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-july2-emea/2)**
 
 -
   id: 618
@@ -423,7 +426,7 @@
   description: |
     [The Positron Emission Tomography Brain Imaging Data Structure (PET-BIDS) extension: A new standard for sharing PET data](https://github.com/ohbm/osr2020/issues/57)
     ([Melanie Ganz](https://ohbm.github.io/osr2020/speakers/melanie_ganz.html)).
-    **[Join this session EMEA on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-july2-emea/3)**
+    **[Join this session on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-july2-emea/3)**
 
 -
   id: 619
@@ -527,7 +530,7 @@
   service: true
   description: |
     [Proposals to define, test and address confounding in fMRI](https://github.com/ohbm/osr2020/issues/89)
-    (Manjari Narayan, Pierre Bellec, Russ Poldrack, Fidel Almagro, Molly Bright, [Gael Varoquaux](https://ohbm.github.io/osr2020/speakers/gael_varoquaux.html)). 
+    (Manjari Narayan, Pierre Bellec, Russ Poldrack, Fidel Almagro, Molly Bright, [Gael Varoquaux](https://ohbm.github.io/osr2020/speakers/gael_varoquaux.html)).
     **[Join this session on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-july3-americas/)**
 
 -
