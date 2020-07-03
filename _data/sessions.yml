@@ -364,7 +364,7 @@
   service: true
   description: |
     [The hidden cost of open neuroimaging: what’s our footprint?](https://github.com/ohbm/osr2020/issues/82) (Charlotte Rae)
-    **[Join this session on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-june29-emea/2)**
+    **[Join this session on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-june29-emea)**
 
 -
   id: 612
@@ -406,7 +406,7 @@
   description: |
     [Pre-registration, Registered reports](https://github.com/ohbm/osr2020/issues/88)
     (Rémi Gau, [Rotem Botvinik-Nezer](https://ohbm.github.io/osr2020/speakers/rotem_botvinik-nezer.html), Chris Chambers, Gustav Nilsonne, Dustin Moraczewski, Johannes Algermissen, Olivia Guest)
-    **[Join this session on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-july1-emea/3)**
+    **[Join this session on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-july1-emea)**
 
 -
   id: 617
@@ -416,7 +416,7 @@
   description: |
     [Developing collective action campaigns to change norms and drive progress in academia](https://github.com/ohbm/osr2020/issues/80)
     ([Cooper Smout](https://ohbm.github.io/osr2020/volunteers/cooper_smout.html), Kelly Garner, Ali Gwilliams, Charlotte Rae, [Tibor Auer](https://ohbm.github.io/osr2020/volunteers/tibor_auer.html), Vinodh Ilangovan, Daniele Marinazzo, Anthony Harris, Eelke Spaak)
-    **[Join this session on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-july2-emea/2)**
+    **[Join this session on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-july2-emea)**
 
 -
   id: 618
@@ -426,7 +426,7 @@
   description: |
     [The Positron Emission Tomography Brain Imaging Data Structure (PET-BIDS) extension: A new standard for sharing PET data](https://github.com/ohbm/osr2020/issues/57)
     ([Melanie Ganz](https://ohbm.github.io/osr2020/speakers/melanie_ganz.html)).
-    **[Join this session on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-july2-emea/3)**
+    **[Join this session on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-july2-emea)**
 
 -
   id: 619
@@ -448,7 +448,7 @@
     [Gustav Nilsonne](https://ohbm.github.io/osr2020/speakers/gustav_nilsonne.html),
     [Tonya White](https://ohbm.github.io/osr2020/speakers/tonya_white.html),
     Peer Herholz, and more)
-    **[Join this session on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-july3-emea/3)**
+    **[Join this session on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-july3-emea)**
 
 -
   id: 621
@@ -483,7 +483,7 @@
   service: true
   description: |
     [Multi-Echo (fMRI) Community meeting](https://github.com/ohbm/osr2020/issues/51) (Stefano Moia).
-    **[Join this session on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-june30-americas/3)**
+    **[Join this session on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-june30-americas)**
 
 -
   id: 625
@@ -492,7 +492,7 @@
   service: true
   description: |
     [Improving data synthesis with open and reproducible research approaches](https://github.com/ohbm/osr2020/issues/91) ([Marta Topor](https://ohbm.github.io/osr2020/volunteers/marta_topor.html), Meghan Testerman.)
-    **[Join this session on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-july1-americas/2)**
+    **[Join this session on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-july1-americas)**
 
 -
   id: 626
@@ -501,7 +501,7 @@
   service: true
   description: |
     [Containers: Ticket to Valhala or Ticket to the Inferno?](https://github.com/ohbm/osr2020/issues/87) (Dave Kennedy and others TBC)
-    **[Join this session on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-july1-americas/2)**
+    **[Join this session on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-july1-americas)**
 
 -
   id: 627
@@ -510,7 +510,7 @@
   service: true
   description: |
     [Machine learning in neuroimaging: what do we agree on and where are we headed?](https://github.com/ohbm/osr2020/issues/69) ([Estefany Suarez](https://ohbm.github.io/osr2020/speakers/estefany_suarez.html), [Gael Varoquaux](https://ohbm.github.io/osr2020/speakers/gael_varoquaux.html), Manjari Narayan, [Saige Rutherford](https://ohbm.github.io/osr2020/speakers/saige_rutherford.html), [Sanmi Koyejo](https://ohbm.github.io/osr2020/speakers/sanmi_koyejo.html), [Satrajit Ghosh](https://ohbm.github.io/osr2020/speakers/satrajit_ghosh.html)).
-    **[Join this session on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-july2-americas/2)**
+    **[Join this session on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-july2-americas)**
 
 
 -
@@ -521,7 +521,7 @@
   description: |
     [A virtual meeting set of tools for future OHBM meetings](https://github.com/ohbm/osr2020/issues/90)
     (Aina Puce and others TBC)
-    **[Join this session on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-july2-americas/2)**
+    **[Join this session on Crowdcast](https://www.crowdcast.io/e/ohbm-osr-july2-americas)**
 
 -
   id: 629
